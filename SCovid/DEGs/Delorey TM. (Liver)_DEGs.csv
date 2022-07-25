@@ -1,0 +1,376 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Delorey TM. (Liver),Liver,Cholangiocytes,CAPG,0.748482628947857,1.04386118307774e-184
+Delorey TM. (Liver),Liver,Cholangiocytes,LYPD6B,0.605056351055961,2.90884661386222e-49
+Delorey TM. (Liver),Liver,Cholangiocytes,PAK3,-2.40155425521994,1.13933015381369e-41
+Delorey TM. (Liver),Liver,Cholangiocytes,KCNJ16,-3.37111481028301,2.23233649966446e-39
+Delorey TM. (Liver),Liver,Cholangiocytes,PIGR,-2.47134649961883,5.36234436085989e-38
+Delorey TM. (Liver),Liver,Cholangiocytes,HIST1H2BG,0.583290323517164,1.00914403695253e-35
+Delorey TM. (Liver),Liver,Cholangiocytes,SYNGR1,0.681451808129566,1.11444571956031e-31
+Delorey TM. (Liver),Liver,Cholangiocytes,SCGN,-2.70184647141443,2.94736714872145e-29
+Delorey TM. (Liver),Liver,Cholangiocytes,CCL2,-2.11795038113242,1.71635841313277e-27
+Delorey TM. (Liver),Liver,Cholangiocytes,SOX9,-2.18039188489675,7.16336661521252e-23
+Delorey TM. (Liver),Liver,Cholangiocytes,CD24,-2.37696700133378,7.89392652234904e-23
+Delorey TM. (Liver),Liver,Cholangiocytes,CXCL6,-3.60724368950723,4.23909880030351e-22
+Delorey TM. (Liver),Liver,Cholangiocytes,KRT7,-2.71795969975112,1.30395208932847e-21
+Delorey TM. (Liver),Liver,Cholangiocytes,CLIC6,-2.89246638680174,1.38699828346457e-21
+Delorey TM. (Liver),Liver,Cholangiocytes,AQP1,-2.43145312849948,2.34895350127463e-21
+Delorey TM. (Liver),Liver,Cholangiocytes,KRT19,-3.21149716762073,5.09780913199159e-18
+Delorey TM. (Liver),Liver,Cholangiocytes,RHEX,-2.05897077585511,1.26935965038309e-17
+Delorey TM. (Liver),Liver,Cholangiocytes,CDKN1C,0.843430369606773,1.55872433932713e-17
+Delorey TM. (Liver),Liver,Cholangiocytes,LYZ,0.620924897676945,1.12387113795919e-14
+Delorey TM. (Liver),Liver,Cholangiocytes,AC007906.2,1.43263156191564,1.39246853692716e-13
+Delorey TM. (Liver),Liver,Cholangiocytes,SPP1,-2.20393796209621,1.68063953390422e-12
+Delorey TM. (Liver),Liver,Cholangiocytes,POU6F2,0.871547134482676,3.22590444892257e-12
+Delorey TM. (Liver),Liver,Cholangiocytes,TACSTD2,-2.63935027820467,3.24284711604723e-12
+Delorey TM. (Liver),Liver,Cholangiocytes,CAV1,-1.98374122921693,1.0781018805494e-10
+Delorey TM. (Liver),Liver,Cholangiocytes,FZD1,1.29590154613589,2.21169117223768e-10
+Delorey TM. (Liver),Liver,Cholangiocytes,SOX4,-2.35635854024351,4.97859483029038e-10
+Delorey TM. (Liver),Liver,Cholangiocytes,SSPN,0.672750913342947,7.57961448171414e-10
+Delorey TM. (Liver),Liver,Cholangiocytes,BAMBI,0.682663000449134,1.07710505792863e-09
+Delorey TM. (Liver),Liver,Cholangiocytes,SPINT1,-2.10647175492798,3.67785518183267e-09
+Delorey TM. (Liver),Liver,Cholangiocytes,ANXA8,0.928437719972264,5.20182667636205e-09
+Delorey TM. (Liver),Liver,Cholangiocytes,SLC34A2,0.655667707092782,2.36486682829383e-06
+Delorey TM. (Liver),Liver,Cholangiocytes,CLDN9,0.614573350587745,3.79189229084943e-05
+Delorey TM. (Liver),Liver,Cholangiocytes,CYS1,0.820072695966786,5.44802499184864e-05
+Delorey TM. (Liver),Liver,Cholangiocytes,EFEMP2,0.705333876672693,7.56182872553732e-05
+Delorey TM. (Liver),Liver,Cholangiocytes,C6orf132,1.08645250470393,0.000334378321526264
+Delorey TM. (Liver),Liver,Cholangiocytes,TRPM3,0.649206006478639,0.00165582651982957
+Delorey TM. (Liver),Liver,Endothelial cells,CAVIN3,0.924659848442618,7.859941271142e-98
+Delorey TM. (Liver),Liver,Endothelial cells,MECOM,1.5713200396269,2.83687931761543e-31
+Delorey TM. (Liver),Liver,Endothelial cells,THSD7A,1.08389336404799,2.07763219803108e-25
+Delorey TM. (Liver),Liver,Endothelial cells,CSGALNACT1,0.969726484455991,1.95517203840394e-18
+Delorey TM. (Liver),Liver,Endothelial cells,ADGRF5,-2.07070869548244,2.1596263087778e-18
+Delorey TM. (Liver),Liver,Endothelial cells,EHD3,-2.3198896242509,2.3239750306938e-17
+Delorey TM. (Liver),Liver,Endothelial cells,LAMA4,-1.43700240596014,1.61137312188867e-16
+Delorey TM. (Liver),Liver,Endothelial cells,PXDN,-1.29493341538905,2.72035963506798e-16
+Delorey TM. (Liver),Liver,Endothelial cells,F8,0.795744307263224,4.89692522279795e-16
+Delorey TM. (Liver),Liver,Endothelial cells,CNTNAP3B,0.715814625870042,9.03731149963911e-16
+Delorey TM. (Liver),Liver,Endothelial cells,ADM,-1.38550841576763,1.24672185161746e-15
+Delorey TM. (Liver),Liver,Endothelial cells,GALNT15,-1.53051860278402,2.54431305964112e-15
+Delorey TM. (Liver),Liver,Endothelial cells,FCGR2B,-2.09141861792079,7.21589720069994e-15
+Delorey TM. (Liver),Liver,Endothelial cells,F2R,-2.55826007117814,7.93548301062605e-15
+Delorey TM. (Liver),Liver,Endothelial cells,STC1,0.824470339618816,1.45238496212731e-14
+Delorey TM. (Liver),Liver,Endothelial cells,KCNC4,-1.84365743617116,5.2861077265909e-14
+Delorey TM. (Liver),Liver,Endothelial cells,EGFL7,-1.36831952076153,2.94676585316792e-13
+Delorey TM. (Liver),Liver,Endothelial cells,PRICKLE2,-1.31871108908541,4.49390013735355e-13
+Delorey TM. (Liver),Liver,Endothelial cells,IL33,-2.45555912249906,6.71340490220161e-13
+Delorey TM. (Liver),Liver,Endothelial cells,FCN2,-2.17769251784906,2.31057704723671e-12
+Delorey TM. (Liver),Liver,Endothelial cells,ENG,-1.31319250205606,1.54549130003053e-11
+Delorey TM. (Liver),Liver,Endothelial cells,NPDC1,0.952198561906909,3.48771504581376e-11
+Delorey TM. (Liver),Liver,Endothelial cells,ITM2A,0.768878938711189,1.66400045891089e-10
+Delorey TM. (Liver),Liver,Endothelial cells,OIT3,-2.11219582369225,2.99698052604696e-10
+Delorey TM. (Liver),Liver,Endothelial cells,TM4SF18,-1.41618198876835,2.25134431940628e-09
+Delorey TM. (Liver),Liver,Endothelial cells,NOTCH4,-1.47315626266367,2.34445969078479e-09
+Delorey TM. (Liver),Liver,Endothelial cells,YBX3,0.867393224124684,3.07001225502687e-09
+Delorey TM. (Liver),Liver,Endothelial cells,FCN3,-1.62008645666097,3.23011105015589e-09
+Delorey TM. (Liver),Liver,Endothelial cells,CLEC4G,-2.68705303534906,3.86075162773025e-09
+Delorey TM. (Liver),Liver,Endothelial cells,CRHBP,-2.4754703743678,4.99415405822845e-09
+Delorey TM. (Liver),Liver,Endothelial cells,TMEM88,1.59095088413518,1.14549087662117e-08
+Delorey TM. (Liver),Liver,Endothelial cells,ICAM2,-1.2800150688174,1.18914079831315e-08
+Delorey TM. (Liver),Liver,Endothelial cells,CCDC85B,-1.32450720005492,1.30923091874604e-08
+Delorey TM. (Liver),Liver,Endothelial cells,DLL4,-2.26493540375907,5.89953298449275e-08
+Delorey TM. (Liver),Liver,Endothelial cells,LDB2,1.10475771902201,1.50944218615117e-07
+Delorey TM. (Liver),Liver,Endothelial cells,ABCG2,0.727531984915736,3.47983214503859e-07
+Delorey TM. (Liver),Liver,Endothelial cells,RFLNB,1.13695000511123,3.49239001835152e-07
+Delorey TM. (Liver),Liver,Endothelial cells,DNASE1L3,-1.48011998332317,3.70190939600271e-07
+Delorey TM. (Liver),Liver,Endothelial cells,ASCL2,0.673230222847905,4.50785470345673e-07
+Delorey TM. (Liver),Liver,Endothelial cells,CLEC1B,-1.35016503486414,4.87307375417767e-07
+Delorey TM. (Liver),Liver,Endothelial cells,ROBO4,-1.29233109520131,1.12675880477252e-06
+Delorey TM. (Liver),Liver,Endothelial cells,LIMS2,1.20662028407829,2.35176100622614e-06
+Delorey TM. (Liver),Liver,Endothelial cells,ESAM,-2.15258930992124,4.15114172568152e-06
+Delorey TM. (Liver),Liver,Endothelial cells,LTC4S,0.79275957787522,6.47272430515051e-06
+Delorey TM. (Liver),Liver,Endothelial cells,FLT1,0.855001547053107,7.18734741727217e-06
+Delorey TM. (Liver),Liver,Endothelial cells,NDN,1.51922512764648,1.1202944094158e-05
+Delorey TM. (Liver),Liver,Endothelial cells,DUSP5,-1.321959537675,1.12766447633928e-05
+Delorey TM. (Liver),Liver,Endothelial cells,GJA4,0.698652062316933,1.54832954345204e-05
+Delorey TM. (Liver),Liver,Endothelial cells,FAM107A,1.66456537680152,0.000201178629468657
+Delorey TM. (Liver),Liver,Endothelial cells,SOX18,1.15618101454122,0.000290349409067138
+Delorey TM. (Liver),Liver,Endothelial cells,VWF,1.16788946915949,0.00137434279824263
+Delorey TM. (Liver),Liver,Endothelial cells,POMC,0.926926126285202,0.00166993120827196
+Delorey TM. (Liver),Liver,Endothelial cells,TSPAN7,1.00611127376063,0.0069859040726473
+Delorey TM. (Liver),Liver,Endothelial cells,OLFM1,0.792589838827592,0.0217327320922481
+Delorey TM. (Liver),Liver,Hepatic stellate cell,VTN,1.21995003456105,0.0
+Delorey TM. (Liver),Liver,Hepatic stellate cell,IGFBP6,-3.93148377280864,1.52398694545453e-22
+Delorey TM. (Liver),Liver,Hepatic stellate cell,MARCKSL1,-2.24250083643102,3.94242654211594e-15
+Delorey TM. (Liver),Liver,Hepatic stellate cell,SLPI,0.618723193500939,7.82852912990269e-14
+Delorey TM. (Liver),Liver,Hepatic stellate cell,PPP1R14A,-4.2531768953549,2.24570586825255e-09
+Delorey TM. (Liver),Liver,Hepatic stellate cell,SOX6,0.740820892563433,3.73959406583827e-09
+Delorey TM. (Liver),Liver,Hepatic stellate cell,NDN,-2.20828308143139,4.38893970496906e-09
+Delorey TM. (Liver),Liver,Hepatic stellate cell,GPC6,0.690229072488396,3.07867540924802e-08
+Delorey TM. (Liver),Liver,Hepatic stellate cell,ANK3,0.737436300103149,1.82878076222836e-07
+Delorey TM. (Liver),Liver,Hepatic stellate cell,RIPOR3,0.617522877725544,2.09536066658206e-07
+Delorey TM. (Liver),Liver,Hepatic stellate cell,GJA4,-2.06108846129485,1.18676837720312e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,RBP1,-2.62403891309512,1.19683743582617e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,CCL2,-3.11299447167252,2.4817526979389e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,NDUFA4L2,-3.0618550478173,2.74477265663674e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,SGCD,0.670325122243509,3.08177426283321e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,FXYD2,1.31152747849108,3.32377196024368e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,OLFML3,-4.13571029462842,3.60689818501675e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,CCBE1,1.58925763760476,3.69547802464421e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,COLEC11,-3.71085548697772,5.60986010619598e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,COL1A1,-2.22847057580132,5.86964612883709e-05
+Delorey TM. (Liver),Liver,Hepatic stellate cell,KCNK17,-2.9300500607425,0.000111320434725276
+Delorey TM. (Liver),Liver,Hepatic stellate cell,GGT5,-3.17910697858698,0.000230717158932887
+Delorey TM. (Liver),Liver,Hepatic stellate cell,FBLN5,-2.1050032021054,0.000319195526726125
+Delorey TM. (Liver),Liver,Hepatic stellate cell,ZNF608,0.661543521081056,0.000530494405337215
+Delorey TM. (Liver),Liver,Hepatic stellate cell,TPM2,-2.40649606075543,0.000859024059781919
+Delorey TM. (Liver),Liver,Hepatic stellate cell,GNG11,-2.37864297869534,0.000870532550116381
+Delorey TM. (Liver),Liver,Hepatic stellate cell,C1orf21,0.664158751548544,0.00158034465287742
+Delorey TM. (Liver),Liver,Hepatic stellate cell,NGFR,-2.84164643514543,0.00170445860387715
+Delorey TM. (Liver),Liver,Hepatic stellate cell,PGF,-2.55475522715132,0.00182018996974827
+Delorey TM. (Liver),Liver,Hepatic stellate cell,SOCS2,-2.63197978863293,0.00228183499660117
+Delorey TM. (Liver),Liver,Hepatic stellate cell,CKB,-2.1543686144586,0.00230308289841594
+Delorey TM. (Liver),Liver,Hepatic stellate cell,DCN,-2.22688786584205,0.00249611229537699
+Delorey TM. (Liver),Liver,Hepatic stellate cell,CFHR2,1.137237674867,0.00273235823991739
+Delorey TM. (Liver),Liver,Hepatic stellate cell,CACNB2,1.16574389340534,0.00316923625872161
+Delorey TM. (Liver),Liver,Hepatic stellate cell,ANGPTL6,-2.1352418246328,0.00426609170511864
+Delorey TM. (Liver),Liver,Hepatic stellate cell,PRDX4,0.839297567659315,0.00435500975600938
+Delorey TM. (Liver),Liver,Hepatic stellate cell,IGFBP5,-2.99106359615897,0.00467622097001418
+Delorey TM. (Liver),Liver,Hepatic stellate cell,CLDN5,0.626542597974522,0.00681262398729443
+Delorey TM. (Liver),Liver,Hepatic stellate cell,NPDC1,1.73718109896764,0.00681262398729443
+Delorey TM. (Liver),Liver,Hepatic stellate cell,ATRNL1,0.804570331682048,0.00690853169458491
+Delorey TM. (Liver),Liver,Hepatic stellate cell,SPARC,-3.08174977166298,0.0103157258002112
+Delorey TM. (Liver),Liver,Hepatic stellate cell,FAM13A,0.630429774432469,0.0169226805698642
+Delorey TM. (Liver),Liver,Hepatic stellate cell,SOD1,0.658390747873855,0.0217913555428003
+Delorey TM. (Liver),Liver,Hepatic stellate cell,BGN,-2.337628999046,0.0302579960170351
+Delorey TM. (Liver),Liver,Hepatic stellate cell,PRELP,-3.66934289970579,0.0306084818702568
+Delorey TM. (Liver),Liver,Hepatic stellate cell,FBLN1,-2.40375036675528,0.034521762809331
+Delorey TM. (Liver),Liver,Hepatic stellate cell,LUM,-2.28478361817967,0.0419292600220514
+Delorey TM. (Liver),Liver,Hepatic stellate cell,NKD1,0.713815434768462,0.0458564202543962
+Delorey TM. (Liver),Liver,Hepatocytes,ADGRE5,-0.240587262781645,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,ALB,0.590690838874668,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,ANKS1A,-0.177441942230968,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,APOA1,0.619510877466271,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,APOC1,0.504574346020191,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,APOC3,0.644737743718057,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,APOE,0.584455795659506,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,ARHGAP15,-0.248372167672892,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,ATF5,0.503953427391548,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,CHEK1,-0.196881162958328,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,DHFR,0.43703196056017,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,DMXL2,-0.249149617934661,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,EPB41L4A,-0.188480438876214,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,EPS8,-0.177850639741029,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,FAM13A,-0.201308664993604,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,FGA,0.556665263361221,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,FGB,0.431570346139832,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,FYB1,-0.17873904402659,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,GDPD4,-0.288419861118817,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,GMPR,-0.27964997818776,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,GPX3,0.507637230256003,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,GRK5,-0.194401777615629,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,GYPC,-0.239134618267597,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,HP,0.413005383358359,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,IGFBP4,0.574369659838833,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,INPP4B,-0.188825448691724,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,ITGA9,-0.180020779045569,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MIB1,0.800059025203581,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MNDA,-0.213472825716684,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ATP6,0.734550722248865,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ATP8,0.629102481727212,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-CO1,0.707301929752678,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-CO2,0.670353405018181,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-CO3,0.747983710033701,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-CYB,0.764626442123847,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ND1,0.719986552481304,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ND2,0.733286592642468,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ND3,0.706050562477953,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ND4,0.745350964918215,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ND4L,0.724940111008192,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT-ND5,0.739770134581357,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT1G,0.498227467459075,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,MT2A,0.530283182757617,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,PARP8,-0.207836806156014,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,PDE7A,-0.247104547049652,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,PEBP1,0.424212998401271,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,PLCB1,-0.182359050320682,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,RASGEF1B,0.55042592828735,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,RIPOR3,-0.2300920476917,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,SAA1,0.645123735213642,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,SERPINA1,0.65411607287547,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,SLC2A1,-0.244594190636663,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,SLC7A11,-0.321355504004751,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,SOX6,-0.208458655223221,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,TBXAS1,-0.177419770859195,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,TRAK2,-0.175071656068445,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,TRIM58,-0.319291341012417,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,TSPAN5,-0.251414034641589,0.0
+Delorey TM. (Liver),Liver,Hepatocytes,PTPRC,-0.235590792354637,1.5e-323
+Delorey TM. (Liver),Liver,Hepatocytes,CRP,0.438721696615901,4.45e-322
+Delorey TM. (Liver),Liver,Hepatocytes,CELF2,-0.215315589660928,3.153006207e-315
+Delorey TM. (Liver),Liver,Hepatocytes,RRAS,-0.205203026182535,5.0654332233547e-311
+Delorey TM. (Liver),Liver,Hepatocytes,MTRNR2L12,0.413695774156043,1.48028050326224e-265
+Delorey TM. (Liver),Liver,Hepatocytes,ZEB2,-0.209521865956855,2.4045629895103e-244
+Delorey TM. (Liver),Liver,Hepatocytes,SLC25A45,-0.187765144650857,1.98669790693362e-226
+Delorey TM. (Liver),Liver,Kupffer cells,ADAMTS17,-0.656434643607683,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,AQP9,-0.665339707300893,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,CD247,-0.529493405313698,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,HSPA1A,-0.547132732044048,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,HSPA1B,-0.629146124760564,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,NCAM1,-0.560316882984286,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,PDE4B,1.21680593706409,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,SKAP1,-0.653523670516019,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,TBXAS1,1.5291780785198,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,TOX,-0.617307234127031,0.0
+Delorey TM. (Liver),Liver,Kupffer cells,JUN,-0.496687356197083,8.8304e-320
+Delorey TM. (Liver),Liver,Kupffer cells,HSP90AA1,-0.571247951370909,1.0593425e-317
+Delorey TM. (Liver),Liver,Kupffer cells,TSPAN5,-0.574423474491818,4.06502209e-315
+Delorey TM. (Liver),Liver,Kupffer cells,AUTS2,-0.517468866034139,3.60219905923667e-292
+Delorey TM. (Liver),Liver,Kupffer cells,AREG,-0.492959810922934,3.24071561040577e-285
+Delorey TM. (Liver),Liver,Kupffer cells,SAT1,1.32443285295502,6.12406148124851e-280
+Delorey TM. (Liver),Liver,Kupffer cells,WSB1,1.2008953106765,8.45602371092939e-273
+Delorey TM. (Liver),Liver,Kupffer cells,KCNMA1,1.40312982915413,8.41700902627131e-271
+Delorey TM. (Liver),Liver,Kupffer cells,CYP3A4,-0.509575213542562,9.35659932284301e-250
+Delorey TM. (Liver),Liver,Kupffer cells,FTL,1.45351660648755,3.74246258880592e-237
+Delorey TM. (Liver),Liver,Kupffer cells,GREM2,-0.527728284176436,8.35835390386683e-234
+Delorey TM. (Liver),Liver,Kupffer cells,MT1M,-0.501861460754456,5.70576368543929e-231
+Delorey TM. (Liver),Liver,Kupffer cells,CTSB,1.64620268814073,9.45001647114826e-228
+Delorey TM. (Liver),Liver,Kupffer cells,GPAM,-0.482790418345934,1.31800467063968e-221
+Delorey TM. (Liver),Liver,Kupffer cells,CTSS,1.41929195778005,2.80034688928493e-220
+Delorey TM. (Liver),Liver,Kupffer cells,CYP2E1,-0.711583063507389,1.26657102642028e-218
+Delorey TM. (Liver),Liver,Kupffer cells,FMNL2,1.76791336459278,1.32495678963601e-212
+Delorey TM. (Liver),Liver,Kupffer cells,NRG1,-0.477547429151751,6.23565502569547e-205
+Delorey TM. (Liver),Liver,Kupffer cells,ADH1B,-0.61075814997317,2.57198637123509e-198
+Delorey TM. (Liver),Liver,Kupffer cells,FRMD4B,1.87735972473434,2.06627619042534e-186
+Delorey TM. (Liver),Liver,Kupffer cells,PSAP,1.692072682919,9.81197469501191e-186
+Delorey TM. (Liver),Liver,Kupffer cells,TMSB4X,1.40264444984684,1.02931275649003e-176
+Delorey TM. (Liver),Liver,Kupffer cells,FN1,-0.560329986084586,9.2661772532825e-173
+Delorey TM. (Liver),Liver,Kupffer cells,SLC40A1,1.29751574833633,5.37800114823537e-163
+Delorey TM. (Liver),Liver,Kupffer cells,MS4A6A,1.71819164804465,6.0556650605288e-162
+Delorey TM. (Liver),Liver,Kupffer cells,IGFBP1,-0.537116524864162,1.89098526346293e-158
+Delorey TM. (Liver),Liver,Kupffer cells,CD163,2.047638953158,4.64356560119756e-152
+Delorey TM. (Liver),Liver,Kupffer cells,CPVL,1.33608577188097,8.27271061897988e-148
+Delorey TM. (Liver),Liver,Kupffer cells,SOX6,-0.586518396842403,2.49579235654151e-147
+Delorey TM. (Liver),Liver,Kupffer cells,CD74,1.56331712062848,8.8631915935361e-133
+Delorey TM. (Liver),Liver,Kupffer cells,RAB31,1.2929668888647,6.28080000626516e-132
+Delorey TM. (Liver),Liver,Kupffer cells,TENM2,-0.514624594325941,1.92084191437067e-131
+Delorey TM. (Liver),Liver,Kupffer cells,C1QA,1.6375286834101,2.17623472759522e-128
+Delorey TM. (Liver),Liver,Kupffer cells,RGL1,1.53418466715125,4.7159255154898e-127
+Delorey TM. (Liver),Liver,Kupffer cells,MARCO,1.90454725092082,2.20231435839933e-123
+Delorey TM. (Liver),Liver,Kupffer cells,MSR1,1.57012112941262,1.68090905383935e-119
+Delorey TM. (Liver),Liver,Kupffer cells,MERTK,1.5849434731837,5.19242982229504e-116
+Delorey TM. (Liver),Liver,Kupffer cells,ADAP2,1.30803856869071,9.91091105782802e-116
+Delorey TM. (Liver),Liver,Kupffer cells,HLA-DRA,1.45281795380173,2.49005205002308e-112
+Delorey TM. (Liver),Liver,Kupffer cells,MRC1,1.41866594676029,3.13408052742382e-111
+Delorey TM. (Liver),Liver,Kupffer cells,C1QB,1.73007122460864,7.56446297629088e-110
+Delorey TM. (Liver),Liver,Kupffer cells,NFIB,-0.524515390727222,1.10151207743121e-108
+Delorey TM. (Liver),Liver,Kupffer cells,C3,-0.67014047034568,6.783671195575e-107
+Delorey TM. (Liver),Liver,Kupffer cells,GRN,1.26044561754163,8.48938976210042e-107
+Delorey TM. (Liver),Liver,Kupffer cells,PCK1,-0.549029345128301,1.40807514705272e-104
+Delorey TM. (Liver),Liver,Kupffer cells,FGL1,-0.614768026500384,1.62466754693692e-101
+Delorey TM. (Liver),Liver,Kupffer cells,PTPRK,-0.528521537658826,5.38265860391364e-101
+Delorey TM. (Liver),Liver,Kupffer cells,RNF144B,1.23386646836287,5.35732545507463e-100
+Delorey TM. (Liver),Liver,Kupffer cells,HP,-0.511588806930587,3.54456167820469e-98
+Delorey TM. (Liver),Liver,Kupffer cells,HMOX1,1.56587093476858,1.76529355525795e-95
+Delorey TM. (Liver),Liver,Kupffer cells,APOB,-0.562937995768975,3.22739864892729e-95
+Delorey TM. (Liver),Liver,Kupffer cells,HCK,1.25849271465771,8.47841683553369e-89
+Delorey TM. (Liver),Liver,Kupffer cells,FGG,-0.570576598500054,1.40894351298488e-85
+Delorey TM. (Liver),Liver,Kupffer cells,LAPTM5,1.35901838145389,5.49139777387566e-84
+Delorey TM. (Liver),Liver,Kupffer cells,FCGR3A,1.31505568804208,7.17404307378911e-82
+Delorey TM. (Liver),Liver,Kupffer cells,ME1,1.19883606910308,4.24340550819339e-80
+Delorey TM. (Liver),Liver,Kupffer cells,RBPMS,-0.491251232234231,1.40304702858396e-79
+Delorey TM. (Liver),Liver,Kupffer cells,SDC3,1.39290037338946,3.48164111072049e-78
+Delorey TM. (Liver),Liver,Kupffer cells,FGB,-0.571962492228764,1.5449271382207e-77
+Delorey TM. (Liver),Liver,Kupffer cells,CSF1R,1.37716022062136,6.58764613735516e-74
+Delorey TM. (Liver),Liver,Kupffer cells,CP,-0.651457906548419,2.10653953061382e-68
+Delorey TM. (Liver),Liver,Kupffer cells,MT1G,-0.52634918908262,5.74679032928794e-66
+Delorey TM. (Liver),Liver,Kupffer cells,SIGLEC1,1.31800789203206,9.39430524696203e-65
+Delorey TM. (Liver),Liver,Kupffer cells,FGD2,1.34882202043069,3.0213704702527e-60
+Delorey TM. (Liver),Liver,Kupffer cells,FGA,-0.481769273356537,6.23565799738148e-59
+Delorey TM. (Liver),Liver,Kupffer cells,C1QC,1.38906286330714,2.51478180703611e-58
+Delorey TM. (Liver),Liver,Kupffer cells,MT2A,-0.62293628506068,1.19872280923324e-57
+Delorey TM. (Liver),Liver,Kupffer cells,CD5L,1.20331036602757,1.78813394437332e-48
+Delorey TM. (Liver),Liver,Kupffer cells,CRP,-0.666270110743602,2.92671860736924e-48
+Delorey TM. (Liver),Liver,Kupffer cells,GPC6,-0.502584263412479,2.39566824823444e-43
+Delorey TM. (Liver),Liver,Plasma cells,CD3D,-2.10031143537275,1.5129888761915e-29
+Delorey TM. (Liver),Liver,Plasma cells,SSPN,-2.31522655496803,9.04570737287161e-23
+Delorey TM. (Liver),Liver,Plasma cells,IRF4,-2.01118089882522,9.58688378123298e-20
+Delorey TM. (Liver),Liver,Plasma cells,CCL3L1,-1.60492690012818,4.80853792021428e-19
+Delorey TM. (Liver),Liver,Plasma cells,BTG2,-4.21686269011444,7.66738444153915e-18
+Delorey TM. (Liver),Liver,Plasma cells,RAB30,-2.01416664000569,7.1859303680464e-15
+Delorey TM. (Liver),Liver,Plasma cells,PTPN7,-3.20340936186809,1.32637904576146e-14
+Delorey TM. (Liver),Liver,Plasma cells,PRDX4,0.7637137832118,2.0959793233086e-14
+Delorey TM. (Liver),Liver,Plasma cells,SYTL1,-1.76180107414307,2.38704397436041e-12
+Delorey TM. (Liver),Liver,Plasma cells,PIM2,-2.04991946186616,1.23087721935545e-11
+Delorey TM. (Liver),Liver,Plasma cells,ENAM,-1.68903016853928,5.4988414032576e-11
+Delorey TM. (Liver),Liver,Plasma cells,BCL2L11,-1.70858132112453,8.27257560736107e-11
+Delorey TM. (Liver),Liver,Plasma cells,WNT5B,-3.55488444785777,9.30677939833712e-11
+Delorey TM. (Liver),Liver,Plasma cells,PRDM1,-2.47419478816762,2.09971489668755e-10
+Delorey TM. (Liver),Liver,Plasma cells,POU2AF1,-1.58079419584229,1.26705355348741e-08
+Delorey TM. (Liver),Liver,Plasma cells,CD27,-2.07239926657183,1.37822132326428e-08
+Delorey TM. (Liver),Liver,Plasma cells,MZB1,-3.44403893147877,1.90162274991544e-08
+Delorey TM. (Liver),Liver,Plasma cells,QPCT,1.0539416198352,5.41629664691563e-08
+Delorey TM. (Liver),Liver,Plasma cells,FCGR2B,1.16486292227168,5.5580418715127e-08
+Delorey TM. (Liver),Liver,Plasma cells,SPAG4,-1.79067777448301,3.20818998280138e-07
+Delorey TM. (Liver),Liver,Plasma cells,EVI2B,1.06232851623616,1.2528266803443e-06
+Delorey TM. (Liver),Liver,Plasma cells,PPIB,0.793725851405761,1.4879063049175e-06
+Delorey TM. (Liver),Liver,Plasma cells,SLC3A2,1.21867758440741,4.22089293811389e-05
+Delorey TM. (Liver),Liver,Plasma cells,DERL3,1.36141434619502,5.31530843143888e-05
+Delorey TM. (Liver),Liver,Plasma cells,PLP2,0.761760508599049,5.32097374889161e-05
+Delorey TM. (Liver),Liver,Plasma cells,REXO2,0.840729441458483,6.17505213241139e-05
+Delorey TM. (Liver),Liver,Plasma cells,MEI1,-2.88066954627707,0.00020988046912106
+Delorey TM. (Liver),Liver,Plasma cells,IGHM,-1.58662590515236,0.000213898356381113
+Delorey TM. (Liver),Liver,Plasma cells,IGHG2,1.5158421662918,0.000439896947282589
+Delorey TM. (Liver),Liver,Plasma cells,HIST1H2BN,1.19852305753484,0.00268629836735943
+Delorey TM. (Liver),Liver,Plasma cells,JSRP1,0.817351481440649,0.00590547665265595
+Delorey TM. (Liver),Liver,Plasma cells,TCTN3,1.09019535395114,0.0129247423857041
+Delorey TM. (Liver),Liver,Plasma cells,IGHG3,2.24788187061756,0.0179057385557575
+Delorey TM. (Liver),Liver,Plasma cells,JCHAIN,-1.59636026136485,0.0311215143886508
+Delorey TM. (Liver),Liver,Plasma cells,IGLC3,2.3034511759347,0.0402015892143273
+Delorey TM. (Liver),Liver,T cells,NPW,-0.395018131424291,0.0
+Delorey TM. (Liver),Liver,T cells,VTN,0.712225055106245,1.220533041611819e-308
+Delorey TM. (Liver),Liver,T cells,PRKCH,1.31874754852716,2.54244914274632e-243
+Delorey TM. (Liver),Liver,T cells,CD247,0.873174487732033,1.2158012403784e-242
+Delorey TM. (Liver),Liver,T cells,PTPRC,0.872631916434055,3.25323172200602e-226
+Delorey TM. (Liver),Liver,T cells,AREG,-0.546860086578478,1.04118196097757e-222
+Delorey TM. (Liver),Liver,T cells,TXK,0.648666635169123,6.64907641193434e-221
+Delorey TM. (Liver),Liver,T cells,PARP8,1.20719341940268,1.85007084389437e-218
+Delorey TM. (Liver),Liver,T cells,GNG2,0.662102300684473,4.56867373401579e-218
+Delorey TM. (Liver),Liver,T cells,SKAP1,1.25884762369506,1.98224746940086e-214
+Delorey TM. (Liver),Liver,T cells,CNOT6L,0.749448811245127,2.03108036538006e-211
+Delorey TM. (Liver),Liver,T cells,ADGRE2,-0.533195126196203,2.62157256346856e-203
+Delorey TM. (Liver),Liver,T cells,TOX,0.615982606894318,2.87108710419983e-203
+Delorey TM. (Liver),Liver,T cells,FYN,1.14251639644706,1.50885794327946e-197
+Delorey TM. (Liver),Liver,T cells,CELF2,0.721402024535018,3.70901982687529e-195
+Delorey TM. (Liver),Liver,T cells,ITGA4,0.876121769990315,1.23555847964391e-193
+Delorey TM. (Liver),Liver,T cells,PDE7A,0.840127783685725,1.89925638363287e-186
+Delorey TM. (Liver),Liver,T cells,GPRIN3,0.623791792543067,3.06295318762191e-178
+Delorey TM. (Liver),Liver,T cells,RPL3,-0.48507429346706,1.2532603562298e-171
+Delorey TM. (Liver),Liver,T cells,LYL1,-0.422428362961482,6.10059810466527e-167
+Delorey TM. (Liver),Liver,T cells,GNLY,0.714074720282224,8.74379528055889e-163
+Delorey TM. (Liver),Liver,T cells,TC2N,0.671294389195198,2.00456612338441e-153
+Delorey TM. (Liver),Liver,T cells,MDH2,-0.454598104230354,3.92407651542924e-153
+Delorey TM. (Liver),Liver,T cells,BCL2,0.985767672946676,9.15906623606595e-152
+Delorey TM. (Liver),Liver,T cells,CFHR2,-0.441977143042678,4.40969829113765e-150
+Delorey TM. (Liver),Liver,T cells,ORM2,-0.54110362882377,7.56339572237389e-150
+Delorey TM. (Liver),Liver,T cells,RIPOR2,0.687980975969193,5.2777301849976e-147
+Delorey TM. (Liver),Liver,T cells,RPS2,-0.521874098109121,4.0403265566609e-146
+Delorey TM. (Liver),Liver,T cells,ETS1,0.999910393617506,5.23505735029769e-145
+Delorey TM. (Liver),Liver,T cells,HS3ST1,-0.393369661388185,1.08676683583775e-140
+Delorey TM. (Liver),Liver,T cells,ZWINT,-0.495686685410725,4.07341916365051e-134
+Delorey TM. (Liver),Liver,T cells,TRBC1,-0.529354213478674,4.43345403215876e-127
+Delorey TM. (Liver),Liver,T cells,RHOH,0.760312359990515,3.55689518049731e-119
+Delorey TM. (Liver),Liver,T cells,ZNF671,-0.559367629815777,2.7526464153482e-117
+Delorey TM. (Liver),Liver,T cells,PLXDC2,-0.467275003315107,4.98455707343953e-112
+Delorey TM. (Liver),Liver,T cells,GZMA,-0.636453796719376,9.6971046656698e-109
+Delorey TM. (Liver),Liver,T cells,EMB,0.841258438648299,1.93282721181108e-107
+Delorey TM. (Liver),Liver,T cells,TSPAN5,1.01620477617434,8.24022341956508e-107
+Delorey TM. (Liver),Liver,T cells,CCL4L2,-0.427091590220634,1.44112360892871e-99
+Delorey TM. (Liver),Liver,T cells,IKZF2,0.66145109156871,3.34169021202784e-88
+Delorey TM. (Liver),Liver,T cells,MRC1,-0.451781188179794,1.90365472538733e-87
+Delorey TM. (Liver),Liver,T cells,ORM1,-0.472178109688712,5.54739271461156e-84
+Delorey TM. (Liver),Liver,T cells,HSP90AA1,0.815815042167194,1.32694097563113e-81
+Delorey TM. (Liver),Liver,T cells,GDPD4,-0.401953575664122,6.10665457341484e-70
+Delorey TM. (Liver),Liver,T cells,RPL5,-0.423857275813997,3.61853589453966e-66
+Delorey TM. (Liver),Liver,T cells,OLFML1,-1.0588489749898,5.39801049188208e-63
+Delorey TM. (Liver),Liver,T cells,ALKAL2,-0.3992231218414,6.80849663313998e-62
+Delorey TM. (Liver),Liver,T cells,MGST1,-0.419655854122426,3.50188804105086e-61
+Delorey TM. (Liver),Liver,T cells,CENPK,-0.459058492921727,8.77142556323141e-61
+Delorey TM. (Liver),Liver,T cells,RNF144B,-0.481059645590738,1.34901968918367e-59
+Delorey TM. (Liver),Liver,T cells,NNMT,-0.418143058634829,2.68889593237574e-48
+Delorey TM. (Liver),Liver,T cells,IL7R,0.850149779270329,1.48211839090259e-46
+Delorey TM. (Liver),Liver,T cells,PZP,0.719605192850228,6.82866806597129e-43
+Delorey TM. (Liver),Liver,T cells,DUSP2,0.672306110439837,3.77765156324829e-34
+Delorey TM. (Liver),Liver,T cells,MCOLN3,-0.53969410189504,4.71785979101777e-31
+Delorey TM. (Liver),Liver,T cells,MTHFD2,-0.403127689221687,1.19551799527141e-14
+Delorey TM. (Liver),Liver,T cells,HIST1H2AC,0.623407069179467,0.000371419799112854

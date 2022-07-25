@@ -1,0 +1,491 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-ND4,-1.10438003542709,0.0
+Delorey TM. (Lung),Lung,Alveolar type I cells,RPL41,-0.509892513948232,0.0
+Delorey TM. (Lung),Lung,Alveolar type I cells,S100A6,-0.790800183483438,1.39002838924742e-296
+Delorey TM. (Lung),Lung,Alveolar type I cells,APOO,-0.577429259118453,7.30697385717237e-291
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-ATP6,-1.12831635846768,2.74773660584004e-289
+Delorey TM. (Lung),Lung,Alveolar type I cells,ACTB,-0.664938144311253,3.0356845644695e-286
+Delorey TM. (Lung),Lung,Alveolar type I cells,RPS19,-0.575932838156955,3.96492506408515e-282
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-ND3,-1.10357268232062,1.67061263226085e-281
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-ND1,-1.02518727542618,3.59456373458464e-279
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-ND2,-0.9963807211233,1.46307857650452e-275
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-CYB,-0.900697116648226,4.31394441609879e-260
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-CO2,-0.999188186777037,4.34023426636512e-245
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-ND5,-0.725332996273578,4.31647405981343e-236
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-CO3,-1.04490767989787,2.61381184250106e-230
+Delorey TM. (Lung),Lung,Alveolar type I cells,CCDC30,0.475085102559987,4.22323655633432e-227
+Delorey TM. (Lung),Lung,Alveolar type I cells,STK33,0.459525347295204,5.41726220921148e-221
+Delorey TM. (Lung),Lung,Alveolar type I cells,MT-CO1,-0.874790790837106,3.70745692482733e-220
+Delorey TM. (Lung),Lung,Alveolar type I cells,DHFR,-0.719073460194988,1.14206300554678e-212
+Delorey TM. (Lung),Lung,Alveolar type I cells,NR6A1,0.473283632667283,7.60367446118885e-210
+Delorey TM. (Lung),Lung,Alveolar type I cells,CACNA2D3,0.5512010035081,4.15417262030383e-186
+Delorey TM. (Lung),Lung,Alveolar type I cells,MTRNR2L12,-0.779415733462065,2.48429656732402e-177
+Delorey TM. (Lung),Lung,Alveolar type I cells,BMPR1B,0.518810444532024,8.88949915032364e-175
+Delorey TM. (Lung),Lung,Alveolar type I cells,TACSTD2,-0.792762240896168,6.28010385602426e-171
+Delorey TM. (Lung),Lung,Alveolar type I cells,SH3GL2,0.697262143378412,1.9680772456212e-168
+Delorey TM. (Lung),Lung,Alveolar type I cells,LRRC1,0.497632277243433,1.03727125384686e-162
+Delorey TM. (Lung),Lung,Alveolar type I cells,EHD2,-0.774293700285521,5.12607294953537e-156
+Delorey TM. (Lung),Lung,Alveolar type I cells,MYO5B,0.534832822936694,2.36714594715203e-151
+Delorey TM. (Lung),Lung,Alveolar type I cells,CCDC85A,0.793517396783164,1.15092781891011e-144
+Delorey TM. (Lung),Lung,Alveolar type I cells,PCYOX1,-0.552135083173936,4.97350025919493e-131
+Delorey TM. (Lung),Lung,Alveolar type I cells,ANKS1B,0.461342498400011,6.3552975844395e-130
+Delorey TM. (Lung),Lung,Alveolar type I cells,CASC15,0.54286342618954,8.29578830905298e-130
+Delorey TM. (Lung),Lung,Alveolar type I cells,SUSD2,-0.569488731833354,3.27182148302537e-128
+Delorey TM. (Lung),Lung,Alveolar type I cells,BMPER,0.53520233027198,2.24707387796478e-127
+Delorey TM. (Lung),Lung,Alveolar type I cells,TTLL7,0.567050062071997,1.18073795271373e-125
+Delorey TM. (Lung),Lung,Alveolar type I cells,NRG1,0.728365285895116,1.47134608303061e-123
+Delorey TM. (Lung),Lung,Alveolar type I cells,AC002066.1,0.81520367293248,2.40552421796732e-114
+Delorey TM. (Lung),Lung,Alveolar type I cells,CNTN6,1.08867279201857,6.652764035398e-114
+Delorey TM. (Lung),Lung,Alveolar type I cells,B2M,-0.592118300493689,1.19413966907921e-110
+Delorey TM. (Lung),Lung,Alveolar type I cells,SDC1,-0.707895673938705,3.0132437092948e-110
+Delorey TM. (Lung),Lung,Alveolar type I cells,DAPK2,0.600058236753522,4.70893705990415e-107
+Delorey TM. (Lung),Lung,Alveolar type I cells,CST6,-0.592199497439202,1.27339880963855e-104
+Delorey TM. (Lung),Lung,Alveolar type I cells,GRIP1,0.480704981096945,1.85274338464935e-103
+Delorey TM. (Lung),Lung,Alveolar type I cells,AQP4,-0.641718780258743,6.47648954157547e-100
+Delorey TM. (Lung),Lung,Alveolar type I cells,ARHGEF26,0.559860030124381,2.02209246574676e-99
+Delorey TM. (Lung),Lung,Alveolar type I cells,RASSF6,0.455459422977303,8.45031454016146e-99
+Delorey TM. (Lung),Lung,Alveolar type I cells,COL4A3,0.709036417024949,3.9135438484561e-97
+Delorey TM. (Lung),Lung,Alveolar type I cells,SPOCK2,-0.67944677386608,8.17904724009886e-95
+Delorey TM. (Lung),Lung,Alveolar type I cells,CEACAM6,-1.03579163849996,1.65461402272066e-91
+Delorey TM. (Lung),Lung,Alveolar type I cells,SDC4,-0.581177363668193,3.01681605800805e-91
+Delorey TM. (Lung),Lung,Alveolar type I cells,FAM189A2,0.516696634915522,7.75593850651748e-90
+Delorey TM. (Lung),Lung,Alveolar type I cells,EPB41L3,0.522340039807699,7.84983858351799e-89
+Delorey TM. (Lung),Lung,Alveolar type I cells,NCKAP5,0.805916541946909,3.89509465530376e-82
+Delorey TM. (Lung),Lung,Alveolar type I cells,LAMA3,0.641000772756672,2.28105487022414e-78
+Delorey TM. (Lung),Lung,Alveolar type I cells,KHDRBS2,0.62953531610306,2.64120258846081e-77
+Delorey TM. (Lung),Lung,Alveolar type I cells,GPM6A,0.787255283399085,6.24967584766357e-74
+Delorey TM. (Lung),Lung,Alveolar type I cells,LIN7A,0.635464740782287,1.90212288569343e-68
+Delorey TM. (Lung),Lung,Alveolar type I cells,ANOS1,0.617339280581783,1.2864268417455e-63
+Delorey TM. (Lung),Lung,Alveolar type I cells,ANKRD29,0.78330433955758,1.3847272167767e-61
+Delorey TM. (Lung),Lung,Alveolar type I cells,SH3RF2,0.510934525635149,4.22334301902455e-49
+Delorey TM. (Lung),Lung,Alveolar type I cells,CD24,-0.541960239189245,6.84525293504979e-43
+Delorey TM. (Lung),Lung,Alveolar type I cells,AGER,-0.649588022245599,3.13494485715328e-35
+Delorey TM. (Lung),Lung,Alveolar type I cells,C2orf54,-0.508987656161566,8.03806991639199e-25
+Delorey TM. (Lung),Lung,Alveolar type II cells,ADGRV1,0.356053105828941,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,APOO,-0.543767410767176,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,ARHGEF38,0.432003430685778,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,AUTS2,0.336317775480093,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,B2M,-0.613845667177717,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,C8orf34,0.339608854458945,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,CCSER1,0.420738867699609,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,CFAP221,0.409820521026156,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,CFTR,0.446952028233058,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,DHFR,-0.6839501873547,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,EEF1A1,-0.620544615852374,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,ERBB4,0.363948669943403,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,FGFR2,0.353382979095945,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,FREM2,0.336462942855837,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,FTL,-0.323350558534773,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,GPC4,0.407458207174058,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,KCNJ15,0.393018192037937,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MAPK10,0.326087963752242,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-ATP6,-0.741672134494011,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-CO1,-0.618835440996859,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-CO2,-0.705943150579125,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-CO3,-0.76277420050989,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-CYB,-0.737689483670496,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-ND1,-0.728774646330073,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-ND2,-0.76668239819969,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-ND3,-0.743291862994327,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-ND4,-0.714356150258376,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MT-ND5,-0.467482668195259,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,MTRNR2L12,-0.802903172107737,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,NAALADL2,0.404262554336022,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,NPC2,-0.501625950620426,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,NTN4,0.323433115998833,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PCAT1,0.366959092157452,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PDE4D,0.318832678235513,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PEBP4,0.410824622169539,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PIP5K1B,0.361526651619271,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PLCH1,0.316164956295551,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PRTG,0.336621439101717,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,PTGFR,0.362385033347147,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPL10,-0.478089289747721,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPL15,-0.560925648714292,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPL27A,-0.376968398627506,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPL41,-0.481696280909381,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPLP1,-0.453337514150383,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPS18,-0.43358925703502,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,RPS19,-0.55918516315385,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,S100A6,-0.615755240548751,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,SCTR,0.402416680891439,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,SDC4,-0.321160853655076,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,SFTA3,0.406815188688813,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,SLC22A3,0.387738475119922,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,SLPI,-0.33564123622203,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,STK33,0.349726936803719,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,SUSD2,-0.437049321545047,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,TOX,0.323479476797361,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,TPT1,-0.337181116434032,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,TTC6,0.393671102542055,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,ZNF385B,0.328821963248902,0.0
+Delorey TM. (Lung),Lung,Alveolar type II cells,TTN,0.334672736756613,4.5475610664e-314
+Delorey TM. (Lung),Lung,Alveolar type II cells,LRRK2,0.328085426731093,5.4791986852965e-310
+Delorey TM. (Lung),Lung,Alveolar type II cells,RNASE1,-0.325124108201585,6.03799361211253e-279
+Delorey TM. (Lung),Lung,Alveolar type II cells,SFN,-0.40173762856009,1.09472366107198e-259
+Delorey TM. (Lung),Lung,Alveolar type II cells,CSF3R,0.316884304548664,1.04857066942949e-239
+Delorey TM. (Lung),Lung,Alveolar type II cells,CD36,0.31726177108588,3.03362720429785e-218
+Delorey TM. (Lung),Lung,Alveolar type II cells,CEACAM6,-0.316738660031858,5.58741788042782e-189
+Delorey TM. (Lung),Lung,Alveolar type II cells,DHCR24,-0.343316846980958,4.62117397794845e-178
+Delorey TM. (Lung),Lung,Alveolar type II cells,CCDC141,0.376961410647315,1.44891915969923e-169
+Delorey TM. (Lung),Lung,Alveolar type II cells,CCND1,-0.338687719000603,5.25837563241456e-137
+Delorey TM. (Lung),Lung,Alveolar type II cells,SCD,-0.373484741454295,3.28266606852188e-124
+Delorey TM. (Lung),Lung,Alveolar type II cells,SLC26A9,0.416854654576045,1.09479915977339e-101
+Delorey TM. (Lung),Lung,Basal cells,DLL4,-1.1421832569021,8.98095057826147e-45
+Delorey TM. (Lung),Lung,Basal cells,MT-ATP6,-1.20592269448754,2.12345937076693e-44
+Delorey TM. (Lung),Lung,Basal cells,RPL27A,-1.13372892511061,5.85053223828559e-42
+Delorey TM. (Lung),Lung,Basal cells,FHL2,-0.994482819415643,4.68370356426142e-40
+Delorey TM. (Lung),Lung,Basal cells,MT-CO3,-1.01109355597376,1.94354539994512e-39
+Delorey TM. (Lung),Lung,Basal cells,STOX2,0.805876884275222,2.49530292063412e-39
+Delorey TM. (Lung),Lung,Basal cells,SLC7A11,-1.11199888496303,3.39852487197878e-36
+Delorey TM. (Lung),Lung,Basal cells,SLC16A12,-1.70286059905203,6.42058022577701e-36
+Delorey TM. (Lung),Lung,Basal cells,ITGA2,-1.1099453545885,2.64856939451244e-35
+Delorey TM. (Lung),Lung,Basal cells,MT-ND4,-0.99813239166349,1.12577355943455e-34
+Delorey TM. (Lung),Lung,Basal cells,S100A6,-1.02192281654706,3.93103344769135e-33
+Delorey TM. (Lung),Lung,Basal cells,RIMS2,-1.2738875803433,1.73393429871217e-32
+Delorey TM. (Lung),Lung,Basal cells,ADGRV1,1.01495910156412,1.53146356747933e-31
+Delorey TM. (Lung),Lung,Basal cells,MT-ND1,-1.0375382126036,1.64521905054612e-31
+Delorey TM. (Lung),Lung,Basal cells,INO80D,-1.0686681431756,1.02044580490887e-29
+Delorey TM. (Lung),Lung,Basal cells,SH3GL2,1.09951941168709,1.06524569940513e-29
+Delorey TM. (Lung),Lung,Basal cells,PRC1,-4.02928583479664,1.09208165625228e-28
+Delorey TM. (Lung),Lung,Basal cells,CD3G,-1.02890131343144,1.24974034836523e-28
+Delorey TM. (Lung),Lung,Basal cells,MT-ND2,-1.02924905718553,2.50240675002708e-28
+Delorey TM. (Lung),Lung,Basal cells,TTC6,0.888688483020855,3.0331708406316e-28
+Delorey TM. (Lung),Lung,Basal cells,CCNB2,-4.58966920827385,6.46988417142512e-28
+Delorey TM. (Lung),Lung,Basal cells,BRIP1,1.72095616909443,7.09445895130949e-27
+Delorey TM. (Lung),Lung,Basal cells,SLC25A21,0.804439545578825,6.0259059374941e-26
+Delorey TM. (Lung),Lung,Basal cells,KIAA1217,0.813583263415909,2.00184355179655e-25
+Delorey TM. (Lung),Lung,Basal cells,PCLO,0.855837309496058,3.2733534415195e-24
+Delorey TM. (Lung),Lung,Basal cells,ERP27,-1.2049800673741,6.08411231726012e-24
+Delorey TM. (Lung),Lung,Basal cells,DZIP3,-1.45478015505426,1.19574541787333e-23
+Delorey TM. (Lung),Lung,Basal cells,CDCA3,-2.79038901382262,3.78493668898674e-23
+Delorey TM. (Lung),Lung,Basal cells,EGFR,0.778196503221585,1.40184736051758e-22
+Delorey TM. (Lung),Lung,Basal cells,LINC01515,0.994777684995439,4.26793584104606e-22
+Delorey TM. (Lung),Lung,Basal cells,ARHGEF28,1.05626235983316,5.38838902382552e-22
+Delorey TM. (Lung),Lung,Basal cells,KIAA0319,-1.4691653240059,1.06545921983536e-21
+Delorey TM. (Lung),Lung,Basal cells,PID1,1.08026708272784,2.07113255542384e-21
+Delorey TM. (Lung),Lung,Basal cells,NFIB,0.863571804967806,2.7877918236718e-21
+Delorey TM. (Lung),Lung,Basal cells,CADPS2,0.853985677761839,4.23649690286912e-18
+Delorey TM. (Lung),Lung,Basal cells,AGBL4,1.22279064316827,1.59305899588509e-17
+Delorey TM. (Lung),Lung,Basal cells,DLC1,0.836841527627145,2.73589203929763e-17
+Delorey TM. (Lung),Lung,Basal cells,PTPN13,0.883365134298147,2.34547541516181e-16
+Delorey TM. (Lung),Lung,Basal cells,COL8A1,0.782590828967528,6.77827681662707e-16
+Delorey TM. (Lung),Lung,Basal cells,HMGB2,-1.28280938617868,1.47307041714393e-15
+Delorey TM. (Lung),Lung,Basal cells,KIF15,1.436289352333,2.01704258880224e-15
+Delorey TM. (Lung),Lung,Basal cells,ESYT3,0.890228135527762,1.08909089125031e-14
+Delorey TM. (Lung),Lung,Basal cells,STMN1,-1.38684912746256,2.22684655583396e-14
+Delorey TM. (Lung),Lung,Basal cells,KIF2C,-3.58600283964717,2.37068444254821e-14
+Delorey TM. (Lung),Lung,Basal cells,DEPDC1,-4.35227729374104,2.88464599811083e-14
+Delorey TM. (Lung),Lung,Basal cells,RP1,0.778605699889021,7.73118222713204e-14
+Delorey TM. (Lung),Lung,Basal cells,COBL,0.898687854344751,1.4316480501138e-11
+Delorey TM. (Lung),Lung,Basal cells,CENPF,-2.16878931534414,1.69993899598016e-11
+Delorey TM. (Lung),Lung,Basal cells,BUB1,-2.96858558701059,4.56889014736522e-11
+Delorey TM. (Lung),Lung,Basal cells,KCNJ15,1.00207422521415,4.86964948967831e-11
+Delorey TM. (Lung),Lung,Basal cells,PRTG,0.853793918626021,5.12116177647619e-11
+Delorey TM. (Lung),Lung,Basal cells,HMMR,-1.97642219987741,6.52874109228021e-11
+Delorey TM. (Lung),Lung,Basal cells,MKI67,-2.47477774316929,8.82002481476525e-11
+Delorey TM. (Lung),Lung,Basal cells,DTL,1.27411490942109,5.91221986121639e-10
+Delorey TM. (Lung),Lung,Basal cells,CEP55,-1.71267648559259,1.16525682555105e-09
+Delorey TM. (Lung),Lung,Basal cells,ANXA3,-1.07392653415566,1.64759721778171e-09
+Delorey TM. (Lung),Lung,Basal cells,GTSE1,-1.56655517162321,1.72866813116653e-09
+Delorey TM. (Lung),Lung,Basal cells,CLSPN,1.29812528649189,2.10007876518934e-09
+Delorey TM. (Lung),Lung,Basal cells,ELOVL7,1.04292299507409,2.79508000360693e-09
+Delorey TM. (Lung),Lung,Basal cells,AKAP6,0.84399190083908,5.18305707403628e-09
+Delorey TM. (Lung),Lung,Basal cells,KIF21A,0.942364053812836,2.33124553182853e-08
+Delorey TM. (Lung),Lung,Basal cells,CDK1,-1.78164220146563,3.31864148900768e-08
+Delorey TM. (Lung),Lung,Basal cells,CENPM,-1.50441410787052,4.7708859972827e-08
+Delorey TM. (Lung),Lung,Basal cells,CTNNAL1,0.883506792756656,6.66397508122244e-08
+Delorey TM. (Lung),Lung,Basal cells,SLFN13,1.0751307270928,1.19571807726611e-07
+Delorey TM. (Lung),Lung,Basal cells,FLNB,0.784561012959994,1.19763793271374e-07
+Delorey TM. (Lung),Lung,Basal cells,UBE2T,-1.77423988058794,1.30876334240346e-07
+Delorey TM. (Lung),Lung,Basal cells,TTK,-2.16680169880023,2.18268867462907e-07
+Delorey TM. (Lung),Lung,Basal cells,KIFC1,-1.42350304704011,3.68765028509698e-07
+Delorey TM. (Lung),Lung,Basal cells,ASF1B,-2.0343389948494,3.83167449160482e-07
+Delorey TM. (Lung),Lung,Basal cells,SCNN1B,0.800073168471539,6.4316886586144e-07
+Delorey TM. (Lung),Lung,Basal cells,CENPE,-1.46572597652791,7.78900161834462e-07
+Delorey TM. (Lung),Lung,Basal cells,TYMS,-1.37517684196538,3.18540147777174e-06
+Delorey TM. (Lung),Lung,Basal cells,RFC3,1.03006605647647,3.27635561603243e-06
+Delorey TM. (Lung),Lung,Basal cells,KIF20B,-1.37253837343724,1.05987245171919e-05
+Delorey TM. (Lung),Lung,Basal cells,PCSK2,0.850952366096006,1.76777153054089e-05
+Delorey TM. (Lung),Lung,Basal cells,UHRF1,0.793094986573213,2.92055838662706e-05
+Delorey TM. (Lung),Lung,Basal cells,ROS1,0.914825187519959,5.14374187085476e-05
+Delorey TM. (Lung),Lung,Basal cells,C21orf58,1.17498217033376,0.000149735520568141
+Delorey TM. (Lung),Lung,Basal cells,TCF19,0.932587467661062,0.000670523467290029
+Delorey TM. (Lung),Lung,Basal cells,AURKB,1.36478289590978,0.00352855262589644
+Delorey TM. (Lung),Lung,Basal cells,NUF2,0.887534258913248,0.00883756836298947
+Delorey TM. (Lung),Lung,Ciliated cells,CAPN13,-0.933425665115255,1.59295696409878e-86
+Delorey TM. (Lung),Lung,Ciliated cells,WNK2,-1.69948401288781,4.56076893419989e-74
+Delorey TM. (Lung),Lung,Ciliated cells,BCAS1,-0.957490654863517,1.02339963761217e-72
+Delorey TM. (Lung),Lung,Ciliated cells,BMPR1B,-0.810409908684576,1.66329520005622e-64
+Delorey TM. (Lung),Lung,Ciliated cells,TP73,-1.12652102908879,3.58910599521334e-57
+Delorey TM. (Lung),Lung,Ciliated cells,EHF,-0.93632952464626,1.00327177059117e-55
+Delorey TM. (Lung),Lung,Ciliated cells,FABP6,1.17828351335186,1.87981271971872e-50
+Delorey TM. (Lung),Lung,Ciliated cells,CCDC190,-1.54118258562444,4.67451618675511e-49
+Delorey TM. (Lung),Lung,Ciliated cells,ADAM28,-0.823163130211136,4.77859055789205e-43
+Delorey TM. (Lung),Lung,Ciliated cells,TMEM45A,-0.874589782795012,4.29479461551662e-39
+Delorey TM. (Lung),Lung,Ciliated cells,LRRC46,-1.07402244285433,4.05279817400073e-37
+Delorey TM. (Lung),Lung,Ciliated cells,IGFBP2,-1.34989178710116,4.86168993887674e-36
+Delorey TM. (Lung),Lung,Ciliated cells,PLEKHS1,-1.28213172003645,3.08414453202442e-35
+Delorey TM. (Lung),Lung,Ciliated cells,SPAG6,1.33107290424187,6.44948614666107e-35
+Delorey TM. (Lung),Lung,Ciliated cells,TSPAN1,-2.29077253496463,5.99296007126828e-32
+Delorey TM. (Lung),Lung,Ciliated cells,FOXJ1,-2.51626994094806,1.82844861324283e-31
+Delorey TM. (Lung),Lung,Ciliated cells,KIAA2012,-1.0472791994215,1.62763277224481e-30
+Delorey TM. (Lung),Lung,Ciliated cells,RAB36,-0.861465989745061,6.60209740908304e-30
+Delorey TM. (Lung),Lung,Ciliated cells,CST6,-0.818519176301454,2.16132490037871e-29
+Delorey TM. (Lung),Lung,Ciliated cells,MAATS1,1.17943568391757,3.90811968932884e-29
+Delorey TM. (Lung),Lung,Ciliated cells,CFAP157,1.31027548959545,3.98798936504925e-26
+Delorey TM. (Lung),Lung,Ciliated cells,TPPP3,-1.01968092304064,8.09943698144307e-25
+Delorey TM. (Lung),Lung,Ciliated cells,DRAIC,1.05214408424096,2.4038204415328e-24
+Delorey TM. (Lung),Lung,Ciliated cells,SLC44A4,-0.875784308157234,1.05357482275569e-22
+Delorey TM. (Lung),Lung,Ciliated cells,CD24,-0.807443359165828,1.60377179708203e-22
+Delorey TM. (Lung),Lung,Ciliated cells,WDR66,1.23677435823547,2.65916741792736e-19
+Delorey TM. (Lung),Lung,Ciliated cells,DNAH12,1.30375703214206,2.73371101197109e-18
+Delorey TM. (Lung),Lung,Ciliated cells,SIX1,-1.50861443738663,3.1561536717991e-18
+Delorey TM. (Lung),Lung,Ciliated cells,HYDIN,1.13321948352858,1.0589416735028e-17
+Delorey TM. (Lung),Lung,Ciliated cells,CDHR4,1.25137866299418,1.79134706636748e-17
+Delorey TM. (Lung),Lung,Ciliated cells,PLPP2,-0.879898116065766,2.35886484805219e-17
+Delorey TM. (Lung),Lung,Ciliated cells,DNAH7,1.25172168403988,5.81110662674523e-17
+Delorey TM. (Lung),Lung,Ciliated cells,GSTA1,1.25625746204397,1.37038193969797e-16
+Delorey TM. (Lung),Lung,Ciliated cells,DNAH9,1.22136672501892,3.57509794118347e-16
+Delorey TM. (Lung),Lung,Ciliated cells,IGFBP5,-0.903944891919041,6.47888287693312e-16
+Delorey TM. (Lung),Lung,Ciliated cells,ERICH3,1.37148356881422,1.10934629252751e-15
+Delorey TM. (Lung),Lung,Ciliated cells,CFAP54,1.04696060163446,1.73019740043761e-15
+Delorey TM. (Lung),Lung,Ciliated cells,RP1,1.09992927908708,4.8547463966484e-15
+Delorey TM. (Lung),Lung,Ciliated cells,DNAAF1,1.20323456655716,1.62348189149357e-14
+Delorey TM. (Lung),Lung,Ciliated cells,DNAAF3,1.34134493372756,1.15253840097634e-12
+Delorey TM. (Lung),Lung,Ciliated cells,CFAP43,1.1067036421257,2.49224093122867e-12
+Delorey TM. (Lung),Lung,Ciliated cells,LRRIQ1,1.05899873663521,4.17981964155123e-12
+Delorey TM. (Lung),Lung,Ciliated cells,CDHR3,1.06805210858372,9.04436823898045e-12
+Delorey TM. (Lung),Lung,Ciliated cells,PRR29,1.15014725490942,5.19547420209282e-11
+Delorey TM. (Lung),Lung,Ciliated cells,CCDC153,1.06967858062791,0.0347262501334923
+Delorey TM. (Lung),Lung,Club cells,MACROD2,0.482271908898409,1.97314498218973e-79
+Delorey TM. (Lung),Lung,Club cells,SCGB1A1,-2.17622998642775,1.64687112050155e-58
+Delorey TM. (Lung),Lung,Club cells,WNK2,-3.34162029606024,1.63470100920126e-50
+Delorey TM. (Lung),Lung,Club cells,TFF3,-1.36847231592291,1.00156863944595e-46
+Delorey TM. (Lung),Lung,Club cells,PLEKHS1,-3.5550708303976,1.0657843109103e-46
+Delorey TM. (Lung),Lung,Club cells,SFTPB,0.434729122635467,6.080774668725e-45
+Delorey TM. (Lung),Lung,Club cells,LCN2,-1.56497187840173,1.08766918635166e-43
+Delorey TM. (Lung),Lung,Club cells,HIST1H4C,0.478868934077848,1.2949505580355e-41
+Delorey TM. (Lung),Lung,Club cells,FCGBP,-1.43362518505997,1.37019440019523e-41
+Delorey TM. (Lung),Lung,Club cells,NHS,-1.4815929352815,1.27151245152824e-38
+Delorey TM. (Lung),Lung,Club cells,TSPAN1,-1.4120068997934,4.3400694171624e-35
+Delorey TM. (Lung),Lung,Club cells,TACR1,-1.89212870546899,5.28297159092506e-35
+Delorey TM. (Lung),Lung,Club cells,STOX2,0.471137326175424,1.25734317436279e-33
+Delorey TM. (Lung),Lung,Club cells,KLK11,-2.03631567327533,1.735345290367e-31
+Delorey TM. (Lung),Lung,Club cells,LYPD6B,-1.47194753278588,3.35631530545978e-31
+Delorey TM. (Lung),Lung,Club cells,AQP4-AS1,-1.72242874424018,5.38704403893017e-30
+Delorey TM. (Lung),Lung,Club cells,TMEM45A,-2.21149072106422,8.60312060542483e-30
+Delorey TM. (Lung),Lung,Club cells,FAM3D,-1.24034301613168,9.3834913186791e-29
+Delorey TM. (Lung),Lung,Club cells,CAPN13,-3.06686601518707,2.62294842274957e-28
+Delorey TM. (Lung),Lung,Club cells,SRGAP3,-1.43064909474532,1.00765362542003e-27
+Delorey TM. (Lung),Lung,Club cells,ADAM28,-2.60794773215678,1.74232002637676e-26
+Delorey TM. (Lung),Lung,Club cells,RIMS1,-1.47215522519082,2.26157602906983e-25
+Delorey TM. (Lung),Lung,Club cells,BMPR1B,-2.47089885721448,1.78031220392117e-24
+Delorey TM. (Lung),Lung,Club cells,LRRK2,0.484464033024845,5.79348187780049e-20
+Delorey TM. (Lung),Lung,Club cells,ACSS2,0.499589798239506,1.14583586719119e-18
+Delorey TM. (Lung),Lung,Club cells,CP,-1.96511705660599,2.40484009293543e-18
+Delorey TM. (Lung),Lung,Club cells,ZNF385B,0.544808723571245,6.70739873950117e-18
+Delorey TM. (Lung),Lung,Club cells,LINC00511,-1.45029358310023,1.27952103420157e-15
+Delorey TM. (Lung),Lung,Club cells,RASSF9,-1.27312340831682,1.74780090850707e-15
+Delorey TM. (Lung),Lung,Club cells,MLPH,0.566255153741842,1.44480887287216e-14
+Delorey TM. (Lung),Lung,Club cells,PCAT1,0.459731909152897,4.25076373903456e-14
+Delorey TM. (Lung),Lung,Club cells,CCDC141,0.52354613983494,2.52593720933549e-13
+Delorey TM. (Lung),Lung,Club cells,C8orf34,0.440251734056272,7.28583443758961e-13
+Delorey TM. (Lung),Lung,Club cells,ABCA3,0.535119451371583,1.5087875448009e-12
+Delorey TM. (Lung),Lung,Club cells,NTN1,-1.63506126634845,4.74326314278231e-12
+Delorey TM. (Lung),Lung,Club cells,DLC1,0.521809995863618,1.90504105645139e-11
+Delorey TM. (Lung),Lung,Club cells,TTN,0.557995898652938,3.2084034101114e-11
+Delorey TM. (Lung),Lung,Club cells,SLC22A3,0.45172196573225,5.51974691490596e-10
+Delorey TM. (Lung),Lung,Club cells,TACC2,0.453838053656479,2.71336918121797e-09
+Delorey TM. (Lung),Lung,Club cells,IGHA1,0.465348794496132,6.75676080681716e-09
+Delorey TM. (Lung),Lung,Club cells,PEBP4,0.721368280493955,1.96078432113018e-08
+Delorey TM. (Lung),Lung,Club cells,CSF3R,0.515046909160476,3.2902250334399e-08
+Delorey TM. (Lung),Lung,Club cells,DUOXA1,0.473454264422807,5.79039502957614e-07
+Delorey TM. (Lung),Lung,Club cells,NAPSA,0.451758475227503,8.9863296418826e-05
+Delorey TM. (Lung),Lung,Club cells,MS4A15,0.470841659557962,0.000320897653409776
+Delorey TM. (Lung),Lung,Club cells,SCTR,0.497279708157383,0.000617935136869275
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,HRCT1,0.580162092044016,0.0
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,SNCG,0.925689827580615,0.0
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,ITGA9,-1.26419494903182,8.95408544641326e-207
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,CCL21,-1.57139237423469,1.51544531721037e-170
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,PDE7B,-1.32047799494933,3.69577489082704e-165
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,DKK2,-1.32754238706114,1.25597226246144e-162
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,KIAA1217,0.527593028146382,1.89559389867481e-157
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,PKHD1L1,-1.77234995416246,1.03150213764526e-134
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,PGM5,-1.55274113246134,1.30812551116591e-131
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,CADM3-AS1,-1.27754843121861,5.33536387693114e-130
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,SNCAIP,-1.2326685502789,6.59198962876259e-119
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,ZNF385D,-1.38499433632798,1.22463324514943e-118
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,MMRN1,-1.97975840331735,3.56869719356511e-103
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,PDE1C,0.831527234026419,9.71941520551092e-99
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,AFF3,0.661628514067333,7.56479372100306e-98
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,MGAT4C,-1.69067183833736,3.00331252572682e-94
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,KHDRBS2,0.735700289290377,9.48490229267613e-91
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,SORBS1,0.698875208485274,3.10486691463852e-76
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,ADGRL2,1.0564829576279,4.88865211341329e-71
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,TBX1,-1.41084336753078,2.72564810882769e-70
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,NCKAP5,0.819607373790024,4.98720352680808e-65
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,PIK3R3,-1.47536999765211,1.15725338782817e-60
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,IL33,-1.3869994992972,3.39635783016043e-56
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,PROX1,-1.71514665906188,8.52083258342602e-54
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,RELN,-1.82762479698203,2.09216614485162e-51
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,SEMA3D,-1.24512927358074,1.81317703227957e-39
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,EMCN,0.664594362315275,4.68194460818532e-34
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,SOX18,-1.15797097923305,7.11846862672735e-31
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,SFRP1,0.848998874241977,2.16849579519195e-26
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,DACH1,0.674282902891282,5.33394088426579e-26
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,BTNL9,0.849508561672611,2.96617457171324e-25
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,TBX3,0.622102548412124,4.55225130659601e-21
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,NEURL1B,0.682596865478416,1.15113342418638e-20
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,KIT,0.611998855663492,6.38633404528701e-19
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,FENDRR,0.715820124033899,1.37128355301584e-17
+Delorey TM. (Lung),Lung,Endothelial.Lymphatic cells,CD34,0.528295381862441,1.70984770961493e-11
+Delorey TM. (Lung),Lung,Fibroblasts,FXYD1,0.497757980809203,1.40043001067783e-251
+Delorey TM. (Lung),Lung,Fibroblasts,INMT,-1.57117650885661,1.88495970025457e-154
+Delorey TM. (Lung),Lung,Fibroblasts,FST,-1.0208235550347,5.36961097506425e-63
+Delorey TM. (Lung),Lung,Fibroblasts,MXRA8,-1.14401478212373,1.02476706160048e-50
+Delorey TM. (Lung),Lung,Fibroblasts,S100A4,0.372249781946254,3.50956423347957e-49
+Delorey TM. (Lung),Lung,Fibroblasts,FGF2,-1.13512731194732,4.30049207263284e-45
+Delorey TM. (Lung),Lung,Fibroblasts,CXCL12,-1.23437138846302,1.02647311306302e-42
+Delorey TM. (Lung),Lung,Fibroblasts,BGN,-1.40743412194003,3.80644907130464e-42
+Delorey TM. (Lung),Lung,Fibroblasts,WISP2,-1.80149772779302,4.07806912828781e-40
+Delorey TM. (Lung),Lung,Fibroblasts,TSHZ2,0.574296234017655,6.48873968160991e-39
+Delorey TM. (Lung),Lung,Fibroblasts,RPS4X,0.374426977182124,1.0985109306203e-33
+Delorey TM. (Lung),Lung,Fibroblasts,AEBP1,-1.12399486540965,2.15526473001182e-33
+Delorey TM. (Lung),Lung,Fibroblasts,TNFAIP6,-1.10794259546358,4.32842390136706e-33
+Delorey TM. (Lung),Lung,Fibroblasts,METTL7A,-1.05014418094079,8.45797832046457e-33
+Delorey TM. (Lung),Lung,Fibroblasts,C11orf96,-1.19439992616322,8.73415308049413e-31
+Delorey TM. (Lung),Lung,Fibroblasts,AOC3,-1.32175445194656,1.75724664957516e-30
+Delorey TM. (Lung),Lung,Fibroblasts,RARRES2,-1.01182982769792,2.23536015708316e-30
+Delorey TM. (Lung),Lung,Fibroblasts,MMP2,-1.41432345238375,2.7372450877247e-30
+Delorey TM. (Lung),Lung,Fibroblasts,NBL1,-1.56317662461964,7.016652843501e-30
+Delorey TM. (Lung),Lung,Fibroblasts,SAA1,0.547172931167121,2.7865789492813e-28
+Delorey TM. (Lung),Lung,Fibroblasts,DKK3,-1.54733414636613,3.43175630550582e-27
+Delorey TM. (Lung),Lung,Fibroblasts,RPS13,0.506146134984329,1.56377124215607e-24
+Delorey TM. (Lung),Lung,Fibroblasts,EMILIN1,-1.04904232715657,4.00853441483413e-24
+Delorey TM. (Lung),Lung,Fibroblasts,NCAM2,0.479183246639094,5.90100007078316e-24
+Delorey TM. (Lung),Lung,Fibroblasts,KAZN,0.538486514888674,5.58166126147758e-23
+Delorey TM. (Lung),Lung,Fibroblasts,GPX3,-1.15239755900306,2.31449280099553e-22
+Delorey TM. (Lung),Lung,Fibroblasts,CAMK2N1,-1.39383393333255,5.34023723962731e-20
+Delorey TM. (Lung),Lung,Fibroblasts,NUAK1,0.416123646673389,1.58598619877143e-19
+Delorey TM. (Lung),Lung,Fibroblasts,MT1X,0.366816833459759,1.72214127189139e-19
+Delorey TM. (Lung),Lung,Fibroblasts,PDGFRA,-1.19614499325786,2.15817527201111e-19
+Delorey TM. (Lung),Lung,Fibroblasts,C1S,-1.02225910073109,6.16513676612953e-18
+Delorey TM. (Lung),Lung,Fibroblasts,HSP90AA1,0.548377324092246,8.47670203445596e-15
+Delorey TM. (Lung),Lung,Fibroblasts,IGFBP6,0.8046104116294,2.29955223118835e-14
+Delorey TM. (Lung),Lung,Fibroblasts,FGFR4,-1.12156951837827,5.37478247861791e-14
+Delorey TM. (Lung),Lung,Fibroblasts,PRELP,-1.27904145720267,8.27954027065667e-14
+Delorey TM. (Lung),Lung,Fibroblasts,COL6A1,-1.03330524913892,9.27174470615106e-14
+Delorey TM. (Lung),Lung,Fibroblasts,ANKRD1,0.452254701684583,4.13386276750594e-13
+Delorey TM. (Lung),Lung,Fibroblasts,CRYAB,0.445203966715658,2.33948183537392e-12
+Delorey TM. (Lung),Lung,Fibroblasts,EGR3,0.754361549009131,1.02343273712255e-11
+Delorey TM. (Lung),Lung,Fibroblasts,TRHDE,0.362918290939554,1.57519294061924e-10
+Delorey TM. (Lung),Lung,Fibroblasts,MSX1,0.422729288440819,1.67109184477432e-05
+Delorey TM. (Lung),Lung,Fibroblasts,ANKRD37,0.424909718063122,5.10758374277863e-05
+Delorey TM. (Lung),Lung,Fibroblasts,OMD,0.645091784336226,0.000994739783777914
+Delorey TM. (Lung),Lung,Fibroblasts,ASS1,0.430008089622326,0.00861145317336682
+Delorey TM. (Lung),Lung,Fibroblasts,TWIST2,0.438796377423997,0.0265672489281049
+Delorey TM. (Lung),Lung,Fibroblasts,MEG3,0.398164288170458,0.0359426445053293
+Delorey TM. (Lung),Lung,Fibroblasts,FOXF1,0.522145685399546,0.0429318606770605
+Delorey TM. (Lung),Lung,Macrophages,AOAH,0.540523113491644,0.0
+Delorey TM. (Lung),Lung,Macrophages,ATP8B4,0.584160828660549,0.0
+Delorey TM. (Lung),Lung,Macrophages,B2M,-0.822329777614937,0.0
+Delorey TM. (Lung),Lung,Macrophages,CR1,0.484796079998024,0.0
+Delorey TM. (Lung),Lung,Macrophages,DHFR,-0.821070578293458,0.0
+Delorey TM. (Lung),Lung,Macrophages,F13A1,0.873898969982937,0.0
+Delorey TM. (Lung),Lung,Macrophages,FTL,-0.848814723519239,0.0
+Delorey TM. (Lung),Lung,Macrophages,KCNE1,0.310171603679788,0.0
+Delorey TM. (Lung),Lung,Macrophages,MERTK,0.311625123832246,0.0
+Delorey TM. (Lung),Lung,Macrophages,MS4A6A,0.332419905293762,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-ATP6,-1.09343975383724,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-CO1,-1.1302559684321,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-CO2,-1.13742543210204,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-CO3,-1.12357558354185,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-CYB,-1.12026664594489,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-ND1,-1.00428787676491,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-ND2,-1.07820617783656,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-ND3,-1.08672444933128,0.0
+Delorey TM. (Lung),Lung,Macrophages,MT-ND4,-1.18374986282054,0.0
+Delorey TM. (Lung),Lung,Macrophages,RBPJ,0.293318853215377,0.0
+Delorey TM. (Lung),Lung,Macrophages,SLC16A10,0.434939710065554,0.0
+Delorey TM. (Lung),Lung,Macrophages,STAB1,0.559137163975505,0.0
+Delorey TM. (Lung),Lung,Macrophages,TBXAS1,0.291134533742919,0.0
+Delorey TM. (Lung),Lung,Macrophages,RTN1,0.281297675309566,6.48519325101377e-85
+Delorey TM. (Lung),Lung,Natural killer T cells,KCNN3,-1.68591230414171,0.0
+Delorey TM. (Lung),Lung,Natural killer T cells,DCC,-1.76202981757921,2.317687e-317
+Delorey TM. (Lung),Lung,Natural killer T cells,CCSER1,-1.36485450053756,3.7977616367453e-310
+Delorey TM. (Lung),Lung,Natural killer T cells,FCRL5,-2.80274706977367,6.68590718336402e-305
+Delorey TM. (Lung),Lung,Natural killer T cells,MYBL2,-1.55399901048736,2.90997082195711e-282
+Delorey TM. (Lung),Lung,Natural killer T cells,ADAM28,-1.21660294971273,1.45055131886749e-280
+Delorey TM. (Lung),Lung,Natural killer T cells,POU2AF1,-2.58098499438008,1.95656168566978e-251
+Delorey TM. (Lung),Lung,Natural killer T cells,HIST1H2BJ,-1.53333736510142,6.2851900793678e-240
+Delorey TM. (Lung),Lung,Natural killer T cells,SKAP1,1.34282818629553,1.13972055841656e-195
+Delorey TM. (Lung),Lung,Natural killer T cells,WNT5B,-1.39888263153895,2.72002652627065e-194
+Delorey TM. (Lung),Lung,Natural killer T cells,CD247,1.33049605361578,7.63955206695587e-191
+Delorey TM. (Lung),Lung,Natural killer T cells,PTPRC,0.751514100756977,2.11436973801268e-187
+Delorey TM. (Lung),Lung,Natural killer T cells,IGHM,-2.508537122134,4.71519773576298e-181
+Delorey TM. (Lung),Lung,Natural killer T cells,DERL3,-2.19734965197431,4.38513136316044e-165
+Delorey TM. (Lung),Lung,Natural killer T cells,CAMK4,0.795077577215643,3.15792306832043e-157
+Delorey TM. (Lung),Lung,Natural killer T cells,IRF4,-1.55995066244163,5.94551143485907e-137
+Delorey TM. (Lung),Lung,Natural killer T cells,THEMIS,1.65693004186394,1.24378211107814e-135
+Delorey TM. (Lung),Lung,Natural killer T cells,BLK,-1.33612401602939,1.45809944699418e-134
+Delorey TM. (Lung),Lung,Natural killer T cells,JCHAIN,-1.38035706145776,9.34520109445015e-129
+Delorey TM. (Lung),Lung,Natural killer T cells,PYHIN1,1.08658377771765,2.37682537937759e-115
+Delorey TM. (Lung),Lung,Natural killer T cells,TSPAN5,0.811808906351948,2.68795226018788e-110
+Delorey TM. (Lung),Lung,Natural killer T cells,ITM2C,-1.82603876108824,1.74886752741075e-108
+Delorey TM. (Lung),Lung,Natural killer T cells,LINC01480,0.928140142690404,3.03777694554364e-106
+Delorey TM. (Lung),Lung,Natural killer T cells,CD96,1.63079520397913,6.09733609006721e-91
+Delorey TM. (Lung),Lung,Natural killer T cells,CPNE5,-1.31567577909379,3.17022735731127e-83
+Delorey TM. (Lung),Lung,Natural killer T cells,ETS1,1.0269340980748,7.04808531513992e-72
+Delorey TM. (Lung),Lung,Natural killer T cells,AOAH,0.821008178677002,3.93885599010781e-69
+Delorey TM. (Lung),Lung,Natural killer T cells,INPP4B,0.895064864716146,1.13685700192522e-63
+Delorey TM. (Lung),Lung,Natural killer T cells,LTB,0.896093644825091,2.55856311051249e-53
+Delorey TM. (Lung),Lung,Natural killer T cells,NCAM1,0.836734597640219,5.06362241269747e-47
+Delorey TM. (Lung),Lung,Natural killer T cells,PPP2R2B,1.11492880455189,5.14510532408495e-37
+Delorey TM. (Lung),Lung,Natural killer T cells,ICOS,0.906642360520562,7.18148519588925e-24
+Delorey TM. (Lung),Lung,Proliferating cells,MT-ND4,-1.70246376170254,2.71104954815819e-105
+Delorey TM. (Lung),Lung,Proliferating cells,MT-ND2,-1.48421581700111,1.79322113956684e-101
+Delorey TM. (Lung),Lung,Proliferating cells,MT-CO1,-1.62701644491692,1.18642038249608e-99
+Delorey TM. (Lung),Lung,Proliferating cells,MT-ND3,-1.43546282331631,1.52677877632519e-98
+Delorey TM. (Lung),Lung,Proliferating cells,MT-CO3,-1.54750114851791,1.39316674572252e-93
+Delorey TM. (Lung),Lung,Proliferating cells,HIST1H2BJ,1.13677788108773,2.09160945813245e-78
+Delorey TM. (Lung),Lung,Proliferating cells,FCRL5,1.19547825800991,5.00335895914679e-78
+Delorey TM. (Lung),Lung,Proliferating cells,EZH2,1.86955660367254,1.07238089310901e-69
+Delorey TM. (Lung),Lung,Proliferating cells,CA1,2.07301821335705,3.4982141457878e-56
+Delorey TM. (Lung),Lung,Proliferating cells,STMN1,-2.03401908709309,1.0242089967448e-55
+Delorey TM. (Lung),Lung,Proliferating cells,CEP128,1.16016859413359,6.71843638812861e-49
+Delorey TM. (Lung),Lung,Proliferating cells,CENPM,-2.99525115821987,4.74238817964733e-42
+Delorey TM. (Lung),Lung,Proliferating cells,BRIP1,1.52298351752711,1.6859529004161e-41
+Delorey TM. (Lung),Lung,Proliferating cells,TNFRSF18,-1.79420601366879,8.68456998375081e-38
+Delorey TM. (Lung),Lung,Proliferating cells,KIF11,1.31367111376055,1.25648281724625e-35
+Delorey TM. (Lung),Lung,Proliferating cells,HMGB2,-1.82893375873266,7.94670842928727e-34
+Delorey TM. (Lung),Lung,Proliferating cells,CD3G,-1.54331351397952,5.4408594672366e-33
+Delorey TM. (Lung),Lung,Proliferating cells,ZWINT,-2.67305454500281,2.11920439902053e-26
+Delorey TM. (Lung),Lung,Proliferating cells,MELK,1.682142146378,3.33347597508543e-26
+Delorey TM. (Lung),Lung,Proliferating cells,CENPK,-1.59720617702329,4.87100528444202e-24
+Delorey TM. (Lung),Lung,Proliferating cells,POU2AF1,1.33579303756184,6.32279188521233e-22
+Delorey TM. (Lung),Lung,Proliferating cells,CCNB2,-2.61038448535185,2.16595354078793e-21
+Delorey TM. (Lung),Lung,Proliferating cells,CDCA2,1.50363745017696,6.33624037351525e-21
+Delorey TM. (Lung),Lung,Proliferating cells,BIRC5,-1.90002630597062,2.3658064104532e-20
+Delorey TM. (Lung),Lung,Proliferating cells,POLQ,1.22072199017818,7.47497465198351e-20
+Delorey TM. (Lung),Lung,Proliferating cells,E2F7,-1.89807604630978,1.04828539424821e-19
+Delorey TM. (Lung),Lung,Proliferating cells,TK1,-1.56707917063139,3.13988067242644e-19
+Delorey TM. (Lung),Lung,Proliferating cells,RFC3,1.20130156391879,1.09323048572352e-18
+Delorey TM. (Lung),Lung,Proliferating cells,CDCA3,-1.46042692112093,7.4068134959587e-17
+Delorey TM. (Lung),Lung,Proliferating cells,KCNN3,0.818514714694204,1.87755251759574e-16
+Delorey TM. (Lung),Lung,Proliferating cells,NUF2,1.91499341240832,5.19385318758005e-14
+Delorey TM. (Lung),Lung,Proliferating cells,TROAP,1.27432982671847,6.69274392349188e-14
+Delorey TM. (Lung),Lung,Proliferating cells,CDK1,-2.4316062291249,7.87835972996232e-14
+Delorey TM. (Lung),Lung,Proliferating cells,TTK,2.34703097278798,2.84675753595672e-13
+Delorey TM. (Lung),Lung,Proliferating cells,NEK2,-1.43071199663685,4.45139586668408e-13
+Delorey TM. (Lung),Lung,Proliferating cells,KIF2C,-1.51163788811685,5.11350804998476e-13
+Delorey TM. (Lung),Lung,Proliferating cells,IQGAP3,-1.83061888665317,9.43333253912632e-13
+Delorey TM. (Lung),Lung,Proliferating cells,CENPF,0.932754177772758,1.26923666109369e-10
+Delorey TM. (Lung),Lung,Proliferating cells,CD7,0.883461473797699,3.68666093798993e-10
+Delorey TM. (Lung),Lung,Proliferating cells,IRF4,0.933881183850943,1.25082958025044e-09
+Delorey TM. (Lung),Lung,Proliferating cells,CD3E,0.758217861137965,1.35435657683848e-09
+Delorey TM. (Lung),Lung,Proliferating cells,MKI67,-1.78223466071876,1.76816469893453e-09
+Delorey TM. (Lung),Lung,Proliferating cells,HMMR,-1.57649688891206,2.73486209137175e-08
+Delorey TM. (Lung),Lung,Proliferating cells,DIAPH3,0.715160610959484,1.5006287396579e-07
+Delorey TM. (Lung),Lung,Proliferating cells,MMP9,0.740870161687922,1.3105726598693e-06
+Delorey TM. (Lung),Lung,Proliferating cells,TPX2,1.33138623982359,1.19253415954996e-05

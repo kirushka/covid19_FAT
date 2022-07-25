@@ -1,0 +1,417 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ADM,-2.97726801525468,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ALDH3A1,2.1019007789066,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ANKH,1.6584504769235,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ANKRD37,-7.44913580736593,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ATP1B3,2.62047393373725,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,C15orf48,-2.83493036959291,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,COL17A1,1.98596149386419,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,CSTB,-6.38442373057129,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,CXCL14,4.04154762462256,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,DST,3.29745678748697,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,EGR3,1.58243323401822,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ERO1A,-4.33948691732734,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,FGFBP1,2.52321890376076,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,FTH1,-3.66527281336214,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,GDF15,-3.56112361142307,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,HES1,1.62071127315846,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,HILPDA,-5.95796598375396,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,IFI27,2.15877559715861,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,IFI6,1.96201122691877,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,IFITM3,1.81461115597701,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,IGFBP3,-7.64507513872983,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,IGFBP5,-6.11163453155007,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,IGFBP6,3.87449896765109,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ISG15,2.189456045854,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,KRT13,-2.97803314988619,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,KRT14,8.83969526923883,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,KRT15,3.01749981979304,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,KRT16,-6.46389805788577,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,KRT5,5.1162532443266,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,LDHA,-6.45559822468771,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,LGALS7B,2.23050119587156,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,MT1E,1.57420032861657,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,MT1X,-9.3181302829844,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,MXD1,-2.82699178379936,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,NDRG1,-6.76615915003705,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,NUPR1,-3.60757392364637,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,ODC1,1.78388414649888,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,PTHLH,-3.07246213115657,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,RBBP8,1.58231544484862,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,S100A2,3.24685968411641,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,S100P,-6.9549970985063,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,SLC2A1,-4.40133744993587,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,SLC6A8,-3.89823209931323,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,SPRR1B,-3.45791585632138,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,TP63,1.56833019176452,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,TSLP,1.60359383887134,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,SCGB1A1,-3.71669034514492,2.01911482938832e-272
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells,LGALS1,-2.83641657196866,8.18096775081338e-265
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),GAPDH,-5.57605518972756,1.81262593924068e-158
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),NDUFA4L2,-7.13803057220788,8.28063613746981e-142
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),NDRG1,-7.38440976717399,1.97079387589891e-131
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),LDHA,-6.68569714709238,1.03301732258867e-116
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),IGFBP3,-7.88372113344123,2.85863921684802e-112
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),MKNK2,-3.97308172734236,4.21582185422021e-111
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),SLC2A1,-3.0152676459503,6.74804539978912e-103
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),CA9,-4.58772065719981,5.42175784915591e-92
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),P4HA1,-3.39170228370135,1.04546612432978e-88
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),LGALS1,-14.9954904832375,3.56029114622393e-78
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),HILPDA,-4.42841436441417,2.17948833273639e-77
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),MT1X,-9.4436686104464,3.91352781956737e-77
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),BNIP3,-3.01615358419357,1.10478108236106e-70
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),GPI,-3.01052609145434,8.29557335800823e-70
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),DDIT4,-2.95025048425699,2.30260378526239e-63
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),TIMP3,-2.96780611979908,2.41599260385791e-62
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),SERPINE1,-3.90053369870783,1.22972695075863e-42
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),ATP1B3,1.70789416866616,9.02973821454596e-41
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),PCNA,2.3102090054618,1.64150291608642e-35
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),FGFBP1,2.29497402792101,4.04665314659431e-33
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),IFI6,1.81505421021954,4.91344866348756e-31
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),KRT5,3.38217746967531,1.42267026637124e-30
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),PTTG1,-5.08150721063102,4.07974441580258e-21
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),ESCO2,3.94983788365841,1.33726135581201e-19
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),HELLS,2.33580644435151,2.12180742485725e-18
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),IFI27,1.71081756935213,3.68944922179039e-18
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),CLSPN,2.59378529187161,1.14930676740545e-17
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),ISG15,1.92849059503128,3.59555123350883e-17
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),FABP5,-4.99071224446096,1.03803220805226e-16
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),KRT14,3.95428051891493,1.91029911547347e-15
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),PRR11,-4.43053338720851,3.32992737383399e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),NEK2,-3.16655229848222,9.40397568407058e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),MCM10,2.17099810677769,9.24555426636488e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),MYBL2,2.81780123731512,9.80358310534269e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),TUBA1B,2.54900142012103,1.20541612978422e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),TYMS,2.54268368579006,2.05490784198066e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),CXCL14,2.45178818624622,2.75307206210135e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),UBE2C,-6.81028590816327,4.9782269035773e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),MT2A,-3.08352168578512,6.26382970208056e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),ZWINT,1.9628114291313,9.91899147019984e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),LY6D,1.94148897782506,1.71249747096165e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),HIST1H1A,2.22838660412894,3.73904536315229e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),GAS2L3,-3.46658436540614,5.39930573878555e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),ASPM,-5.23968545749253,9.16651955785666e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),KPNA2,2.17500764038292,8.03260993701691e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),ASF1B,1.8197574680791,8.96538116284517e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),KIF2C,-3.32804977335597,1.02563689033708e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),TPX2,-3.38139381617757,1.52130322146391e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),FAM111B,1.75253343642517,1.26382089220236e-05
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),SPC25,2.52252394377855,1.80637797974772e-05
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),HIST1H4C,1.95480348397615,9.45828474789543e-05
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),RRM2,1.72924372173727,0.000205435998486812
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),STMN1,1.80464289259813,0.000429340561310734
+Ravindra NG. (Bronchial epithelial cells),Airway,Basal cells(proliferating),NUSAP1,2.14078599185962,0.00301188955116102
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SLC6A8,-0.705025275696864,1.03503776345828e-182
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,TF,-1.55604360129282,6.23231853395628e-147
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,RPS27,-0.666761989668512,1.31771912467645e-133
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,NDRG1,-0.83055359254039,3.97000708921474e-124
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,AL121761.2,-0.986341031004085,3.7490971103545e-118
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,IGFBP5,-1.31889413439335,1.07711972833863e-104
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,GSTA1,1.39022840764454,5.24201810479534e-93
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,CNFN,-0.837777273142648,7.15714767530782e-93
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,IGFBP3,-0.910273786454915,1.14996017548036e-76
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,EPAS1,0.932457132591119,4.19525384232147e-74
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,LY6D,3.71358016939406,4.98070365002529e-71
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,ODC1,1.1460108896353,1.05438991726406e-69
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,scv2-orf1-10,1.18251770113553,6.62301985193781e-66
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,TXNIP,-0.698889775483945,3.04475619285076e-64
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,CLCA2,0.995236544409184,1.00930642003766e-61
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SPRR3,-1.86617657316488,5.84508966365897e-52
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SCGB1A1,-5.24380203536495,5.68033770063042e-50
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,F3,-0.696006563892117,4.53546512348628e-49
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,ATP12A,-0.796498029218989,1.63176111593841e-46
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,KRT5,1.67888474266813,1.08802495554083e-45
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,EDN2,-0.712353341718559,3.59602816392163e-40
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,UNC5B-AS1,-0.671306480795219,2.84766105567845e-39
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,KRT15,0.994033980440199,3.35250680253861e-39
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,S100P,-0.768003203656058,1.67361008519584e-38
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,TM4SF1,-0.757792733564491,1.99667029109594e-37
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,KRT17,0.905136752223587,9.50030290769821e-36
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,AQP3,0.926676137175654,5.73389907130711e-32
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,MT1X,-0.644030147642759,3.0869099094226e-31
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SPINK5,1.74101031492816,2.23314353175092e-28
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SERPINB4,1.3717478484714,5.96847745246707e-28
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,PI3,1.00266876713577,5.01890274275303e-27
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,LCN2,1.18162428382453,7.4192366106304e-26
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,CSTA,-0.654613154844761,5.01982928331877e-20
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SCGB3A1,2.64383268653707,4.51261597450716e-19
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SERPINB3,1.47033196493936,1.37187264747537e-17
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,KRT13,2.81623961433206,2.10921222532916e-15
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,S100A2,1.12052387799029,4.1461935803768e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,S100A8,1.13710251965686,9.78537130662898e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,S100A9,1.98543649121555,1.0898649919628e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,BC.Club,SPRR1B,-0.650222981947285,9.86486956530981e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,ADM,-1.01713856258097,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,ANKRD37,-3.53819420351674,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,C4orf3,-1.34557769740737,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CSTB,-2.02608865098931,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CTGF,3.1288992101927,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,DUSP1,0.960106540853758,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,ENO2,-0.998247289598141,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,ERO1A,-1.54993024846255,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,FTL,-1.28193197448817,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HILPDA,-2.45164451721204,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HK2,-1.05452147723837,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HMGB2,-0.927685740047427,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HSPA5,-1.39346987155913,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HSPA8,1.30044146583533,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFI27,3.85530683168134,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFI44L,1.42374046100517,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFI6,1.84553247771899,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFIT1,1.55252376811007,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFIT3,1.41913620738963,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFITM3,1.00640701692481,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IGFBP3,-2.70575983750096,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IGFBP5,-1.86622320697286,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,INSIG1,-1.09952072862859,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,ISG15,2.77905984007242,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,JUN,1.17135347802944,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,KRT16,-1.55170337744889,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,LDHA,-1.60624734161655,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MKNK2,-0.954810169201333,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MSMO1,-1.29021933875295,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MT1X,-2.75566673425867,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MX1,1.44733559866378,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MX2,1.03546264032098,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MXD1,-1.1083260774255,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,NDRG1,-2.16493246716164,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,NEAT1,-1.77531253903247,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,NMB,-1.34140657439483,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,OAS2,1.07272771933816,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,P4HA1,-1.30853642472936,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,PTHLH,-0.932496922024995,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,RAB11FIP1,-1.12453233072778,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,RHOB,0.933406641605531,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,S100P,-2.2384216584949,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SLC2A1,-1.92786899805079,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SLC6A8,-1.57969832120442,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,TUBA1A,5.05592372733341,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,TUBB4B,4.40305532690659,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,VEGFA,-0.921140285650121,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,WDR45B,-1.05563451679109,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,XAF1,0.954878780296406,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,scv2-orf1-10,8.40746744348773,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,NUPR1,-1.06013297222979,7.8405e-319
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HSPA1B,-1.21755764935478,7.7416528047e-314
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,PLEKHS1,0.970855132612904,3.80099648310366e-299
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CYR61,1.09639169427714,5.5188663380374e-290
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,ATF3,1.01626733736564,1.03146630617119e-287
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,RRAD,2.35805543803489,9.45424937503994e-285
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,DNAJB1,-0.933659795598673,1.18275720373479e-273
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,FTH1,-0.904250152401267,2.78592864734288e-264
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,RSAD2,1.07963447670755,1.72981129630109e-254
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,BASP1,1.25118984893848,1.69225000720748e-249
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CIB1,-0.936456738519014,2.35459704367995e-249
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HSPA1A,-1.67314819624106,1.01488024469413e-246
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SAXO2,1.21774326376612,2.69430503689493e-246
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,RSPH4A,1.19121300920301,4.08539261452114e-238
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,GDF15,-1.3182708648214,1.44949032053268e-236
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,LCN2,2.18386831857943,5.13608272746298e-226
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,TFF3,-1.4788440619722,2.0295215712407e-207
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CRYAB,-1.28805733143982,1.85790558303725e-190
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFIT2,1.5570333280376,1.77617401600654e-188
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CLDN3,-1.21171484044429,1.06353298991282e-182
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IFT57,0.97719041310672,1.29228903669318e-175
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,CCDC78,0.933898980743021,3.13588391181789e-171
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,DTHD1,1.09894402819147,1.50095647965036e-170
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SLC34A2,1.03868873137298,1.28113115313437e-155
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,MSMB,1.29849957293827,1.04895329452331e-151
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SCGB3A1,2.49595055558059,2.56469523188332e-142
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SYNE1,0.944133405686904,5.0534647609404e-141
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,IGFBP7,1.75359825386144,1.26485326470935e-134
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,LYPD2,1.11285127660192,4.53820952736017e-112
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,C9orf24,1.08878957572473,9.41154493345118e-112
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,AC007906.2,1.26657955995262,5.38145242542164e-107
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,RP1,0.955225139678082,2.65956720723704e-102
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,HSPA6,-1.20406281955912,8.85924848539261e-98
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,BPIFB1,0.934635429745598,3.06309735842056e-95
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,GSTA2,-1.24407006335779,1.8307840140668e-87
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SAA1,2.23948562784116,1.4972175760194e-74
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,OMG,1.22719557718604,6.27478335397719e-68
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,PIFO,-0.975141096541716,1.28990322890226e-60
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SAA2,1.94136104143299,4.44060366850837e-59
+Ravindra NG. (Bronchial epithelial cells),Airway,Ciliated cells,SCGB1A1,-0.935067864509207,2.56897149169477e-35
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CSTB,-2.57611217689999,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IGFBP3,-4.03588348139919,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IGFBP5,-4.70220789484682,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,PTHLH,-1.62023662912027,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,SLC2A1,-1.39751242465209,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,SLC6A8,-2.57382684368771,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,TFF3,-8.36031070877584,0.0
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,NDRG1,-1.68363769418331,2.37e-321
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,NMB,-2.56120683669202,1.1069e-319
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,S100P,-3.41391434053292,1.51131e-318
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,ERO1A,-1.52251441074664,9.58784415097327e-302
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,LDHA,-1.35611697046363,4.10590656010111e-258
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,MT1X,-2.45528283574169,9.15720617902323e-256
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,SCGB1A1,-18.3605928393731,1.99016705785927e-211
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,LY6E,1.51457196279191,4.6985962996032e-211
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,LINC01559,-1.58657643244049,1.07434957704096e-200
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFITM3,1.90880144925958,6.14343954367835e-198
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFI27,3.55983360569246,7.15219324317406e-198
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,TF,-1.52493734885704,1.0234022007196e-191
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,TNFSF10,1.53922755039557,5.87750001235596e-180
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,EDN2,-1.74249895569381,2.25551835471285e-171
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,ANKRD37,-1.50570343564459,1.88082576186418e-167
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,TM4SF1,-1.62967502576787,4.418938652374e-167
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CTSC,1.3788483085218,4.86427934465335e-162
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,ATP12A,-1.70150301277737,3.91101488385006e-160
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFI44L,1.57274088143634,1.80281893292401e-154
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,GSTA1,1.38597640478625,5.53644032393207e-144
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,BST2,1.5316653357025,2.85490654201091e-142
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFIT1,1.89099098207793,3.54671660633106e-137
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFI6,2.30897811627384,1.33241386238545e-136
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,FTH1,-1.20893866235722,1.16767681941147e-134
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFIT3,1.83847089670983,1.17249010893906e-130
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,ISG15,3.45203740982007,3.899638876726e-129
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,MX1,1.94427121140208,6.30884261505085e-126
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,FCGBP,4.25352191003129,2.19710798043631e-125
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,MX2,1.483999735179,7.94875737187709e-123
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,VMO1,-3.27749742964227,1.49013483465666e-122
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,MSMB,6.55570053149291,5.42455140583287e-112
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,SCGB3A1,10.2416761691722,2.044864428515e-100
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CP,-2.06680181853904,6.27104077909808e-97
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,BPIFA2,-1.70396579020693,1.59027401110576e-88
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,LCN2,6.34172509436009,3.66658028759062e-80
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CD55,1.28938123278985,1.69932958413607e-76
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,IFIT2,1.91675121296196,1.67090901839007e-70
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,C3,2.64653930358288,3.07395924985224e-66
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,PSCA,1.53055459393264,1.21830595368357e-65
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CEACAM6,2.62340938000618,1.14021082045866e-63
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,PI3,2.15675512377096,2.19004226800507e-60
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CCL20,-2.43931868200628,1.28601103475382e-59
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,SLPI,1.91872340444746,1.56507852183762e-59
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,MESP1,-1.14999902019587,1.41114091347961e-56
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,LYPD2,4.31027524925154,4.63510342253125e-36
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,PIGR,1.69292775736089,6.57131099237067e-33
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,WFDC2,-1.83571990807703,5.02412781582501e-22
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,BPIFB1,2.69113853516418,4.53280298100289e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Club cells,CXCL8,-1.26776213001573,2.00566989544255e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,GAPDH,-2.66194764313424,4.27990728951219e-67
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,VEGFA,-1.95846788819555,7.27666368932391e-65
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,P4HA1,-1.56163494897656,9.30474623724665e-64
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,NDUFA4L2,-2.54657641818673,1.23229944463168e-59
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,NDRG1,-1.97273481122781,1.29846825949788e-59
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,ENO1,-1.64220701495883,1.31600829384202e-44
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,SLC2A1,-1.13430193381686,2.13144023138514e-43
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,HILPDA,-2.79526064488792,1.3661941079594e-42
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,NEAT1,-2.04374723920708,3.78560201916912e-38
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,EGLN3,-1.61342329881872,2.61573423890975e-30
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,GPI,-1.19845652222996,1.37652758580311e-28
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,ITPR2,4.9843104376112,2.70968810546944e-28
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,BNIP3,-1.30551233324696,1.05056703485213e-24
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,MIAT,-3.97876179423987,1.06818186919899e-24
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,LDHA,-1.18578261664831,5.68734054405089e-24
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,WSB1,-1.15078213393365,1.2895501234896e-23
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,FTH1,-1.17789512781786,4.06252259083908e-23
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,MALAT1,-1.53564164711508,2.44700633556884e-21
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,CFTR,7.64210694834404,8.561634349231e-21
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,TMEM61,3.92694555339214,9.37378666512829e-21
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,THBS1,3.54814237930162,2.24804737435325e-20
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,CLNK,6.04337220480005,5.60028047342036e-20
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,NXPH4,-1.14498338047748,4.71566940053222e-17
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,COL3A1,7.2291681407764,6.38665866644924e-17
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,TMPRSS11E,8.14968865202952,1.61272385512887e-16
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,HEPACAM2,4.65642480777518,1.06268160403078e-15
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,IGF1,5.76533263369153,3.34459246367375e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,TUBB2B,-3.73241079506392,6.27925942150924e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,SCG2,3.10038902291987,6.72843695908791e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,DGKI,4.82148214761531,1.8675985589291e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,KCNMA1,3.09462211846905,3.17992576706073e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,GDF15,-1.28285607509354,4.84119961792772e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,GABRB2,4.69530547049475,9.64713697290442e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,EFHD1,3.27962473451178,3.21210436531396e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,POSTN,6.86833423047074,4.77039782704257e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,LINC01187,2.71801360151718,2.21421962858217e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,SLC35F3,3.18709032111315,2.75065999207931e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,ADGRF5,4.88028993335253,5.85063372327127e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,PDE1C,3.97998663627435,2.15827639060799e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,CAMK2B,2.78443014390433,3.56726897159235e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,HHIP-AS1,3.04285395763739,5.78164387216433e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,AZGP1,-5.62666985365997,1.95665819943114e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,GJC3,-2.21140279437935,3.06857539835548e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,SOSTDC1,3.95413631991697,6.88882168927193e-08
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,RARRES2,2.99733954876825,1.63485916161045e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,DDX4,2.91239266662643,2.47272306318196e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,SOX4,-2.06028569113353,3.24997544186947e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,KIT,-2.47589163038278,4.76102220817311e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,TFCP2L1,-1.27661054586629,9.30042065119155e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,STAC2,2.89514803370647,1.06324724126167e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,ASCL3,4.13188731552711,1.58594414873734e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,TFF3,-2.10386700013631,1.74876106603462e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,BSND,2.8047611439354,8.17911868568752e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,ATP6V1G3,2.81464402714455,9.63616296537277e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Lonocyte,CD70,-1.62160201113295,0.00035161009353222
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,NDRG1,-5.40944247256664,2.98248867531157e-55
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,HILPDA,-6.74816852125461,1.66119953814689e-52
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,VEGFA,-2.07492597227319,2.77390060463984e-49
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SLC2A1,-2.38659743843259,1.42173603353906e-47
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,P4HA1,-1.99021616456235,5.07889146080328e-47
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,IFI27,8.10596104232803,4.66434540276293e-40
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ERO1A,-2.05860071994751,9.15026430436073e-38
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,LDHA,-2.72550000455071,1.86053774584647e-35
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ANKRD37,-5.22851692190909,2.96581014906965e-35
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SLC6A8,-1.93259966834724,2.31929985417565e-32
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,NDUFA4L2,-3.14163938732103,7.78218238726552e-32
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,GAPDH,-3.08071190184666,9.17630978252866e-30
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,EGLN3,-2.17512328322345,1.23992014130423e-29
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ADM,-2.01652644094505,6.00664096437086e-29
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,HK2,-2.21600029390121,7.18794241371995e-29
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,IGFBP3,-3.17194601549308,3.65358902067506e-28
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,MKNK2,-1.62465388935712,4.30419922725324e-26
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,PHGR1,17.3684155082542,1.25682296233648e-24
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,MT1X,-5.24566231505097,2.58990724791298e-24
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SLC6A6,-2.07238610877082,5.6239456613073e-24
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,IFI6,7.36999482591534,2.16708197589608e-23
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ASCL1,18.109760760664,5.22287038153053e-23
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ENO2,-1.60497186206879,2.37242775762647e-22
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,NEAT1,-1.72692001263558,1.42694443770004e-20
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SEC11C,14.8212300829957,3.1848328183143e-20
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,GPI,-1.59663859751631,8.46907637119361e-20
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,MAOB,8.65150614129261,5.61915730444377e-17
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,HES6,9.70401287573383,1.37959401784666e-16
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,CACNA1A,12.7333985205335,1.98864447702594e-16
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SLC26A9,10.2081737589168,2.24780013725406e-16
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,CSTB,-1.90409122163885,3.59324136361326e-16
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,LGALS1,-1.97382577091954,1.49425753897793e-15
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,TMEM176B,9.19420199688735,1.87703552259975e-15
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,DDC,11.2980107967265,2.44366613399872e-15
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ST18,11.2801570437353,1.05615169475565e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,HOXB5,10.9130934636434,1.06895655573769e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SCN3A,10.9459659041012,1.10296813366372e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,GDF15,-1.94737334695684,1.61383531898052e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,DEPP1,-3.45618198592892,2.36951329802286e-14
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SYT1,13.8807422612293,2.55848580444857e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,OR51E1,12.3905216307302,4.96525169906452e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ESPL1,6.87871537726784,7.75867057338335e-13
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SLC38A11,9.28864165846705,1.46573333174194e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,TMEM176A,9.22285919706026,3.0762613023779e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,RGS4,7.04002478251095,7.39252098783191e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,C2CD4B,11.3125418019877,7.83132327544314e-12
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SUCNR1,12.1064545963465,1.7337213129142e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,PROX1,8.70214957021246,2.2685222743973e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,S100P,-1.85412782264283,4.9679018445944e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,PEX5L,8.43926286468304,6.56606126007528e-11
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,KRT16,-2.09555430813195,2.3241355933661e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,RET,8.86797447220488,3.00930458422581e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,ADCYAP1,9.55771544733379,4.73426134296102e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,PDGFB,-2.36984910488323,6.07076554235214e-10
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SCGN,9.66199413137741,1.259681068931e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,TPH1,12.1003021694972,4.76858062231631e-09
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,PCSK2,7.35544637717346,2.43572939712132e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,COL22A1,6.85404633134775,4.15184734480132e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,MT2A,-2.80026799529444,5.72774618125131e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,CHGA,9.8961912236703,6.65920830132237e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SYT13,6.77872488743629,6.90085051512398e-07
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,KCNA1,6.91999867975784,1.44794146138584e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,NUP210,-3.43364455720133,1.95322702276214e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,QPCT,7.28267275763412,4.85836421056642e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,KIF5C,6.77611694155862,5.3690305190997e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,AC015819.2,-3.26034221272293,5.76803768202394e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,NPPA,6.52295663295173,6.57696076947555e-06
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,SCG3,7.01926351619102,2.47380303713131e-05
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,RAB3B,7.55355626794622,4.59295328549365e-05
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,PIEZO2,-1.8144504337101,0.0235394300786669
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,AMPH,-2.18336467315702,0.0258113461090829
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,VGF,-3.63218246965338,0.0362818503398525
+Ravindra NG. (Bronchial epithelial cells),Airway,Neuroendocrine cells,TFF3,-3.64983353208835,0.0414232654883767

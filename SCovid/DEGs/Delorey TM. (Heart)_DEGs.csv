@@ -1,0 +1,424 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Delorey TM. (Heart),Heart,Cardiomyocytes,CHL1,-0.135888156846265,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,CKB,-0.159505538133224,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,CLU,-0.161356997138906,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,DSP,-0.171363407238242,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,EEF1A2,-0.366342419415205,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,ENDOG,-0.113537974334095,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,FGF12,0.235668025065124,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,HIST2H2BE,-0.115930703032948,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,HNRNPH2,-0.135974138280964,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,HSPB6,-0.443086092783279,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,IER3,-0.144090186649571,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,KIF1C,-0.224797223189932,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MAP1A,-0.162418418573737,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MB,-0.384222451626638,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MRPL41,-0.266659633641563,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-ATP6,-0.370956598741185,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-CO2,-0.404456568664137,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-CO3,-0.317062056737098,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-CYB,-0.25625543534075,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-ND1,-0.339737447236476,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-ND2,-0.392367575776529,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-ND4,-0.399535544085615,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT2A,-0.265383136991126,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,NFE2L1,-0.28517807193855,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,OTUD1,-0.185327816551672,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,PCDH7,0.257639130544425,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,ROR1-AS1,0.256439853110096,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,S100A1,-0.333456848131961,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,SHISA4,-0.138592780201285,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,SLC25A4,-0.246629371792644,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,TCAP,-0.394146327157775,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,XIRP1,-0.181409936920875,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,ZBTB47,-0.244848849658929,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,ZNF358,-0.173482166543287,0.0
+Delorey TM. (Heart),Heart,Cardiomyocytes,RPL13,-0.194734349832084,1.15e-321
+Delorey TM. (Heart),Heart,Cardiomyocytes,LMOD2,0.314276723331862,6.04540187312491e-294
+Delorey TM. (Heart),Heart,Cardiomyocytes,CHPF,-0.12079371102536,3.73859473023783e-293
+Delorey TM. (Heart),Heart,Cardiomyocytes,RPL29,-0.16390256707585,2.20121404591473e-288
+Delorey TM. (Heart),Heart,Cardiomyocytes,DDX60L,0.24229278388027,9.51219425878229e-276
+Delorey TM. (Heart),Heart,Cardiomyocytes,TNNC1,-0.269067111402846,5.22931583968866e-275
+Delorey TM. (Heart),Heart,Cardiomyocytes,DMD,0.295822700331746,2.5388424769157e-266
+Delorey TM. (Heart),Heart,Cardiomyocytes,GSN,-0.130771804144597,2.23692217097117e-260
+Delorey TM. (Heart),Heart,Cardiomyocytes,HSP90AA1,-0.315092361185916,3.09939262985448e-259
+Delorey TM. (Heart),Heart,Cardiomyocytes,COX4I1,-0.159396810583977,1.84822701146753e-252
+Delorey TM. (Heart),Heart,Cardiomyocytes,CACNA1C,0.267367651485874,1.4648240675513e-241
+Delorey TM. (Heart),Heart,Cardiomyocytes,FTL,-0.161133219133474,4.5837595809447e-231
+Delorey TM. (Heart),Heart,Cardiomyocytes,ELN,-0.129148583728339,1.10176662515883e-230
+Delorey TM. (Heart),Heart,Cardiomyocytes,FHL2,0.247781088958651,1.01575571763591e-229
+Delorey TM. (Heart),Heart,Cardiomyocytes,GPX3,-0.162756121464473,3.56352648827158e-219
+Delorey TM. (Heart),Heart,Cardiomyocytes,LAMA2,0.266788116794546,9.98609560020683e-217
+Delorey TM. (Heart),Heart,Cardiomyocytes,NPPB,-0.209433569250823,3.03972105494838e-209
+Delorey TM. (Heart),Heart,Cardiomyocytes,SLC8A1,0.241377752913012,8.72333968254391e-207
+Delorey TM. (Heart),Heart,Cardiomyocytes,RYR2,0.283942543957346,2.53285395183545e-200
+Delorey TM. (Heart),Heart,Cardiomyocytes,PDLIM5,0.262033528773458,1.78235008382384e-181
+Delorey TM. (Heart),Heart,Cardiomyocytes,PALLD,0.287350939878485,6.80851168006634e-174
+Delorey TM. (Heart),Heart,Cardiomyocytes,TMEM71,0.247337987664182,4.86480442710558e-172
+Delorey TM. (Heart),Heart,Cardiomyocytes,FHOD3,0.284965679409996,2.91435290328365e-162
+Delorey TM. (Heart),Heart,Cardiomyocytes,CTNND2,0.242941935086983,1.40065676710045e-152
+Delorey TM. (Heart),Heart,Cardiomyocytes,HSPB7,-0.326000586360581,3.30131453819261e-148
+Delorey TM. (Heart),Heart,Cardiomyocytes,HSPB1,-0.211520657551533,6.56678789522622e-140
+Delorey TM. (Heart),Heart,Cardiomyocytes,SLC1A3,0.257237379686742,5.50994230949728e-138
+Delorey TM. (Heart),Heart,Cardiomyocytes,EMC10,0.297364963436241,1.34411077204987e-129
+Delorey TM. (Heart),Heart,Cardiomyocytes,CPED1,0.277551135104213,1.0294377785102e-120
+Delorey TM. (Heart),Heart,Cardiomyocytes,AKAP6,0.334762809186643,3.35972307234955e-117
+Delorey TM. (Heart),Heart,Cardiomyocytes,TTN-AS1,0.247597259147452,4.47307693785232e-113
+Delorey TM. (Heart),Heart,Cardiomyocytes,PLCL1,0.246660745787814,1.60230556605826e-112
+Delorey TM. (Heart),Heart,Cardiomyocytes,MT-ND3,-0.188121910647764,2.08241640501838e-110
+Delorey TM. (Heart),Heart,Cardiomyocytes,MYO18B,0.303301757202978,1.4742366039211e-109
+Delorey TM. (Heart),Heart,Cardiomyocytes,PDZRN3,0.255830972561315,2.07307854985806e-108
+Delorey TM. (Heart),Heart,Cardiomyocytes,SORBS2,0.248884697546185,1.01016557573171e-107
+Delorey TM. (Heart),Heart,Cardiomyocytes,RCAN2,0.272228249625678,3.41757582227416e-107
+Delorey TM. (Heart),Heart,Cardiomyocytes,NCAM1,0.289065893286693,4.68969666363322e-106
+Delorey TM. (Heart),Heart,Cardiomyocytes,EXOC6B,0.290851453951932,8.554732247385e-105
+Delorey TM. (Heart),Heart,Cardiomyocytes,PDE3A,0.245019535235043,1.93355689645977e-100
+Delorey TM. (Heart),Heart,Cardiomyocytes,ROR1,0.325447527636894,7.7904702606766e-98
+Delorey TM. (Heart),Heart,Cardiomyocytes,SGCD,0.236698762803582,3.15119801953314e-97
+Delorey TM. (Heart),Heart,Cardiomyocytes,FRY,0.258038303768423,1.35417005449537e-96
+Delorey TM. (Heart),Heart,Cardiomyocytes,CTNNA3,0.293125597878227,3.61826070872264e-96
+Delorey TM. (Heart),Heart,Cardiomyocytes,SLC8A1-AS1,0.293477760351179,8.89232729368386e-91
+Delorey TM. (Heart),Heart,Cardiomyocytes,C15orf41,0.24237326532036,2.60766954484075e-90
+Delorey TM. (Heart),Heart,Cardiomyocytes,NCKAP5,0.26190719517595,3.04270298775972e-89
+Delorey TM. (Heart),Heart,Cardiomyocytes,INPP4B,0.276675171626426,3.28242412059343e-88
+Delorey TM. (Heart),Heart,Cardiomyocytes,DES,-0.228919572363767,4.6830356637465e-88
+Delorey TM. (Heart),Heart,Cardiomyocytes,XPR1,0.268661263942493,2.64876724579903e-85
+Delorey TM. (Heart),Heart,Cardiomyocytes,MAST4,0.258672811487762,4.02835825207362e-85
+Delorey TM. (Heart),Heart,Cardiomyocytes,NMRK2,-0.115251611434677,1.33824601982857e-83
+Delorey TM. (Heart),Heart,Cardiomyocytes,RBM20,0.309970080579825,1.52627679411856e-83
+Delorey TM. (Heart),Heart,Cardiomyocytes,MAGI1,0.23867991242912,1.67197101762502e-82
+Delorey TM. (Heart),Heart,Cardiomyocytes,RBMS3,-0.118946647810469,5.9621768495231e-77
+Delorey TM. (Heart),Heart,Cardiomyocytes,MLIP,0.276056963584393,7.8132187236873e-76
+Delorey TM. (Heart),Heart,Cardiomyocytes,MYL9,-0.112233452360781,1.13099994400306e-75
+Delorey TM. (Heart),Heart,Cardiomyocytes,MYPN,0.302074439734154,1.51725974764789e-70
+Delorey TM. (Heart),Heart,Cardiomyocytes,C9orf3,0.247644716558649,3.6376461302844e-69
+Delorey TM. (Heart),Heart,Cardiomyocytes,CCSER1,0.286793589093339,6.94054755036422e-64
+Delorey TM. (Heart),Heart,Cardiomyocytes,TRDN,0.288545327358442,4.41164451273451e-61
+Delorey TM. (Heart),Heart,Cardiomyocytes,DTNA,0.248421349888673,1.08170674519068e-58
+Delorey TM. (Heart),Heart,Cardiomyocytes,MYOZ2,0.271687085345126,2.99930145938235e-57
+Delorey TM. (Heart),Heart,Cardiomyocytes,PGM5,0.23929224182194,2.28806831324908e-48
+Delorey TM. (Heart),Heart,Endothelial cells,ACSL1,-0.299394453265947,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,ANO2,0.309126610540307,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,CD96,-0.257537154694328,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,CYYR1,0.260692817039981,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,CYYR1-AS1,0.250907225186525,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,EMCN,0.256106200577928,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,ERG,0.259485403488778,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,FLT1,0.325039112242888,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,GALNT18,0.327052404738345,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,GHR,-0.217182960610876,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,GPAM,-0.590539233075128,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,IKZF1,-0.209750628073182,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,INHBA,-0.248141092677232,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,ITGA4,-0.206337674478843,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,LDB2,0.378909032599602,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,LINC00639,0.269446629031492,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,MCF2L,0.277276806657806,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,MECOM,0.353294905960293,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,MME,-0.312509931142886,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,MT-CO2,-0.196707459769841,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,PDE3B,-0.243731603359096,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,PECAM1,0.252496508326717,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,PLEKHG1,0.265048238630426,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,PTPRB,0.268194853247809,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,RNF144B,0.276274375853701,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,SHANK3,0.320327384169472,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,SLC19A3,-0.427192812368756,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,SLC9A3R2,0.263443937666533,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,ST6GALNAC3,0.464525112797478,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,ST8SIA6,0.255035386261597,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,TENM3,-0.231459576063451,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,TPO,0.258606952321741,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,VWF,0.413679951609026,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,ZEB2,-0.213362005449132,0.0
+Delorey TM. (Heart),Heart,Endothelial cells,MT-ND4,-0.20198258855186,3.79525858490537e-305
+Delorey TM. (Heart),Heart,Endothelial cells,PTPRM,0.331380912130865,2.9091086874516e-300
+Delorey TM. (Heart),Heart,Endothelial cells,PLCB1,0.278290598263859,1.04548215988444e-282
+Delorey TM. (Heart),Heart,Endothelial cells,PITPNC1,0.278052698583023,1.36308535329415e-281
+Delorey TM. (Heart),Heart,Endothelial cells,ADAMTS12,-0.267542285749209,7.81433834216693e-271
+Delorey TM. (Heart),Heart,Endothelial cells,ABCB1,0.265231086596971,6.50165872776007e-270
+Delorey TM. (Heart),Heart,Endothelial cells,ARHGAP15,-0.201544885865562,1.6936396547988e-253
+Delorey TM. (Heart),Heart,Endothelial cells,PRKAR2B,-0.440025221249937,7.2863506482457e-239
+Delorey TM. (Heart),Heart,Endothelial cells,ADAM12,-0.242717793658414,3.85452021024903e-223
+Delorey TM. (Heart),Heart,Endothelial cells,CDH13,0.297379244482507,1.28351716102861e-216
+Delorey TM. (Heart),Heart,Endothelial cells,MSC-AS1,-0.219250999693586,1.07458401672656e-196
+Delorey TM. (Heart),Heart,Endothelial cells,RUNX1,-0.231641510617848,5.63261915086696e-184
+Delorey TM. (Heart),Heart,Endothelial cells,PLA2G5,-0.240071950739195,3.02438206539655e-180
+Delorey TM. (Heart),Heart,Endothelial cells,ADAMTS9,0.287520146158446,7.42509138082017e-179
+Delorey TM. (Heart),Heart,Endothelial cells,BTNL9,0.321948102061154,1.84960788391033e-168
+Delorey TM. (Heart),Heart,Endothelial cells,UBE2E2,-0.204780520365544,1.25748728821775e-159
+Delorey TM. (Heart),Heart,Endothelial cells,DLC1,-0.280778173161418,2.50759434966553e-145
+Delorey TM. (Heart),Heart,Endothelial cells,KCNQ3,-0.196681308476121,1.53686945801142e-141
+Delorey TM. (Heart),Heart,Endothelial cells,PRKG1,-0.276375717555099,5.48027682066367e-140
+Delorey TM. (Heart),Heart,Endothelial cells,EPS8,-0.217302890516737,5.48465009833489e-124
+Delorey TM. (Heart),Heart,Endothelial cells,PARD3,-0.223302815823493,1.73691969372926e-95
+Delorey TM. (Heart),Heart,Endothelial cells,SNTG2,0.259712221822852,4.29507028964642e-78
+Delorey TM. (Heart),Heart,Endothelial cells,LPP,-0.223033599969377,6.44481650699316e-58
+Delorey TM. (Heart),Heart,Endothelial cells,CALD1,-0.224801444227443,2.56957166869523e-10
+Delorey TM. (Heart),Heart,Fibroblasts,ABCA6,0.160012505881768,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,ACSM3,0.167782143856857,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,BGN,0.168191420119808,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,CDH19,0.213076473445095,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,CHD9,0.149648244635516,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,COL12A1,0.228666997097844,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,COL6A3,0.239694673783301,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,COL8A1,0.227132863833483,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,CYP8B1,-0.0783469707996229,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,DKK2,-0.0724214385928768,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,FN1,0.334357389682965,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,GRIA1,-0.0724535673061058,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,KCNMB4,-0.0660160880782544,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,LAMA2,0.201619296635659,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,LMX1A,-0.0670257713837803,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,LTBP2,0.166991578593133,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,MGST1,0.17766712760135,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,MT-CO2,-0.111373169680079,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,MT-CYB,-0.0804530404210056,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,MT-ND2,-0.112306113052294,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,MT-ND4,-0.098498691629952,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,PDGFD,0.167336670500146,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,PKHD1L1,-0.0928079884474449,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,PKNOX2,0.19663038972235,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,PTGS1,-0.07594404165838,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,RORA,0.202921005046525,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,RUNX1,0.153679092860428,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,SERPINE1,0.157624227004474,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,SERPINE2,0.223127670785851,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,TENM4,0.24724230200615,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,THBS2,0.166429533072457,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,TNC,0.257784532441074,0.0
+Delorey TM. (Heart),Heart,Fibroblasts,MT-ATP6,-0.122009633506574,1e-323
+Delorey TM. (Heart),Heart,Fibroblasts,MT-CO3,-0.0819115885760327,9.453899e-317
+Delorey TM. (Heart),Heart,Fibroblasts,BMPER,-0.0860790610711687,4.7888215e-316
+Delorey TM. (Heart),Heart,Fibroblasts,BICC1,0.27891174112133,1.06830910783671e-309
+Delorey TM. (Heart),Heart,Fibroblasts,CLU,-0.0956294380473144,3.72181513119529e-303
+Delorey TM. (Heart),Heart,Fibroblasts,LINC00639,-0.0795111170732417,6.0836604169101e-302
+Delorey TM. (Heart),Heart,Fibroblasts,ELOVL7,-0.0666710136000366,2.93457146394239e-295
+Delorey TM. (Heart),Heart,Fibroblasts,F13A1,-0.0784963748825527,1.22107626130198e-288
+Delorey TM. (Heart),Heart,Fibroblasts,MYH13,0.150303098800523,2.62091712192234e-285
+Delorey TM. (Heart),Heart,Fibroblasts,SCN7A,0.190770145805021,1.55688433860379e-268
+Delorey TM. (Heart),Heart,Fibroblasts,AC015987.1,-0.0680670072724872,3.01698641851502e-256
+Delorey TM. (Heart),Heart,Fibroblasts,NOX4,0.250050915822637,1.6822825807549e-255
+Delorey TM. (Heart),Heart,Fibroblasts,LAMC1,0.178676033631896,6.81368176571718e-254
+Delorey TM. (Heart),Heart,Fibroblasts,COL6A1,0.170950450945936,1.67502930515856e-252
+Delorey TM. (Heart),Heart,Fibroblasts,NRG3,-0.0671838633137901,2.07360683375545e-250
+Delorey TM. (Heart),Heart,Fibroblasts,NRXN1,-0.0732515886321071,1.53102167731126e-247
+Delorey TM. (Heart),Heart,Fibroblasts,XKR4,-0.079676371171916,6.25652420425283e-241
+Delorey TM. (Heart),Heart,Fibroblasts,VEGFC,-0.0827726984459236,8.48873591158313e-230
+Delorey TM. (Heart),Heart,Fibroblasts,FBN1,0.183849823097862,2.89556990281763e-214
+Delorey TM. (Heart),Heart,Fibroblasts,ABCA9-AS1,0.153972694764836,4.76808728459585e-212
+Delorey TM. (Heart),Heart,Fibroblasts,COL3A1,0.169496254200062,1.50799593080106e-205
+Delorey TM. (Heart),Heart,Fibroblasts,MT-ND1,-0.0837227528695535,5.47164409311625e-204
+Delorey TM. (Heart),Heart,Fibroblasts,COL5A2,0.168493632718475,4.61363885989612e-198
+Delorey TM. (Heart),Heart,Fibroblasts,ERG,-0.0665563497278781,1.01937383740541e-183
+Delorey TM. (Heart),Heart,Fibroblasts,ACTC1,-0.0696393705006907,6.81952949676735e-177
+Delorey TM. (Heart),Heart,Fibroblasts,BNC2,0.217234723966308,4.44942787791229e-169
+Delorey TM. (Heart),Heart,Fibroblasts,ANKS1B,0.164149726460635,2.13324543578664e-167
+Delorey TM. (Heart),Heart,Fibroblasts,CHL1,-0.0673548806338001,2.16034005208436e-159
+Delorey TM. (Heart),Heart,Fibroblasts,FNDC3B,0.17221703860469,9.41000633209531e-144
+Delorey TM. (Heart),Heart,Fibroblasts,PIK3C2B,-0.0706088244997212,2.93476055121852e-143
+Delorey TM. (Heart),Heart,Fibroblasts,EGFR,0.18973546429668,3.20073854130259e-140
+Delorey TM. (Heart),Heart,Fibroblasts,SLCO2A1,-0.0831472517029992,1.29074561748273e-139
+Delorey TM. (Heart),Heart,Fibroblasts,FAM155A,-0.0728766271201267,1.34388842562636e-137
+Delorey TM. (Heart),Heart,Fibroblasts,KIRREL3,-0.0679854027435454,1.23031723124702e-120
+Delorey TM. (Heart),Heart,Fibroblasts,SVEP1,0.188145567258043,2.78541788065371e-109
+Delorey TM. (Heart),Heart,Fibroblasts,SMAD6,-0.0884124366727815,5.1677964986454e-108
+Delorey TM. (Heart),Heart,Fibroblasts,MB,-0.0675900995667105,3.33670687278706e-107
+Delorey TM. (Heart),Heart,Fibroblasts,GAS7,0.154668719438275,2.73107730419895e-98
+Delorey TM. (Heart),Heart,Fibroblasts,THSD7A,-0.0908017071550592,2.08463517465265e-95
+Delorey TM. (Heart),Heart,Fibroblasts,SPOCK1,0.218292356037291,1.42290199880222e-92
+Delorey TM. (Heart),Heart,Fibroblasts,TMSB4X,-0.0719708599276495,1.48614510910762e-88
+Delorey TM. (Heart),Heart,Fibroblasts,TGM2,-0.0755061567243943,1.9894178708638e-61
+Delorey TM. (Heart),Heart,Fibroblasts,ACACB,-0.0652635647649568,3.93920709901256e-54
+Delorey TM. (Heart),Heart,Fibroblasts,PAPPA,0.176503572342359,7.24204703203352e-51
+Delorey TM. (Heart),Heart,Fibroblasts,PECAM1,-0.113929079905723,1.77697710392057e-27
+Delorey TM. (Heart),Heart,Fibroblasts,COL1A2,0.16726047275947,1.53106657332701e-19
+Delorey TM. (Heart),Heart,Fibroblasts,LDB2,-0.0950885159986171,1.96394697498242e-19
+Delorey TM. (Heart),Heart,Fibroblasts,RALGAPA2,-0.0740546050238853,1.78091409031218e-17
+Delorey TM. (Heart),Heart,Fibroblasts,GPC6,0.152576352758494,2.22035562518867e-09
+Delorey TM. (Heart),Heart,Fibroblasts,ENTPD1-AS1,-0.0795688552608698,9.38001402482053e-06
+Delorey TM. (Heart),Heart,Macrophages,HLA-DRA,-0.283859820893674,0.0
+Delorey TM. (Heart),Heart,Macrophages,DOCK10,0.333622964320784,7.105e-321
+Delorey TM. (Heart),Heart,Macrophages,ST8SIA4,-0.177189138226373,5.85096011114686e-304
+Delorey TM. (Heart),Heart,Macrophages,SKAP1,0.51805895914494,7.35018293266764e-252
+Delorey TM. (Heart),Heart,Macrophages,IKZF1,0.345629027977955,3.93325480446556e-229
+Delorey TM. (Heart),Heart,Macrophages,CD74,-0.1652750654651,7.16699791848807e-188
+Delorey TM. (Heart),Heart,Macrophages,TNFRSF11A,-0.275007342376275,8.97264123962863e-181
+Delorey TM. (Heart),Heart,Macrophages,PTPRC,0.502707445980553,1.77478637264514e-176
+Delorey TM. (Heart),Heart,Macrophages,CYTIP,0.320380272171128,1.86976198063368e-172
+Delorey TM. (Heart),Heart,Macrophages,PTPRJ,0.23927551996162,3.52494709972035e-165
+Delorey TM. (Heart),Heart,Macrophages,PRLR,-0.21493672179632,1.53801483292019e-161
+Delorey TM. (Heart),Heart,Macrophages,LY86,-0.16515018473421,2.51844413251849e-152
+Delorey TM. (Heart),Heart,Macrophages,IL10RA,-0.251428088290332,2.28372268712397e-144
+Delorey TM. (Heart),Heart,Macrophages,ITGAX,-0.229547545075985,2.27080051772877e-123
+Delorey TM. (Heart),Heart,Macrophages,LPAR5,-0.198951980170774,3.87308020465127e-122
+Delorey TM. (Heart),Heart,Macrophages,SMOX,-0.215409020412552,9.55404584318469e-114
+Delorey TM. (Heart),Heart,Macrophages,AC024084.1,-0.188124839199353,1.47903257317266e-111
+Delorey TM. (Heart),Heart,Macrophages,CD247,0.402760612803427,2.06612838979947e-111
+Delorey TM. (Heart),Heart,Macrophages,PKHD1L1,-0.169295556441954,1.40166308611926e-108
+Delorey TM. (Heart),Heart,Macrophages,EMB,0.243820131255486,1.99606321459083e-103
+Delorey TM. (Heart),Heart,Macrophages,CD28,-0.288140870489024,1.51345530876712e-100
+Delorey TM. (Heart),Heart,Macrophages,ACPP,-0.225272977949984,9.57767105108552e-94
+Delorey TM. (Heart),Heart,Macrophages,KIT,0.295240621967551,9.30109642507299e-90
+Delorey TM. (Heart),Heart,Macrophages,AOAH,0.400392966326442,2.29886527601349e-88
+Delorey TM. (Heart),Heart,Macrophages,SLC39A8,0.323900112251814,1.99353374618778e-84
+Delorey TM. (Heart),Heart,Macrophages,MPP1,-0.170189844936736,5.64889509653589e-83
+Delorey TM. (Heart),Heart,Macrophages,LCP1,0.323894056025417,1.17565970161057e-80
+Delorey TM. (Heart),Heart,Macrophages,CHST15,0.280829881043648,1.40439025152186e-77
+Delorey TM. (Heart),Heart,Macrophages,ZEB2,0.270170392843279,1.81306326406724e-73
+Delorey TM. (Heart),Heart,Macrophages,CD86,-0.281827502375342,9.17178330098574e-73
+Delorey TM. (Heart),Heart,Macrophages,ARHGAP15,0.286483992817708,7.24669745355389e-72
+Delorey TM. (Heart),Heart,Macrophages,SAMD3,0.210407319729156,1.75519637620336e-67
+Delorey TM. (Heart),Heart,Macrophages,KYNU,0.212636602318454,5.21724362975586e-67
+Delorey TM. (Heart),Heart,Macrophages,ZNF804A,0.210117330930709,4.75563255759289e-59
+Delorey TM. (Heart),Heart,Macrophages,S100A9,-0.4721632372176,4.68284002034648e-53
+Delorey TM. (Heart),Heart,Macrophages,MYO5A,0.212958212374229,6.29899568549106e-53
+Delorey TM. (Heart),Heart,Macrophages,C1QA,-0.323413077392642,8.03241672850475e-53
+Delorey TM. (Heart),Heart,Macrophages,RUNX3,0.440998109969046,1.45032215704145e-49
+Delorey TM. (Heart),Heart,Macrophages,ENTPD1-AS1,-0.175749509599269,3.41340100285611e-47
+Delorey TM. (Heart),Heart,Macrophages,FBXL7,-0.175251755187837,2.95128130613916e-41
+Delorey TM. (Heart),Heart,Macrophages,C1QB,-0.242205087376567,1.13656459147065e-39
+Delorey TM. (Heart),Heart,Macrophages,IQGAP2,0.272453858618941,3.11773875075321e-38
+Delorey TM. (Heart),Heart,Macrophages,FGD2,-0.226245434573157,3.27275263104065e-36
+Delorey TM. (Heart),Heart,Macrophages,DIRC3,0.241464352220648,1.93417136365851e-32
+Delorey TM. (Heart),Heart,Macrophages,ME1,0.223792550352468,3.95325611197302e-24
+Delorey TM. (Heart),Heart,Macrophages,KMO,0.269361446598824,9.05278732166174e-24
+Delorey TM. (Heart),Heart,Macrophages,SLC9A9,0.216616817525694,7.60725562169437e-20
+Delorey TM. (Heart),Heart,Macrophages,NFIB,-0.16762940978218,1.40598293690501e-18
+Delorey TM. (Heart),Heart,Macrophages,CSF3R,-0.23010987107136,1.58464183937063e-18
+Delorey TM. (Heart),Heart,Macrophages,IGF1R,-0.197740902204087,0.0193668651424311
+Delorey TM. (Heart),Heart,Neuronal cells,CHL1,3.55812776463195,1.18643755953927e-139
+Delorey TM. (Heart),Heart,Neuronal cells,PRIMA1,1.41184828858182,2.34604318570832e-126
+Delorey TM. (Heart),Heart,Neuronal cells,ST6GALNAC5,2.26429779808393,7.16568478700245e-119
+Delorey TM. (Heart),Heart,Neuronal cells,KCNMB4,1.91563191055304,4.20174844733049e-118
+Delorey TM. (Heart),Heart,Neuronal cells,FRMD5,2.39182500143626,6.17498598294022e-114
+Delorey TM. (Heart),Heart,Neuronal cells,TMEM132B,1.99249483250103,6.36958028709715e-113
+Delorey TM. (Heart),Heart,Neuronal cells,NRXN1,3.98210706591099,2.69869222851634e-106
+Delorey TM. (Heart),Heart,Neuronal cells,SLC35F1,3.33459010861674,1.05528585096727e-105
+Delorey TM. (Heart),Heart,Neuronal cells,XKR4,3.67529988291664,1.14127127177129e-101
+Delorey TM. (Heart),Heart,Neuronal cells,NRXN3,2.97107158470689,1.45726444721274e-101
+Delorey TM. (Heart),Heart,Neuronal cells,ARHGEF26,1.35000080007018,3.45122749478123e-97
+Delorey TM. (Heart),Heart,Neuronal cells,CDH19,1.70688058545921,5.68988252952678e-96
+Delorey TM. (Heart),Heart,Neuronal cells,PTPRZ1,2.30110150692065,2.8840456897546e-94
+Delorey TM. (Heart),Heart,Neuronal cells,ITGB8,1.69131376013986,6.95437598579516e-87
+Delorey TM. (Heart),Heart,Neuronal cells,TENM3,2.12514262466678,2.16822058157591e-86
+Delorey TM. (Heart),Heart,Neuronal cells,TRABD2B,1.3997156929914,3.51644844136207e-85
+Delorey TM. (Heart),Heart,Neuronal cells,ZNF536,2.64529289923782,4.976237256409e-85
+Delorey TM. (Heart),Heart,Neuronal cells,RELN,1.97362674379777,2.07447277225325e-84
+Delorey TM. (Heart),Heart,Neuronal cells,GRIA1,1.32448568901769,2.81932124135355e-82
+Delorey TM. (Heart),Heart,Neuronal cells,SHISA9,2.64401401888002,7.27576635680413e-79
+Delorey TM. (Heart),Heart,Neuronal cells,ANK3,1.36918429931218,1.29783208245645e-76
+Delorey TM. (Heart),Heart,Neuronal cells,TENM4,-0.385140009041909,1.35822617909119e-75
+Delorey TM. (Heart),Heart,Neuronal cells,KIRREL3,2.81390940890726,1.11337379896309e-73
+Delorey TM. (Heart),Heart,Neuronal cells,NLGN4X,1.35518980749334,3.52834651230988e-73
+Delorey TM. (Heart),Heart,Neuronal cells,SNCA,1.77905748092356,2.6032013250756e-71
+Delorey TM. (Heart),Heart,Neuronal cells,CADM2,2.29427731439607,1.52087807269619e-69
+Delorey TM. (Heart),Heart,Neuronal cells,NTM,1.30753607262782,1.01241929700029e-67
+Delorey TM. (Heart),Heart,Neuronal cells,CTNND2,1.25019122120418,1.55014189919272e-67
+Delorey TM. (Heart),Heart,Neuronal cells,NKAIN3,1.63411599391319,8.17369788834386e-65
+Delorey TM. (Heart),Heart,Neuronal cells,ADGRB3,1.40603663514828,1.25333945800124e-55
+Delorey TM. (Heart),Heart,Neuronal cells,SORCS1,2.3765010896212,2.49201952003855e-54
+Delorey TM. (Heart),Heart,Neuronal cells,FAP,-0.370038408103212,5.79287939310504e-54
+Delorey TM. (Heart),Heart,Neuronal cells,HS3ST2,1.43424570259775,7.03852049607749e-54
+Delorey TM. (Heart),Heart,Neuronal cells,NCAM2,1.65976565869302,1.12219874554372e-53
+Delorey TM. (Heart),Heart,Neuronal cells,POSTN,-0.405231763848637,6.91181905107578e-51
+Delorey TM. (Heart),Heart,Neuronal cells,GPM6B,2.12227925246462,9.55553144102009e-47
+Delorey TM. (Heart),Heart,Neuronal cells,FSIP1,-0.386431243655263,1.15627013358358e-40
+Delorey TM. (Heart),Heart,Neuronal cells,MYH13,-0.377598120769928,7.74772010020963e-38
+Delorey TM. (Heart),Heart,Neuronal cells,GNA14,-0.393148351808806,1.87364050592476e-29
+Delorey TM. (Heart),Heart,Neuronal cells,PLA2G5,-0.442912342026409,3.30034021656256e-29
+Delorey TM. (Heart),Heart,Neuronal cells,SERPINE1,-0.438880651291802,2.88207191775573e-26
+Delorey TM. (Heart),Heart,Neuronal cells,CYP19A1,-0.500918271782775,3.00960519390917e-22
+Delorey TM. (Heart),Heart,Neuronal cells,THUMPD1,-0.351131563338602,5.08188008103818e-22
+Delorey TM. (Heart),Heart,Neuronal cells,FN1,-0.485616440676666,3.98953066349954e-21
+Delorey TM. (Heart),Heart,Neuronal cells,RORA,-0.387538746088459,1.42763035725945e-20
+Delorey TM. (Heart),Heart,Neuronal cells,TMEM45B,-0.392131763893819,2.49488310081207e-20
+Delorey TM. (Heart),Heart,Neuronal cells,KIF2C,-0.373760075723571,2.38355620002096e-19
+Delorey TM. (Heart),Heart,Neuronal cells,PDGFD,-0.437157995544587,3.10934125069004e-18
+Delorey TM. (Heart),Heart,Neuronal cells,GFPT2,-0.345993350096774,4.6848576640558e-18
+Delorey TM. (Heart),Heart,Neuronal cells,BNC2,-0.438140249185236,5.68594143884628e-18
+Delorey TM. (Heart),Heart,Neuronal cells,SNED1,-0.374712914362187,1.09923428723205e-17
+Delorey TM. (Heart),Heart,Neuronal cells,FBXL7,-0.386315142479389,1.85761079247492e-15
+Delorey TM. (Heart),Heart,Neuronal cells,MCTP1,-0.354969149907654,3.16871299497662e-15
+Delorey TM. (Heart),Heart,Neuronal cells,LAMA2,-0.487938550617313,4.70341855071143e-10
+Delorey TM. (Heart),Heart,Neuronal cells,PRKG1,-0.537674322511436,9.90008269867522e-10
+Delorey TM. (Heart),Heart,Neuronal cells,CALD1,-0.497240986444162,4.69141335828425e-08
+Delorey TM. (Heart),Heart,Neuronal cells,EXT1,-0.371733502999426,1.10957555565893e-07
+Delorey TM. (Heart),Heart,Neuronal cells,NPAS2,-0.544732513519858,1.47730290891361e-07
+Delorey TM. (Heart),Heart,Neuronal cells,MSC-AS1,-0.362120951633102,3.55080730282108e-07
+Delorey TM. (Heart),Heart,Neuronal cells,COL6A1,-0.364176285091947,2.90686386594289e-06
+Delorey TM. (Heart),Heart,Neuronal cells,IGFBP7,-0.382364953943497,4.46395490022173e-05
+Delorey TM. (Heart),Heart,Neuronal cells,PTPRM,-0.42107391032216,9.6545821115649e-05
+Delorey TM. (Heart),Heart,Neuronal cells,AC007319.1,-0.51832516373006,0.000217670035027168
+Delorey TM. (Heart),Heart,Neuronal cells,EPS8,-0.37984496852147,0.000259807230538862
+Delorey TM. (Heart),Heart,Neuronal cells,NFIB,-0.379131234375998,0.0205797264851337
+Delorey TM. (Heart),Heart,Pericytes,ADAMTS1,-0.193810584760568,0.0
+Delorey TM. (Heart),Heart,Pericytes,ADAMTS4,0.211951255041898,0.0
+Delorey TM. (Heart),Heart,Pericytes,LINC01568,-0.457295891151599,0.0
+Delorey TM. (Heart),Heart,Pericytes,MOCS1,0.269351428842215,0.0
+Delorey TM. (Heart),Heart,Pericytes,ZBTB7C,-0.213706232132713,0.0
+Delorey TM. (Heart),Heart,Pericytes,MRVI1,-0.233653734886783,1e-323
+Delorey TM. (Heart),Heart,Pericytes,NFASC,-0.234962888231497,1.38986729903137e-263
+Delorey TM. (Heart),Heart,Pericytes,TRABD2B,-0.275106853339695,5.04785462173118e-243
+Delorey TM. (Heart),Heart,Pericytes,SLIT3,-0.345779711499355,4.53710544526712e-242
+Delorey TM. (Heart),Heart,Pericytes,CSRP1,-0.33826824243155,7.27992736009636e-236
+Delorey TM. (Heart),Heart,Pericytes,CDH20,0.217261388964981,1.32365704502794e-235
+Delorey TM. (Heart),Heart,Pericytes,RGS6,-0.341590837132473,1.52722889389326e-226
+Delorey TM. (Heart),Heart,Pericytes,MYLK,-0.199132984602141,4.78721473300306e-224
+Delorey TM. (Heart),Heart,Pericytes,PRDM16,-0.306829740720305,3.95995307891312e-209
+Delorey TM. (Heart),Heart,Pericytes,SORT1,-0.213650869053028,2.74390040161164e-202
+Delorey TM. (Heart),Heart,Pericytes,NTRK3,-0.468011201854025,1.02759147721633e-189
+Delorey TM. (Heart),Heart,Pericytes,RGS7BP,-0.249191911928703,1.06299748306177e-187
+Delorey TM. (Heart),Heart,Pericytes,FHL5,-0.210300029100737,3.72009272179086e-166
+Delorey TM. (Heart),Heart,Pericytes,CCDC102B,0.387190713031415,5.89132152905064e-166
+Delorey TM. (Heart),Heart,Pericytes,COL14A1,-0.37071720461331,1.14181650620985e-150
+Delorey TM. (Heart),Heart,Pericytes,CD36,0.207870590696089,1.06431820016618e-135
+Delorey TM. (Heart),Heart,Pericytes,CHRM3,-0.249403454293116,3.26416567711536e-130
+Delorey TM. (Heart),Heart,Pericytes,SLC16A12,0.242160215477998,9.00440433026356e-130
+Delorey TM. (Heart),Heart,Pericytes,RANBP3L,-0.227107107290443,3.93933286103199e-121
+Delorey TM. (Heart),Heart,Pericytes,SNX31,0.204466214691075,1.77005039642613e-120
+Delorey TM. (Heart),Heart,Pericytes,PTPN3,-0.193640986031949,5.08579444103597e-118
+Delorey TM. (Heart),Heart,Pericytes,SEMA5A,0.324449899957045,3.08324084690818e-114
+Delorey TM. (Heart),Heart,Pericytes,ITGA8,-0.929911998080254,9.49873732771794e-113
+Delorey TM. (Heart),Heart,Pericytes,DAAM2,0.247332833821055,8.37526668615871e-110
+Delorey TM. (Heart),Heart,Pericytes,ADAMTS12,0.381706830593861,2.6225632392495e-108
+Delorey TM. (Heart),Heart,Pericytes,LINC01098,0.234496648282807,1.15488418735793e-107
+Delorey TM. (Heart),Heart,Pericytes,PDE7B,0.279688703567859,3.6326547230675e-105
+Delorey TM. (Heart),Heart,Pericytes,MYH11,-0.688030376830153,9.31007531349112e-102
+Delorey TM. (Heart),Heart,Pericytes,NPNT,-0.326767103777703,1.10323190534976e-96
+Delorey TM. (Heart),Heart,Pericytes,ENTPD1-AS1,-0.237102201987549,5.71899500273142e-94
+Delorey TM. (Heart),Heart,Pericytes,SDK1,-0.32881911996834,4.99479427022135e-91
+Delorey TM. (Heart),Heart,Pericytes,ADGRB3,0.215647904072962,5.7593677090789e-89
+Delorey TM. (Heart),Heart,Pericytes,CARMN,-0.255552477904772,2.12763465439194e-88
+Delorey TM. (Heart),Heart,Pericytes,PPFIA2,-0.243586271485131,7.46107485315823e-85
+Delorey TM. (Heart),Heart,Pericytes,FRMD4A,-0.23215402445417,8.57638625513692e-84
+Delorey TM. (Heart),Heart,Pericytes,THBS4,0.275767547290284,1.53838087117644e-83
+Delorey TM. (Heart),Heart,Pericytes,EGFLAM,0.370602831605287,1.74849769534343e-81
+Delorey TM. (Heart),Heart,Pericytes,MAML2,0.217879905149536,3.43292927963348e-80
+Delorey TM. (Heart),Heart,Pericytes,DLC1,0.240850669598581,5.58200567100634e-77
+Delorey TM. (Heart),Heart,Pericytes,FRMD3,0.419255469139502,6.93466479127269e-77
+Delorey TM. (Heart),Heart,Pericytes,EPS8,0.206792877180265,7.07847321400821e-77
+Delorey TM. (Heart),Heart,Pericytes,SORBS1,-0.321489839307797,5.78118525361354e-76
+Delorey TM. (Heart),Heart,Pericytes,CNR1,0.22470531865811,5.29330962083437e-72
+Delorey TM. (Heart),Heart,Pericytes,RGS5,0.29102987837846,2.77686026195649e-67
+Delorey TM. (Heart),Heart,Pericytes,RIMS1,0.240557055438002,6.73472481527885e-67
+Delorey TM. (Heart),Heart,Pericytes,PDZD2,0.300283951422838,6.93852203588613e-57
+Delorey TM. (Heart),Heart,Pericytes,KCNMA1,-0.291939558030525,8.87253111069196e-51
+Delorey TM. (Heart),Heart,Pericytes,CERS6,0.208752442483392,2.55753720856703e-50
+Delorey TM. (Heart),Heart,Pericytes,MPP7,-0.196249241151852,3.23416798511522e-45
+Delorey TM. (Heart),Heart,Pericytes,ACTA2,-0.229864768729112,9.37182925517087e-45
+Delorey TM. (Heart),Heart,Pericytes,DGKG,-0.234964963055862,1.41901630200983e-44
+Delorey TM. (Heart),Heart,Pericytes,ZEB2,0.218509984024698,1.12702976265563e-42
+Delorey TM. (Heart),Heart,Pericytes,ABCC9,0.386592403669989,5.98150512837003e-40
+Delorey TM. (Heart),Heart,Pericytes,GUCY1A2,0.454059143465988,4.58535810737553e-39
+Delorey TM. (Heart),Heart,Pericytes,SHISA6,0.235617947825224,3.15988337918791e-38
+Delorey TM. (Heart),Heart,Pericytes,PDE1C,0.42737922827675,7.22687968686337e-37
+Delorey TM. (Heart),Heart,Pericytes,ADAMTSL3,0.208499061301287,1.24754835598749e-34
+Delorey TM. (Heart),Heart,Pericytes,PDZRN3,-0.198756415025568,6.11737771021026e-34
+Delorey TM. (Heart),Heart,Pericytes,MYL9,-0.204837223104504,1.60594862133743e-31
+Delorey TM. (Heart),Heart,Pericytes,AC007319.1,0.212450076213686,1.19680841695566e-28
+Delorey TM. (Heart),Heart,Pericytes,CNN1,-0.242097561285383,1.43562747874335e-28
+Delorey TM. (Heart),Heart,Pericytes,DIAPH2-AS1,0.231671106273217,5.43772311188254e-23
+Delorey TM. (Heart),Heart,Pericytes,STEAP4,0.21728744705813,1.93181396664573e-18
+Delorey TM. (Heart),Heart,Pericytes,CPM,0.276760155792481,9.31271971594906e-14
+Delorey TM. (Heart),Heart,Pericytes,RERG,0.271930018927272,4.76885670583956e-09

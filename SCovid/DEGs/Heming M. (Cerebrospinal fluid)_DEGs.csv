@@ -1,0 +1,181 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,B2M,-2.4918311657405,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,EEF1A1,1.2942618472575,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,MT-ND3,2.33129347767528,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,MT-ND4L,2.62870082734524,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,MTRNR2L12,4.79403742670684,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPL21,-2.01883620257997,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPL30,2.21096340001354,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPL41,1.58237015848611,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPL7,-1.91846619863582,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPS10,1.36923459836067,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPS12,1.87984894688848,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPS20,-1.32648578992229,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,TPT1,1.51046644114305,0.0
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,MTRNR2L8,2.02763127835954,8.0266e-320
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPL31,-1.37066829891813,5.33287e-317
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPL13A,-2.05765919335877,1.21177538892879e-296
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPS17,-1.18507302747309,5.33470545358819e-282
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,RPS2,-1.20260050741195,2.88081152702402e-265
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,TRAC,-1.38947456459499,1.32036780334709e-205
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,CD52,-1.26324054129206,1.65758065888288e-203
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,TMSB4X,-1.54705737515105,1.95563522150406e-191
+Heming M. (Cerebrospinal fluid),Brain,CD4+ T cells,ATP6V0C,1.7694706753741,1.25184982981094e-150
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,TRBV30,17.2823224011652,5.81757056090189e-60
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,CCL4,30.9434845323951,6.83259215575698e-25
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,TRAV29DV5,17.2727532204969,8.55287599536057e-10
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,COQ3,7.20099229065808,1.45149396849874e-05
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,ATP6V0C,8.70824247795971,2.8772996041611e-05
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPL13A,-4.74877428582143,3.91431413238674e-05
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPL27A,-2.79190933339468,7.92638699007266e-05
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPLP2,-3.15999624171933,8.98499438331319e-05
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPL23A,-1.99733991426312,0.000282672187165086
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,OVCA2,13.3046771317867,0.00108083854283207
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPL38,-1.96210446723575,0.0020553812430403
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,HBA1,13.6650955083649,0.002151211490596
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPL31,-2.04509127456172,0.00312528458389747
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,PRSS23,9.24339308981672,0.00488077662851163
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPL37A,-1.39325424638083,0.00517457726857012
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,EEF1A1,-1.79223966934993,0.0078658009194831
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPS20,-2.08628786240584,0.0118400509833607
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,LINC02210-CRHR1,8.54526930969678,0.0177134567078313
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,AC004889.1,9.43861058346963,0.0192746880724848
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,ERRFI1,9.48797319494095,0.0246406185714054
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,AC010978.1,9.22912193849369,0.0271679115471033
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPS2,-2.21978662276232,0.0292025614427441
+Heming M. (Cerebrospinal fluid),Brain,CD8+ T cells,RPS6,-1.85574172104029,0.039386115701679
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,CRIP1,2.00594338316645,1.22532091028222e-25
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,MT-ND3,1.83730575530857,6.67332748064941e-09
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,LINC01871,2.94147034207504,4.14070068530768e-07
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,IFIT3,-4.98601256962057,2.22471962659623e-06
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,IFI27,5.97550521229271,2.14151461201765e-05
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,IFIT1,-6.07738689990084,5.76755666794024e-05
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,ISG15,-13.8382915043337,0.000375565613436742
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,S100A4,1.82188401358626,0.000746867498970447
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,IFI6,-5.10477266699275,0.000963340291705483
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,LGALS1,2.90762987205894,0.00121269503491853
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,GZMA,4.71317260980742,0.00283135769911401
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,CXCR6,3.16829084991628,0.00472347817994854
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,GNG10,1.88891788968532,0.00957644115337023
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,IFITM3,-4.80022504327382,0.0204388294641303
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,MIR4435-2HG,1.89967402652703,0.0377991407992224
+Heming M. (Cerebrospinal fluid),Brain,Granulocytes,S100A9,-5.5994664768701,0.0450843559162207
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MT-ND3,5.73762097929101,1.34039600419196e-179
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MT-ND4L,2.99716378839659,4.17036473077677e-61
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MTRNR2L8,1.00604208133577,1.32860418555989e-33
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPS27,1.02266435862262,1.41269103466636e-33
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,METRNL,1.83123528021887,3.15754125872228e-31
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPL41,1.1193010210738,3.63039684864111e-29
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MT-CYB,-3.30676992318017,2.69745825210547e-17
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPS2,-2.07542801384011,1.63438193120961e-16
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,TGFBI,1.43632738966815,2.48988841032898e-15
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,DBNDD2,3.99182140725021,1.14224316529749e-13
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPS4Y1,1.50674172158651,1.87336891702712e-13
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,CYBB,1.33121653478306,2.59488977708004e-13
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPS20,-1.45628313184655,6.73677429625723e-11
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MT-CO1,-1.84475846759066,6.64765203191794e-10
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,VMO1,1.7888845414005,9.08793834541753e-10
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,STAB1,1.49838374254857,1.51336972290843e-09
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MS4A7,1.59540445399653,5.44184404252968e-09
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MTRNR2L12,1.3722529525329,6.46350071943706e-09
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPL13A,-1.78345611814145,7.65571040906735e-09
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,XIST,-1.17217075723076,2.32060428653591e-08
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPL7,-1.36765474223793,4.71675939738829e-08
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RPL21,-1.18338527345857,6.05692835861919e-07
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,IGKC,-2.12119541751964,2.24835857705934e-06
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,MT-CO3,-1.17723492640118,2.79007301828013e-06
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,SLC25A6,-1.22547532652006,3.04554739523043e-06
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,B2M,-1.61727394152458,1.17749427744348e-05
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,GIMAP7,-1.32512303219052,2.84707221724839e-05
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,C5AR1,1.19159705568029,3.02763739001584e-05
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,CORO1B,1.02689180924384,3.69980186120955e-05
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,LGMN,1.25567796120558,0.000168706584918599
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,HBB,1.13137346568245,0.000248740605986747
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,LGALS1,1.04331903317183,0.00132177425380884
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,PLTP,1.6532896845788,0.00257627238985487
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,DAB2,1.01343738844255,0.0050903320809628
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,KLF2,-1.40574280193002,0.00671591797542891
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,RNASE6,-1.18179797419972,0.00892084848176488
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,CD163,-2.22606910432045,0.0093602623659915
+Heming M. (Cerebrospinal fluid),Brain,Monocytes,FCER1G,-1.18922122290835,0.0350741474062195
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,ATP6V0C,3.90173914786105,4.02642343649703e-09
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,MT-ND3,2.6786189684293,5.65336562265471e-09
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,CKB,10.9715165756176,3.79139048283706e-05
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,PAGR1,3.25668212607919,0.000230219918629524
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,TNFSF11,4.22594736177136,0.000682258824960016
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,DUSP1,-2.46664509534975,0.00159169750399508
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,S100A10,3.53198394096759,0.00455470722100278
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,BASP1,5.78441394784622,0.0065992966049648
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,B2M,-2.4147697293572,0.00881815892328888
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,C1orf54,-11.5795208039657,0.0257658574765375
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,SOX4,4.11479048757263,0.0411134979648618
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,BRWD1-AS2,4.88557335216431,0.042673246495494
+Heming M. (Cerebrospinal fluid),Brain,Myeloid dendritic cells,TMSB4X,-4.63769317376777,0.0437403722326828
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,RPL13A,-3.03262738468548,0.0
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,RPL31,-2.01572438047275,0.0
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,RPL7,-2.08190574459163,0.0
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,RPS20,-1.9832455013291,0.0
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,METRNL,3.63828446083159,1.93626160368276e-306
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,HLA-DRB5,-3.90012763630902,2.53592281758579e-252
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,TMSB4X,-2.58980551950811,7.94633106614179e-241
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,AIF1,4.61734998297274,7.82652255291556e-209
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,S100A9,9.13460673282855,3.32358360671989e-182
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,CYBB,3.84203388063329,4.84846545604159e-179
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,C1QA,6.83377751610348,1.19777461295286e-137
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,FCGBP,5.43755218987078,7.24805963380178e-126
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,S100A8,6.63216764719428,2.62479312950536e-101
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,APOE,8.14161387697994,1.44239929120001e-81
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,FCN1,4.37915444490708,3.9228310387158e-77
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,CST3,7.35871972575233,1.17052302673012e-75
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,C1QB,5.78130851647344,4.37953321323593e-75
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,AC020656.1,-3.28129978273742,2.76890080039548e-67
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,IGKC,-2.50854272851291,4.4153037366591e-67
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,CD14,5.13837931593584,2.17357021059123e-66
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,C1QC,4.52419748448253,1.96914658898852e-65
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,HLA-DRA,-7.13965366307871,9.77868286402486e-63
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,CD74,-5.42947552205676,1.22147173230774e-44
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,LYZ,6.24352219374155,1.47567831008675e-44
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,APOC1,3.65859191206027,1.51145327716265e-39
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,MS4A1,-1.89767827801096,1.69026515451094e-32
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,HLA-DQA1,-2.48376789894714,2.15276480528241e-31
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,CCL3,-2.52511068908122,2.85628115669528e-15
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,SPP1,-2.68220994685095,1.60625712056013e-13
+Heming M. (Cerebrospinal fluid),Brain,Naive B cells,HLA-DPB1,-2.74062292887899,5.89572458121832e-13
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,RPS10,1.89909152604529,1.1000751397469e-195
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,MT-ND3,2.4872476163126,1.37249411488182e-123
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,HBB,2.10580591219984,4.17267481704997e-64
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,B2M,-2.20447344509441,1.48258962750032e-58
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,HBA2,1.40579184524377,5.0744568581063e-38
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,CD81,1.15283599553217,2.28199287350729e-36
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,ETS1,1.13029439267139,3.37667848663081e-33
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,GZMH,2.69438674852619,3.76063097471181e-30
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,CCL4,2.50237559688269,4.52535132239465e-29
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,MT-ND4L,1.22313667113473,1.8251094047591e-28
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,KLRD1,-3.79611137001451,7.11684410829035e-20
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,TRDC,-3.48070152188472,5.59055547268659e-19
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,ISG15,-2.18513425302405,3.30035627827701e-18
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,CCL5,2.42392598949462,3.63476369103944e-15
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,XCL2,-3.42211445215998,3.73656385268858e-14
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,GZMA,1.24881086633884,1.34016067206023e-10
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,CMC1,-2.15354304322612,1.55765007820108e-09
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,CTSW,-1.70335274565742,1.97284219462817e-09
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,KLRF1,-1.80498162415576,2.88949630907334e-09
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,KLRC1,-2.28974015670101,9.40052327739699e-08
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,GZMB,-2.15107703062195,9.12260503728466e-05
+Heming M. (Cerebrospinal fluid),Brain,Natural killer cells,GNLY,-3.55306083609099,0.00120199966678329
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,IFI44L,-2.47321129622118,6.65777355184975e-08
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,MMP23B,5.27399308232683,2.24278713936963e-06
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,PPP1R1B,4.47689186708539,2.41010071255162e-06
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,PPP1R14B,11.0443909272436,5.21682131892258e-06
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,TCL1A,23.7718873142756,1.42788471029311e-05
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,NNAT,6.6799073057096,0.000138789835730582
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,NPC2,-3.29032234515438,0.000145388045742348
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,HLA-DRA,-2.82668552016054,0.000211127883441181
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,FAM129C,5.51032711794202,0.00105366725576033
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,HLA-DQA2,-2.26536706072213,0.00602827294589805
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,MAP1A,5.62025728716263,0.0134530805499528
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,LRRC26,7.80443836887425,0.0175149267288708
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,SMIM5,5.3185087804452,0.0236452763424057
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,BCL11A,-5.45669872708918,0.0273838491027003
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,CD36,-3.06675516200299,0.027751381528758
+Heming M. (Cerebrospinal fluid),Brain,Plasmacytoid dendritic cells,PTCRA,6.08065109269135,0.0409786794934123

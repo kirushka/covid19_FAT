@@ -1,0 +1,624 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Delorey TM. (Kidney),Kidney,B cells,GBP4,-0.314642056269327,1.71495282355696e-274
+Delorey TM. (Kidney),Kidney,B cells,C15orf48,-0.307414102000886,8.70197003671891e-138
+Delorey TM. (Kidney),Kidney,B cells,LTB,-0.335733121484154,2.95446320089987e-127
+Delorey TM. (Kidney),Kidney,B cells,SIRPB2,-0.407228384695246,6.41566654265661e-96
+Delorey TM. (Kidney),Kidney,B cells,AC019197.1,-0.316873686697489,1.50199457318981e-93
+Delorey TM. (Kidney),Kidney,B cells,HBA1,-0.558305039744992,1.07818492405888e-86
+Delorey TM. (Kidney),Kidney,B cells,FCRL5,-0.296998559020076,1.06485401692983e-84
+Delorey TM. (Kidney),Kidney,B cells,TCIM,-0.304106387367793,5.57081011990885e-82
+Delorey TM. (Kidney),Kidney,B cells,CD163,-0.321140937992736,1.19213961121218e-79
+Delorey TM. (Kidney),Kidney,B cells,EEF1A1,-0.408387659146626,4.28198133586412e-79
+Delorey TM. (Kidney),Kidney,B cells,AKR1C1,-0.355253016559898,8.57692637123253e-76
+Delorey TM. (Kidney),Kidney,B cells,PRDM1,-0.330803496577663,1.4788361172291e-74
+Delorey TM. (Kidney),Kidney,B cells,CENPF,-0.354521786136155,8.40501098578715e-62
+Delorey TM. (Kidney),Kidney,B cells,MT-ND5,-0.735925984522377,5.26230357697974e-61
+Delorey TM. (Kidney),Kidney,B cells,MT-ND1,-0.818944301275964,2.0864842412187e-59
+Delorey TM. (Kidney),Kidney,B cells,MT-ND2,-0.637703033936159,9.84057193414122e-56
+Delorey TM. (Kidney),Kidney,B cells,MT-CYB,-0.421794490778182,1.57191152766975e-53
+Delorey TM. (Kidney),Kidney,B cells,UGT1A8,0.417130281080829,1.25926042577175e-48
+Delorey TM. (Kidney),Kidney,B cells,EPHA6,0.449906143511767,8.5716510299923e-46
+Delorey TM. (Kidney),Kidney,B cells,GRID2,0.595010210369971,4.39894846834085e-44
+Delorey TM. (Kidney),Kidney,B cells,MT-ND3,-0.80484248475612,4.54388045233759e-42
+Delorey TM. (Kidney),Kidney,B cells,CCDC26,0.445971569539624,3.38191494502592e-41
+Delorey TM. (Kidney),Kidney,B cells,BICC1,-0.326750078630695,6.59542454965576e-41
+Delorey TM. (Kidney),Kidney,B cells,MT-ATP6,-0.56529859938005,2.74660436799374e-40
+Delorey TM. (Kidney),Kidney,B cells,CTNNA3,0.535627020716357,8.10922546362516e-40
+Delorey TM. (Kidney),Kidney,B cells,TMEM132D,0.402877103868632,1.90581532469153e-39
+Delorey TM. (Kidney),Kidney,B cells,MT-CO2,-0.665647793203947,5.68366507581802e-39
+Delorey TM. (Kidney),Kidney,B cells,CADM2,0.461196554998613,1.12605595632825e-37
+Delorey TM. (Kidney),Kidney,B cells,DUSP5,-0.427877443913465,2.07578387690666e-33
+Delorey TM. (Kidney),Kidney,B cells,RBFOX1,0.473642459355184,5.24651696488495e-33
+Delorey TM. (Kidney),Kidney,B cells,ATP1A1,-0.47576429583794,6.33526899998266e-33
+Delorey TM. (Kidney),Kidney,B cells,MDGA2,0.421438925307619,8.27873400156401e-30
+Delorey TM. (Kidney),Kidney,B cells,NCAM2,0.455733675651372,1.49370793963615e-29
+Delorey TM. (Kidney),Kidney,B cells,FGF12,0.385683447993482,4.3473210863158e-29
+Delorey TM. (Kidney),Kidney,B cells,CDH13,0.473390908962369,7.07611340438628e-29
+Delorey TM. (Kidney),Kidney,B cells,ITGB8,-0.294191225599717,1.31335077504807e-27
+Delorey TM. (Kidney),Kidney,B cells,MT-CO1,-0.42910265947818,2.03162597678389e-27
+Delorey TM. (Kidney),Kidney,B cells,LRRC4C,0.459780603205972,3.89809761730863e-27
+Delorey TM. (Kidney),Kidney,B cells,FP671120.1,-0.881062794895538,4.12393164016662e-27
+Delorey TM. (Kidney),Kidney,B cells,IL7R,0.444846350409412,4.38715079879209e-27
+Delorey TM. (Kidney),Kidney,B cells,GAPDH,-0.310874853586948,1.66050189406806e-26
+Delorey TM. (Kidney),Kidney,B cells,PTH1R,-0.298544467198996,5.35839662009095e-26
+Delorey TM. (Kidney),Kidney,B cells,SPP1,-0.436292538969336,1.6117921137066e-23
+Delorey TM. (Kidney),Kidney,B cells,KCNIP4,-0.330387474714125,4.98963244843703e-23
+Delorey TM. (Kidney),Kidney,B cells,SLC8A1,-0.306659698909795,6.48159759559532e-23
+Delorey TM. (Kidney),Kidney,B cells,LUZP2,0.4573305592674,2.90302355929487e-22
+Delorey TM. (Kidney),Kidney,B cells,SLC26A7,-0.333170387418135,9.74889656026814e-22
+Delorey TM. (Kidney),Kidney,B cells,CGNL1,-0.343740547208434,3.98761965656277e-21
+Delorey TM. (Kidney),Kidney,B cells,MIB1,-0.322984173667716,6.05202028054836e-20
+Delorey TM. (Kidney),Kidney,B cells,RYR2,0.383286434042999,8.27948000965824e-19
+Delorey TM. (Kidney),Kidney,B cells,LRP1B,0.455184460040067,1.80843034573044e-18
+Delorey TM. (Kidney),Kidney,B cells,CNTNAP5,0.454038709641502,5.65528396730027e-18
+Delorey TM. (Kidney),Kidney,B cells,CA12,-0.378413800729082,2.54363609666496e-17
+Delorey TM. (Kidney),Kidney,B cells,ADGRL3,0.414660107493373,7.28345271826662e-17
+Delorey TM. (Kidney),Kidney,B cells,SLC4A7,-0.294795471004934,8.97958509131582e-17
+Delorey TM. (Kidney),Kidney,B cells,CBLB,-0.351346942967902,8.77156900840437e-16
+Delorey TM. (Kidney),Kidney,B cells,CSMD3,0.470865328035719,3.65771884694461e-15
+Delorey TM. (Kidney),Kidney,B cells,CSMD2,0.497691046401721,1.3044294312698e-14
+Delorey TM. (Kidney),Kidney,B cells,SLC12A3,-0.353840803349682,1.32199416425862e-14
+Delorey TM. (Kidney),Kidney,B cells,CADM1,-0.356821243426757,1.90734106543219e-13
+Delorey TM. (Kidney),Kidney,B cells,ITGBL1,0.392847348559366,5.34041309141644e-13
+Delorey TM. (Kidney),Kidney,B cells,UBC,-0.379546534938575,2.07781701225264e-12
+Delorey TM. (Kidney),Kidney,B cells,GALNTL6,0.611586193885197,2.17704754940009e-12
+Delorey TM. (Kidney),Kidney,B cells,DSCAML1,-0.321088024945851,9.29197616567484e-12
+Delorey TM. (Kidney),Kidney,B cells,HIF1A,-0.325525155118775,9.61647740102589e-12
+Delorey TM. (Kidney),Kidney,B cells,SLC12A1,-0.31521960602675,7.90591424533459e-11
+Delorey TM. (Kidney),Kidney,B cells,NRXN1,0.422032829667189,1.17216635101486e-10
+Delorey TM. (Kidney),Kidney,B cells,IVNS1ABP,-0.304432490777128,1.62129914328952e-10
+Delorey TM. (Kidney),Kidney,B cells,PRKCB,0.397130292983111,4.29714819607503e-10
+Delorey TM. (Kidney),Kidney,B cells,OPCML,0.391915234751987,2.98252125184794e-09
+Delorey TM. (Kidney),Kidney,B cells,WNK1,-0.328483820122237,5.63799794972043e-08
+Delorey TM. (Kidney),Kidney,B cells,AC011287.1,0.385335764021462,1.74722130095377e-07
+Delorey TM. (Kidney),Kidney,B cells,DMD,0.490316988257657,5.94124077549067e-07
+Delorey TM. (Kidney),Kidney,B cells,LINC00871,0.473102419007056,1.38986291002053e-06
+Delorey TM. (Kidney),Kidney,B cells,AC109466.1,0.613482130966254,2.63359500556118e-06
+Delorey TM. (Kidney),Kidney,B cells,FAM129C,0.451640395537607,5.99913982691869e-06
+Delorey TM. (Kidney),Kidney,B cells,FCRL2,0.684382077679131,6.75245067666947e-06
+Delorey TM. (Kidney),Kidney,B cells,HS6ST3,0.38778820325838,4.59485848923761e-05
+Delorey TM. (Kidney),Kidney,B cells,ROBO2,0.487439606948102,7.80859661290195e-05
+Delorey TM. (Kidney),Kidney,B cells,PCDH15,0.526612802258535,9.56856913839087e-05
+Delorey TM. (Kidney),Kidney,B cells,ANKS1B,0.403587636175711,0.000225036163270616
+Delorey TM. (Kidney),Kidney,B cells,NAMPT,-0.297485524915587,0.000429960935216588
+Delorey TM. (Kidney),Kidney,B cells,AL390957.1,0.421222416157148,0.000907812402757456
+Delorey TM. (Kidney),Kidney,B cells,RIMS2,0.423465809870959,0.000927665774849844
+Delorey TM. (Kidney),Kidney,B cells,HPSE2,0.427107357715785,0.00157505152574554
+Delorey TM. (Kidney),Kidney,B cells,COL24A1,0.417873635262302,0.00164231318549083
+Delorey TM. (Kidney),Kidney,B cells,PCDH9,0.39288282234943,0.0017834906417375
+Delorey TM. (Kidney),Kidney,B cells,SEMA3A,0.449497583261611,0.00401805918708113
+Delorey TM. (Kidney),Kidney,B cells,FAM78A,0.462127709275175,0.0150428210558904
+Delorey TM. (Kidney),Kidney,B cells,PLCG2,-0.499985196609333,0.0300698401989357
+Delorey TM. (Kidney),Kidney,B cells,GNAO1,0.394689478673772,0.0368074641067493
+Delorey TM. (Kidney),Kidney,Distal tubule cells,AC008250.1,-0.259896777042622,0.0
+Delorey TM. (Kidney),Kidney,Distal tubule cells,HAVCR1,0.175111994529527,7.01761723201024e-272
+Delorey TM. (Kidney),Kidney,Distal tubule cells,HLF,0.15409927899425,1.74574122621082e-252
+Delorey TM. (Kidney),Kidney,Distal tubule cells,TMPRSS4,0.158320266604748,3.014479212537e-211
+Delorey TM. (Kidney),Kidney,Distal tubule cells,LAMB3,0.119911499076139,5.07116901807499e-204
+Delorey TM. (Kidney),Kidney,Distal tubule cells,SLC12A3,-0.459276917826452,3.064171694036e-201
+Delorey TM. (Kidney),Kidney,Distal tubule cells,AC097662.1,-0.140397260531601,8.27118369542919e-157
+Delorey TM. (Kidney),Kidney,Distal tubule cells,CNNM2,-0.178825066774926,3.5312948832444e-152
+Delorey TM. (Kidney),Kidney,Distal tubule cells,WNK1,-0.183561452793487,5.47820196333319e-129
+Delorey TM. (Kidney),Kidney,Distal tubule cells,NOS2,0.155475620599837,7.76190393694234e-91
+Delorey TM. (Kidney),Kidney,Distal tubule cells,PYGB,0.14663461793221,2.80102393819524e-90
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ADAMTS9,0.142486311748758,4.5618854247858e-83
+Delorey TM. (Kidney),Kidney,Distal tubule cells,AC078980.1,-0.223410562218926,1.92054212918705e-82
+Delorey TM. (Kidney),Kidney,Distal tubule cells,AC092078.2,-0.236917286734383,6.38073199428283e-82
+Delorey TM. (Kidney),Kidney,Distal tubule cells,DEPTOR,-0.171169773171794,5.29340701750219e-81
+Delorey TM. (Kidney),Kidney,Distal tubule cells,TRPM6,-0.416711249355237,7.11671619263977e-77
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ANXA4,0.167679634368489,5.99813981707701e-76
+Delorey TM. (Kidney),Kidney,Distal tubule cells,TRPV5,-0.142283118108991,2.9938638708722e-74
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ABCC9,-0.243234319520106,7.78633370770052e-73
+Delorey TM. (Kidney),Kidney,Distal tubule cells,PDE10A,0.115544719259517,3.03114031366748e-60
+Delorey TM. (Kidney),Kidney,Distal tubule cells,NDRG1,0.135423611037343,4.20312454947544e-58
+Delorey TM. (Kidney),Kidney,Distal tubule cells,PTCHD1-AS,-0.191658046950074,1.20726536254333e-53
+Delorey TM. (Kidney),Kidney,Distal tubule cells,C12orf75,0.13039022457834,1.34695431310127e-53
+Delorey TM. (Kidney),Kidney,Distal tubule cells,MTSS1,0.191974411742119,1.12383988525578e-51
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ITGA2,0.246044235740229,2.15562838124729e-50
+Delorey TM. (Kidney),Kidney,Distal tubule cells,AL033504.1,-0.177439078078127,2.94655064641389e-47
+Delorey TM. (Kidney),Kidney,Distal tubule cells,TBC1D9,-0.182537865362288,1.09382539868436e-45
+Delorey TM. (Kidney),Kidney,Distal tubule cells,DIO2,-0.184104025568954,7.0001683623983e-44
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ADAMTS17,-0.226447983766354,2.12595286876105e-41
+Delorey TM. (Kidney),Kidney,Distal tubule cells,DOK5,0.127875655707786,5.68265424096169e-39
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ATF3,-0.149894499799586,8.39191293128292e-37
+Delorey TM. (Kidney),Kidney,Distal tubule cells,COL4A5,-0.155412214505738,4.19349095468609e-35
+Delorey TM. (Kidney),Kidney,Distal tubule cells,TACR1,0.134286343004824,8.44553809553308e-35
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ZNF385D,-0.139464678668914,1.04358543769568e-34
+Delorey TM. (Kidney),Kidney,Distal tubule cells,KSR2,-0.231539219692301,1.7343874626515e-34
+Delorey TM. (Kidney),Kidney,Distal tubule cells,AC093895.1,-0.216475854479145,4.85474061606148e-33
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ARHGAP29,0.152884034734247,8.15080607792552e-33
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ABTB2,0.195594353462705,3.79017736541207e-32
+Delorey TM. (Kidney),Kidney,Distal tubule cells,MGAT5,0.160610963069296,1.92071024088926e-26
+Delorey TM. (Kidney),Kidney,Distal tubule cells,CALCR,-0.230358992944182,9.17972251516211e-25
+Delorey TM. (Kidney),Kidney,Distal tubule cells,RERGL,0.122421504011156,3.82070526236456e-24
+Delorey TM. (Kidney),Kidney,Distal tubule cells,MAL,0.27823688657319,8.06362628447372e-23
+Delorey TM. (Kidney),Kidney,Distal tubule cells,FGF2,0.118325771980025,1.26009227408137e-21
+Delorey TM. (Kidney),Kidney,Distal tubule cells,NRK,0.190131190080831,5.76294315875765e-21
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ITGAV,0.123107555565514,2.12719867707057e-20
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ACPP,0.135960466480326,1.90249071412351e-19
+Delorey TM. (Kidney),Kidney,Distal tubule cells,SLC38A11,0.115145962458257,2.10374487276139e-18
+Delorey TM. (Kidney),Kidney,Distal tubule cells,SPATS2L,0.122478454197803,5.77380656675149e-17
+Delorey TM. (Kidney),Kidney,Distal tubule cells,PROX1,0.210366418582406,8.94395636714731e-17
+Delorey TM. (Kidney),Kidney,Distal tubule cells,LINC00645,0.133685972137734,4.25493458875781e-11
+Delorey TM. (Kidney),Kidney,Distal tubule cells,GNGT1,-0.226991955140956,1.29707373728612e-10
+Delorey TM. (Kidney),Kidney,Distal tubule cells,HMCN1,-0.163901215851394,1.42614429198224e-10
+Delorey TM. (Kidney),Kidney,Distal tubule cells,PHF21B,-0.167090262020443,6.6870135953157e-08
+Delorey TM. (Kidney),Kidney,Distal tubule cells,HS6ST2,-0.255245052392291,3.98007903028631e-06
+Delorey TM. (Kidney),Kidney,Distal tubule cells,LINC01182,-0.143135778780848,7.61954060650648e-05
+Delorey TM. (Kidney),Kidney,Distal tubule cells,ATP6V0D2,-0.186799784206248,8.75181948517308e-05
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,AL807752.6,0.527002565561426,0.0
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,EHD3,-0.540628454519591,3.50180766833261e-151
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,ADGRL4,-0.557631757211491,1.33615079849996e-124
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,ACVRL1,-0.532441082468859,3.30020587550202e-106
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,PRKCH,-0.610193643890194,1.41633804083512e-97
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,HSP90AA1,0.300159295092646,6.97131145854057e-93
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,F2RL3,-0.600231729208618,2.65558601326016e-91
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,SERPINE1,0.201347405603325,6.57816894919704e-90
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,STC1,0.33939051661529,7.4953706480991e-89
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,HIF3A,-0.513417849858583,1.66587967129699e-84
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,SH2D3C,-0.588160208101752,1.60799468854916e-83
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,FP671120.1,0.238206392894435,6.65656760828613e-82
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,HYAL2,-0.676691789783156,9.52639075460241e-73
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,PLAT,-0.605496761934002,4.54401208431501e-67
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,SEMA3A,0.198892291118189,1.33144068825637e-53
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,NOSTRIN,-0.531290748937174,8.87952079190671e-52
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,CAVIN2,-0.519702187010296,1.48526293631696e-42
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,HSPH1,0.20488020956786,2.40935769053435e-40
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,PLXND1,-0.544082600394376,3.87760004767147e-40
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,SLCO2A1,-0.485495841370906,1.13274522332127e-34
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,SOX18,0.266995590864259,4.57885372649867e-34
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,B4GAT1,0.53308646507129,2.11080518831963e-33
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,AL606468.1,0.636240879290611,1.20453237261177e-32
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,EPAS1,-0.524717127347053,2.90228939268474e-30
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,FO393415.1,0.407062957139555,1.07418300060139e-26
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,SELP,0.344270516694335,1.19749493171313e-26
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,AL008723.1,0.447954838441384,1.34004749512016e-24
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,ARHGEF15,-0.496709620631998,1.26815357410986e-21
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,EGFL7,-0.664784633038284,1.00085670600916e-19
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,LIMS2,-0.550136619826561,2.82266248467828e-16
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,PTGIS,0.20882309367963,2.54132342906309e-14
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,HTRA3,0.415375473188762,7.210291813683e-13
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,DIO3OS,0.216136487604285,1.61474116286765e-12
+Delorey TM. (Kidney),Kidney,Fenestrated endothelial cells,MAP3K6,0.271863053578127,5.98412762673113e-08
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,AKR1C1,-1.15570065177096,7.1882792979511e-39
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,AC008011.2,-1.55287638673075,1.96648479251976e-35
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,IGFBP2,5.27272003817345,9.07737859002794e-32
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,VNN1,-1.18731211153374,1.0936959154856e-29
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,PODXL,3.36179237219121,2.39470451409125e-29
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,HTRA1,4.72874818198844,1.51322724613131e-26
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,SLC7A11,-1.37487269311327,1.92281971289197e-26
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,CDKN1C,4.22060019843787,6.8468279341506e-23
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,CRYAB,-1.22000046511946,1.90781492538904e-22
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,SPOCK2,4.77894706938095,2.38649193192231e-21
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,NPHS2,3.35828206080207,1.21084339881059e-20
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,SEMA3G,-2.24987134343662,2.89814900645349e-19
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,MME-AS1,-1.16932629200114,8.12360527206729e-17
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,BAMBI,3.44552202702028,8.37492147280507e-17
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,TMSB10,-2.5017127412496,5.61412707568089e-14
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,FTH1,-1.98368047812251,2.44874350166019e-12
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,NFASC,3.67679084724418,2.937488348186e-11
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,PTGER4,3.22598083426507,6.78886095883824e-11
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,TIMP1,3.61237409741176,1.3868391406268e-10
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,FOXC1,4.42854212475399,7.28973462818644e-10
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,CTGF,3.83367025009305,1.55824799798095e-09
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,TYRO3,4.17171596285999,3.00744522721189e-09
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,CDC42EP3,3.23202657361463,3.18259356323551e-09
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,FP671120.1,-1.18162743004151,1.81790684948923e-08
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,F2R,3.1637403880477,8.62726427724714e-08
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,UBC,-1.15974855086478,3.11466442207915e-07
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,EEF1A1,-1.57904899586089,1.35976841346736e-06
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,UBA52,-1.31689159219891,1.37254273949228e-06
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,GAPDH,-1.89926584196251,5.80705537462283e-06
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,NDNF,3.57034262897822,2.97235187442679e-05
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,FTL,-1.14202748536969,0.000229974611559317
+Delorey TM. (Kidney),Kidney,Glomerular endothelial cells,UBB,-1.45982985690413,0.00878407471398008
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,LEF1,-0.362826606650554,4.09166198532805e-51
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,C3,0.432909774460401,6.12304841354016e-49
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,SLPI,-0.372676340996392,5.39535783522972e-48
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,LINC01271,-0.304668545978466,2.29292825496147e-43
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,ADCY2,-0.544808850679903,2.55985466902442e-33
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CXCL1,-0.431942234807234,9.36303024492058e-31
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,MT-ATP6,0.392939658344207,1.54621958159918e-29
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,IGFBP2,-0.313596919111986,2.76957999891919e-22
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,MT-ND1,0.392278261181707,1.69741000432277e-20
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,VCAM1,0.575313104729303,1.2553817399107e-18
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CDH11,-0.655149256281861,3.69874783541604e-18
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CFH,-0.45972715351002,6.79106252266196e-18
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CYP3A5,0.422590308975844,6.86326900286548e-18
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,TARID,-0.373914310699298,3.64094008963647e-17
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,KCNMB2,0.41256206482606,3.40675189487586e-16
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,AC068234.1,0.307447167487896,2.77721285084256e-15
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,TNFRSF11B,0.655575677986361,3.56023435928153e-14
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,AJ009632.2,-0.314866489960564,1.70577700685257e-12
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CTGF,-0.29459819407554,2.0599627904795e-12
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,ABLIM2,-0.327964305442748,1.89942902764443e-11
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,TRABD2B,0.317546316024114,2.68603713206867e-11
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,KRT19,0.331220656354321,2.83901708560427e-11
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,GRIN2A,-0.484519842615809,6.8863467545113e-11
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,DLGAP1,0.308688781852404,5.01084280243863e-10
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,SNTG2,-0.389575188749614,1.12453084810027e-09
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,PTPRD,-0.296622214972538,2.15859018693447e-09
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,LINC02149,-0.342578902718287,1.02501663514796e-08
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CYR61,-0.581528172683391,1.27960284825749e-08
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,VIM,-0.294593084605662,2.23975759478994e-08
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,AC107021.1,0.332851763422301,3.18144864084082e-08
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,GPR176,-0.728115425960811,3.9493924650946e-08
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,LINC02398,-0.424817231630089,6.74057035413483e-08
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,FOS,0.323024876507738,1.07787645801272e-07
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,TP63,-0.631211172650925,1.57094444942766e-07
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,HRH1,-0.324987831344802,2.8110551164035e-07
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,TYRO3,0.366229406443657,6.67661021938795e-07
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,FAM189A1,0.510709370282386,3.04565947206921e-06
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,SLC39A14,0.311101262636855,2.06103351895717e-05
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,FLRT2,-0.306295205726149,6.70895707262297e-05
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,TLE4,-0.335092720376953,9.6773942062525e-05
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,WSCD2,0.793154557876299,9.71933649164666e-05
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,SLC4A11,-0.611963906783123,9.75521951743412e-05
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,KLRG2,-0.610989216826139,0.000149062977814677
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,LMOD1,-0.334261281644079,0.000179759013268293
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,SPOCK1,-0.37159574617193,0.000239017550845598
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,F5,0.640018255256304,0.000249631184672203
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,SNAP25-AS1,-0.350037783592818,0.000624563348878804
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,NTM,0.580510286251524,0.0014263445432151
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,PDGFD,0.359849764469988,0.00165936404633724
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,NETO1,0.598768780805617,0.00220983400668216
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,PROM1,0.320227330127272,0.00257986909056541
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,ADCY8,-0.442431660227662,0.00457312058208165
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,OCA2,0.419638084711421,0.00797526917452186
+Delorey TM. (Kidney),Kidney,Glomerular parietal epithelial cells,CCDC102B,0.308310578622981,0.0432440242237842
+Delorey TM. (Kidney),Kidney,Intercalated cells,PLEKHS1,-0.261047286480877,8.71770642474881e-143
+Delorey TM. (Kidney),Kidney,Intercalated cells,TNFSF15,-0.227068810753338,1.0249778390114e-111
+Delorey TM. (Kidney),Kidney,Intercalated cells,GPAT3,0.160974552028225,1.76090230887924e-92
+Delorey TM. (Kidney),Kidney,Intercalated cells,CASC16,-0.260184764235627,3.08259945971323e-90
+Delorey TM. (Kidney),Kidney,Intercalated cells,CALCA,-0.359428568803788,2.9202959494479e-83
+Delorey TM. (Kidney),Kidney,Intercalated cells,DOCK10,-0.187922635142391,3.23746362551824e-51
+Delorey TM. (Kidney),Kidney,Intercalated cells,CFTR,-0.3183053906794,7.65888330846533e-47
+Delorey TM. (Kidney),Kidney,Intercalated cells,SLC35F3,-0.185996963852316,9.01666561573716e-47
+Delorey TM. (Kidney),Kidney,Intercalated cells,PALLD,0.176359635352286,7.9405168576669e-46
+Delorey TM. (Kidney),Kidney,Intercalated cells,PYY,0.151074289820654,2.2883711391912e-42
+Delorey TM. (Kidney),Kidney,Intercalated cells,ELAVL2,0.184670546313105,1.77523158642479e-37
+Delorey TM. (Kidney),Kidney,Intercalated cells,MAP2,-0.183264036529912,1.89409531721479e-37
+Delorey TM. (Kidney),Kidney,Intercalated cells,NPNT,0.175239404358169,3.06972595283211e-35
+Delorey TM. (Kidney),Kidney,Intercalated cells,TLDC2,0.271312465193276,2.43573616217025e-33
+Delorey TM. (Kidney),Kidney,Intercalated cells,RGS16,-0.223763501314574,6.079526859733e-32
+Delorey TM. (Kidney),Kidney,Intercalated cells,DGKI,-0.169447304002275,7.73316466344607e-31
+Delorey TM. (Kidney),Kidney,Intercalated cells,AC026333.3,0.199824296723828,1.9755102234037e-29
+Delorey TM. (Kidney),Kidney,Intercalated cells,TMEM213,-0.189280540985748,6.48362345162392e-28
+Delorey TM. (Kidney),Kidney,Intercalated cells,BCO2,0.32827041281907,4.56255221930473e-27
+Delorey TM. (Kidney),Kidney,Intercalated cells,TMEM101,0.334174336366961,1.2403367811577e-26
+Delorey TM. (Kidney),Kidney,Intercalated cells,VWA5B1,0.222280125340926,4.0693884944637e-24
+Delorey TM. (Kidney),Kidney,Intercalated cells,NEURL1,-0.27114128583099,5.28479565298868e-24
+Delorey TM. (Kidney),Kidney,Intercalated cells,SPINK1,-0.289708471751341,3.09757594875742e-23
+Delorey TM. (Kidney),Kidney,Intercalated cells,SYT17,-0.207690756810495,9.21773012244261e-23
+Delorey TM. (Kidney),Kidney,Intercalated cells,BMPR1B,0.185130817991509,1.19937183410454e-21
+Delorey TM. (Kidney),Kidney,Intercalated cells,CD81,-0.181139591736781,1.76485822870613e-20
+Delorey TM. (Kidney),Kidney,Intercalated cells,AL390957.1,0.201501855471824,6.4356063258282e-20
+Delorey TM. (Kidney),Kidney,Intercalated cells,AC112229.3,-0.200337507440904,2.70042294470576e-19
+Delorey TM. (Kidney),Kidney,Intercalated cells,IL18,0.160665477533399,3.40645026261979e-19
+Delorey TM. (Kidney),Kidney,Intercalated cells,AQP6,-0.459692194281961,6.30131310165924e-19
+Delorey TM. (Kidney),Kidney,Intercalated cells,DPY19L2,-0.187827486964786,8.81338214542211e-19
+Delorey TM. (Kidney),Kidney,Intercalated cells,C12orf75,0.152081461832174,1.92707925801907e-18
+Delorey TM. (Kidney),Kidney,Intercalated cells,HEPACAM2,-0.20319152847165,2.11309267542644e-18
+Delorey TM. (Kidney),Kidney,Intercalated cells,RHCG,0.266645632982339,4.07698973564896e-18
+Delorey TM. (Kidney),Kidney,Intercalated cells,TMEM255A,-0.281585987869701,5.11994496150498e-18
+Delorey TM. (Kidney),Kidney,Intercalated cells,HSPA1B,-0.196305213717386,2.08926229589518e-17
+Delorey TM. (Kidney),Kidney,Intercalated cells,ASTN2,0.157353400379092,7.76457152822273e-17
+Delorey TM. (Kidney),Kidney,Intercalated cells,DMRT2,-0.294288586097607,8.56191999357099e-17
+Delorey TM. (Kidney),Kidney,Intercalated cells,AC138305.1,0.157397769899141,1.05234291728652e-16
+Delorey TM. (Kidney),Kidney,Intercalated cells,SLC24A2,-0.167000235184268,5.16647375025108e-16
+Delorey TM. (Kidney),Kidney,Intercalated cells,AL691403.1,0.299815566972198,2.4704976484697e-14
+Delorey TM. (Kidney),Kidney,Intercalated cells,WFDC2,0.237213640159504,6.38005731210549e-13
+Delorey TM. (Kidney),Kidney,Intercalated cells,SIPA1L2,0.15248263024512,4.11533171200576e-12
+Delorey TM. (Kidney),Kidney,Intercalated cells,TCF7L1,0.273874466298506,1.62980564730771e-11
+Delorey TM. (Kidney),Kidney,Intercalated cells,TSPAN5,-0.181449330974812,1.05866167616285e-10
+Delorey TM. (Kidney),Kidney,Intercalated cells,ZSCAN31,-0.169825758711174,2.18571953616737e-09
+Delorey TM. (Kidney),Kidney,Intercalated cells,AL356124.1,-0.191317741773127,2.74735352990592e-09
+Delorey TM. (Kidney),Kidney,Intercalated cells,ST8SIA6,0.175368956194314,1.09181994484431e-08
+Delorey TM. (Kidney),Kidney,Intercalated cells,LINC01230,-0.477830893846795,9.62659806472168e-07
+Delorey TM. (Kidney),Kidney,Intercalated cells,FOXI1,-0.203708093184087,1.27631009120552e-06
+Delorey TM. (Kidney),Kidney,Intercalated cells,KRTAP5-8,0.15591495874859,2.03636571306908e-06
+Delorey TM. (Kidney),Kidney,Intercalated cells,AP000282.1,0.31232901814634,2.52993926696482e-06
+Delorey TM. (Kidney),Kidney,Intercalated cells,GLDN,0.193971293905938,0.000384210274380072
+Delorey TM. (Kidney),Kidney,Intercalated cells,ANKRD22,0.344632819503925,0.00285356651900157
+Delorey TM. (Kidney),Kidney,Intercalated cells,SLC16A10,0.163493744273171,0.0112658269467777
+Delorey TM. (Kidney),Kidney,Intercalated cells,MAB21L3,-0.199729289462579,0.0193651295557374
+Delorey TM. (Kidney),Kidney,Loop of Henle,LNX1,-0.259315671667012,0.0
+Delorey TM. (Kidney),Kidney,Loop of Henle,SLC12A1,-0.657911575759307,1.75454264914722e-306
+Delorey TM. (Kidney),Kidney,Loop of Henle,UMOD,-0.567120062780506,8.48053610305587e-265
+Delorey TM. (Kidney),Kidney,Loop of Henle,SYT16,-0.18047979887289,7.30602441357898e-238
+Delorey TM. (Kidney),Kidney,Loop of Henle,CD44,0.173793953351307,1.10325362802624e-221
+Delorey TM. (Kidney),Kidney,Loop of Henle,SLC16A12,-0.201256054177225,3.37354062784654e-215
+Delorey TM. (Kidney),Kidney,Loop of Henle,ADAMTS1,0.146843644874743,2.25679917075498e-201
+Delorey TM. (Kidney),Kidney,Loop of Henle,IER3,0.120579153316057,4.89848477717685e-194
+Delorey TM. (Kidney),Kidney,Loop of Henle,AC007422.2,-0.261901211592733,2.17543278915573e-169
+Delorey TM. (Kidney),Kidney,Loop of Henle,ENOX1,-0.381846844730214,2.10340272535076e-166
+Delorey TM. (Kidney),Kidney,Loop of Henle,GP2,-0.342389975361713,1.52195866522699e-144
+Delorey TM. (Kidney),Kidney,Loop of Henle,CYP24A1,0.223404099660288,1.82643481612199e-141
+Delorey TM. (Kidney),Kidney,Loop of Henle,PLCG2,0.19321120603305,4.74051932104658e-136
+Delorey TM. (Kidney),Kidney,Loop of Henle,PCDH9,-0.175477124262316,6.85702416310699e-129
+Delorey TM. (Kidney),Kidney,Loop of Henle,COL6A3,0.1252877690831,2.87344622610963e-125
+Delorey TM. (Kidney),Kidney,Loop of Henle,KLF5,0.13127941781492,3.30167399991089e-114
+Delorey TM. (Kidney),Kidney,Loop of Henle,CCDC148,-0.208103085177247,3.04811130434503e-97
+Delorey TM. (Kidney),Kidney,Loop of Henle,PDE1A,-0.199403747948422,2.27939958893734e-92
+Delorey TM. (Kidney),Kidney,Loop of Henle,DNAJA4,0.129879901300942,2.87040740483486e-81
+Delorey TM. (Kidney),Kidney,Loop of Henle,ITGA2,0.118457119214004,4.43173361825802e-79
+Delorey TM. (Kidney),Kidney,Loop of Henle,S100A2,-0.179647255656082,7.25082511144475e-76
+Delorey TM. (Kidney),Kidney,Loop of Henle,KCTD16,-0.187606844526514,1.18611812089939e-74
+Delorey TM. (Kidney),Kidney,Loop of Henle,CA10,-0.222061707793623,1.62241570176122e-72
+Delorey TM. (Kidney),Kidney,Loop of Henle,LINC01762,-0.179253885912649,5.38714469792778e-71
+Delorey TM. (Kidney),Kidney,Loop of Henle,AC002066.1,0.148922306155346,1.42387918593616e-64
+Delorey TM. (Kidney),Kidney,Loop of Henle,CASR,-0.190667820284378,1.06436052662602e-63
+Delorey TM. (Kidney),Kidney,Loop of Henle,CLDN16,-0.326706024434461,7.62806498645141e-63
+Delorey TM. (Kidney),Kidney,Loop of Henle,ABTB2,0.112843904909627,1.03751291295834e-62
+Delorey TM. (Kidney),Kidney,Loop of Henle,LRP1B,-0.25006992681358,1.05934758527862e-59
+Delorey TM. (Kidney),Kidney,Loop of Henle,PCAT18,-0.198152147724051,6.66221681197258e-58
+Delorey TM. (Kidney),Kidney,Loop of Henle,IRX2,-0.357538247435206,2.12586772986397e-56
+Delorey TM. (Kidney),Kidney,Loop of Henle,ACSL4,-0.17816575460504,4.67891945629535e-53
+Delorey TM. (Kidney),Kidney,Loop of Henle,PITPNC1,0.183801187940624,1.46389368554084e-51
+Delorey TM. (Kidney),Kidney,Loop of Henle,TCIM,0.273266490510636,4.49935412069694e-50
+Delorey TM. (Kidney),Kidney,Loop of Henle,SMS,0.117519280427754,7.46653945398079e-50
+Delorey TM. (Kidney),Kidney,Loop of Henle,SCN7A,-0.264908661190316,1.13827934137046e-49
+Delorey TM. (Kidney),Kidney,Loop of Henle,AC009478.1,-0.181199573393039,5.81292873490051e-49
+Delorey TM. (Kidney),Kidney,Loop of Henle,HSPD1,0.127804281480475,5.46799774535114e-47
+Delorey TM. (Kidney),Kidney,Loop of Henle,NRG3,0.137971251668813,1.31330975896482e-46
+Delorey TM. (Kidney),Kidney,Loop of Henle,SFRP1,-0.181361533893604,1.80674341966861e-45
+Delorey TM. (Kidney),Kidney,Loop of Henle,SRGAP1,0.154760030235266,9.1814161621182e-45
+Delorey TM. (Kidney),Kidney,Loop of Henle,MIR2052HG,-0.182401875834449,2.7406375250438e-39
+Delorey TM. (Kidney),Kidney,Loop of Henle,STOX2,0.117432185467223,3.30653264979358e-38
+Delorey TM. (Kidney),Kidney,Loop of Henle,RBFOX1,-0.173756393808405,5.30426802276518e-37
+Delorey TM. (Kidney),Kidney,Loop of Henle,ITGB8,0.135888929065859,9.09584861121106e-37
+Delorey TM. (Kidney),Kidney,Loop of Henle,NFKBIZ,0.139528667425629,4.11470181855181e-35
+Delorey TM. (Kidney),Kidney,Loop of Henle,HSP90AA1,0.132610501724832,4.00344840753545e-34
+Delorey TM. (Kidney),Kidney,Loop of Henle,CADPS2,0.129707276003257,5.24971122528054e-30
+Delorey TM. (Kidney),Kidney,Loop of Henle,KCNMA1,0.141048114319214,1.83300198843415e-29
+Delorey TM. (Kidney),Kidney,Loop of Henle,SAT1,0.134077963015758,2.7430725537778e-25
+Delorey TM. (Kidney),Kidney,Loop of Henle,LINC01182,-0.229652704005836,4.49578091922755e-19
+Delorey TM. (Kidney),Kidney,Loop of Henle,PADI2,0.139169788792659,3.35268552790588e-11
+Delorey TM. (Kidney),Kidney,Loop of Henle,RANBP17,0.116999699341436,1.70124009082559e-10
+Delorey TM. (Kidney),Kidney,Loop of Henle,PROX1,0.134355133815016,6.96667552411069e-09
+Delorey TM. (Kidney),Kidney,Loop of Henle,U91319.1,-0.214041148283237,2.09750582350515e-07
+Delorey TM. (Kidney),Kidney,Loop of Henle,MYOCOS,0.116814138749171,2.29142172145921e-06
+Delorey TM. (Kidney),Kidney,Macrophages,P2RX1,-1.45471000532939,3.21083209851582e-24
+Delorey TM. (Kidney),Kidney,Macrophages,CR1,-0.736916508800704,1.70505522914163e-23
+Delorey TM. (Kidney),Kidney,Macrophages,ITGA4,-0.833235177066274,2.44433045943963e-22
+Delorey TM. (Kidney),Kidney,Macrophages,RGS1,1.72508455778507,1.92306138736024e-19
+Delorey TM. (Kidney),Kidney,Macrophages,CLEC7A,-1.38954611099906,5.08331466370463e-14
+Delorey TM. (Kidney),Kidney,Macrophages,SFMBT2,0.553678892140684,1.67101579402713e-13
+Delorey TM. (Kidney),Kidney,Macrophages,SLC11A1,-1.49980330099124,6.58913704127652e-12
+Delorey TM. (Kidney),Kidney,Macrophages,COLEC12,0.522473247699456,8.36070476780265e-12
+Delorey TM. (Kidney),Kidney,Macrophages,CD38,0.727380431896261,1.38467068149574e-11
+Delorey TM. (Kidney),Kidney,Macrophages,PLEK,-0.808900665311421,1.42183897581115e-09
+Delorey TM. (Kidney),Kidney,Macrophages,RIPOR2,-0.796761571391287,1.68469117328614e-09
+Delorey TM. (Kidney),Kidney,Macrophages,ENTPD1,-0.921867769425268,2.67248735497122e-09
+Delorey TM. (Kidney),Kidney,Macrophages,CD81,0.488609077312735,3.00545225919483e-09
+Delorey TM. (Kidney),Kidney,Macrophages,DOCK11,-1.22888906623896,3.97864847426236e-08
+Delorey TM. (Kidney),Kidney,Macrophages,DOCK8,-0.680642512244667,5.3349090930506e-08
+Delorey TM. (Kidney),Kidney,Macrophages,HLA-DRB5,0.701238735186085,8.64979373262984e-08
+Delorey TM. (Kidney),Kidney,Macrophages,HSPD1,0.482267435101915,2.64785821484406e-07
+Delorey TM. (Kidney),Kidney,Macrophages,DNAJA4,0.524882750971358,5.8962861060602e-07
+Delorey TM. (Kidney),Kidney,Macrophages,PLTP,1.11967406741584,6.98485694357477e-07
+Delorey TM. (Kidney),Kidney,Macrophages,FAM78A,0.957088206442418,1.43677514043263e-06
+Delorey TM. (Kidney),Kidney,Macrophages,RGS16,0.79785114940579,1.4776687063594e-06
+Delorey TM. (Kidney),Kidney,Macrophages,HRH2,-0.732585156812259,1.66094488956423e-06
+Delorey TM. (Kidney),Kidney,Macrophages,CDC45,0.783119657133711,1.73225880827152e-06
+Delorey TM. (Kidney),Kidney,Macrophages,PIK3R5,-0.868945041056825,4.95524905554085e-06
+Delorey TM. (Kidney),Kidney,Macrophages,NPL,-0.817817409094169,5.50595194077645e-06
+Delorey TM. (Kidney),Kidney,Macrophages,AC244021.1,-0.847459147410734,7.43500677900939e-06
+Delorey TM. (Kidney),Kidney,Macrophages,IER5,0.839791675576829,1.03855228400594e-05
+Delorey TM. (Kidney),Kidney,Macrophages,AOAH,-1.61493863309206,3.7911429180373e-05
+Delorey TM. (Kidney),Kidney,Macrophages,PGGHG,-0.834491514511592,4.8016478047693e-05
+Delorey TM. (Kidney),Kidney,Macrophages,HSP90AA1,0.686903769296587,4.80258809024679e-05
+Delorey TM. (Kidney),Kidney,Macrophages,HSPA1A,0.603042043417203,6.03837284271471e-05
+Delorey TM. (Kidney),Kidney,Macrophages,CELF2,-0.920305578704161,0.000103657265153597
+Delorey TM. (Kidney),Kidney,Macrophages,LINC01170,0.596740910050497,0.000116287532815058
+Delorey TM. (Kidney),Kidney,Macrophages,FCN1,-1.82832305676324,0.000165802898076925
+Delorey TM. (Kidney),Kidney,Macrophages,TLR2,-1.33760411559758,0.000210430965215208
+Delorey TM. (Kidney),Kidney,Macrophages,HLA-DPA1,1.26877662141414,0.000417327314067131
+Delorey TM. (Kidney),Kidney,Macrophages,VCAN,-1.13083306987073,0.000620315210989237
+Delorey TM. (Kidney),Kidney,Macrophages,MS4A6A,-0.669510185528295,0.00066592772418817
+Delorey TM. (Kidney),Kidney,Macrophages,FCRL2,0.796630436749477,0.000828738955206384
+Delorey TM. (Kidney),Kidney,Macrophages,SAT1,-0.694718355414146,0.000954984349034092
+Delorey TM. (Kidney),Kidney,Macrophages,HSPH1,0.598391637370907,0.00107975793760372
+Delorey TM. (Kidney),Kidney,Macrophages,FN1,0.562069467363804,0.0019300535672591
+Delorey TM. (Kidney),Kidney,Macrophages,SLC9A9,-0.72547161097784,0.00253148539000442
+Delorey TM. (Kidney),Kidney,Macrophages,PSAP,0.528967182219896,0.00420590096585672
+Delorey TM. (Kidney),Kidney,Macrophages,PTPRC,-1.51516878204988,0.00422784442970156
+Delorey TM. (Kidney),Kidney,Macrophages,HLA-DRB1,0.772855938937658,0.00454083248686264
+Delorey TM. (Kidney),Kidney,Macrophages,TMC8,-0.759771639410083,0.00755177126429623
+Delorey TM. (Kidney),Kidney,Macrophages,NAMPT,-0.82332904968158,0.0152753546297724
+Delorey TM. (Kidney),Kidney,Macrophages,FAM129A,0.561751131857572,0.017893452568528
+Delorey TM. (Kidney),Kidney,Macrophages,ITGB2-AS1,1.11766516212394,0.0187676673491008
+Delorey TM. (Kidney),Kidney,Macrophages,DNAJA1,0.487645280396777,0.0204945252216838
+Delorey TM. (Kidney),Kidney,Macrophages,CPE,0.596325062420618,0.0239364313171356
+Delorey TM. (Kidney),Kidney,Macrophages,BATF3,-0.886620963915072,0.0279098566402996
+Delorey TM. (Kidney),Kidney,Macrophages,SERPINH1,0.594112274892272,0.0343721812943798
+Delorey TM. (Kidney),Kidney,Macrophages,KLF4,0.477513488041791,0.0384753283307779
+Delorey TM. (Kidney),Kidney,Myocytes,EMILIN1,-0.545295199558044,1.83818989556865e-142
+Delorey TM. (Kidney),Kidney,Myocytes,MRGPRF,-0.754753327167836,5.17989529943068e-119
+Delorey TM. (Kidney),Kidney,Myocytes,GAS1,-0.545999678716231,7.0602119192782e-105
+Delorey TM. (Kidney),Kidney,Myocytes,C1QL1,-0.69263732279985,1.39031995687301e-66
+Delorey TM. (Kidney),Kidney,Myocytes,PTGER4,-0.788657065370064,1.00042590117815e-61
+Delorey TM. (Kidney),Kidney,Myocytes,AC006355.2,-0.714634998610261,2.58617356065866e-50
+Delorey TM. (Kidney),Kidney,Myocytes,PI15,-0.656835598629449,4.14803446369882e-49
+Delorey TM. (Kidney),Kidney,Myocytes,AL357793.1,0.276383886762009,4.29601133824226e-47
+Delorey TM. (Kidney),Kidney,Myocytes,LINC02149,0.333505821266677,9.81692194776431e-41
+Delorey TM. (Kidney),Kidney,Myocytes,COL6A3,0.272979344366075,1.22189251499593e-30
+Delorey TM. (Kidney),Kidney,Myocytes,PCOLCE2,-0.655266440723892,3.90604052082625e-30
+Delorey TM. (Kidney),Kidney,Myocytes,SERPINE1,0.499378333916664,2.32257198055306e-29
+Delorey TM. (Kidney),Kidney,Myocytes,TSHZ2,0.214029033550968,2.36041810545376e-27
+Delorey TM. (Kidney),Kidney,Myocytes,VCAN,0.213777523459903,3.68670575199758e-23
+Delorey TM. (Kidney),Kidney,Myocytes,NKD1,-0.582137322366641,4.30518600569823e-23
+Delorey TM. (Kidney),Kidney,Myocytes,THBS2,0.280142140523737,6.37137799952727e-22
+Delorey TM. (Kidney),Kidney,Myocytes,FAM180A,0.309782861781162,1.94670631950316e-20
+Delorey TM. (Kidney),Kidney,Myocytes,MAFB,-0.655458709845597,1.82664642482464e-18
+Delorey TM. (Kidney),Kidney,Myocytes,CDKN1C,-0.582073310305841,3.4510464552013e-18
+Delorey TM. (Kidney),Kidney,Myocytes,CRISPLD2,0.200933043560986,1.25177338235682e-17
+Delorey TM. (Kidney),Kidney,Myocytes,CLIC5,-0.588332223988559,3.67832234776525e-17
+Delorey TM. (Kidney),Kidney,Myocytes,IGFBP2,-0.550105517251501,3.78683277367788e-17
+Delorey TM. (Kidney),Kidney,Myocytes,WT1,-0.883298787762542,9.02432846498987e-17
+Delorey TM. (Kidney),Kidney,Myocytes,TRPC4,0.199234387763308,1.8499292751691e-16
+Delorey TM. (Kidney),Kidney,Myocytes,FOXC1,-0.55297407563265,2.24036995653567e-16
+Delorey TM. (Kidney),Kidney,Myocytes,NECAB1,-0.607030607334889,3.80205160256814e-15
+Delorey TM. (Kidney),Kidney,Myocytes,CLMP,0.220773652869786,8.57709092557645e-15
+Delorey TM. (Kidney),Kidney,Myocytes,AC139491.7,-0.684599773803191,5.66808333395497e-13
+Delorey TM. (Kidney),Kidney,Myocytes,AC074031.1,0.27056486165615,1.27931162097557e-12
+Delorey TM. (Kidney),Kidney,Myocytes,FN1,0.435787295229224,1.30564740930784e-12
+Delorey TM. (Kidney),Kidney,Myocytes,HTRA1,-0.723677822325659,6.72747412276129e-12
+Delorey TM. (Kidney),Kidney,Myocytes,NPNT,-0.549650022471236,8.73009793929957e-12
+Delorey TM. (Kidney),Kidney,Myocytes,MAP2,0.327318010860999,8.8157769003412e-12
+Delorey TM. (Kidney),Kidney,Myocytes,DACH2,-0.561779115936037,1.10038407744953e-11
+Delorey TM. (Kidney),Kidney,Myocytes,PRR16,0.250634182700371,3.36544454911025e-11
+Delorey TM. (Kidney),Kidney,Myocytes,AC092813.2,-0.842143012293569,3.75684914931594e-11
+Delorey TM. (Kidney),Kidney,Myocytes,NID1,0.417971986863429,4.17038914687876e-11
+Delorey TM. (Kidney),Kidney,Myocytes,TYRO3,-0.681888244442054,4.08974328387519e-10
+Delorey TM. (Kidney),Kidney,Myocytes,TMEM244,0.519000631581769,4.59269105411208e-10
+Delorey TM. (Kidney),Kidney,Myocytes,F3,-0.595155588850869,8.92156113128958e-10
+Delorey TM. (Kidney),Kidney,Myocytes,DCLK1,0.240086682576533,1.31904079253181e-09
+Delorey TM. (Kidney),Kidney,Myocytes,PHACTR3,0.22756077278829,4.11863061655785e-09
+Delorey TM. (Kidney),Kidney,Myocytes,RBM24,0.199104923901114,4.45035269408024e-09
+Delorey TM. (Kidney),Kidney,Myocytes,AKAP12,0.244743255934695,7.78681673826034e-09
+Delorey TM. (Kidney),Kidney,Myocytes,NTNG1,-0.543920423716866,1.00654844768681e-06
+Delorey TM. (Kidney),Kidney,Myocytes,PLA2G4A,0.209619318395988,1.06790271796227e-06
+Delorey TM. (Kidney),Kidney,Myocytes,LMX1B,-0.559887916260906,9.08701566208285e-06
+Delorey TM. (Kidney),Kidney,Myocytes,KCNK6,0.246366205794176,2.50494487948338e-05
+Delorey TM. (Kidney),Kidney,Myocytes,GEM,0.216289441406322,0.00305399038587633
+Delorey TM. (Kidney),Kidney,Myocytes,C7,0.401222342914365,0.00502241291981315
+Delorey TM. (Kidney),Kidney,Principle cells,AC099482.1,-0.544404130874208,0.0
+Delorey TM. (Kidney),Kidney,Principle cells,ZPLD1,0.136465825595222,4.8333594788312e-303
+Delorey TM. (Kidney),Kidney,Principle cells,LINC00511,0.118777131273368,1.66540597696336e-243
+Delorey TM. (Kidney),Kidney,Principle cells,LINC01098,-0.156369720361835,3.85507935892916e-227
+Delorey TM. (Kidney),Kidney,Principle cells,AC008250.1,-0.256213980450418,4.12715894447968e-211
+Delorey TM. (Kidney),Kidney,Principle cells,AC010197.1,-0.127811370245787,2.05540482772477e-188
+Delorey TM. (Kidney),Kidney,Principle cells,SLC8A1,-0.33272337729172,8.38772697241927e-186
+Delorey TM. (Kidney),Kidney,Principle cells,FP671120.1,0.13355463433516,9.13800125203433e-185
+Delorey TM. (Kidney),Kidney,Principle cells,SPNS2,0.129464799730513,5.02995759427569e-156
+Delorey TM. (Kidney),Kidney,Principle cells,LINC01924,-0.156839145027213,7.69413314976756e-141
+Delorey TM. (Kidney),Kidney,Principle cells,GPRC5A,0.306859190100597,1.53859398379275e-135
+Delorey TM. (Kidney),Kidney,Principle cells,PRKG1,-0.121026715725764,2.5359192380303e-128
+Delorey TM. (Kidney),Kidney,Principle cells,LAMB3,0.127648035735285,3.01263267125436e-105
+Delorey TM. (Kidney),Kidney,Principle cells,IGFBP3,0.189907080065097,1.07696043627576e-98
+Delorey TM. (Kidney),Kidney,Principle cells,PLOD2,-0.111789296000733,4.03519341636692e-90
+Delorey TM. (Kidney),Kidney,Principle cells,FAM110C,0.127398742008697,6.67434886636932e-89
+Delorey TM. (Kidney),Kidney,Principle cells,TRPV5,-0.222316878192523,4.76547755512242e-87
+Delorey TM. (Kidney),Kidney,Principle cells,GAPDH,0.153757315847697,1.45638804819097e-86
+Delorey TM. (Kidney),Kidney,Principle cells,IER3,0.131440300768036,6.16449609414822e-85
+Delorey TM. (Kidney),Kidney,Principle cells,SEMA6D,-0.109382081624317,6.23471062198429e-82
+Delorey TM. (Kidney),Kidney,Principle cells,PDE1C,-0.125294922316736,8.17038039665403e-79
+Delorey TM. (Kidney),Kidney,Principle cells,RASAL1,0.249622017911917,2.3232052585246e-78
+Delorey TM. (Kidney),Kidney,Principle cells,ACSM2A,-0.121312688753358,2.1784142157828e-76
+Delorey TM. (Kidney),Kidney,Principle cells,GABRB3,-0.121656956860525,1.15489497598677e-61
+Delorey TM. (Kidney),Kidney,Principle cells,TMPRSS4,0.17842327371805,4.18853011552993e-57
+Delorey TM. (Kidney),Kidney,Principle cells,TFRC,-0.109642055301553,1.38641673381052e-52
+Delorey TM. (Kidney),Kidney,Principle cells,LINC00645,-0.110118625792452,2.42011158371574e-52
+Delorey TM. (Kidney),Kidney,Principle cells,MT-ND1,0.128684810975259,3.47988306770171e-45
+Delorey TM. (Kidney),Kidney,Principle cells,ACOXL,0.128497298777745,5.39089037286531e-44
+Delorey TM. (Kidney),Kidney,Principle cells,FTCD,-0.131118444268892,3.91538663508404e-41
+Delorey TM. (Kidney),Kidney,Principle cells,RHEX,0.130258334261517,8.55541530283628e-41
+Delorey TM. (Kidney),Kidney,Principle cells,PIP5K1B,-0.153400359307415,1.77593523716537e-40
+Delorey TM. (Kidney),Kidney,Principle cells,AC138305.1,-0.157611748409113,1.02437713063759e-37
+Delorey TM. (Kidney),Kidney,Principle cells,TMEM178A,-0.200466888215739,3.54200293838786e-35
+Delorey TM. (Kidney),Kidney,Principle cells,LRP1B,-0.116938083146867,4.38584976520523e-35
+Delorey TM. (Kidney),Kidney,Principle cells,RHCG,-0.237132337495691,6.66788329282914e-35
+Delorey TM. (Kidney),Kidney,Principle cells,BACH2,-0.122028977733069,2.62140878106217e-34
+Delorey TM. (Kidney),Kidney,Principle cells,PRKAG2,0.120371788773938,4.85026809372976e-33
+Delorey TM. (Kidney),Kidney,Principle cells,RGS6,-0.302536556190408,5.47877261052738e-31
+Delorey TM. (Kidney),Kidney,Principle cells,CDH20,-0.111271815697661,2.91414972088749e-27
+Delorey TM. (Kidney),Kidney,Principle cells,PLCG2,0.174411228064357,8.04614514527922e-25
+Delorey TM. (Kidney),Kidney,Principle cells,KRT19,0.201485145236298,1.08468413257692e-23
+Delorey TM. (Kidney),Kidney,Principle cells,TMEM52B,-0.151884358624005,1.31680377595084e-23
+Delorey TM. (Kidney),Kidney,Principle cells,STOX2,0.143339109108225,4.7464664538549e-21
+Delorey TM. (Kidney),Kidney,Principle cells,TDRD5,-0.127135888994401,6.75380835180966e-19
+Delorey TM. (Kidney),Kidney,Principle cells,ALDH1A2,0.163254741423246,9.85525877251676e-19
+Delorey TM. (Kidney),Kidney,Principle cells,AF233439.1,-0.122598243588137,2.28634659688738e-15
+Delorey TM. (Kidney),Kidney,Principle cells,PPARG,0.132080657382555,2.74813400234198e-13
+Delorey TM. (Kidney),Kidney,Principle cells,ARG2,0.128256901921923,4.12305944193485e-12
+Delorey TM. (Kidney),Kidney,Principle cells,SCNN1B,-0.158255040663461,3.9215219732826e-11
+Delorey TM. (Kidney),Kidney,Principle cells,ITGB8,0.129791957016465,2.8170100559279e-09
+Delorey TM. (Kidney),Kidney,Principle cells,KLRD1,0.152991790474599,2.91682209700571e-08
+Delorey TM. (Kidney),Kidney,Principle cells,NDRG1,0.131008517465783,2.97542262243187e-08
+Delorey TM. (Kidney),Kidney,Principle cells,EXPH5,0.146036053428954,1.8807617559468e-06
+Delorey TM. (Kidney),Kidney,Principle cells,SCNN1G,0.157357693170771,0.0148105142911279
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ACSM2A,-0.38116680838807,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,BHMT,-0.15110714683067,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CDH6,0.249015019958621,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CLTRN,0.262757212557757,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CRYAB,-0.139134382732076,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CRYM,-0.147736994121939,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CYP24A1,0.22099131954989,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,FAU,0.238906560409618,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,HBA1,-0.175536522551908,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,MASP1,-0.143449594265676,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,MT1G,0.442443297493363,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,MT1M,-0.156316358464681,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,MT1X,0.318779101234691,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,RNF212B,-0.256929480818879,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,TNFRSF11B,-0.129911853725239,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,VNN1,-0.171247574660884,0.0
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AL138828.1,0.204762293080545,1.87065670040782e-309
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CREB5,0.259235190297982,2.43708017688558e-297
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CXXC4-AS1,-0.121372587575212,1.06215689563597e-272
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,RHEX,0.24621436563843,1.06129718050481e-252
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AKR1B10,0.2066995821456,2.1379483359362e-248
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PRAG1,0.200525630130809,2.52035313821741e-243
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PFKFB1,-0.134250097995778,2.2605850472578e-241
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,SLC22A12,-0.119670363827972,1.09277973379545e-217
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ACSM2B,-0.362632715156329,7.32817429064219e-214
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CYP3A5,-0.179760102097425,1.60831227250899e-193
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ITGAV,0.247364665239202,8.86317384043706e-189
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,STOX2,0.289585977647455,4.29970634459708e-178
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PARS2,-0.127318306050234,3.9245057850354e-177
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,MCTP2,0.197414166019247,1.27172477942792e-175
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CMBL,-0.178274034184881,7.84149212668636e-171
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,NRXN1,-0.153260408350909,1.19703304583811e-170
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,SAMD4A,0.233564809426869,3.61791518079178e-168
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AC007529.2,-0.144769934971436,8.1542948315018e-161
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PRKD1,0.20456797812836,6.50061465797922e-154
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CCDC26,-0.12919725243643,5.92504592544354e-144
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,NHS,0.239298031872154,3.54036475354507e-134
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,KCNQ3,0.222316760390377,2.7356363479445e-128
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,LINC02471,0.201288813130049,6.8833758536752e-121
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,SLC9C1,-0.139822357745509,6.123105660694e-118
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,FTH1,-0.18346834175671,5.30572814656023e-103
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,NRCAM,0.222266129107581,2.92686774486424e-102
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PRUNE2,0.225325008197083,8.09152711604012e-95
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,DPYS,-0.206530776712449,2.86736516098485e-91
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,SLC39A14,0.258082974152472,9.95162454516342e-87
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CLDN1,0.222346306812962,3.16078558154637e-84
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,G6PC,-0.131990916268555,3.18821825436639e-82
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ERICH4,-0.14803722606859,6.64825850513201e-78
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PDZD2,-0.156856593646884,2.52941274978384e-75
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,GLS,0.23262482706027,5.60985730372733e-74
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AC096577.1,-0.208108189872465,7.6472696756433e-74
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,C5orf67,0.219891805792028,6.9097440898552e-72
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ACSF2,-0.188936559185119,1.89140251817239e-71
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,TRABD2B,0.215895474517282,4.88493734644961e-67
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,SPATS2L,0.197398171769304,2.7802003736378e-63
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,FNIP2,0.231085431127677,1.36277551116259e-62
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,MT2A,-0.137902199590172,1.62833255754724e-59
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CTSB,0.214289315737822,1.17840191637414e-58
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,FTL,-0.178704693699933,6.11675103703303e-56
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,DSCAML1,0.25107164683235,2.56977143119581e-54
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,OPCML,-0.124772951415711,2.76914357854919e-54
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PTH1R,-0.147408616672354,2.16612004817541e-50
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,HAO2,-0.128078153543034,8.87838687707628e-48
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CYP4A11,-0.167465922556448,5.96295382467429e-47
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CDH2,0.221931583489528,2.79402382440795e-46
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,COL23A1,0.218246983510152,9.74583702267972e-40
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,RHOBTB1,0.206135054286494,1.0866665284924e-38
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,PROM1,0.209051341300392,2.16933423843771e-38
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,GRAMD1B,-0.157475628838577,7.13261276754763e-37
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,NEDD4L,0.204625004271209,1.04593646121939e-36
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AL121999.1,0.233448578022083,1.71181561325356e-36
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,WDR72,0.208180491851818,6.01191305553362e-36
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ZNF804B,-0.134524528085908,9.13488404921781e-31
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,GPT,-0.119252039567818,9.85032766239083e-29
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ZBTB16,-0.139401248602446,2.44416426625257e-26
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,BNC2,0.209082595502481,2.51943108986692e-23
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,CYP4A22-AS1,-0.180813916388639,2.76071179584838e-22
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,SLC5A12,-0.152477171932999,3.75574737087658e-16
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AC113386.1,0.299778842011215,6.81179380843529e-15
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,HNF4G,0.209444437556339,2.26191207788364e-13
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ST18,-0.119783657968312,5.81232551272216e-13
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,ANK2,-0.1291586289281,3.88256858606704e-11
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,BICC1,0.263796315936961,4.79739563053784e-10
+Delorey TM. (Kidney),Kidney,Proximal tubule cells,AC010235.1,0.19750660451547,1.937537338761e-09

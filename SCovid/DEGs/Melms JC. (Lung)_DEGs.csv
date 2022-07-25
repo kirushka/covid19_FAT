@@ -1,0 +1,326 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Melms JC. (Lung),Lung,Airway epithelial cells,PTPRN2,-7.67331337598812,1.28431549828235e-278
+Melms JC. (Lung),Lung,Airway epithelial cells,CYP3A5,-4.79244530703681,1.69181800083885e-272
+Melms JC. (Lung),Lung,Airway epithelial cells,GNGT1,-5.75951635726012,3.08492072171417e-248
+Melms JC. (Lung),Lung,Airway epithelial cells,CEACAM5,-6.64673848874245,2.00169609736589e-240
+Melms JC. (Lung),Lung,Airway epithelial cells,RP1,9.45817095948575,4.10776076875065e-204
+Melms JC. (Lung),Lung,Airway epithelial cells,CFAP299,9.96027105403047,8.49925303217414e-201
+Melms JC. (Lung),Lung,Airway epithelial cells,DNAH12,10.8982426281004,6.12947860316324e-191
+Melms JC. (Lung),Lung,Airway epithelial cells,LINC00342,-8.97602572778211,2.36285501936711e-189
+Melms JC. (Lung),Lung,Airway epithelial cells,RGS6,-7.2810479197868,2.23127143324771e-188
+Melms JC. (Lung),Lung,Airway epithelial cells,MYBPC1,-4.93312673827051,2.45755871042914e-186
+Melms JC. (Lung),Lung,Airway epithelial cells,ATP10B,-3.93349961055464,1.68217803572521e-185
+Melms JC. (Lung),Lung,Airway epithelial cells,MUC5AC,-6.86300145453946,3.99826320648554e-185
+Melms JC. (Lung),Lung,Airway epithelial cells,ANKRD36C,-7.04219545331138,1.24255510430661e-180
+Melms JC. (Lung),Lung,Airway epithelial cells,CFAP54,5.47596726464638,3.86423067656848e-175
+Melms JC. (Lung),Lung,Airway epithelial cells,MUC3A,-5.74084268752236,6.14486936944136e-171
+Melms JC. (Lung),Lung,Airway epithelial cells,LRRIQ1,6.29193621229835,3.85259084454859e-170
+Melms JC. (Lung),Lung,Airway epithelial cells,STK33,4.69838985037438,1.78689410598161e-169
+Melms JC. (Lung),Lung,Airway epithelial cells,LINC01876,-5.00669887263632,4.45632725228642e-167
+Melms JC. (Lung),Lung,Airway epithelial cells,CDHR3,7.58298875818246,2.69398253178514e-164
+Melms JC. (Lung),Lung,Airway epithelial cells,FER1L6,-5.85185740379457,3.51731516907769e-162
+Melms JC. (Lung),Lung,Airway epithelial cells,AGBL4,9.1457033361533,8.73949145810318e-162
+Melms JC. (Lung),Lung,Airway epithelial cells,POF1B,-3.89390292440453,9.33782432464316e-162
+Melms JC. (Lung),Lung,Airway epithelial cells,DCDC1,6.38682764768394,3.32888858002717e-161
+Melms JC. (Lung),Lung,Airway epithelial cells,NEK10,5.82677872776589,4.05616149850811e-160
+Melms JC. (Lung),Lung,Airway epithelial cells,DNAH6,6.5781523049271,2.38546804636928e-159
+Melms JC. (Lung),Lung,Airway epithelial cells,TMEM232,5.21545927851837,1.54773322771792e-158
+Melms JC. (Lung),Lung,Airway epithelial cells,AC099520.1,-4.03390804138365,3.39296837491969e-158
+Melms JC. (Lung),Lung,Airway epithelial cells,MUC5B,-4.20913152914611,4.19952157024581e-158
+Melms JC. (Lung),Lung,Airway epithelial cells,DNAH7,6.2578308537418,2.91954890041042e-154
+Melms JC. (Lung),Lung,Airway epithelial cells,IL1RAPL2,-6.84254801325034,3.08765505487698e-154
+Melms JC. (Lung),Lung,Airway epithelial cells,AC011287.1,-2.81670036361755,6.07751585665609e-148
+Melms JC. (Lung),Lung,Airway epithelial cells,DNAH9,5.36375875408124,4.8341666698973e-147
+Melms JC. (Lung),Lung,Airway epithelial cells,ZBBX,5.06284054619512,4.53959334792687e-145
+Melms JC. (Lung),Lung,Airway epithelial cells,PACRG,5.17578751047679,2.67741762902345e-144
+Melms JC. (Lung),Lung,Airway epithelial cells,CFAP47,6.06759881284783,1.97198204424485e-143
+Melms JC. (Lung),Lung,Airway epithelial cells,SPAG17,5.60254530310471,1.64654921381268e-141
+Melms JC. (Lung),Lung,Airway epithelial cells,CFAP43,5.38469961745424,2.85242225598515e-138
+Melms JC. (Lung),Lung,Airway epithelial cells,AL138701.2,-3.63225927729979,4.4443252824952e-138
+Melms JC. (Lung),Lung,Airway epithelial cells,AC138305.1,-3.77028429550389,5.28597499028413e-135
+Melms JC. (Lung),Lung,Airway epithelial cells,GCNT3,-3.57578334454628,6.08636220776815e-131
+Melms JC. (Lung),Lung,Airway epithelial cells,SPAG16,4.87380855274407,8.01350784752895e-128
+Melms JC. (Lung),Lung,Airway epithelial cells,AC114316.1,-3.34333024041685,8.80073646779384e-128
+Melms JC. (Lung),Lung,Airway epithelial cells,PLAT,-3.20068212133485,1.31384327924531e-120
+Melms JC. (Lung),Lung,Airway epithelial cells,MIR31HG,-2.92464800192082,1.51960307862808e-120
+Melms JC. (Lung),Lung,Airway epithelial cells,HYDIN,4.50014432799915,1.67340833806762e-120
+Melms JC. (Lung),Lung,Airway epithelial cells,ONECUT3,-3.05539512604834,2.71920793237888e-119
+Melms JC. (Lung),Lung,Airway epithelial cells,DNAAF1,4.3379421818512,6.80658262778266e-119
+Melms JC. (Lung),Lung,Airway epithelial cells,AL445584.2,4.5098232408078,2.18651459523602e-117
+Melms JC. (Lung),Lung,Airway epithelial cells,PTPRT,7.22479452227798,4.83546494364717e-112
+Melms JC. (Lung),Lung,Airway epithelial cells,TTC29,4.53867047332505,1.33745115767135e-111
+Melms JC. (Lung),Lung,Airway epithelial cells,FCGBP,-3.80149737958902,2.0102585473116e-108
+Melms JC. (Lung),Lung,Airway epithelial cells,GABRP,-2.91931292221338,1.6072387693854e-99
+Melms JC. (Lung),Lung,Airway epithelial cells,CAPS,4.39407471778372,3.27218182060574e-99
+Melms JC. (Lung),Lung,Airway epithelial cells,AC026167.1,-2.97812298670344,9.53019378072119e-94
+Melms JC. (Lung),Lung,Airway epithelial cells,SLC25A37,5.38232774707159,3.96069462685136e-92
+Melms JC. (Lung),Lung,Airway epithelial cells,HBB,5.49884085042613,1.18644575043898e-85
+Melms JC. (Lung),Lung,Airway epithelial cells,ANK1,6.04454877005115,1.76967681155279e-84
+Melms JC. (Lung),Lung,Airway epithelial cells,SPTA1,6.19437716057598,8.4043722769867e-84
+Melms JC. (Lung),Lung,Airway epithelial cells,SLC4A1,6.26279632140167,1.38281366415183e-82
+Melms JC. (Lung),Lung,Airway epithelial cells,REG4,-2.92137655600595,3.82856066041274e-68
+Melms JC. (Lung),Lung,Airway epithelial cells,DHRS9,-2.89097831623489,7.9611727092372e-53
+Melms JC. (Lung),Lung,Airway epithelial cells,MUC16,-3.79426957829564,2.22269975859298e-44
+Melms JC. (Lung),Lung,Alveolar type I cells,SFTPB,4.08817123097219,1.48219693752374e-323
+Melms JC. (Lung),Lung,Alveolar type I cells,EMP2,-4.07973570541485,8.67578106030166e-162
+Melms JC. (Lung),Lung,Alveolar type I cells,ATF7IP2,-4.33085046346017,1.50209545658382e-160
+Melms JC. (Lung),Lung,Alveolar type I cells,KCNQ3,0.86951921458496,8.32764810948937e-155
+Melms JC. (Lung),Lung,Alveolar type I cells,LINC01290,-3.37147120638131,5.54272145952164e-153
+Melms JC. (Lung),Lung,Alveolar type I cells,SEMA5A,-2.50392138443191,2.87385154924677e-141
+Melms JC. (Lung),Lung,Alveolar type I cells,AC022325.2,-4.40429242779531,5.75309025990463e-129
+Melms JC. (Lung),Lung,Alveolar type I cells,AC019117.1,1.61996984296243,1.96607730275134e-123
+Melms JC. (Lung),Lung,Alveolar type I cells,AC027288.3,-2.92014342821282,3.98138035768021e-107
+Melms JC. (Lung),Lung,Alveolar type I cells,NCKAP5,-6.62106914926917,3.13814757878201e-105
+Melms JC. (Lung),Lung,Alveolar type I cells,LMO3,1.13577185765421,1.17369151054377e-104
+Melms JC. (Lung),Lung,Alveolar type I cells,RTKN2,-4.90131690506768,1.81863300878149e-104
+Melms JC. (Lung),Lung,Alveolar type I cells,SEMA3E,-2.43195090903367,5.16617503789955e-104
+Melms JC. (Lung),Lung,Alveolar type I cells,MACROD2,1.54130917182235,8.5803754193698e-102
+Melms JC. (Lung),Lung,Alveolar type I cells,GPM6A,-3.04283138885442,2.47583217927755e-100
+Melms JC. (Lung),Lung,Alveolar type I cells,C4BPA,1.08135809138979,2.48910523924326e-79
+Melms JC. (Lung),Lung,Alveolar type I cells,AC019117.2,0.985219333962299,4.67211590348538e-77
+Melms JC. (Lung),Lung,Alveolar type I cells,PLD5,1.49748804927904,1.09562590300971e-62
+Melms JC. (Lung),Lung,Alveolar type I cells,LINC01937,0.92719598409995,4.21695121586111e-53
+Melms JC. (Lung),Lung,Alveolar type I cells,CEACAM6,0.88177164061782,1.30764120639972e-50
+Melms JC. (Lung),Lung,Alveolar type I cells,NCKAP5-AS2,-2.47082071838138,4.24570738218984e-49
+Melms JC. (Lung),Lung,Alveolar type I cells,NTM,-8.01660743027082,2.67300014571714e-46
+Melms JC. (Lung),Lung,Alveolar type I cells,CCDC85A,1.23132352269665,6.08356365359678e-42
+Melms JC. (Lung),Lung,Alveolar type I cells,GPR39,0.877073627102913,1.96381719967636e-40
+Melms JC. (Lung),Lung,Alveolar type I cells,AP003025.2,-2.20225432029888,1.54151454069347e-38
+Melms JC. (Lung),Lung,Alveolar type I cells,AC002066.1,1.03361928174355,7.11575568081933e-21
+Melms JC. (Lung),Lung,Alveolar type II cells,ABCA3,-3.01040751056756,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AC003991.1,-2.11648451071582,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AC046195.1,-2.17887803483511,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AC092640.1,-2.73375069999312,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AC096531.2,-2.31670310014524,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AC096564.1,-2.16443405271374,0
+Melms JC. (Lung),Lung,Alveolar type II cells,ACOXL,-2.71504397430505,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AFF3,-2.85988560706998,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AGBL1,-7.1454860128731,0
+Melms JC. (Lung),Lung,Alveolar type II cells,AL133268.4,-2.86245872815512,0
+Melms JC. (Lung),Lung,Alveolar type II cells,ANK3,-3.51509624273662,0
+Melms JC. (Lung),Lung,Alveolar type II cells,ARFGEF3,-2.00106383962721,0
+Melms JC. (Lung),Lung,Alveolar type II cells,BMP1,-1.83454325716129,0
+Melms JC. (Lung),Lung,Alveolar type II cells,CCDC141,-2.55163116225258,0
+Melms JC. (Lung),Lung,Alveolar type II cells,DLG2,-3.10549709284639,0
+Melms JC. (Lung),Lung,Alveolar type II cells,EEF1A1,0.915407129582845,0
+Melms JC. (Lung),Lung,Alveolar type II cells,ERBB4,-3.52339845081075,0
+Melms JC. (Lung),Lung,Alveolar type II cells,HSP90AA1,1.04312554553096,0
+Melms JC. (Lung),Lung,Alveolar type II cells,LANCL1-AS1,-2.23481758674804,0
+Melms JC. (Lung),Lung,Alveolar type II cells,LHFPL3,-4.0337431344959,0
+Melms JC. (Lung),Lung,Alveolar type II cells,LHFPL3-AS2,-2.78349844090279,0
+Melms JC. (Lung),Lung,Alveolar type II cells,LINC01811,-2.46471598985485,0
+Melms JC. (Lung),Lung,Alveolar type II cells,LRRC36,-2.23485587037138,0
+Melms JC. (Lung),Lung,Alveolar type II cells,LRRK2,-4.553695827365,0
+Melms JC. (Lung),Lung,Alveolar type II cells,MTRNR2L12,0.779086491047204,0
+Melms JC. (Lung),Lung,Alveolar type II cells,P3H2,-2.84617785869023,0
+Melms JC. (Lung),Lung,Alveolar type II cells,PDE4D,-4.13948301259204,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RBMS3,0.994848398062745,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RPL13,0.81407546653295,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RPL13A,0.781080168868079,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RPL28,0.669908483063441,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RPS19,0.788373217177102,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RPS27,0.625933616609171,0
+Melms JC. (Lung),Lung,Alveolar type II cells,RPS28,0.635951488620022,0
+Melms JC. (Lung),Lung,Alveolar type II cells,S100A6,0.653996910424707,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SCD,0.817664970199529,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SCN1A,-1.85004886288447,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SFTPC,-6.50496805539767,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SGMS2,-3.11388936591443,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SLC7A2,-1.82950888244643,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SNX25,-2.49963689014789,0
+Melms JC. (Lung),Lung,Alveolar type II cells,STEAP4,-2.9053442749178,0
+Melms JC. (Lung),Lung,Alveolar type II cells,SYNE1,-1.82892612474956,0
+Melms JC. (Lung),Lung,Alveolar type II cells,TMEM163,-2.01548546170145,0
+Melms JC. (Lung),Lung,Alveolar type II cells,WIF1,-3.11878984902311,0
+Melms JC. (Lung),Lung,Alveolar type II cells,ZNF385B,-5.75404332838475,0
+Melms JC. (Lung),Lung,Alveolar type II cells,CEACAM6,0.814268408654239,1.39207406662429e-293
+Melms JC. (Lung),Lung,Alveolar type II cells,ALPL,-1.85934050154351,3.54783090904633e-289
+Melms JC. (Lung),Lung,Alveolar type II cells,AC007368.1,1.07438605329078,1.85274410445902e-270
+Melms JC. (Lung),Lung,Alveolar type II cells,FRMD5,0.880509955395224,8.32221042896394e-269
+Melms JC. (Lung),Lung,Alveolar type II cells,CCND1,0.841449374789224,2.36399987317846e-257
+Melms JC. (Lung),Lung,Alveolar type II cells,ROS1,-1.87347673679256,3.42490257431265e-238
+Melms JC. (Lung),Lung,Alveolar type II cells,MTRNR2L8,0.70722252852097,2.85236030700534e-226
+Melms JC. (Lung),Lung,Alveolar type II cells,FDFT1,1.0698268290397,9.52728484301611e-223
+Melms JC. (Lung),Lung,Alveolar type II cells,PTCHD4,0.677448808106847,2.90850518844019e-199
+Melms JC. (Lung),Lung,Alveolar type II cells,SFN,0.941033332007089,8.91160558057144e-195
+Melms JC. (Lung),Lung,Alveolar type II cells,AC105402.3,1.16039914788623,1.17178202615485e-191
+Melms JC. (Lung),Lung,Alveolar type II cells,KRT19,0.687480674964362,2.51595397844417e-179
+Melms JC. (Lung),Lung,Alveolar type II cells,HS6ST2,0.837095929013376,9.72720913138015e-172
+Melms JC. (Lung),Lung,Alveolar type II cells,MUC4,0.713206660967306,2.63568927762661e-158
+Melms JC. (Lung),Lung,Alveolar type II cells,ACSS2,1.01944341753042,1.09765281631343e-156
+Melms JC. (Lung),Lung,Alveolar type II cells,DMBT1,-2.07314793878606,2.91413813717982e-156
+Melms JC. (Lung),Lung,Alveolar type II cells,AQP1,0.790624024540932,5.72497708885483e-156
+Melms JC. (Lung),Lung,Alveolar type II cells,GPR39,0.694422989698829,3.63050736719413e-139
+Melms JC. (Lung),Lung,Alveolar type II cells,GDF15,0.634160546150167,1.68009449986156e-137
+Melms JC. (Lung),Lung,Alveolar type II cells,SLC34A2,1.04783359960558,6.76933554157281e-135
+Melms JC. (Lung),Lung,Alveolar type II cells,SFTPB,-2.65627520726015,6.54735058368352e-119
+Melms JC. (Lung),Lung,Alveolar type II cells,KRT7,0.7597491146295,1.84652410884965e-111
+Melms JC. (Lung),Lung,Alveolar type II cells,RAB27B,0.639851722604397,2.80506915372614e-110
+Melms JC. (Lung),Lung,Alveolar type II cells,HMGCS1,1.22716159223594,5.88731179027443e-105
+Melms JC. (Lung),Lung,Alveolar type II cells,MSMO1,0.888016673811929,2.27751225845185e-100
+Melms JC. (Lung),Lung,Alveolar type II cells,FASN,0.904345023093257,4.94459728437265e-94
+Melms JC. (Lung),Lung,Alveolar type II cells,SCGB3A1,0.763025867272687,2.04372807048352e-85
+Melms JC. (Lung),Lung,Alveolar type II cells,SFTPA2,1.70920415800311,6.7893077098696e-55
+Melms JC. (Lung),Lung,Alveolar type II cells,SFTPA1,1.5178068230729,1.39475079696453e-47
+Melms JC. (Lung),Lung,Alveolar type II cells,MACROD2,0.881946298850055,2.1051873768987e-26
+Melms JC. (Lung),Lung,B cells,HSP90AA1,3.31006584998431,1.02978177187896e-257
+Melms JC. (Lung),Lung,B cells,AFF3,-3.46751504526266,1.01298088131377e-201
+Melms JC. (Lung),Lung,B cells,TXNDC5,3.18567030659082,2.82387858657342e-136
+Melms JC. (Lung),Lung,B cells,BACH2,-3.97125481065024,3.63050380736868e-125
+Melms JC. (Lung),Lung,B cells,BANK1,-5.25692538537817,3.86646824467979e-114
+Melms JC. (Lung),Lung,B cells,JCHAIN,2.97684907198243,5.1679020694575e-110
+Melms JC. (Lung),Lung,B cells,BLK,-4.2043024012674,2.5623709911795e-109
+Melms JC. (Lung),Lung,B cells,IGHG1,4.84799113964556,3.12403612072379e-102
+Melms JC. (Lung),Lung,B cells,IGLC3,6.72711598127219,3.47262196901065e-97
+Melms JC. (Lung),Lung,B cells,STEAP1B,-2.59551854994349,3.48968832597299e-86
+Melms JC. (Lung),Lung,B cells,AL589693.1,-5.154005878859,1.77225015537649e-82
+Melms JC. (Lung),Lung,B cells,PAX5,-4.17905678267348,2.31681176771452e-70
+Melms JC. (Lung),Lung,B cells,MS4A1,-3.58863451343279,5.5311164349937e-70
+Melms JC. (Lung),Lung,B cells,GNG7,-3.11806957992788,5.89017807833036e-68
+Melms JC. (Lung),Lung,B cells,IGLC2,4.92067183207079,8.31684002598589e-63
+Melms JC. (Lung),Lung,B cells,IGHA1,3.7311488809329,1.76290848933233e-32
+Melms JC. (Lung),Lung,B cells,IGKC,3.10930293859501,6.08714708236952e-32
+Melms JC. (Lung),Lung,B cells,IGLC1,3.41029121125579,1.08608777667469e-27
+Melms JC. (Lung),Lung,Endothelial cells,HSP90AA1,2.21852355636348,6.32732252861087e-296
+Melms JC. (Lung),Lung,Endothelial cells,NCALD,-2.27846203953396,2.5112867225052e-199
+Melms JC. (Lung),Lung,Endothelial cells,EPAS1,-3.1290617942471,1.92789509134723e-151
+Melms JC. (Lung),Lung,Endothelial cells,SMAD1,1.76283350168845,3.58746172119711e-125
+Melms JC. (Lung),Lung,Endothelial cells,VIPR1-AS1,-2.95261517934365,9.01182203649933e-124
+Melms JC. (Lung),Lung,Endothelial cells,AFF3,-2.1662982809355,1.21687862610699e-119
+Melms JC. (Lung),Lung,Endothelial cells,VIPR1,-2.70799983951295,1.48271799943348e-114
+Melms JC. (Lung),Lung,Endothelial cells,MMRN1,3.83854733898629,5.19551767239195e-113
+Melms JC. (Lung),Lung,Endothelial cells,SLC6A4,-3.58591199536627,3.43768206075246e-107
+Melms JC. (Lung),Lung,Endothelial cells,PTPRB,-3.50098302976985,2.17062836564457e-106
+Melms JC. (Lung),Lung,Endothelial cells,SEMA3A,4.13882318610447,3.89219535570058e-104
+Melms JC. (Lung),Lung,Endothelial cells,CALCRL,4.11681713461891,2.11260284733383e-102
+Melms JC. (Lung),Lung,Endothelial cells,KIAA1217,-2.28013429689777,2.40943014376965e-100
+Melms JC. (Lung),Lung,Endothelial cells,ADAMTS9,2.11539036441691,6.99621655082759e-93
+Melms JC. (Lung),Lung,Endothelial cells,RALGAPA2,1.94928762350764,1.66564319102972e-90
+Melms JC. (Lung),Lung,Endothelial cells,CCL21,3.60278688539637,2.34092064799309e-84
+Melms JC. (Lung),Lung,Endothelial cells,STXBP6,-2.49274834053754,2.72225505042475e-84
+Melms JC. (Lung),Lung,Endothelial cells,FAM107A,-2.70054183250471,5.63388215056295e-81
+Melms JC. (Lung),Lung,Endothelial cells,RASGRF2,1.55360344484763,2.4902225868113e-78
+Melms JC. (Lung),Lung,Endothelial cells,PROX1,2.38302334568605,1.45358954313977e-77
+Melms JC. (Lung),Lung,Endothelial cells,AL137139.2,-2.15261055920566,1.32627949492142e-70
+Melms JC. (Lung),Lung,Endothelial cells,ZNF385D,1.6944061489033,1.91110525831465e-69
+Melms JC. (Lung),Lung,Endothelial cells,BTNL9,-2.39590870739897,1.03367968989913e-67
+Melms JC. (Lung),Lung,Endothelial cells,ADGRL2,-3.91183131324691,1.00941306004166e-65
+Melms JC. (Lung),Lung,Endothelial cells,RELN,2.88129146960433,1.50570035085281e-58
+Melms JC. (Lung),Lung,Endothelial cells,AC007319.1,1.56022138224881,1.58583796243802e-47
+Melms JC. (Lung),Lung,Endothelial cells,HECW2,-2.17706098054442,1.94989727283172e-46
+Melms JC. (Lung),Lung,Endothelial cells,PKHD1L1,2.14942716702725,6.10617731679645e-46
+Melms JC. (Lung),Lung,Endothelial cells,SLCO2A1,-2.14330037168181,2.94751829600369e-41
+Melms JC. (Lung),Lung,Endothelial cells,DKK2,-2.12230678160335,8.06356927454827e-22
+Melms JC. (Lung),Lung,Endothelial cells,FLT1,1.61279375496707,2.04611836895569e-20
+Melms JC. (Lung),Lung,Endothelial cells,PCDH17,1.49566608316662,6.04762644596673e-16
+Melms JC. (Lung),Lung,Fibroblasts,AC092691.1,-1.95503907648386,0
+Melms JC. (Lung),Lung,Fibroblasts,AL031599.1,-3.18646021080569,0
+Melms JC. (Lung),Lung,Fibroblasts,COL1A1,5.45609796166086,0
+Melms JC. (Lung),Lung,Fibroblasts,COL1A2,5.69967423310752,0
+Melms JC. (Lung),Lung,Fibroblasts,COL3A1,7.16942653004353,0
+Melms JC. (Lung),Lung,Fibroblasts,COL6A3,3.11724284212019,0
+Melms JC. (Lung),Lung,Fibroblasts,DCN,1.87930930021827,0
+Melms JC. (Lung),Lung,Fibroblasts,FGF7,1.9301697784955,0
+Melms JC. (Lung),Lung,Fibroblasts,HSP90AA1,1.72379596731819,0
+Melms JC. (Lung),Lung,Fibroblasts,IL1R1,1.9950869200474,0
+Melms JC. (Lung),Lung,Fibroblasts,LUM,2.67036282111147,0
+Melms JC. (Lung),Lung,Fibroblasts,MMP2,1.77123722761965,0
+Melms JC. (Lung),Lung,Fibroblasts,NFATC2,-2.29176742899987,0
+Melms JC. (Lung),Lung,Fibroblasts,ROBO2,-7.49103368652969,0
+Melms JC. (Lung),Lung,Fibroblasts,SCN7A,-2.55973361065674,0
+Melms JC. (Lung),Lung,Fibroblasts,SYN3,-1.95255903211333,0
+Melms JC. (Lung),Lung,Fibroblasts,AC012349.1,-2.18080276326876,1.76959005364944e-307
+Melms JC. (Lung),Lung,Fibroblasts,ELN,-3.76685616995029,4.73542099139268e-298
+Melms JC. (Lung),Lung,Fibroblasts,PRKG1,-2.15194678294996,2.02409242153158e-295
+Melms JC. (Lung),Lung,Fibroblasts,GRIA1,-2.15816427271118,1.3464368579164e-278
+Melms JC. (Lung),Lung,Fibroblasts,LINC00968,-1.97821076535919,1.83667946667784e-272
+Melms JC. (Lung),Lung,Fibroblasts,CRISPLD2,-1.91562879798425,1.32654892544914e-259
+Melms JC. (Lung),Lung,Fibroblasts,NEGR1,-1.8653481521966,7.43118942931762e-252
+Melms JC. (Lung),Lung,Fibroblasts,TIMP3,-2.039500202188,2.38276557667271e-241
+Melms JC. (Lung),Lung,Fibroblasts,COL5A2,2.42361587113546,2.82419027463939e-231
+Melms JC. (Lung),Lung,Fibroblasts,SLIT2,-2.33067864562214,2.21109169661406e-223
+Melms JC. (Lung),Lung,Fibroblasts,AC025280.3,-2.06995869597895,3.14375034638157e-219
+Melms JC. (Lung),Lung,Fibroblasts,GPC6,2.3840566806099,4.35353050714599e-205
+Melms JC. (Lung),Lung,Fibroblasts,A2M,2.46196977190853,1.29585970167315e-204
+Melms JC. (Lung),Lung,Fibroblasts,SERPINE1,-3.5824753681864,1.06100352021284e-200
+Melms JC. (Lung),Lung,Fibroblasts,TIMP1,2.29710772073349,5.40906644357347e-192
+Melms JC. (Lung),Lung,Fibroblasts,CEMIP,3.76443413206563,8.52575617830842e-183
+Melms JC. (Lung),Lung,Fibroblasts,SPARC,2.49989321111394,2.71984666457912e-179
+Melms JC. (Lung),Lung,Fibroblasts,POSTN,2.11392337648062,7.88300753768251e-163
+Melms JC. (Lung),Lung,Fibroblasts,HPSE2,-2.26239146780504,3.77189166334615e-115
+Melms JC. (Lung),Lung,Fibroblasts,FN1,2.20992301645731,1.4740928683944e-87
+Melms JC. (Lung),Lung,Macrophages,AC092691.1,-2.12090574883367,0
+Melms JC. (Lung),Lung,Macrophages,AC116534.1,-1.44593110613718,0
+Melms JC. (Lung),Lung,Macrophages,CTSB,2.09762948176939,0
+Melms JC. (Lung),Lung,Macrophages,CTSD,2.86279162246447,0
+Melms JC. (Lung),Lung,Macrophages,HMOX1,1.50886298245999,0
+Melms JC. (Lung),Lung,Macrophages,HSP90AA1,2.01575628747198,0
+Melms JC. (Lung),Lung,Macrophages,INHBA,-1.76535423998342,0
+Melms JC. (Lung),Lung,Macrophages,LSAMP,-4.04859784574818,0
+Melms JC. (Lung),Lung,Macrophages,PSAP,2.25120761047691,0
+Melms JC. (Lung),Lung,Macrophages,FTL,2.91773865801811,8.37589489394665e-320
+Melms JC. (Lung),Lung,Macrophages,ACSM3,-1.45661663046968,1.67861256126088e-276
+Melms JC. (Lung),Lung,Macrophages,ANO5,-1.32821025570663,1.21235470304975e-272
+Melms JC. (Lung),Lung,Macrophages,APOE,2.55613655552372,1.39627979299019e-238
+Melms JC. (Lung),Lung,Macrophages,GLUL,1.11438538650192,1.54989758887964e-228
+Melms JC. (Lung),Lung,Macrophages,MRC1,-1.82265298447395,2.72252166242023e-204
+Melms JC. (Lung),Lung,Macrophages,CTSZ,1.19539525948536,1.84501985840443e-201
+Melms JC. (Lung),Lung,Macrophages,CTSL,1.09712737771366,1.13341092158914e-193
+Melms JC. (Lung),Lung,Macrophages,PPARG,-1.35899065269339,5.35323906308077e-140
+Melms JC. (Lung),Lung,Macrophages,CD163L1,-1.61174408135952,8.09120638774308e-139
+Melms JC. (Lung),Lung,Macrophages,IGSF21,-1.34854540312986,1.90389194460404e-120
+Melms JC. (Lung),Lung,Macrophages,SPP1,1.38248001166476,3.64658729149714e-119
+Melms JC. (Lung),Lung,Macrophages,F13A1,-1.95869687322776,3.40499704854361e-75
+Melms JC. (Lung),Lung,Mast cells,PAG1,2.36454929712425,2.94726300311723e-41
+Melms JC. (Lung),Lung,Mast cells,AREG,3.14607665853363,1.57951793305771e-36
+Melms JC. (Lung),Lung,Mast cells,GALC,4.17370830881086,5.21070874495887e-30
+Melms JC. (Lung),Lung,Mast cells,BMP2K,2.73846347371242,7.28835375494811e-26
+Melms JC. (Lung),Lung,Mast cells,SLC24A3,6.85698869298002,1.40147434664187e-24
+Melms JC. (Lung),Lung,Mast cells,AL139231.1,-6.42983570852573,2.0860945832051e-18
+Melms JC. (Lung),Lung,Mast cells,KIAA1549,-3.25496632707704,1.32006629077335e-15
+Melms JC. (Lung),Lung,Mast cells,AC092979.1,-6.62719288770017,1.29571612562972e-11
+Melms JC. (Lung),Lung,Mast cells,LINC02645,-3.43357061902605,3.02424919101438e-11
+Melms JC. (Lung),Lung,Mast cells,CACNA1H,-3.28259380913034,4.86268377581584e-10
+Melms JC. (Lung),Lung,Mast cells,RGS13,-3.62888986897887,5.39740711403789e-09
+Melms JC. (Lung),Lung,Mast cells,MS4A2,-3.8044441878354,8.94366477877863e-07
+Melms JC. (Lung),Lung,Mast cells,CPA3,-4.61159701344935,1.39365107329415e-06
+Melms JC. (Lung),Lung,Mast cells,KIT,4.74404153870525,2.10472696535204e-06
+Melms JC. (Lung),Lung,Mast cells,LINC02147,2.40713178978756,3.18458061245078e-06
+Melms JC. (Lung),Lung,Mast cells,LINC02208,1.89051951168521,6.16871159340435e-05
+Melms JC. (Lung),Lung,Plasma cells,NDUFAF6,-4.61936086378867,3.68819427118664e-51
+Melms JC. (Lung),Lung,Plasma cells,HSP90AA1,3.22605710659752,7.84551096599409e-30
+Melms JC. (Lung),Lung,Plasma cells,TP53INP1,-3.7051781523647,4.58128544475347e-21
+Melms JC. (Lung),Lung,Plasma cells,RASSF6,-3.64223994919539,9.89246368777712e-20
+Melms JC. (Lung),Lung,Plasma cells,TXNDC5,5.24735774513241,4.55479437163456e-15
+Melms JC. (Lung),Lung,Plasma cells,ITM2C,2.8399592572582,1.47550353292434e-14
+Melms JC. (Lung),Lung,Plasma cells,CCR2,2.00237513418666,8.34922090087932e-14
+Melms JC. (Lung),Lung,Plasma cells,JCHAIN,6.15196844919877,6.8305368189274e-11
+Melms JC. (Lung),Lung,Plasma cells,AL096794.1,-2.65494170789616,1.48300932158653e-09
+Melms JC. (Lung),Lung,Plasma cells,AC002072.1,-3.53832091606951,7.70345997615215e-09
+Melms JC. (Lung),Lung,Plasma cells,MZB1,2.83572226321927,1.17517248678154e-08
+Melms JC. (Lung),Lung,Plasma cells,LINC02362,-3.03374677036529,2.51675426495043e-08
+Melms JC. (Lung),Lung,Plasma cells,AL589693.1,-3.31009291307521,2.71413598082375e-08
+Melms JC. (Lung),Lung,Plasma cells,IGHGP,-6.8225278564259,8.05689576601396e-08
+Melms JC. (Lung),Lung,Plasma cells,HSP90B1,2.37474533939156,2.63236317507345e-07
+Melms JC. (Lung),Lung,Plasma cells,IGHG1,10.0790599107386,2.69340918961226e-07
+Melms JC. (Lung),Lung,Plasma cells,DCC,-4.31165825336036,0.000198320445479623
+Melms JC. (Lung),Lung,Plasma cells,IGLC3,5.20486211429709,0.000861718863079761
+Melms JC. (Lung),Lung,Plasma cells,IGHG3,-3.15687770205482,0.0208175371532635
+Melms JC. (Lung),Lung,T cells,HSP90AA1,2.8345496508088,0
+Melms JC. (Lung),Lung,T cells,HSPH1,1.2634329858656,0
+Melms JC. (Lung),Lung,T cells,DNAJB1,0.80173111272287,3.90581689426833e-239
+Melms JC. (Lung),Lung,T cells,AC013652.1,-1.87012215149571,4.9421803096026e-178
+Melms JC. (Lung),Lung,T cells,LINC01619,-1.40301602962716,1.21956028958236e-170
+Melms JC. (Lung),Lung,T cells,LINC02694,-3.06218417280529,3.86774434196157e-167
+Melms JC. (Lung),Lung,T cells,PDE3B,0.953754680311766,1.19621731079588e-102
+Melms JC. (Lung),Lung,T cells,LINC00299,-1.23234671495458,6.05968706746607e-71
+Melms JC. (Lung),Lung,T cells,MYBL1,-1.4328708053666,3.54654759629054e-65
+Melms JC. (Lung),Lung,T cells,AC010609.1,-1.14229744443827,1.86297157035518e-56
+Melms JC. (Lung),Lung,T cells,TRAC,0.858185197741917,2.14878409685475e-52
+Melms JC. (Lung),Lung,T cells,ITK,-1.06512504147972,3.00836915761785e-52
+Melms JC. (Lung),Lung,T cells,CD96,-1.07171738933551,1.14584333737015e-47
+Melms JC. (Lung),Lung,T cells,FYN,0.861732071990511,2.90417110429214e-44
+Melms JC. (Lung),Lung,T cells,LINC01934,-1.24186396889631,1.06572654583196e-42
+Melms JC. (Lung),Lung,T cells,CCL5,0.755601765624443,9.01903831017461e-32
+Melms JC. (Lung),Lung,T cells,CAMK4,0.832123573162956,5.4617861068735e-23
+Melms JC. (Lung),Lung,T cells,GNLY,0.905704947840954,1.18928570241068e-17

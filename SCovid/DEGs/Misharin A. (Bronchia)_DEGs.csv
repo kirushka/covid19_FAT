@@ -1,0 +1,552 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Misharin A. (Bronchia),Airway,Basal cells,PHLDB2,-0.416792950726232,8.4412931003543e-145
+Misharin A. (Bronchia),Airway,Basal cells,MUCL1,0.239656817324461,2.70786866131724e-129
+Misharin A. (Bronchia),Airway,Basal cells,UGT2A1,0.284516095616028,3.7784869421642e-101
+Misharin A. (Bronchia),Airway,Basal cells,TNFAIP3,-0.207097095261156,3.68381075093011e-99
+Misharin A. (Bronchia),Airway,Basal cells,CD177,0.320855601517029,1.05105691175808e-96
+Misharin A. (Bronchia),Airway,Basal cells,SPRY1,-0.218422035495575,3.9274943739482e-76
+Misharin A. (Bronchia),Airway,Basal cells,CHST9,0.283646009617949,4.43402982382263e-74
+Misharin A. (Bronchia),Airway,Basal cells,CSF3,-0.294744025062846,1.2784908587786e-73
+Misharin A. (Bronchia),Airway,Basal cells,HBB,-0.307087537510941,9.89261705314097e-72
+Misharin A. (Bronchia),Airway,Basal cells,CEMIP,0.286092076412643,1.71676997393178e-65
+Misharin A. (Bronchia),Airway,Basal cells,LYPD3,-0.347071769352396,1.2971709878276e-61
+Misharin A. (Bronchia),Airway,Basal cells,MAFF,-0.289475288318855,1.04717097036264e-58
+Misharin A. (Bronchia),Airway,Basal cells,NFKBIA,-0.254574712493882,2.00962248918974e-55
+Misharin A. (Bronchia),Airway,Basal cells,AQP5,0.241984067430331,1.98207181444588e-54
+Misharin A. (Bronchia),Airway,Basal cells,TM4SF1,-0.220033259757055,2.02884678374814e-51
+Misharin A. (Bronchia),Airway,Basal cells,HCAR3,0.333086211421085,3.46255646954579e-51
+Misharin A. (Bronchia),Airway,Basal cells,CDKN1C,-0.267260883706322,1.55248562529309e-49
+Misharin A. (Bronchia),Airway,Basal cells,EPAS1,0.320600047373153,3.87627065651023e-47
+Misharin A. (Bronchia),Airway,Basal cells,LAMB3,-0.196225085398523,5.72583970829558e-46
+Misharin A. (Bronchia),Airway,Basal cells,C15orf48,-0.237730856553291,7.30106617861999e-44
+Misharin A. (Bronchia),Airway,Basal cells,RHOB,-0.222357437684255,6.57582171092738e-43
+Misharin A. (Bronchia),Airway,Basal cells,DHCR24,0.256085187353885,5.41973163097685e-41
+Misharin A. (Bronchia),Airway,Basal cells,RAB11FIP1,-0.205846096694669,2.54224778474625e-40
+Misharin A. (Bronchia),Airway,Basal cells,KCNJ15,-0.220014436121181,4.77771340297019e-40
+Misharin A. (Bronchia),Airway,Basal cells,KLHL21,-0.210968998689401,5.73581030928708e-40
+Misharin A. (Bronchia),Airway,Basal cells,C1S,-0.249027417777344,1.12219964192948e-39
+Misharin A. (Bronchia),Airway,Basal cells,SERPINB3,0.3239934903793,1.15416563151913e-33
+Misharin A. (Bronchia),Airway,Basal cells,VAMP5,-0.198287862259172,5.00120752035201e-33
+Misharin A. (Bronchia),Airway,Basal cells,HIF1A,-0.218793913588455,6.65649675023749e-33
+Misharin A. (Bronchia),Airway,Basal cells,FLNA,-0.221871629135675,6.16064772548786e-32
+Misharin A. (Bronchia),Airway,Basal cells,KLF6,-0.201731691141348,7.39519581256449e-31
+Misharin A. (Bronchia),Airway,Basal cells,CCK,-0.208146313713508,7.7204536487345e-31
+Misharin A. (Bronchia),Airway,Basal cells,EGFR,0.34020836076693,1.55298682015585e-27
+Misharin A. (Bronchia),Airway,Basal cells,S100A10,-0.292976084893447,1.59754144575897e-27
+Misharin A. (Bronchia),Airway,Basal cells,FOSL1,-0.254658350206139,5.45455971541258e-27
+Misharin A. (Bronchia),Airway,Basal cells,SMIM31,0.246859485094432,3.22700600652129e-25
+Misharin A. (Bronchia),Airway,Basal cells,KITLG,0.299799920795441,1.14040754397421e-23
+Misharin A. (Bronchia),Airway,Basal cells,AKR1C1,0.268480960985645,1.95716295028984e-23
+Misharin A. (Bronchia),Airway,Basal cells,LMTK3,-0.244956761840107,3.17437972519332e-23
+Misharin A. (Bronchia),Airway,Basal cells,DEGS2,0.23914533868165,4.65008164478728e-22
+Misharin A. (Bronchia),Airway,Basal cells,KIAA1324,0.244223908832227,6.11134965829939e-22
+Misharin A. (Bronchia),Airway,Basal cells,ZNF185,0.346110599818437,1.91244473305023e-21
+Misharin A. (Bronchia),Airway,Basal cells,CRYM,0.367975487131401,2.60646516838379e-21
+Misharin A. (Bronchia),Airway,Basal cells,TNC,0.355244771604957,1.97999979443358e-20
+Misharin A. (Bronchia),Airway,Basal cells,CLCA2,0.280928976519258,5.27213604002625e-20
+Misharin A. (Bronchia),Airway,Basal cells,SLC15A2,0.3187309013768,1.3768784628123e-18
+Misharin A. (Bronchia),Airway,Basal cells,GALNT6,0.286903623616923,2.55889360978609e-18
+Misharin A. (Bronchia),Airway,Basal cells,PTPRZ1,0.261925945139242,4.03918524611093e-18
+Misharin A. (Bronchia),Airway,Basal cells,STXBP6,0.329525193090938,1.15881853208363e-17
+Misharin A. (Bronchia),Airway,Basal cells,PCNT,-0.207465873700555,1.04152913989071e-15
+Misharin A. (Bronchia),Airway,Basal cells,MMP10,-0.285681205868331,1.1203091989243e-15
+Misharin A. (Bronchia),Airway,Basal cells,TIMP3,-0.290800704119608,1.38592327854221e-15
+Misharin A. (Bronchia),Airway,Basal cells,IGFBP6,-0.339752543218339,3.54292151940118e-15
+Misharin A. (Bronchia),Airway,Basal cells,TMEM213,0.293382404796355,6.48620719873082e-15
+Misharin A. (Bronchia),Airway,Basal cells,CALD1,-0.208406057842616,1.08315902222256e-14
+Misharin A. (Bronchia),Airway,Basal cells,FGFR1,-0.213519087298103,3.77923973277961e-14
+Misharin A. (Bronchia),Airway,Basal cells,PHLDA2,-0.206937884457399,7.81203666966136e-14
+Misharin A. (Bronchia),Airway,Basal cells,SOX9,-0.210910997140677,1.26520754335174e-12
+Misharin A. (Bronchia),Airway,Basal cells,FGFR3,-0.216940721813334,7.99427634913109e-12
+Misharin A. (Bronchia),Airway,Basal cells,DAPL1,0.500778164919963,1.23500975688115e-11
+Misharin A. (Bronchia),Airway,Basal cells,TSPAN8,0.244267068842186,4.5715934079696e-10
+Misharin A. (Bronchia),Airway,Basal cells,HEY1,0.315148429552937,8.96673012492467e-10
+Misharin A. (Bronchia),Airway,Basal cells,CAPN13,0.351206709863716,5.16368829218129e-09
+Misharin A. (Bronchia),Airway,Basal cells,TGM1,-0.233029619295215,1.04251401339622e-08
+Misharin A. (Bronchia),Airway,Basal cells,SPARCL1,0.316631110618927,1.53153066780853e-06
+Misharin A. (Bronchia),Airway,Basal cells,BEND5,0.250310060387544,6.60774920587243e-06
+Misharin A. (Bronchia),Airway,Basal cells,ACTB,-0.252944717925858,8.02235028691577e-06
+Misharin A. (Bronchia),Airway,Basal cells,RAB25,0.251394108640123,2.19897421222805e-05
+Misharin A. (Bronchia),Airway,Basal cells,ALDH3A1,0.336629671220114,0.000101581787585855
+Misharin A. (Bronchia),Airway,Basal cells,AP002884.1,0.240621498989961,0.002176463821869
+Misharin A. (Bronchia),Airway,Basal cells,CAV2,0.34711799475707,0.0140151515537288
+Misharin A. (Bronchia),Airway,Cycling Basal cels,MZB1,2.09850156288745,4.78197206022026e-73
+Misharin A. (Bronchia),Airway,Cycling Basal cels,S100A2,-0.439879272753503,2.69176999005963e-55
+Misharin A. (Bronchia),Airway,Cycling Basal cels,RAC2,0.697076426632569,1.99457568726476e-49
+Misharin A. (Bronchia),Airway,Cycling Basal cels,ICAM2,0.541195649932789,1.21742647399908e-45
+Misharin A. (Bronchia),Airway,Cycling Basal cels,ITGB7,0.827310191542316,1.56380060086215e-37
+Misharin A. (Bronchia),Airway,Cycling Basal cels,CD38,0.702735544732197,1.59935786994404e-37
+Misharin A. (Bronchia),Airway,Cycling Basal cels,LIMD2,0.609003216075442,4.72214103080597e-33
+Misharin A. (Bronchia),Airway,Cycling Basal cels,ISG20,0.575508856751857,7.85031640196927e-33
+Misharin A. (Bronchia),Airway,Cycling Basal cels,KRT19,-0.387573190939535,9.18820331595787e-32
+Misharin A. (Bronchia),Airway,Cycling Basal cels,MDK,-0.399215648855974,1.77681050045958e-31
+Misharin A. (Bronchia),Airway,Cycling Basal cels,HES4,-0.409718785833311,3.82499097196418e-29
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SSR3,0.53397677259429,2.92070178438473e-27
+Misharin A. (Bronchia),Airway,Cycling Basal cels,WFDC2,-0.399427156901284,4.58805193549608e-27
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SUB1,0.578044866167273,1.51048177798645e-26
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SFN,-0.382583971277347,5.81206781381327e-25
+Misharin A. (Bronchia),Airway,Cycling Basal cels,GYPC,0.550604382421479,4.56096695818409e-22
+Misharin A. (Bronchia),Airway,Cycling Basal cels,CXCL17,-0.376912080736035,1.41985836117309e-21
+Misharin A. (Bronchia),Airway,Cycling Basal cels,CBR3,-0.407771805284093,2.70555220316781e-20
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SDF2L1,0.66070776791025,4.31320887458796e-20
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SPCS3,0.574807487531823,5.15122348235424e-20
+Misharin A. (Bronchia),Airway,Cycling Basal cels,IGFBP3,-0.45610266613681,7.36102445808647e-20
+Misharin A. (Bronchia),Airway,Cycling Basal cels,MYDGF,0.57463329343363,9.46486895542679e-20
+Misharin A. (Bronchia),Airway,Cycling Basal cels,FKBP11,0.712639501570228,5.52236586939451e-19
+Misharin A. (Bronchia),Airway,Cycling Basal cels,POU2AF1,0.794849752673697,2.77159610538566e-18
+Misharin A. (Bronchia),Airway,Cycling Basal cels,UBE2J1,0.838864158112249,7.11289681047027e-18
+Misharin A. (Bronchia),Airway,Cycling Basal cels,MT1E,-0.388144322430368,7.16364176172486e-17
+Misharin A. (Bronchia),Airway,Cycling Basal cels,TXNDC15,0.535700499422511,1.03659084690686e-16
+Misharin A. (Bronchia),Airway,Cycling Basal cels,CD9,-0.422832832023268,1.0746672497446e-16
+Misharin A. (Bronchia),Airway,Cycling Basal cels,HSP90B1,0.65480724937788,1.17868677926699e-16
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SLPI,-0.471923789207593,1.22751730017229e-16
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SEC11C,0.590901706262757,7.46396504666926e-16
+Misharin A. (Bronchia),Airway,Cycling Basal cels,DCPS,0.537247155882141,7.64496018202993e-16
+Misharin A. (Bronchia),Airway,Cycling Basal cels,DERL3,0.599691456516255,2.17248924080527e-12
+Misharin A. (Bronchia),Airway,Cycling Basal cels,TIMP1,-0.447797278913417,8.67202176612528e-12
+Misharin A. (Bronchia),Airway,Cycling Basal cels,ITM2C,0.686608441768187,2.8759574964933e-11
+Misharin A. (Bronchia),Airway,Cycling Basal cels,CD320,0.67754592093962,5.18550429994043e-11
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SPINT2,-0.37746105610869,8.91133911580385e-11
+Misharin A. (Bronchia),Airway,Cycling Basal cels,KRT8,-0.450937161373448,1.48976871589332e-10
+Misharin A. (Bronchia),Airway,Cycling Basal cels,ANLN,-0.413680238528021,2.34238657549302e-10
+Misharin A. (Bronchia),Airway,Cycling Basal cels,S100A6,-0.726332349787474,3.88666530155373e-10
+Misharin A. (Bronchia),Airway,Cycling Basal cels,HSPB1,-0.511110115366839,2.87433474920423e-08
+Misharin A. (Bronchia),Airway,Cycling Basal cels,TIFA,0.681179574170698,1.41650299484498e-07
+Misharin A. (Bronchia),Airway,Cycling Basal cels,CXCL8,-0.384780563908795,3.38743628508349e-07
+Misharin A. (Bronchia),Airway,Cycling Basal cels,ANXA1,-0.46246603552571,2.15932355088113e-06
+Misharin A. (Bronchia),Airway,Cycling Basal cels,SAT1,-0.530274887211544,2.57614883023925e-06
+Misharin A. (Bronchia),Airway,Cycling Basal cels,TYMS,0.680802361745487,2.76394920490914e-06
+Misharin A. (Bronchia),Airway,Cycling Basal cels,RTKN2,-0.410341627727163,6.12864965927691e-05
+Misharin A. (Bronchia),Airway,Cycling Basal cels,GSN,-0.398835767938757,0.0048974274866818
+Misharin A. (Bronchia),Airway,Cycling Basal cels,GLUL,-0.46318855805386,0.0223443358350069
+Misharin A. (Bronchia),Airway,Deuterosomal cells,WDR24,-0.224928758289924,1.90886866202344e-102
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ZEB2,-0.274278922765109,2.16548064739653e-102
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCNO,0.858921763939563,1.79665664298638e-99
+Misharin A. (Bronchia),Airway,Deuterosomal cells,PLCG2,-0.55044879474441,9.11944482346317e-99
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CDC20B,1.38429963395061,8.1049462860333e-91
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TNNT3,-0.25199881283449,5.40251695343794e-86
+Misharin A. (Bronchia),Airway,Deuterosomal cells,WFDC2,0.500833214040779,1.20477755071736e-77
+Misharin A. (Bronchia),Airway,Deuterosomal cells,IER3,-0.48777726895728,1.93381435095325e-77
+Misharin A. (Bronchia),Airway,Deuterosomal cells,FMNL1,-0.231917817085247,5.14976225392215e-74
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CXCL2,-0.305562112912078,2.25416216478079e-73
+Misharin A. (Bronchia),Airway,Deuterosomal cells,C20orf85,0.575932589286107,7.66183935592386e-70
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DAB2,-0.247967903155507,8.99844615175977e-69
+Misharin A. (Bronchia),Airway,Deuterosomal cells,FOXJ1,0.544897665921495,1.00864124147901e-67
+Misharin A. (Bronchia),Airway,Deuterosomal cells,MT2A,0.726100957832223,2.74090165818668e-64
+Misharin A. (Bronchia),Airway,Deuterosomal cells,FOSB,-0.326281396730926,5.25422562262139e-64
+Misharin A. (Bronchia),Airway,Deuterosomal cells,GSTP1,0.873527944767389,1.08611864916503e-62
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SLC11A1,-0.326738931582768,1.14269913022108e-61
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ANKFN1,-0.470997461566181,1.54718913086013e-61
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TXN,0.708846292792477,3.7143430435431e-60
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCL3,-0.272037608276931,1.12212276646996e-59
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CSF1,-0.22276478603111,4.53837737385256e-56
+Misharin A. (Bronchia),Airway,Deuterosomal cells,VIM,-0.227638520114293,2.7429169141345e-55
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CORO2B,-0.339588858404485,3.3689086642544e-55
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ENG,-0.233172773196441,3.55845475505564e-55
+Misharin A. (Bronchia),Airway,Deuterosomal cells,NFKBIA,-0.359855313499668,4.26487382358222e-55
+Misharin A. (Bronchia),Airway,Deuterosomal cells,USP13,0.797305232343076,1.10032841904038e-54
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCL4,-0.221991019584805,4.28527439790847e-54
+Misharin A. (Bronchia),Airway,Deuterosomal cells,KIF9,0.522214526211778,2.61558022425046e-53
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CYR61,-0.29379698243177,3.99402557550398e-52
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CFAP58,-0.281401732551798,6.5468630499584e-52
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCL2,-0.223422102529841,4.95507120974465e-51
+Misharin A. (Bronchia),Airway,Deuterosomal cells,AC009502.1,-0.317658929747003,2.9332684778805e-50
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ICAM1,-0.232757520655525,1.10437429206381e-49
+Misharin A. (Bronchia),Airway,Deuterosomal cells,MAFB,-0.290587842018523,3.10992660611162e-49
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TYROBP,-0.221966169262847,5.14932389314304e-49
+Misharin A. (Bronchia),Airway,Deuterosomal cells,FRMPD2,-0.224253141592259,1.34173647033797e-48
+Misharin A. (Bronchia),Airway,Deuterosomal cells,E2F7,0.917356519645694,1.435301384606e-48
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SPACA9,0.584514492756212,6.66906456301425e-48
+Misharin A. (Bronchia),Airway,Deuterosomal cells,MUC1,0.551131126324774,2.64885553127836e-47
+Misharin A. (Bronchia),Airway,Deuterosomal cells,JUN,-0.409914424342041,1.2078913182042e-45
+Misharin A. (Bronchia),Airway,Deuterosomal cells,NDUFAF3,0.530481861882833,6.74234070012337e-45
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SPINT2,0.494995714906211,2.08517033581344e-43
+Misharin A. (Bronchia),Airway,Deuterosomal cells,JUNB,-0.237416472358157,8.21784326799629e-43
+Misharin A. (Bronchia),Airway,Deuterosomal cells,POLR2I,0.584427343436033,4.8552974783891e-42
+Misharin A. (Bronchia),Airway,Deuterosomal cells,UPP1,-0.261683150558901,6.03622702494115e-42
+Misharin A. (Bronchia),Airway,Deuterosomal cells,H2AFZ,0.706285404522438,2.31076166855004e-41
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DYNLL1,0.495283706973439,2.47271245518424e-41
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CRNDE,0.552087965570731,9.25627651982012e-41
+Misharin A. (Bronchia),Airway,Deuterosomal cells,FLNA,-0.234361876667672,1.33501296003673e-40
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TCTEX1D2,0.641409201676231,1.70873224909844e-40
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DLEC1,-0.336772092324254,2.26669558824912e-40
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CYP27A1,-0.299009243401197,3.06731621774563e-40
+Misharin A. (Bronchia),Airway,Deuterosomal cells,AC073611.1,-0.235281764146073,2.53129672736569e-39
+Misharin A. (Bronchia),Airway,Deuterosomal cells,FOS,-0.415757777031798,6.72872139470348e-39
+Misharin A. (Bronchia),Airway,Deuterosomal cells,IFT22,0.504147812102431,3.96030292058095e-38
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TUBB4B,0.55645174663714,4.15091196855498e-38
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DNAH2,-0.255065405131409,6.42187406965088e-38
+Misharin A. (Bronchia),Airway,Deuterosomal cells,RPS3,0.636213231966052,8.85143029633392e-38
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CALM1,0.625323383282568,2.60505373437127e-37
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CDC20,0.703126515550854,2.63982616624593e-36
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCDC74A,0.557515109380923,1.34283415975476e-35
+Misharin A. (Bronchia),Airway,Deuterosomal cells,EGR1,-0.256369947087835,3.24259913255202e-35
+Misharin A. (Bronchia),Airway,Deuterosomal cells,GADD45B,-0.530682043297998,5.04817120298315e-35
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TTLL10,-0.255552309533692,3.21254301191495e-34
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CFAP54,-0.315887542025711,7.14273333474061e-33
+Misharin A. (Bronchia),Airway,Deuterosomal cells,RPL5,0.646652783596131,1.22509446409707e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CASC2,-0.225783687269754,1.51916759145952e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,LRRC26,0.656921776539146,2.3420972616294e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TMEM106C,0.756826725379156,4.17403460168778e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,LGMN,-0.259262993971641,4.31886254500889e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CSF3,-0.311566529642719,9.07838459822319e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TNFAIP2,-0.304918792943176,9.08984830629145e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,MTRNR2L12,-0.378018500802151,9.10154386956261e-32
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SGK1,-0.315242359120527,3.55212511873779e-31
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CKB,0.569008486160305,4.23925377428079e-31
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ANKRD18A,-0.422295385725632,1.63714090785057e-30
+Misharin A. (Bronchia),Airway,Deuterosomal cells,AL357093.2,0.559755192524896,3.62263620507396e-30
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SOX9,-0.341234073862562,4.70783060716054e-30
+Misharin A. (Bronchia),Airway,Deuterosomal cells,RPLP0,0.529186392957315,6.92663470712786e-30
+Misharin A. (Bronchia),Airway,Deuterosomal cells,AGR3,0.501480627093719,1.23592930521865e-29
+Misharin A. (Bronchia),Airway,Deuterosomal cells,VWA3A,-0.288039179548964,1.92096150389486e-29
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ADAP2,-0.25579705248925,2.14580743726619e-29
+Misharin A. (Bronchia),Airway,Deuterosomal cells,NEK2,0.85630354178835,1.43402002631198e-28
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ATF3,-0.245517988725662,2.78268740599626e-28
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCDC34,0.564652435144615,8.04387023513729e-28
+Misharin A. (Bronchia),Airway,Deuterosomal cells,STIL,0.937863608008366,8.16435803592015e-28
+Misharin A. (Bronchia),Airway,Deuterosomal cells,PRADC1,0.531326338833136,2.33763365134484e-27
+Misharin A. (Bronchia),Airway,Deuterosomal cells,GADD45G,-0.232885849489933,1.03805663630972e-26
+Misharin A. (Bronchia),Airway,Deuterosomal cells,PSENEN,0.547464799788904,1.44582912243375e-26
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SPAG5,-0.286192205199866,1.67210644240804e-26
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ANLN,0.939605447759587,2.0894281404438e-26
+Misharin A. (Bronchia),Airway,Deuterosomal cells,COL1A1,-0.294714239737938,8.40992046444165e-26
+Misharin A. (Bronchia),Airway,Deuterosomal cells,HES6,0.778354271508498,1.42221622926007e-25
+Misharin A. (Bronchia),Airway,Deuterosomal cells,RPL39L,0.704732413652582,1.76984109249914e-25
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DGKH,-0.224213408889803,4.21266891523042e-25
+Misharin A. (Bronchia),Airway,Deuterosomal cells,GYPC,-0.228697538077207,4.35981965123609e-25
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CFAP36,0.520500269618769,5.38521129062865e-25
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TUBA1B,0.558612785166212,7.12066045813145e-24
+Misharin A. (Bronchia),Airway,Deuterosomal cells,ANKUB1,-0.382035886550743,1.37985491865552e-23
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CEP78,0.548947224501844,2.71661760256272e-23
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DHFR,0.703378054966594,6.08796328541212e-23
+Misharin A. (Bronchia),Airway,Deuterosomal cells,NEURL1B,0.64426458216355,1.07152273578723e-22
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DNAH1,-0.303304991775162,3.35956312657229e-22
+Misharin A. (Bronchia),Airway,Deuterosomal cells,KDELC2,0.716092315603488,4.98672060516192e-22
+Misharin A. (Bronchia),Airway,Deuterosomal cells,RANBP1,0.52938722835182,1.42159848352487e-21
+Misharin A. (Bronchia),Airway,Deuterosomal cells,AC005392.2,0.80291063875152,2.96843219734116e-21
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TSPAN2,0.651965626246918,2.98583330547401e-21
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CENPW,0.532392152141948,1.79040384497247e-20
+Misharin A. (Bronchia),Airway,Deuterosomal cells,PSIP1,0.574840869435084,2.00860642292174e-20
+Misharin A. (Bronchia),Airway,Deuterosomal cells,BTG3,0.727296606476849,6.47187938634855e-20
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CARHSP1,0.525974855999699,3.16357183087397e-19
+Misharin A. (Bronchia),Airway,Deuterosomal cells,PAQR4,0.556574079410511,1.60400906112646e-18
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CBY1,0.492133439251425,1.0196089320587e-17
+Misharin A. (Bronchia),Airway,Deuterosomal cells,SPATA33,0.505468875096628,1.74040439534028e-17
+Misharin A. (Bronchia),Airway,Deuterosomal cells,C8orf34,-0.229079348674184,1.93023282379728e-17
+Misharin A. (Bronchia),Airway,Deuterosomal cells,TOP2A,0.537426527322256,2.20480677933862e-17
+Misharin A. (Bronchia),Airway,Deuterosomal cells,PLCE1,0.537569518493937,2.30882267907172e-16
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CFAP70,-0.227625170955319,8.63415548191082e-15
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CDT1,0.517019285157421,1.9504987125752e-14
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DNAH3,-0.296004665889676,2.92402719014476e-14
+Misharin A. (Bronchia),Airway,Deuterosomal cells,HELLS,0.629951674800157,1.60379827897316e-13
+Misharin A. (Bronchia),Airway,Deuterosomal cells,KLF10,-0.258242359544107,5.33644504902186e-13
+Misharin A. (Bronchia),Airway,Deuterosomal cells,HIST1H2BJ,0.554493521833688,1.78534018242703e-12
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DNAH11,-0.245444997775928,1.51549181187785e-09
+Misharin A. (Bronchia),Airway,Deuterosomal cells,DDIT3,-0.300477927097514,8.76715914210639e-09
+Misharin A. (Bronchia),Airway,Deuterosomal cells,CCDC14,0.504128345549512,1.94200015987276e-08
+Misharin A. (Bronchia),Airway,Ionocytes,ATF3,-0.618899901411923,7.93185162382076e-21
+Misharin A. (Bronchia),Airway,Ionocytes,CLDN23,0.779265389406864,8.26651135230308e-21
+Misharin A. (Bronchia),Airway,Ionocytes,CALCRL,0.514999157014436,1.39451823397424e-15
+Misharin A. (Bronchia),Airway,Ionocytes,DSC2,0.900237562318435,1.11366148753764e-14
+Misharin A. (Bronchia),Airway,Ionocytes,SLC5A3,-0.917071845243863,1.22174924550151e-14
+Misharin A. (Bronchia),Airway,Ionocytes,SMC2,0.473817803481374,1.19393652456098e-12
+Misharin A. (Bronchia),Airway,Ionocytes,BEND5,0.468716088776674,1.20476856748981e-11
+Misharin A. (Bronchia),Airway,Ionocytes,RBP1,-0.968642170914396,3.0936015793863e-11
+Misharin A. (Bronchia),Airway,Ionocytes,SOX9,0.648833011790587,3.91404347383359e-11
+Misharin A. (Bronchia),Airway,Ionocytes,FBXO32,0.977269325119428,1.86876740712486e-10
+Misharin A. (Bronchia),Airway,Ionocytes,LDOC1,-0.882554833381775,2.82339128389239e-10
+Misharin A. (Bronchia),Airway,Ionocytes,IL1R1,0.497849718472641,1.4738850537901e-07
+Misharin A. (Bronchia),Airway,Ionocytes,RAMP2,-1.22163124384486,1.5327113465689e-07
+Misharin A. (Bronchia),Airway,Ionocytes,PTGS2,0.681549017685008,1.96157949530118e-07
+Misharin A. (Bronchia),Airway,Ionocytes,NRP1,0.627195010979076,2.0769221968197e-07
+Misharin A. (Bronchia),Airway,Ionocytes,CPE,-0.575918767998303,3.91173435836605e-07
+Misharin A. (Bronchia),Airway,Ionocytes,PPARGC1A,-1.43882487555065,1.81189316092591e-06
+Misharin A. (Bronchia),Airway,Ionocytes,NIFK,0.797133478961547,2.166223358034e-06
+Misharin A. (Bronchia),Airway,Ionocytes,PTMS,-0.593124141756288,3.43506215627459e-06
+Misharin A. (Bronchia),Airway,Ionocytes,KIT,-2.53707734082983,4.00516296215078e-06
+Misharin A. (Bronchia),Airway,Ionocytes,SERINC2,0.654658006179417,6.19983435937548e-06
+Misharin A. (Bronchia),Airway,Ionocytes,HES6,-0.577321181442284,8.78129737696679e-06
+Misharin A. (Bronchia),Airway,Ionocytes,RAB27B,0.557037585051891,1.05230075590205e-05
+Misharin A. (Bronchia),Airway,Ionocytes,COX7A1,-0.574322770043729,1.81726830818286e-05
+Misharin A. (Bronchia),Airway,Ionocytes,ENC1,0.683976513739252,1.83504731900422e-05
+Misharin A. (Bronchia),Airway,Ionocytes,NUPR1,0.497078355299682,3.3884085791358e-05
+Misharin A. (Bronchia),Airway,Ionocytes,TSC22D1,-0.598657516579178,6.62411909798694e-05
+Misharin A. (Bronchia),Airway,Ionocytes,HSPA1B,0.712467529584226,0.000102503849459216
+Misharin A. (Bronchia),Airway,Ionocytes,MCF2L,0.740764880625006,0.00011369711557563
+Misharin A. (Bronchia),Airway,Ionocytes,MT1X,0.682402563579617,0.000260352854454584
+Misharin A. (Bronchia),Airway,Ionocytes,CIT,-0.81117525679153,0.000315799272798455
+Misharin A. (Bronchia),Airway,Ionocytes,TFPI,-1.57315797593743,0.000325438547706621
+Misharin A. (Bronchia),Airway,Ionocytes,SORL1,-0.60733384095505,0.000585895079128073
+Misharin A. (Bronchia),Airway,Ionocytes,MARCKSL1,-0.603746958072265,0.000602406978100832
+Misharin A. (Bronchia),Airway,Ionocytes,DSG2,0.76292098642954,0.000605970234480119
+Misharin A. (Bronchia),Airway,Ionocytes,CXADR,0.482877219401389,0.000608046975731215
+Misharin A. (Bronchia),Airway,Ionocytes,POSTN,-0.627405306455147,0.00172751716455326
+Misharin A. (Bronchia),Airway,Ionocytes,CEL,-0.685934587118814,0.00178504395208711
+Misharin A. (Bronchia),Airway,Ionocytes,PCSK1N,-1.13073210916765,0.00216898552546398
+Misharin A. (Bronchia),Airway,Ionocytes,ZWINT,0.857866789648432,0.00260622043964319
+Misharin A. (Bronchia),Airway,Ionocytes,GADD45G,1.05398655603756,0.00869379787723152
+Misharin A. (Bronchia),Airway,Ionocytes,CFTR,-1.00514656855168,0.00877612007135311
+Misharin A. (Bronchia),Airway,Ionocytes,IGF1,-1.84963529186914,0.0119425968848992
+Misharin A. (Bronchia),Airway,Ionocytes,ACSL1,0.617394032728364,0.0167495979594484
+Misharin A. (Bronchia),Airway,Ionocytes,PRSS8,-0.662209515380866,0.0280320378548858
+Misharin A. (Bronchia),Airway,Macrophages,ACP5,0.949439741903075,0.0
+Misharin A. (Bronchia),Airway,Macrophages,AIF1,0.980777693770973,0.0
+Misharin A. (Bronchia),Airway,Macrophages,APOC1,1.0180208380357,0.0
+Misharin A. (Bronchia),Airway,Macrophages,APOE,0.955837266392451,0.0
+Misharin A. (Bronchia),Airway,Macrophages,CCL2,1.05266225122698,0.0
+Misharin A. (Bronchia),Airway,Macrophages,CD68,1.01730190286379,0.0
+Misharin A. (Bronchia),Airway,Macrophages,CTSD,0.90765906238434,0.0
+Misharin A. (Bronchia),Airway,Macrophages,CTSL,1.03417997088343,0.0
+Misharin A. (Bronchia),Airway,Macrophages,FCER1G,1.00028753593775,0.0
+Misharin A. (Bronchia),Airway,Macrophages,FTH1,0.945229659113949,0.0
+Misharin A. (Bronchia),Airway,Macrophages,FTL,0.915532925640716,0.0
+Misharin A. (Bronchia),Airway,Macrophages,LGALS1,0.907875078268358,0.0
+Misharin A. (Bronchia),Airway,Macrophages,LGMN,0.979321534493121,0.0
+Misharin A. (Bronchia),Airway,Macrophages,TYROBP,1.08350835576918,0.0
+Misharin A. (Bronchia),Airway,Macrophages,VIM,0.873363270292441,0.0
+Misharin A. (Bronchia),Airway,Macrophages,SPI1,0.919155295709782,9.94512923544373e-304
+Misharin A. (Bronchia),Airway,Macrophages,CTSZ,0.863190165872013,7.04215856142973e-296
+Misharin A. (Bronchia),Airway,Macrophages,IFI30,0.90931002362175,8.28828545431022e-294
+Misharin A. (Bronchia),Airway,Macrophages,GPNMB,0.982569669705846,7.93641817087281e-291
+Misharin A. (Bronchia),Airway,Macrophages,SMIM25,0.85995176518845,2.2242613638662e-226
+Misharin A. (Bronchia),Airway,Macrophages,HMOX1,0.878222123994272,4.55116538432457e-223
+Misharin A. (Bronchia),Airway,Macrophages,SFN,-0.556058262271106,3.03104407892596e-213
+Misharin A. (Bronchia),Airway,Macrophages,S100A2,-0.606153140005378,3.33718340375675e-177
+Misharin A. (Bronchia),Airway,Macrophages,S100A14,-0.518666704072476,3.79480459002537e-177
+Misharin A. (Bronchia),Airway,Macrophages,MPP1,0.924137071655886,6.83237924255811e-177
+Misharin A. (Bronchia),Airway,Macrophages,AQP5,-0.53975484976133,2.25368481740506e-169
+Misharin A. (Bronchia),Airway,Macrophages,DAB2,0.861285564225879,4.95892957830228e-162
+Misharin A. (Bronchia),Airway,Macrophages,MARCO,0.852648972465044,5.16481785559044e-153
+Misharin A. (Bronchia),Airway,Macrophages,FGFBP1,-0.512104533411667,2.01214339721143e-144
+Misharin A. (Bronchia),Airway,Macrophages,AKR1C1,-0.517768398828812,7.19235714715112e-141
+Misharin A. (Bronchia),Airway,Macrophages,KLF5,-0.518549409358711,1.24202182038476e-138
+Misharin A. (Bronchia),Airway,Macrophages,AKR1C2,-0.520729685650857,2.38626225261144e-135
+Misharin A. (Bronchia),Airway,Macrophages,PRSS23,-0.598981104513348,3.5445547718407e-124
+Misharin A. (Bronchia),Airway,Macrophages,SERPINB3,-0.530929245176524,3.52698810142325e-119
+Misharin A. (Bronchia),Airway,Macrophages,TACSTD2,-0.675134193906593,2.05776652555914e-116
+Misharin A. (Bronchia),Airway,Macrophages,SERPINF1,-0.506180706695479,3.02408572499866e-114
+Misharin A. (Bronchia),Airway,Macrophages,AQP3,-0.700351169604194,1.39003862228791e-107
+Misharin A. (Bronchia),Airway,Macrophages,RAB25,-0.534982551472465,1.59409564246912e-106
+Misharin A. (Bronchia),Airway,Macrophages,MT1E,-0.528986906781414,4.01156276427999e-89
+Misharin A. (Bronchia),Airway,Macrophages,CXCL17,-0.580069032084565,8.17022493790567e-88
+Misharin A. (Bronchia),Airway,Macrophages,PERP,-0.648106058548592,1.39991938040537e-87
+Misharin A. (Bronchia),Airway,Macrophages,AGR2,-0.563648148742598,5.38855843743299e-87
+Misharin A. (Bronchia),Airway,Macrophages,SPINT2,-0.580345139349965,1.30476775070751e-78
+Misharin A. (Bronchia),Airway,Macrophages,KRT19,-0.735091147201223,4.58417279699636e-74
+Misharin A. (Bronchia),Airway,Macrophages,PRDX2,-0.518120552663595,4.81270068363891e-74
+Misharin A. (Bronchia),Airway,Macrophages,KRT18,-0.680876074956903,1.2609090996514e-63
+Misharin A. (Bronchia),Airway,Macrophages,MDK,-0.532741461384795,6.99513741726488e-58
+Misharin A. (Bronchia),Airway,Macrophages,CLDN7,-0.521106049346106,1.49337662575074e-56
+Misharin A. (Bronchia),Airway,Multiciliated cells,C1orf194,0.847111496617329,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,C20orf85,0.844606224107727,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,C9orf116,0.81385584825839,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,C9orf24,0.837942374121668,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,CAPS,0.838613387203464,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,FAM183A,0.847769723115091,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,MORN2,0.812485735791789,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,PIFO,0.826205820740242,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,RSPH1,0.80927528512179,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,TMEM190,0.867092957241933,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,TUBB4B,0.819726084937615,0.0
+Misharin A. (Bronchia),Airway,Multiciliated cells,CCDC170,0.837503339863735,1.5553e-320
+Misharin A. (Bronchia),Airway,Multiciliated cells,TUBA1A,0.858669911374646,2.65903851327e-312
+Misharin A. (Bronchia),Airway,Multiciliated cells,C2orf40,0.900943861383354,1.07250458505237e-302
+Misharin A. (Bronchia),Airway,Multiciliated cells,IGFBP7,0.790306853530096,2.30627794711783e-294
+Misharin A. (Bronchia),Airway,Multiciliated cells,DYNLRB2,0.802656593682217,5.36487177533433e-292
+Misharin A. (Bronchia),Airway,Multiciliated cells,CD37,-0.339157358850566,6.37747205407603e-291
+Misharin A. (Bronchia),Airway,Multiciliated cells,CCDC146,0.799887260614308,1.43156940740711e-290
+Misharin A. (Bronchia),Airway,Multiciliated cells,PTPRC,-0.349394675864734,1.18673176174825e-284
+Misharin A. (Bronchia),Airway,Multiciliated cells,CFAP157,0.7922287526354,1.85963530872679e-284
+Misharin A. (Bronchia),Airway,Multiciliated cells,CFAP53,0.814054473640825,6.50565644932186e-284
+Misharin A. (Bronchia),Airway,Multiciliated cells,CCDC78,0.83775385616729,1.59959948411344e-280
+Misharin A. (Bronchia),Airway,Multiciliated cells,RHOH,-0.330420866918806,6.17169231837297e-262
+Misharin A. (Bronchia),Airway,Multiciliated cells,DNALI1,0.7962454125103,3.75481315199779e-255
+Misharin A. (Bronchia),Airway,Multiciliated cells,LDLRAD1,0.831142043657083,1.39688778355111e-254
+Misharin A. (Bronchia),Airway,Multiciliated cells,KRT5,-0.320368279575333,3.65034931213927e-235
+Misharin A. (Bronchia),Airway,Multiciliated cells,EFHC1,0.804306056062348,1.10227343141633e-234
+Misharin A. (Bronchia),Airway,Multiciliated cells,ROPN1L,0.807284907865558,5.10826667741591e-234
+Misharin A. (Bronchia),Airway,Multiciliated cells,ERICH3,0.790682857363278,4.64422421647233e-233
+Misharin A. (Bronchia),Airway,Multiciliated cells,CFAP43,0.840682629888354,3.42739260125818e-231
+Misharin A. (Bronchia),Airway,Multiciliated cells,EFCAB1,0.788633019447606,9.17116840866399e-208
+Misharin A. (Bronchia),Airway,Multiciliated cells,LRRC23,0.777314924724283,4.1794225772942e-201
+Misharin A. (Bronchia),Airway,Multiciliated cells,CFAP221,0.784059324122789,2.33331246505854e-194
+Misharin A. (Bronchia),Airway,Multiciliated cells,SPAG8,0.791509691895535,2.74517212389018e-183
+Misharin A. (Bronchia),Airway,Multiciliated cells,ARHGDIB,-0.344656016423925,2.96836516760417e-181
+Misharin A. (Bronchia),Airway,Multiciliated cells,CES1,0.826435762436596,1.77192666139008e-174
+Misharin A. (Bronchia),Airway,Multiciliated cells,CCDC33,0.800212088967522,1.26462390933724e-173
+Misharin A. (Bronchia),Airway,Multiciliated cells,FAM166B,0.810797928651208,3.87322368816047e-172
+Misharin A. (Bronchia),Airway,Multiciliated cells,GADD45B,-0.388723332390996,2.33707977460413e-167
+Misharin A. (Bronchia),Airway,Multiciliated cells,SLC38A1,-0.361806608149188,1.98892029010974e-166
+Misharin A. (Bronchia),Airway,Multiciliated cells,EMP3,-0.340140042609138,1.1437154276977e-165
+Misharin A. (Bronchia),Airway,Multiciliated cells,DNAH3,0.799141172773638,3.91778632541181e-165
+Misharin A. (Bronchia),Airway,Multiciliated cells,LRRC46,0.77248020862341,2.82253452552314e-164
+Misharin A. (Bronchia),Airway,Multiciliated cells,ARMC3,0.768881537378488,2.43782910107386e-162
+Misharin A. (Bronchia),Airway,Multiciliated cells,DNAI2,0.798464661060558,4.12414624490268e-162
+Misharin A. (Bronchia),Airway,Multiciliated cells,SPATA18,0.782731317731083,3.20495674923792e-159
+Misharin A. (Bronchia),Airway,Multiciliated cells,VWA3A,0.771554051413984,2.38021475511007e-150
+Misharin A. (Bronchia),Airway,Multiciliated cells,OMG,0.811424403567901,4.27646764049137e-150
+Misharin A. (Bronchia),Airway,Multiciliated cells,JUNB,-0.363566404695357,9.09233205179469e-149
+Misharin A. (Bronchia),Airway,Multiciliated cells,CXCL8,-0.32952624104102,2.24858774518563e-142
+Misharin A. (Bronchia),Airway,Multiciliated cells,RIIAD1,0.783179800147963,5.37745267436005e-142
+Misharin A. (Bronchia),Airway,Multiciliated cells,GPR162,0.771078554845197,3.16176427444818e-138
+Misharin A. (Bronchia),Airway,Multiciliated cells,TSPAN19,0.795575622284549,8.35750607844244e-138
+Misharin A. (Bronchia),Airway,Multiciliated cells,LDHA,-0.39628224741671,1.31313759616389e-129
+Misharin A. (Bronchia),Airway,Multiciliated cells,PPP1R32,0.824370663126346,9.76287877187538e-129
+Misharin A. (Bronchia),Airway,Multiciliated cells,FABP5,-0.386120124552098,5.30456978802052e-127
+Misharin A. (Bronchia),Airway,Multiciliated cells,CATSPERD,0.778659230781401,5.00638554805627e-119
+Misharin A. (Bronchia),Airway,Multiciliated cells,FOS,-0.339132126979771,2.39931703876454e-109
+Misharin A. (Bronchia),Airway,Multiciliated cells,BTG1,-0.456032322913175,1.21566550659131e-104
+Misharin A. (Bronchia),Airway,Multiciliated cells,SLC1A5,-0.32330405526662,1.79619281913927e-89
+Misharin A. (Bronchia),Airway,Multiciliated cells,TPM4,-0.394929117670201,2.81715081931189e-82
+Misharin A. (Bronchia),Airway,Multiciliated cells,S100A9,-0.324293929724825,5.76483555653462e-82
+Misharin A. (Bronchia),Airway,Multiciliated cells,GAPDH,-0.515713826673235,5.92865279030957e-77
+Misharin A. (Bronchia),Airway,Multiciliated cells,CAPG,-0.32934570647012,8.02459730320445e-63
+Misharin A. (Bronchia),Airway,Multiciliated cells,TMSB4X,-0.649361133027122,3.77732937894866e-55
+Misharin A. (Bronchia),Airway,Multiciliated cells,TUBB,-0.428944014502677,6.06114082105823e-52
+Misharin A. (Bronchia),Airway,Multiciliated cells,RPS18,-0.470678809408732,2.79013006144951e-49
+Misharin A. (Bronchia),Airway,Multiciliated cells,ACTB,-0.442323352491184,3.83113680239948e-49
+Misharin A. (Bronchia),Airway,Multiciliated cells,EPAS1,-0.341686346227344,2.09313097564222e-48
+Misharin A. (Bronchia),Airway,Multiciliated cells,RPS3,-0.5311369044436,3.50271447983499e-47
+Misharin A. (Bronchia),Airway,Multiciliated cells,NINJ1,-0.334439597698585,1.2495314302961e-44
+Misharin A. (Bronchia),Airway,Multiciliated cells,CTSC,-0.451859724575782,4.90644388619796e-43
+Misharin A. (Bronchia),Airway,Multiciliated cells,SLC25A6,-0.414391856484708,8.62419681029815e-43
+Misharin A. (Bronchia),Airway,Multiciliated cells,PFN1,-0.413559119104723,3.32740844276034e-42
+Misharin A. (Bronchia),Airway,Multiciliated cells,BEX3,-0.356396389911443,1.24242338215202e-35
+Misharin A. (Bronchia),Airway,Multiciliated cells,S100A2,-0.333424656209343,6.05910405435283e-34
+Misharin A. (Bronchia),Airway,Multiciliated cells,GRN,-0.337300703967698,1.41809874539451e-33
+Misharin A. (Bronchia),Airway,Multiciliated cells,RPLP0,-0.382882776919956,3.16028486668053e-32
+Misharin A. (Bronchia),Airway,Multiciliated cells,SYNGR2,-0.363554972341892,3.73512677685308e-31
+Misharin A. (Bronchia),Airway,Multiciliated cells,RPS19,-0.409507445957688,6.03227187792092e-31
+Misharin A. (Bronchia),Airway,Multiciliated cells,H2AFZ,-0.334690996158916,1.02263253536566e-29
+Misharin A. (Bronchia),Airway,Multiciliated cells,RPL5,-0.338812316457398,2.09062237524401e-29
+Misharin A. (Bronchia),Airway,Multiciliated cells,S100A4,-0.330519582185731,2.59439845262893e-29
+Misharin A. (Bronchia),Airway,Multiciliated cells,ACTG1,-0.398692267198968,1.98642100943967e-23
+Misharin A. (Bronchia),Airway,Multiciliated cells,ALDOA,-0.379041443988965,3.04653066795956e-21
+Misharin A. (Bronchia),Airway,Multiciliated cells,TIMP1,-0.356912945124214,6.94790211321001e-21
+Misharin A. (Bronchia),Airway,Multiciliated cells,LY6E,-0.428276582289897,9.93975962820189e-19
+Misharin A. (Bronchia),Airway,Multiciliated cells,PTMS,-0.352485384852467,5.8177961602314e-17
+Misharin A. (Bronchia),Airway,Multiciliated cells,IFITM1,-0.392572766218706,5.02070044392672e-10
+Misharin A. (Bronchia),Airway,Multiciliated cells,GLRX,-0.342851891920511,7.53804604193963e-10
+Misharin A. (Bronchia),Airway,Natural killer T cells,HSPA1A,-0.374468341132613,1.22579642244189e-62
+Misharin A. (Bronchia),Airway,Natural killer T cells,RAC2,1.0817254422965,7.87391750969098e-57
+Misharin A. (Bronchia),Airway,Natural killer T cells,CXCL8,-0.467102185802481,3.41783284675551e-56
+Misharin A. (Bronchia),Airway,Natural killer T cells,TUBA1C,-0.458811997182407,1.78818470801873e-54
+Misharin A. (Bronchia),Airway,Natural killer T cells,ID1,-0.38255484750516,9.78752372781873e-46
+Misharin A. (Bronchia),Airway,Natural killer T cells,SELPLG,0.816967663880208,1.1294359145313e-44
+Misharin A. (Bronchia),Airway,Natural killer T cells,LYZ,-0.361578954535866,1.17803668147865e-43
+Misharin A. (Bronchia),Airway,Natural killer T cells,IL32,1.42260898177853,1.24174990549533e-42
+Misharin A. (Bronchia),Airway,Natural killer T cells,CORO1A,0.968078997349208,1.9511013377395e-39
+Misharin A. (Bronchia),Airway,Natural killer T cells,KRT5,-0.36272684897153,1.52996052258541e-38
+Misharin A. (Bronchia),Airway,Natural killer T cells,ADIRF,-0.363760941615495,4.19340894564814e-38
+Misharin A. (Bronchia),Airway,Natural killer T cells,IER3,-0.374035797830806,8.70856532339466e-37
+Misharin A. (Bronchia),Airway,Natural killer T cells,PTPRC,0.972248389670573,3.76136445200944e-36
+Misharin A. (Bronchia),Airway,Natural killer T cells,ARHGDIB,0.852305770597855,3.44975538477262e-35
+Misharin A. (Bronchia),Airway,Natural killer T cells,CD7,1.23685621564043,4.51489750387029e-35
+Misharin A. (Bronchia),Airway,Natural killer T cells,LGMN,-0.390566412619392,1.08472473907953e-34
+Misharin A. (Bronchia),Airway,Natural killer T cells,CTSW,1.33281853232335,1.52880460846185e-33
+Misharin A. (Bronchia),Airway,Natural killer T cells,KLF5,-0.366385243169396,1.86471817939643e-30
+Misharin A. (Bronchia),Airway,Natural killer T cells,CCL5,1.29423669232279,2.14756034910705e-26
+Misharin A. (Bronchia),Airway,Natural killer T cells,ALOX5AP,1.10561675948935,5.99403169624301e-26
+Misharin A. (Bronchia),Airway,Natural killer T cells,FLT3LG,0.799141138454065,2.54946424634282e-25
+Misharin A. (Bronchia),Airway,Natural killer T cells,S100A2,-0.421478117983394,5.51345777495619e-25
+Misharin A. (Bronchia),Airway,Natural killer T cells,CCL4,0.955609585221456,1.15324856335623e-22
+Misharin A. (Bronchia),Airway,Natural killer T cells,CD37,0.883553358080484,6.65925976924105e-22
+Misharin A. (Bronchia),Airway,Natural killer T cells,CYTIP,1.35334771418835,1.5212436082766e-21
+Misharin A. (Bronchia),Airway,Natural killer T cells,SERPINH1,-0.367679595375073,6.68245549312981e-21
+Misharin A. (Bronchia),Airway,Natural killer T cells,HOPX,1.47233536948282,5.39022702952993e-19
+Misharin A. (Bronchia),Airway,Natural killer T cells,APOBEC3G,1.2076535980221,1.24107681172213e-15
+Misharin A. (Bronchia),Airway,Natural killer T cells,LIMD2,0.858583778702855,1.89554550063305e-15
+Misharin A. (Bronchia),Airway,Natural killer T cells,CD48,1.13923025694822,3.24974027665196e-15
+Misharin A. (Bronchia),Airway,Natural killer T cells,TRAC,1.08846061351973,5.46745535935806e-13
+Misharin A. (Bronchia),Airway,Natural killer T cells,SPOCK2,0.848077149067432,5.99754614757258e-13
+Misharin A. (Bronchia),Airway,Natural killer T cells,EVL,0.886574865542858,1.10584710741852e-12
+Misharin A. (Bronchia),Airway,Natural killer T cells,CTSD,-0.427970939861675,5.1508457051193e-10
+Misharin A. (Bronchia),Airway,Natural killer T cells,TIMP1,-0.522305848887576,1.66348979227339e-09
+Misharin A. (Bronchia),Airway,Natural killer T cells,CTSB,-0.49258393016298,1.78006440645065e-08
+Misharin A. (Bronchia),Airway,Natural killer T cells,GLUL,-0.49826603717882,4.1269039398415e-08
+Misharin A. (Bronchia),Airway,Natural killer T cells,FABP5,-0.387810221371798,5.02568339568807e-07
+Misharin A. (Bronchia),Airway,Natural killer T cells,RUNX3,0.805289851185824,1.53523512467257e-05
+Misharin A. (Bronchia),Airway,Natural killer T cells,AQP3,-0.414884809019889,0.000358938752662313
+Misharin A. (Bronchia),Airway,Natural killer T cells,NEAT1,-0.392482108097063,0.000740744548611429
+Misharin A. (Bronchia),Airway,Natural killer T cells,HSPB1,-0.502765597044479,0.00169429469168299
+Misharin A. (Bronchia),Airway,Secretory cells,PLCG2,-0.311422305430477,7.83402685096477e-224
+Misharin A. (Bronchia),Airway,Secretory cells,LTF,-0.480367889387345,6.11949177790148e-143
+Misharin A. (Bronchia),Airway,Secretory cells,RNASE4,-0.196416243533187,6.57836201173057e-130
+Misharin A. (Bronchia),Airway,Secretory cells,UPK1B,0.356469279159287,5.11226557218412e-121
+Misharin A. (Bronchia),Airway,Secretory cells,AZGP1,-0.733424125397819,8.49020410490118e-114
+Misharin A. (Bronchia),Airway,Secretory cells,ATF3,-0.266211352309054,3.80264342783796e-94
+Misharin A. (Bronchia),Airway,Secretory cells,CHI3L1,-0.153007399837385,8.8224391701365e-94
+Misharin A. (Bronchia),Airway,Secretory cells,ASS1,0.279229936727227,1.30427320623835e-88
+Misharin A. (Bronchia),Airway,Secretory cells,SPTSSA,0.245385195096912,1.60541552986078e-83
+Misharin A. (Bronchia),Airway,Secretory cells,AC011603.2,-0.151575729269957,7.55606296918498e-81
+Misharin A. (Bronchia),Airway,Secretory cells,GADD45B,-0.174430728359799,1.91526104915975e-79
+Misharin A. (Bronchia),Airway,Secretory cells,TCIM,-0.315258745567328,2.51165672457856e-75
+Misharin A. (Bronchia),Airway,Secretory cells,PPP1R1A,-0.219312493776523,5.60926590619831e-71
+Misharin A. (Bronchia),Airway,Secretory cells,MDK,0.245341069082222,1.61760849531873e-69
+Misharin A. (Bronchia),Airway,Secretory cells,KCNQ1OT1,-0.222731751437718,1.76392723598275e-69
+Misharin A. (Bronchia),Airway,Secretory cells,AC092683.1,-0.162760456428208,3.41161907112746e-69
+Misharin A. (Bronchia),Airway,Secretory cells,GSTP1,0.428025095589977,1.71500299878953e-67
+Misharin A. (Bronchia),Airway,Secretory cells,MYEOV,0.252090478111893,2.40261102230115e-67
+Misharin A. (Bronchia),Airway,Secretory cells,LRRC26,-0.203535833374696,4.08442007014551e-63
+Misharin A. (Bronchia),Airway,Secretory cells,S100A6,0.286546098098968,1.092609085355e-55
+Misharin A. (Bronchia),Airway,Secretory cells,LGALS3,0.389854870023617,4.94712455193941e-55
+Misharin A. (Bronchia),Airway,Secretory cells,CXCL2,-0.145236095014552,1.77382148434833e-54
+Misharin A. (Bronchia),Airway,Secretory cells,KRT7,0.287442131350746,5.42905260305383e-53
+Misharin A. (Bronchia),Airway,Secretory cells,MAFF,-0.157643155542907,2.84662531719523e-51
+Misharin A. (Bronchia),Airway,Secretory cells,SERPINB3,0.257041974857224,1.32930165377274e-50
+Misharin A. (Bronchia),Airway,Secretory cells,CD9,0.350862289284309,3.0242140379223e-48
+Misharin A. (Bronchia),Airway,Secretory cells,TXN,0.386552308515439,3.63734698966838e-46
+Misharin A. (Bronchia),Airway,Secretory cells,RARRES3,0.322129493964261,1.79344026629884e-44
+Misharin A. (Bronchia),Airway,Secretory cells,KRT19,0.251553758119806,5.97827693133507e-44
+Misharin A. (Bronchia),Airway,Secretory cells,RPS3,0.248720035170164,1.13861242574172e-43
+Misharin A. (Bronchia),Airway,Secretory cells,CYR61,-0.160972850858094,3.70241584596879e-42
+Misharin A. (Bronchia),Airway,Secretory cells,FGFBP1,0.414934695606989,4.50201455278476e-42
+Misharin A. (Bronchia),Airway,Secretory cells,ANKRD36C,-0.307840213645656,3.01775758904849e-41
+Misharin A. (Bronchia),Airway,Secretory cells,ANKRD37,-0.158621145217367,1.82544910997594e-40
+Misharin A. (Bronchia),Airway,Secretory cells,TACSTD2,0.271467604225732,2.67456580091448e-39
+Misharin A. (Bronchia),Airway,Secretory cells,ID4,-0.201989294444672,6.06936618324828e-36
+Misharin A. (Bronchia),Airway,Secretory cells,AGR2,0.275463534347424,4.52591181861572e-35
+Misharin A. (Bronchia),Airway,Secretory cells,ZBTB10,-0.16826121645157,1.01826564038187e-33
+Misharin A. (Bronchia),Airway,Secretory cells,SOD2,-0.169543951949089,4.10328616183833e-33
+Misharin A. (Bronchia),Airway,Secretory cells,RPS19,0.251810007877098,1.13237279986392e-31
+Misharin A. (Bronchia),Airway,Secretory cells,GAPDH,0.258058748516801,1.73267917922928e-31
+Misharin A. (Bronchia),Airway,Secretory cells,DST,-0.191298067085432,7.55017183145553e-31
+Misharin A. (Bronchia),Airway,Secretory cells,MUC5AC,-0.174545765895564,1.99622193568723e-28
+Misharin A. (Bronchia),Airway,Secretory cells,NTS,0.265064359621772,2.93466771813961e-28
+Misharin A. (Bronchia),Airway,Secretory cells,CXCL3,-0.148090297915566,2.94264280726585e-27
+Misharin A. (Bronchia),Airway,Secretory cells,AKR1C2,0.256772103050443,6.29180618899112e-27
+Misharin A. (Bronchia),Airway,Secretory cells,LYZ,-0.178389380468942,1.38837713197757e-26
+Misharin A. (Bronchia),Airway,Secretory cells,COL1A1,-0.407745779910816,4.08529484333023e-26
+Misharin A. (Bronchia),Airway,Secretory cells,SOX9,-0.190172651115236,4.60782998906217e-26
+Misharin A. (Bronchia),Airway,Secretory cells,CPE,-0.319806560080454,6.72040728342528e-26
+Misharin A. (Bronchia),Airway,Secretory cells,JUN,-0.198695990918438,6.0367738291149e-25
+Misharin A. (Bronchia),Airway,Secretory cells,RHOD,0.30186513597134,6.25459693273526e-25
+Misharin A. (Bronchia),Airway,Secretory cells,AQP3,0.271199728530198,1.39979883209259e-24
+Misharin A. (Bronchia),Airway,Secretory cells,CALD1,-0.331081352270757,4.56105186385467e-24
+Misharin A. (Bronchia),Airway,Secretory cells,C1S,-0.189269782642504,2.0671365283157e-23
+Misharin A. (Bronchia),Airway,Secretory cells,EGR1,-0.166433882541694,3.15546466912328e-23
+Misharin A. (Bronchia),Airway,Secretory cells,PPA1,0.251297130080426,8.07172887094433e-23
+Misharin A. (Bronchia),Airway,Secretory cells,MESP1,0.362148021083008,9.35600123270854e-23
+Misharin A. (Bronchia),Airway,Secretory cells,CEACAM5,0.29871970524341,1.66330950562681e-22
+Misharin A. (Bronchia),Airway,Secretory cells,ANXA1,0.269707276295779,1.96135706418972e-22
+Misharin A. (Bronchia),Airway,Secretory cells,RHOB,-0.156470475422749,2.05972652988682e-22
+Misharin A. (Bronchia),Airway,Secretory cells,LMTK3,0.311014717896599,1.44523632067093e-20
+Misharin A. (Bronchia),Airway,Secretory cells,KLF4,-0.183268196166542,2.52407419644788e-19
+Misharin A. (Bronchia),Airway,Secretory cells,S100A16,0.318216847883514,2.03271600164478e-18
+Misharin A. (Bronchia),Airway,Secretory cells,ACAT2,0.321573395383365,2.38736424715265e-18
+Misharin A. (Bronchia),Airway,Secretory cells,S100A14,0.322001172562302,3.4596582509905e-18
+Misharin A. (Bronchia),Airway,Secretory cells,AC007952.4,-0.150609404783287,9.46344788339359e-18
+Misharin A. (Bronchia),Airway,Secretory cells,ZFP36L2,-0.148148092292294,8.02787390699522e-16
+Misharin A. (Bronchia),Airway,Secretory cells,GPRC5A,0.266052869836957,8.43096559783487e-15
+Misharin A. (Bronchia),Airway,Secretory cells,MSMO1,0.244451711848122,9.56147706400014e-15
+Misharin A. (Bronchia),Airway,Secretory cells,ATP12A,0.322700860743639,1.70178471607777e-14
+Misharin A. (Bronchia),Airway,Secretory cells,CAPN8,-0.148515499213416,2.72943079393875e-13
+Misharin A. (Bronchia),Airway,Secretory cells,RIMS1,-0.172784673558212,5.45045750904718e-13
+Misharin A. (Bronchia),Airway,Secretory cells,CRABP2,0.251345015416887,6.81390512487614e-13
+Misharin A. (Bronchia),Airway,Secretory cells,FDPS,0.294594245489288,9.43260765231354e-13
+Misharin A. (Bronchia),Airway,Secretory cells,PLK2,-0.169756960951971,1.7856731219602e-10
+Misharin A. (Bronchia),Airway,Secretory cells,LRRC8A,0.271004384686484,2.77445944346015e-09
+Misharin A. (Bronchia),Airway,Secretory cells,MUC5B,-0.189266954071108,3.19633246694222e-08
+Misharin A. (Bronchia),Airway,Secretory cells,TM4SF1,0.251299578032424,2.56202214490536e-06
+Misharin A. (Bronchia),Airway,Secretory cells,GCNT3,0.257916064791254,1.44996153660388e-05

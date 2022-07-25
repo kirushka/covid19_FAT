@@ -1,0 +1,178 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Yao C. (Buffy coat),Blood,B cells,CD74,3.68122693828212,0.0
+Yao C. (Buffy coat),Blood,B cells,HIST1H1E,-1.52304272820125,0.0
+Yao C. (Buffy coat),Blood,B cells,JUN,-1.59904445589794,6.77342394611874e-226
+Yao C. (Buffy coat),Blood,B cells,HLA-DQA2,-1.86142911066587,5.3160855112292e-214
+Yao C. (Buffy coat),Blood,B cells,HLA-DQA1,1.87406343181712,4.28225372990455e-142
+Yao C. (Buffy coat),Blood,B cells,HLA-DRA,1.79545153734347,1.07087212904394e-139
+Yao C. (Buffy coat),Blood,B cells,AFF3,-1.6514674676385,4.01844451280558e-134
+Yao C. (Buffy coat),Blood,B cells,HLA-DQB1,1.17932956270905,1.99129305016802e-110
+Yao C. (Buffy coat),Blood,B cells,CD79A,1.94699352188611,7.77367354047241e-109
+Yao C. (Buffy coat),Blood,B cells,IL4R,-1.17620890355202,2.51745614379918e-105
+Yao C. (Buffy coat),Blood,B cells,BANK1,-1.63165031238853,1.9206827083894e-103
+Yao C. (Buffy coat),Blood,B cells,IGKC,6.24705467414246,1.17413083244314e-99
+Yao C. (Buffy coat),Blood,B cells,RALGPS2,-1.49694709872249,2.91653929364554e-97
+Yao C. (Buffy coat),Blood,B cells,HLA-DRB5,1.30403717176461,9.40307460913205e-79
+Yao C. (Buffy coat),Blood,B cells,VPREB3,1.17121215606545,1.12306779538118e-49
+Yao C. (Buffy coat),Blood,B cells,COL19A1,-1.03311861937404,2.39756209233445e-46
+Yao C. (Buffy coat),Blood,B cells,TCL1A,1.15898070045218,8.69389360644142e-44
+Yao C. (Buffy coat),Blood,B cells,ADAM28,-0.904347321713137,1.76532132859183e-39
+Yao C. (Buffy coat),Blood,B cells,MEF2C,-0.895949475699696,3.93468012184164e-39
+Yao C. (Buffy coat),Blood,B cells,FAM129C,-0.842841398395553,1.72733540531906e-36
+Yao C. (Buffy coat),Blood,B cells,IGLC3,1.94995469764384,2.74078576883196e-15
+Yao C. (Buffy coat),Blood,B cells,IGLC2,1.23304802830059,2.13295467588609e-06
+Yao C. (Buffy coat),Blood,CD4+ T cells,B2M,1.04755811024938,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,DNAJB1,-0.885134166884469,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,GADD45B,-0.868993314517326,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,HIST1H1D,-0.92138894698121,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,HIST1H1E,-1.67912339725577,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,IER2,-1.15567298921366,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,IFI44L,0.805331440381965,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,IFITM1,0.946337030696605,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,JUN,-1.21582695024675,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,LY6E,0.535303630457124,0.0
+Yao C. (Buffy coat),Blood,CD4+ T cells,HIST1H4C,-0.589044404319521,9.1059935e-317
+Yao C. (Buffy coat),Blood,CD4+ T cells,IFIT3,0.599496329152834,2.57570600583247e-292
+Yao C. (Buffy coat),Blood,CD4+ T cells,TUBA1A,-0.576837212489885,7.29404637182963e-287
+Yao C. (Buffy coat),Blood,CD4+ T cells,MX1,0.58140581469293,2.04274854528674e-276
+Yao C. (Buffy coat),Blood,CD4+ T cells,PRDM1,0.597458879398108,4.13517787472186e-245
+Yao C. (Buffy coat),Blood,CD4+ T cells,IL32,0.723726774158345,9.73871695336622e-230
+Yao C. (Buffy coat),Blood,CD4+ T cells,KLF2,0.483420777542067,6.30154622390349e-225
+Yao C. (Buffy coat),Blood,CD4+ T cells,CYLD,-0.58453886638772,3.00121286045851e-203
+Yao C. (Buffy coat),Blood,CD4+ T cells,LEPROTL1,0.51187579185011,2.28087365270727e-202
+Yao C. (Buffy coat),Blood,CD4+ T cells,MT2A,0.495356059648698,4.28908950111737e-197
+Yao C. (Buffy coat),Blood,CD4+ T cells,TTN,-0.54394286787058,3.86856206445297e-193
+Yao C. (Buffy coat),Blood,CD4+ T cells,DGKA,-0.576947305076616,8.75873053169766e-178
+Yao C. (Buffy coat),Blood,CD4+ T cells,TRAC,0.596503572018305,5.98921819305704e-174
+Yao C. (Buffy coat),Blood,CD4+ T cells,AC136475.3,-0.536277503982054,1.31496992297148e-139
+Yao C. (Buffy coat),Blood,CD8+ T cells,B2M,1.06201762638022,0.0
+Yao C. (Buffy coat),Blood,CD8+ T cells,GADD45B,-1.23524685680202,0.0
+Yao C. (Buffy coat),Blood,CD8+ T cells,HIST1H1E,-2.04469939270904,0.0
+Yao C. (Buffy coat),Blood,CD8+ T cells,IER2,-0.995166819921739,0.0
+Yao C. (Buffy coat),Blood,CD8+ T cells,IFITM1,1.02367706261158,1.27103910349e-312
+Yao C. (Buffy coat),Blood,CD8+ T cells,JUN,-1.09005730922221,7.88089779444148e-291
+Yao C. (Buffy coat),Blood,CD8+ T cells,HIST1H1D,-0.747465713577125,2.58472190864742e-264
+Yao C. (Buffy coat),Blood,CD8+ T cells,IL32,1.24820486016412,5.65477854047217e-240
+Yao C. (Buffy coat),Blood,CD8+ T cells,PPP1R15A,-0.565416312382397,1.31623710207982e-234
+Yao C. (Buffy coat),Blood,CD8+ T cells,GNLY,6.03518229886595,6.50407501612893e-210
+Yao C. (Buffy coat),Blood,CD8+ T cells,IFRD1,-0.637729659719679,1.92383026157993e-195
+Yao C. (Buffy coat),Blood,CD8+ T cells,MTRNR2L12,-0.604256874836799,6.65127465701927e-176
+Yao C. (Buffy coat),Blood,CD8+ T cells,NUFIP2,-0.527958794914091,2.64889873655308e-166
+Yao C. (Buffy coat),Blood,CD8+ T cells,BRD2,-0.583901086881005,4.04518779856042e-157
+Yao C. (Buffy coat),Blood,CD8+ T cells,MT2A,1.08243982898655,1.44361077420936e-149
+Yao C. (Buffy coat),Blood,CD8+ T cells,SYNE1,-0.940937330664195,3.04893062130584e-138
+Yao C. (Buffy coat),Blood,CD8+ T cells,SYNE2,-0.688925070124217,6.58940161167082e-120
+Yao C. (Buffy coat),Blood,CD8+ T cells,NKG7,2.16935682709931,8.25497683279948e-112
+Yao C. (Buffy coat),Blood,CD8+ T cells,CTSW,1.2950120216994,2.02018100888229e-104
+Yao C. (Buffy coat),Blood,CD8+ T cells,CST7,1.08244193675609,2.00215976721253e-94
+Yao C. (Buffy coat),Blood,CD8+ T cells,SLC25A37,-0.65358464391481,5.54171228741668e-93
+Yao C. (Buffy coat),Blood,CD8+ T cells,HBD,-0.731940085158407,5.89552152068322e-86
+Yao C. (Buffy coat),Blood,CD8+ T cells,CCL4,1.62190587265472,5.74398299414637e-82
+Yao C. (Buffy coat),Blood,CD8+ T cells,PRF1,1.40832087472963,2.31921117022055e-79
+Yao C. (Buffy coat),Blood,CD8+ T cells,FGFBP2,1.02775644566883,8.36005936171765e-70
+Yao C. (Buffy coat),Blood,CD8+ T cells,GZMB,1.21575407194163,7.60856784369329e-67
+Yao C. (Buffy coat),Blood,CD8+ T cells,AC103591.3,0.721217280055795,2.47777560522534e-55
+Yao C. (Buffy coat),Blood,CD8+ T cells,IFNG,-0.585265398306853,5.04049915580778e-27
+Yao C. (Buffy coat),Blood,CD8+ T cells,GZMK,0.707527254124372,1.82866362666455e-19
+Yao C. (Buffy coat),Blood,CD8+ T cells,CCL5,0.800754530136641,1.68301344244189e-13
+Yao C. (Buffy coat),Blood,Erythrocytes,HBD,-11.4848621335144,0.0
+Yao C. (Buffy coat),Blood,Erythrocytes,HBM,-7.46216621602617,0.0
+Yao C. (Buffy coat),Blood,Erythrocytes,RPS4Y1,0.82883037366071,0.0
+Yao C. (Buffy coat),Blood,Erythrocytes,HBB,10.5373552364819,1.487e-321
+Yao C. (Buffy coat),Blood,Erythrocytes,HBA1,8.92182206009934,1.83565e-319
+Yao C. (Buffy coat),Blood,Erythrocytes,RPS8,0.977455548472546,4.0279369e-316
+Yao C. (Buffy coat),Blood,Erythrocytes,SLC4A1,-2.95404011761122,1.31265519525928e-276
+Yao C. (Buffy coat),Blood,Erythrocytes,FTH1,0.805191406350317,5.29566538089786e-256
+Yao C. (Buffy coat),Blood,Erythrocytes,CA1,-4.65538679020182,5.37629511345655e-130
+Yao C. (Buffy coat),Blood,Erythrocytes,AHSP,-4.5066946461153,7.86625808025823e-117
+Yao C. (Buffy coat),Blood,Erythrocytes,SLC25A37,-3.78152169629042,2.82432786992173e-103
+Yao C. (Buffy coat),Blood,Erythrocytes,HBA2,2.32962118047949,9.00748594109565e-62
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,HBA2,-4.597933447088,0.0
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,HBB,-7.03636944061133,0.0
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,IFI27,12.2792817323756,0.0
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,IFITM3,8.05885704570717,0.0
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,S100A6,2.15186011441369,0.0
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,S100A8,14.4055049987343,0.0
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,AC020656.1,10.7076709021804,3.803282371e-314
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,HBD,-1.93505083115712,9.68407575776544e-291
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,TYMP,2.11925804324745,1.33211544384482e-260
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,AHNAK,-1.15651519591184,4.77087353021841e-256
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,PSAP,-2.11426122986409,6.43919148379929e-251
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,HBA1,-3.72985009666425,1.25461270056909e-247
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,RNASE1,2.99308879827165,4.69738652484757e-236
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,CLU,2.11375843804629,1.75188775609288e-229
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,MT2A,2.22821887973725,5.16148422849624e-214
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,RNASE2,2.00168373702739,3.68674986242535e-200
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,CTSS,-2.1563420982576,1.74816442068145e-186
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,EMILIN2,-1.32274631783985,1.12058690066831e-178
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,S100A9,5.00483775059841,1.59101254612725e-169
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,S100A12,5.01862267558839,4.45473283939947e-167
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,CYBB,-1.66965811124828,1.32419036376769e-165
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,FGL2,-1.65498101572233,2.02653409128352e-154
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,NEAT1,-2.50929764594529,1.07754335398563e-122
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,CXCL8,2.64398334993794,4.02914577329476e-119
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,CEBPD,2.21400926663373,2.05253742086067e-113
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,TNFAIP2,-1.12054710141434,1.28125160381335e-94
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,VCAN,-2.14540856641844,3.41794274698401e-94
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,TMEM176B,-1.1806874176017,4.48726649370194e-91
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,LINC02432,-1.18254232849611,1.04870208528675e-88
+Yao C. (Buffy coat),Blood,Monocytes+cDCs,LYZ,3.26769649759766,2.66581256883136e-21
+Yao C. (Buffy coat),Blood,Natural killer cells,B2M,1.74972423516663,4.22187828631883e-264
+Yao C. (Buffy coat),Blood,Natural killer cells,GNLY,14.2340205458422,1.1836370828478e-251
+Yao C. (Buffy coat),Blood,Natural killer cells,PTGDS,16.86743680575,2.07420168063659e-202
+Yao C. (Buffy coat),Blood,Natural killer cells,NKG7,5.90498690437103,1.11546786632784e-179
+Yao C. (Buffy coat),Blood,Natural killer cells,GZMB,3.73775924755984,7.01706648152417e-179
+Yao C. (Buffy coat),Blood,Natural killer cells,CTSW,3.19197922473765,9.42190846117232e-162
+Yao C. (Buffy coat),Blood,Natural killer cells,CST7,2.64652264984752,1.14999462066552e-152
+Yao C. (Buffy coat),Blood,Natural killer cells,PRF1,3.50012128988206,1.68769433247927e-147
+Yao C. (Buffy coat),Blood,Natural killer cells,FGFBP2,2.96631355951655,1.6873437725022e-144
+Yao C. (Buffy coat),Blood,Natural killer cells,CCL5,4.22460617436945,5.92787819286125e-131
+Yao C. (Buffy coat),Blood,Natural killer cells,ACTB,2.0665345566912,8.6978689870816e-124
+Yao C. (Buffy coat),Blood,Natural killer cells,SPON2,2.14720472545799,4.13250663236997e-119
+Yao C. (Buffy coat),Blood,Natural killer cells,AC020656.1,-1.24926800922534,6.81559341346092e-114
+Yao C. (Buffy coat),Blood,Natural killer cells,KLRD1,1.82552023086703,1.4812518065285e-109
+Yao C. (Buffy coat),Blood,Natural killer cells,GZMA,2.11348562156509,9.59418829493137e-108
+Yao C. (Buffy coat),Blood,Natural killer cells,GZMH,2.16355483229444,7.78566150386733e-104
+Yao C. (Buffy coat),Blood,Natural killer cells,CCL4,2.13076480737445,6.32388924714204e-90
+Yao C. (Buffy coat),Blood,Natural killer cells,JUN,-0.88851794022126,7.46295240716159e-83
+Yao C. (Buffy coat),Blood,Natural killer cells,HIST1H1E,-0.859127225109788,1.33741689964345e-82
+Yao C. (Buffy coat),Blood,Natural killer cells,IER2,-0.653814739085247,9.98235127960174e-75
+Yao C. (Buffy coat),Blood,Natural killer cells,FOS,-0.975319560265114,1.2578119656084e-73
+Yao C. (Buffy coat),Blood,Natural killer cells,STMN1,3.6114808496977,1.01231660294244e-63
+Yao C. (Buffy coat),Blood,Natural killer cells,PPP1R15A,-0.588766650436628,1.08230623095682e-49
+Yao C. (Buffy coat),Blood,Natural killer cells,IL7R,-0.609268416693417,8.53318605559885e-41
+Yao C. (Buffy coat),Blood,Natural killer cells,JUNB,-0.446299681043676,5.33037736726669e-39
+Yao C. (Buffy coat),Blood,Natural killer cells,IGHM,-0.635136062007101,5.54591357341273e-37
+Yao C. (Buffy coat),Blood,Natural killer cells,GADD45B,-0.488485086847504,1.28053257297692e-35
+Yao C. (Buffy coat),Blood,Natural killer cells,MS4A1,-0.566591462224322,3.6095001341769e-35
+Yao C. (Buffy coat),Blood,Natural killer cells,LYZ,-1.37615769932687,5.71560403226061e-35
+Yao C. (Buffy coat),Blood,Natural killer cells,TYMS,2.29000878372671,1.93711940312911e-34
+Yao C. (Buffy coat),Blood,Natural killer cells,HLA-DQA2,-0.766941341668521,6.67933963710259e-34
+Yao C. (Buffy coat),Blood,Natural killer cells,HLA-DRA,-0.489366565112733,9.67528570905489e-34
+Yao C. (Buffy coat),Blood,Natural killer cells,FOSB,-0.499426106513958,2.43894342093498e-33
+Yao C. (Buffy coat),Blood,Natural killer cells,NEAT1,-0.539031735460112,1.19249825943959e-32
+Yao C. (Buffy coat),Blood,Natural killer cells,RALGPS2,-0.453843951185535,6.08760502867768e-25
+Yao C. (Buffy coat),Blood,Natural killer cells,CD74,-0.451178521366211,1.86271544824647e-22
+Yao C. (Buffy coat),Blood,Plasma cells,AC020656.1,-1.75103317691962,3.969509426332e-29
+Yao C. (Buffy coat),Blood,Plasma cells,MZB1,19.9530407045555,2.7682182880737e-28
+Yao C. (Buffy coat),Blood,Plasma cells,HIST1H1E,-1.69841794652646,7.26420267143125e-28
+Yao C. (Buffy coat),Blood,Plasma cells,JCHAIN,18.1068373784417,9.20598402359754e-26
+Yao C. (Buffy coat),Blood,Plasma cells,CD38,5.35823795473232,4.47587029555512e-17
+Yao C. (Buffy coat),Blood,Plasma cells,LYZ,-2.15193101659484,1.14224498093165e-15
+Yao C. (Buffy coat),Blood,Plasma cells,PPIB,4.47406589479641,1.64694161635323e-15
+Yao C. (Buffy coat),Blood,Plasma cells,FCER1A,-3.94840517168986,2.63143126241557e-15
+Yao C. (Buffy coat),Blood,Plasma cells,IGHA1,13.9142635956707,7.32879547352219e-15
+Yao C. (Buffy coat),Blood,Plasma cells,HSP90B1,4.91197408602546,1.07448727746048e-14
+Yao C. (Buffy coat),Blood,Plasma cells,IGKV3-15,-7.81979374164156,1.43343548788586e-14
+Yao C. (Buffy coat),Blood,Plasma cells,ITM2C,8.5249980487632,7.96035508099707e-14
+Yao C. (Buffy coat),Blood,Plasma cells,TNFRSF17,7.25818149209914,5.51780082425627e-12
+Yao C. (Buffy coat),Blood,Plasma cells,HLA-DQA2,-1.18353067873675,2.15544102778098e-11
+Yao C. (Buffy coat),Blood,Plasma cells,IGHA2,9.3074332877693,5.98143139664408e-08
+Yao C. (Buffy coat),Blood,Plasma cells,IGHGP,7.58860094301573,1.07753579126155e-07
+Yao C. (Buffy coat),Blood,Plasma cells,IGLC3,11.1434442899365,2.47073271550164e-07
+Yao C. (Buffy coat),Blood,Plasma cells,IGLC2,11.9461846166799,4.63691585770596e-07
+Yao C. (Buffy coat),Blood,Plasma cells,IGHV1-69D,-3.84065493117698,1.47111098731163e-06
+Yao C. (Buffy coat),Blood,Plasma cells,IGKC,-10.5068585700876,4.60645773339922e-05
+Yao C. (Buffy coat),Blood,Plasma cells,IGHG1,-4.56370675833102,0.000168497496991751
+Yao C. (Buffy coat),Blood,Plasma cells,IGHG4,-4.13318654629565,0.0357800650216447
+Yao C. (Buffy coat),Blood,Plasma cells,IGHG2,-1.60874986755698,0.0447766909903359

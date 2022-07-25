@@ -1,0 +1,377 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Yegnasubramanian S. (PBMC),Blood,B Cells,HLA-DRB5,4.49632825324626,0.0
+Yegnasubramanian S. (PBMC),Blood,B Cells,MT-ATP8,-1.13016307658963,0.0
+Yegnasubramanian S. (PBMC),Blood,B Cells,RPS4Y1,-1.54784628460143,0.0
+Yegnasubramanian S. (PBMC),Blood,B Cells,TSC22D3,1.68142369512772,2.43649919515179e-218
+Yegnasubramanian S. (PBMC),Blood,B Cells,YPEL5,1.51621079770019,1.11481441743571e-156
+Yegnasubramanian S. (PBMC),Blood,B Cells,RPS27,-0.855029212378353,1.21983821244321e-132
+Yegnasubramanian S. (PBMC),Blood,B Cells,AREG,1.87044279086355,7.13517499301398e-130
+Yegnasubramanian S. (PBMC),Blood,B Cells,NFKBIA,1.15793694999561,2.7189897215023e-128
+Yegnasubramanian S. (PBMC),Blood,B Cells,TXNIP,1.4211415101716,1.3451744718323e-127
+Yegnasubramanian S. (PBMC),Blood,B Cells,SNX9,1.7027450530283,2.26083286844964e-124
+Yegnasubramanian S. (PBMC),Blood,B Cells,ZNF331,1.55801084130106,2.40937102457851e-110
+Yegnasubramanian S. (PBMC),Blood,B Cells,HLA-DPA1,-2.26673953145835,8.9110852022188e-108
+Yegnasubramanian S. (PBMC),Blood,B Cells,NR4A2,1.15702758764756,9.05348567164535e-106
+Yegnasubramanian S. (PBMC),Blood,B Cells,LTB,-1.06408361966574,1.07259016901346e-98
+Yegnasubramanian S. (PBMC),Blood,B Cells,EZR,1.3455397710423,1.68205966299392e-98
+Yegnasubramanian S. (PBMC),Blood,B Cells,CD79B,-2.18071432806676,5.50384235375431e-80
+Yegnasubramanian S. (PBMC),Blood,B Cells,CD69,1.55486781482765,3.63987709100226e-79
+Yegnasubramanian S. (PBMC),Blood,B Cells,TCL1A,-3.86977175239028,1.26948946713615e-74
+Yegnasubramanian S. (PBMC),Blood,B Cells,MAP3K8,1.16126335346954,1.04464792213696e-68
+Yegnasubramanian S. (PBMC),Blood,B Cells,PELI1,1.13900872218842,4.41434372854918e-54
+Yegnasubramanian S. (PBMC),Blood,B Cells,CHI3L2,-0.797489142826799,4.46275496216761e-54
+Yegnasubramanian S. (PBMC),Blood,B Cells,CD83,2.0967970182529,1.60953873107695e-50
+Yegnasubramanian S. (PBMC),Blood,B Cells,STAG3,2.03038054679219,5.04552723345896e-42
+Yegnasubramanian S. (PBMC),Blood,B Cells,HLA-DPB1,-1.31623836623253,6.97010169929671e-39
+Yegnasubramanian S. (PBMC),Blood,B Cells,CXXC5,-0.805810093070529,5.93372697360799e-35
+Yegnasubramanian S. (PBMC),Blood,B Cells,HLA-DRB1,-1.31855572599609,1.982356592494e-25
+Yegnasubramanian S. (PBMC),Blood,B Cells,FCER2,-1.6834328618042,4.87044354559126e-25
+Yegnasubramanian S. (PBMC),Blood,B Cells,ADAM28,1.17874465377703,4.59073490103046e-19
+Yegnasubramanian S. (PBMC),Blood,B Cells,CD1C,-0.798828904031501,5.99975840404992e-19
+Yegnasubramanian S. (PBMC),Blood,B Cells,CD74,1.15876945414316,6.19274377385828e-18
+Yegnasubramanian S. (PBMC),Blood,B Cells,COBLL1,-0.806816352005902,3.99811827325161e-16
+Yegnasubramanian S. (PBMC),Blood,B Cells,CD79A,-1.86127556870259,9.8246011333343e-16
+Yegnasubramanian S. (PBMC),Blood,B Cells,LINC01857,-1.22756492269685,1.50523417234825e-15
+Yegnasubramanian S. (PBMC),Blood,B Cells,MS4A1,-1.73116724594916,1.98164431583687e-14
+Yegnasubramanian S. (PBMC),Blood,B Cells,LINC00926,1.1411628932845,2.39778334600885e-14
+Yegnasubramanian S. (PBMC),Blood,B Cells,IGKV3-20,1.51315720249096,5.23392454310757e-12
+Yegnasubramanian S. (PBMC),Blood,B Cells,HLA-DQA1,-0.905458824463668,7.0025005387871e-11
+Yegnasubramanian S. (PBMC),Blood,B Cells,IGHD,-0.819461634871931,7.60987030193529e-09
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,XIST,2.08359510559152,1.86460621068439e-233
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HLA-DRB5,2.82430231842186,4.49330627417438e-162
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,SMIM25,-6.16791631489559,7.9454626354858e-104
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,RHOB,-3.02870442928394,2.3757837529162e-96
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,THBS1,4.6262653991664,3.34220986363146e-91
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HSPA1B,-4.02441107102325,5.38011031588684e-90
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,TMEM176B,-1.73145634495529,3.1613093843064e-81
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,JUN,-1.1211240542538,9.65263355781888e-81
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,EREG,3.94933370013746,6.17173552320034e-65
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,RNF144B,2.74164043536059,1.16017064985573e-64
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,SAT1,-3.49224234081174,1.67489783103632e-62
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,FOS,-1.24805034732976,4.64239577446912e-60
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,ACSL1,2.02053323234199,9.1723055861106e-60
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,FAM110A,-2.15849345509924,1.52679313943663e-57
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HES4,2.59855148849539,6.57977950278873e-55
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CDKN1A,1.66776050234593,5.86612040207345e-54
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CYP1B1,1.49598070971937,6.46333251034931e-52
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,SERPINB2,2.19710819615509,3.91755171702757e-50
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,NLRP3,2.26167554289227,8.98897466438319e-50
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,IFI30,1.87555940904859,3.66010622266324e-48
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,IFITM3,2.96752935003341,4.15884301293528e-46
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,LILRB1,1.54355449848021,4.79476164770639e-46
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,LYPD2,-7.12046135458316,2.35733785091644e-45
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,IL3RA,2.31662098898479,5.62387013375469e-41
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,PLAUR,2.09733520825901,5.77045202810725e-41
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,IFI27,2.78490218912359,1.70089453453208e-38
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,RGS2,-0.96902865431069,5.7421144659128e-38
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CXCL2,2.35503514643554,3.97276755555007e-36
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,IL1B,3.14841991885408,5.8165579132687e-36
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CST3,-3.12636123747761,1.129596460649e-35
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,ZFP36,-0.884614358499535,1.48820950605493e-35
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,TYROBP,-1.92222168662178,1.1230283536557e-33
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,DUSP6,-1.47933066028189,1.13262019150528e-33
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,SLC11A1,1.5351205791546,5.29953678139049e-33
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,LST1,-2.79951661585365,6.74789061296489e-33
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HBB,5.83107217751867,1.00552398355725e-32
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,TMEM176A,-0.817929170687177,8.01138730898879e-32
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CRIP1,-0.84150369269955,2.73232368836836e-29
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CYP4F22,1.7713692416235,5.06442852701771e-28
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,ABCA1,1.7375768046894,9.07442129335343e-28
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,NEAT1,1.90508179370665,9.76272542077203e-28
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,S100A9,1.92846637968973,1.25708895572373e-27
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CALHM6,-1.26573289217043,2.81708375664914e-27
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,FCGR3A,-1.62976768508473,7.23753301963298e-27
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,TIMP1,-1.35329044336488,7.47718636397773e-27
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CXCL8,1.50535643947824,5.70989659648284e-26
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HSPA1A,-1.85737880434933,4.12580201631526e-25
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,LUCAT1,1.45334562290915,3.14198160184876e-24
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,COTL1,-1.0827536978648,2.11757541510308e-22
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,FCN1,-1.11568273820157,7.61115284266921e-22
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,AIF1,-1.84632494562707,9.71414949263505e-22
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,IFITM2,-0.880687310974495,4.49435694554803e-21
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,ZDHHC1,-1.23609915104681,1.8897037953435e-20
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,ABI3,-0.924784041333489,4.70457036118236e-20
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,TPPP3,-0.977474990071046,1.75329772913331e-18
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,S100A8,2.52095766877925,3.64591835286725e-18
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HBA1,2.91996831688757,3.88995089768986e-18
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HBA2,2.8813886968937,6.87441109433874e-18
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,TAGLN,-1.14028889920696,7.32797262959887e-17
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,CDKN1C,-1.81164068233651,2.1723427142774e-15
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,HMOX1,-1.36244660498013,1.74199906706239e-12
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,C1QB,3.04887136438584,4.48028193261634e-11
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,ZNF703,-0.803767499394792,7.10003493131731e-11
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,C1QC,2.6999177805156,1.27778036171352e-10
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,PTGES,-1.0469901084684,5.14618301016083e-09
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,APOC1,2.14655413450801,2.56869382235559e-07
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,FABP4,2.31541306655373,2.01036707818948e-06
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,PAPSS2,-0.903149088804831,0.000148952567476607
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,C1QA,1.64332493470576,0.000385515008934818
+Yegnasubramanian S. (PBMC),Blood,CD1C CD141 dendritic cells,VMO1,-0.80617898488392,0.000666109524871102
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,RPS4Y1,-2.42804912066602,4.53247505191764e-206
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,RPS26,3.12211125652539,6.06784441410179e-188
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,MT-ATP8,-1.38879951433775,1.92933531735773e-152
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,RPS27,-1.35992361618028,6.41315781292741e-111
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,XIST,1.16354218378076,1.89127569072055e-105
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,SCGB3A1,1.95073537183258,6.27824910533571e-101
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,TNFAIP3,1.48025380822683,3.4069897180117e-74
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,NFKBIA,0.977054789346271,5.64814018312027e-59
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,TOB1,1.21520212847641,2.26988937355061e-50
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,AREG,0.938922682826181,4.16900431477653e-40
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,S100B,4.3927536629475,8.40251039679098e-39
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,PTGER4,0.773593024478562,8.85507134893938e-37
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,DDIT4,0.790586570867101,2.73109745391983e-33
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,CD69,0.746322158845402,1.00483033986415e-28
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,GNLY,-5.6911273313526,1.96537042971498e-26
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,RPL10,0.714106477130014,2.05249727551218e-26
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,GZMB,-1.70679801854603,9.12451376604826e-22
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,TRBV3-1,-5.86335940772644,3.04479240936243e-21
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,NKG7,-3.56705007408994,1.38328577406983e-20
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,CCL5,-2.47108234350292,5.85850488015601e-20
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,GZMH,-2.35776605287789,1.50424675085307e-19
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,CST7,-1.46785744371308,1.71219568285194e-19
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,PRF1,-1.44603596912567,1.95099000714439e-19
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,FGFBP2,-1.48952513986704,7.92196020989187e-19
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,BCL2,0.708371661168457,9.02713294805538e-19
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,CD8A,-1.60934742823935,3.74224376032143e-18
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,ZNF683,-1.52319957913963,7.41347301221267e-17
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,TRAV35,-2.58814731819173,3.2867475849054e-16
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,LINC02446,2.71061082616171,1.63660020510703e-15
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,TXK,0.702810207695729,4.36181176509e-14
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,TRBV4-2,7.11780406405807,2.84547246491012e-13
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,LRRN3,-1.10754675827522,3.6598329438604e-12
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,IL7R,0.775537472399827,9.22876858560184e-12
+Yegnasubramanian S. (PBMC),Blood,CD8+ T cells,KLRC3,-1.04632088166027,3.77303369557833e-10
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,HLA-DRB5,3.30674490666285,0.0
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,LMNA,2.46151222150098,0.0
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,THBS1,6.27806192127325,1.19358324425715e-259
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CDKN1A,3.01493450110764,7.67262485055467e-257
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,EREG,6.39705643205701,2.83365457937784e-256
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,IFI30,2.75799010144668,1.67081600494587e-253
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,MAP3K8,1.70508831698499,3.16744565939663e-226
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,SERPINB2,4.65773580566301,4.76995315417339e-226
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CYP1B1,3.58345583167425,7.07973193086499e-218
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,RPS4Y1,-0.848731578356549,1.97289394749738e-216
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,SULT1A1,1.78278529261609,8.26640576147247e-207
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CXCL8,5.8278020886598,8.50397339404087e-204
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,IL1B,6.19724611937534,2.55407670473934e-185
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,TMEM176B,-1.84014447689092,1.95652248921623e-172
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,MAFB,2.49536097532767,1.3359425911549e-153
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CXCL2,4.71217590565329,2.58968763614788e-152
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,RGS2,-1.91579700007466,5.40249207218552e-151
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,RPLP1,-0.893288794334254,6.13618347857366e-151
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,NLRP3,2.28394636273382,3.26377942638904e-137
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,HBEGF,1.97970659488357,1.09227871500839e-136
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,AC245128.3,1.82435866071435,1.16428625020515e-134
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,JUN,-1.10799732622842,5.71014949720241e-133
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,NAMPT,1.6786834746273,2.38723934481765e-129
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,SAT1,-2.15639250852405,3.00193090127669e-122
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,TMSB4X,-0.657780564528128,1.57694455012556e-115
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,RHOB,-1.25210114129647,1.43823361990129e-114
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,IER3,2.64104334182359,2.69222046334911e-111
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,PLAUR,2.39128146104112,2.19105921139335e-110
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,THBD,1.77557863053246,4.31644480852162e-109
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,FTH1,1.67164217369934,5.03788351899333e-102
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,FOLR3,1.64388410209995,7.23084310859011e-101
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CXCL3,2.60297859330315,4.72807249963615e-98
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CFD,1.60485929853192,1.6870413395895e-96
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,FOS,-1.07969926898598,2.5387990226795e-90
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,TMEM176A,-1.22388130920806,1.92458425638603e-80
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,NFKBIA,1.90957819275432,3.07962990816991e-72
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,IFITM3,1.95550575685271,6.95118687326137e-72
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,HIST1H1C,-0.758534101394329,1.2129672473017e-65
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,PTGS2,1.6303577971977,6.93701743888539e-59
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,FCN1,1.63710580704115,1.7749229764091e-58
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,SQSTM1,-0.50330362391319,3.15192766450735e-52
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,TNFAIP2,-1.09772906181142,1.07505285309222e-49
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,LINC00937,-0.917203254368991,1.54792796229461e-44
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,IER2,-0.670033399986034,1.01965014350545e-43
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,SMIM25,-0.750379471173974,1.84383742217445e-43
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,PPBP,-0.582255252407909,1.10365281962616e-42
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,PLEKHG2,-0.961513539353403,2.44615782676101e-42
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,HIST1H1D,-0.55692449674867,7.90130966172657e-41
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,TMEM107,-0.615537209664753,1.13036646332376e-34
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CSF3R,-0.893658756454995,1.03403468982241e-30
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,AC245014.3,-0.862063526492439,9.5768767228265e-29
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,LYZ,2.39427501014455,5.27262490320496e-28
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,H1FX,-0.586574957175078,3.8446354638697e-26
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,JUND,-0.549600430599106,6.93695056082957e-25
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,S100A8,3.87232309350613,9.96317329825585e-25
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,AC007952.4,-0.616537803699095,6.84381305844176e-21
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CD300LB,-0.55620449034208,7.91487282740417e-18
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,TYMP,-0.587447516353693,9.69122272303621e-18
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,CCL3,-0.590332244815739,7.81657662637588e-17
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,SOX4,-0.512333482135678,8.63136374894173e-10
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,RBP7,-0.482828168522047,1.87095442243286e-08
+Yegnasubramanian S. (PBMC),Blood,Conventional dendritic cells,NEAT1,-0.494796157457561,2.12151813972158e-08
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,ALAS2,13.628684280895,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,CD69,-2.19183600833285,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,FOS,-2.65229039994686,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,HBA1,18.9433607768587,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,HBA2,19.6072997127942,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,HBB,23.5539276121392,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,JUNB,-2.13119569317099,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,MALAT1,-2.47859924447021,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,SLC2A3,-1.75223479942372,0.0
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,RPL34,-1.4525076022347,4.4932874e-316
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,SLC25A39,4.83343694664564,1.5127625212873e-311
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,JUN,-2.4874388796205,6.82260740993099e-298
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,SLC25A37,6.36242954759905,2.72566495286264e-296
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,IFI27,6.14797901263427,3.57096313845174e-286
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,SNCA,5.20128171335949,1.03880444170261e-239
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,RPL32,-1.44170740527897,3.50838445712855e-225
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,HBD,12.6084926207115,5.18783056336917e-222
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,IL32,-1.4415918518583,7.65863838284166e-222
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,AHSP,7.9675294444423,3.51219527642124e-179
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,CA1,9.30056113447542,1.68716835913553e-150
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,RPLP1,-1.64887390577617,1.08377386355514e-141
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,HBM,8.16721685356281,5.36510882583457e-140
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,RPS12,-1.56432988868795,5.95029397317267e-124
+Yegnasubramanian S. (PBMC),Blood,Erythrocytes,RPL10,-1.5796343577755,1.03487131300167e-63
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,IFITM3,3.72447965240677,2.42089188399035e-99
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,HPSE,2.58090113320794,1.59248222944084e-38
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,MAP3K7CL,-7.05327184064366,3.35510899407567e-36
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CAVIN2,-7.61842093716233,7.18371837024277e-21
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,C19orf33,-4.9786764375293,2.22199099569433e-19
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,STOM,2.03299091779857,5.87357266936601e-19
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,AP003068.2,-5.11931306837826,2.06602803227423e-18
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,KLHDC8B,2.47980596214024,1.34389498566883e-16
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,RUFY1,3.08379221776482,4.60366582197401e-16
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,TST,-2.31236053990684,5.51879918280416e-16
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,AC147651.1,-4.03228859029817,1.41934719622352e-15
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CCL5,-4.06776766937493,4.77233832256238e-15
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,ODC1,-2.46062992444014,1.16990641532736e-14
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,ENKUR,-3.7305378472538,1.26666244688775e-14
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,AC123912.4,2.24146098525675,2.50611454959992e-14
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,SPDYC,-2.69260406443802,1.17646694941774e-12
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,SMOX,2.55238380894522,2.1548341223251e-12
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,MAP1A,2.40186901866632,2.27743529698371e-12
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,FAXDC2,2.04585356143441,3.77579309966514e-12
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,WDR11-AS1,-2.37946244774718,3.81388382199282e-12
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,RAB6B,1.99301984955795,3.59306391524436e-11
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,MYL9,5.63132957175825,5.80270037024642e-11
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,TPM1,2.38050192914283,5.69185234347742e-10
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,SPARC,-4.93634572083682,2.74403765497198e-09
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,MPIG6B,4.85735574451322,3.02708760868684e-09
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CD9,-3.51053753155393,3.40328493669333e-09
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,TUBA4A,-2.74712185835618,6.49776310051927e-09
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,TTLL7,2.096425864631,9.307531852089e-09
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,PARVB,-2.46100239355232,1.47345835944379e-08
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,SAMD14,2.56432691244722,1.76172439111721e-08
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CLEC1B,3.44213776038227,1.42639424058079e-07
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,ESAM,3.2955073048469,1.04978428574142e-06
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CXCL5,2.11188294103891,1.52389486583227e-06
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,EGFL7,1.97532224518928,2.4416373376176e-06
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,GNG11,-3.87369928623262,8.7530282989254e-06
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,RGS18,-3.2021886909516,6.20970734687965e-05
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CLU,-3.48204850917731,6.65062924378025e-05
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,NRGN,-2.51006916030334,0.000213507923606251
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,TUBB1,-2.70320516412394,0.000879617698145325
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,TSC22D1,-2.88130253695755,0.00252135490923103
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,CMTM5,2.35857288617963,0.00451534813888613
+Yegnasubramanian S. (PBMC),Blood,Megakaryocyte progenitor cells,ITGA2B,2.09403356425916,0.0122933839374872
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,XIST,0.972615213791324,1.95865987771956e-253
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,TNFAIP3,1.42743327118283,1.0575295173367e-194
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,FCER1G,-1.19546243988222,3.43261452953396e-121
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CLIC3,-2.93241241450874,4.63545021645327e-98
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,GZMH,3.4723523052285,3.06906432628138e-91
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,PRF1,-4.32712513901122,8.71954163530314e-91
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,AC016831.7,0.849212305836162,4.44333555747342e-90
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,OASL,1.13161990809926,2.99720080232642e-88
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,IL32,1.24791554903616,6.99148919747065e-80
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,IGFBP7,-1.64181962756075,2.98487190588029e-79
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,GZMB,-3.48946249868445,9.34634902898006e-73
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,SH2D1B,-1.62409566828223,1.70296171660178e-70
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,KLRC3,1.65678406323951,4.00651921052612e-64
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,FCGR3A,-1.90947405615735,5.26182578299687e-62
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,KIR3DL1,-1.64360653781137,1.45035971191879e-56
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,SYNE1,0.945128114660241,2.2442478537264e-56
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CCL4,-4.94718003080022,2.67750170648516e-56
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CCL3,-2.44921233764783,3.67425014118884e-48
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,AKR1C3,-1.23736531414695,6.99845274999128e-48
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,KLRB1,-1.35625456978047,3.69318301835898e-46
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CD8A,1.41892669999139,9.29467262920007e-44
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,KLRF1,-1.36639623616176,1.29744388017512e-39
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CD8B,0.791022052031272,2.19301971552965e-39
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,SPON2,-2.67848043692495,1.203218231794e-36
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,HOPX,-1.28745980675404,1.30960575412169e-36
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,TRGV2,0.97977845635539,3.50790425024083e-36
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,KLRG1,0.800165436031217,4.08656080639605e-31
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,LAIR2,0.828989907306063,9.88700737209161e-31
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CCL5,2.32423103944529,7.67733339450783e-30
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,IFIT2,0.814274506982801,9.53048264535045e-29
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CTSW,-1.16071199758204,2.18011752580402e-27
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,KIR2DL1,-1.27513852678979,1.97437590445874e-26
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,XCL1,-1.1881016067365,6.59924369172127e-26
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,TRGV4,0.937880658181373,2.97997000246703e-23
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CCL4L2,1.18707392419971,8.26123673761608e-21
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,CST7,-1.20143389748925,3.03965595414638e-17
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,GNLY,2.71673556290208,8.00709847561871e-14
+Yegnasubramanian S. (PBMC),Blood,Natural killer cells,PTGDS,2.01096571962425,8.07625633920834e-13
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,JCHAIN,26.6587471352996,1.596427554534e-27
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,MZB1,26.3472582655731,1.44200891032531e-26
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,POU2AF1,8.99455262171113,4.85847433945832e-24
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,TNFRSF17,17.0394225496022,1.02331574849223e-23
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,TXNDC5,17.8954385706382,1.09167312553183e-22
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,DERL3,16.8437368790547,2.5376938958218e-21
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,STMN1,-17.5976148993345,5.15081661724788e-21
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,ITM2C,14.9638086601193,6.67939660004572e-19
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,HSP90B1,13.052951684335,1.99385432688052e-17
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,IGLL5,15.0027946553787,2.09012232536714e-17
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,IGHA1,15.2013927017801,1.45806934820765e-16
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,SEC11C,10.6899270078214,4.83785800173094e-16
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,IGKC,16.0656221814732,1.34496807640072e-14
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,CD38,8.95564572823077,5.59139537686611e-12
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,MKI67,-13.3900504342675,2.29556438607679e-11
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,IGHG1,10.2796205008237,5.31835069921039e-11
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,IGLC2,9.33810351788682,2.59601820533919e-10
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,CENPF,-8.33784864058496,2.61632009456379e-09
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,TYMS,-12.1563357857893,7.93787749035889e-09
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,PCLAF,-9.19835523522932,2.09491152970109e-07
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,UBE2C,-7.47380891758728,1.13697625295298e-06
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,CDT1,-6.80639451592243,1.53573070668878e-06
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,UHRF1,-6.81861391883692,2.10845528044331e-06
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,CCNB2,-7.08180378933401,2.29915991426112e-06
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,BIRC5,-8.77904611492146,4.1146407024075e-06
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,TK1,-7.52552050554284,9.13471524612119e-06
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,CDC20,-6.86315137998909,1.50813942871241e-05
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,NUSAP1,-6.72498035742055,1.5524284169294e-05
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,PKMYT1,-7.75277677266736,5.00414686900891e-05
+Yegnasubramanian S. (PBMC),Blood,Plasmablasts,RRM2,-7.5017125507113,6.99337162703494e-05
+Yegnasubramanian S. (PBMC),Blood,T cells,AREG,0.987137921619597,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,DDX3Y,-0.467915029180637,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,MT-ATP8,-0.993680109579411,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,MT-ND2,-0.312259095251748,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,MT-ND3,-0.489881239947187,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,NFKBIA,1.18210048019543,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,PPP1R15A,0.747072072489122,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,RPS26,1.24381608589239,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,RPS27,-0.911341073956482,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,RPS4Y1,-1.97894489140055,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,SCGB3A1,0.828079299498862,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,TNFAIP3,1.71516684185565,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,TSC22D3,0.687975534463876,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,XIST,0.904588510244169,0.0
+Yegnasubramanian S. (PBMC),Blood,T cells,TXNIP,0.60072477117538,2.0726113203896e-270
+Yegnasubramanian S. (PBMC),Blood,T cells,KLF6,0.694889202123222,2.42304111213475e-254
+Yegnasubramanian S. (PBMC),Blood,T cells,DDIT4,0.928031156667646,6.40769645569932e-251
+Yegnasubramanian S. (PBMC),Blood,T cells,PTGER4,0.761644380558177,5.64284951061258e-220
+Yegnasubramanian S. (PBMC),Blood,T cells,GADD45B,0.595198957526463,2.31937877011471e-208
+Yegnasubramanian S. (PBMC),Blood,T cells,YPEL5,0.595687136092194,7.38420599764078e-206
+Yegnasubramanian S. (PBMC),Blood,T cells,CSRNP1,0.659722131053045,4.34184806187354e-202
+Yegnasubramanian S. (PBMC),Blood,T cells,ZNF331,0.683440338561847,1.87550112228574e-197
+Yegnasubramanian S. (PBMC),Blood,T cells,NR4A2,0.704696272031409,4.92352400560294e-190
+Yegnasubramanian S. (PBMC),Blood,T cells,RPS18,-0.351651770176073,2.29424402773467e-161
+Yegnasubramanian S. (PBMC),Blood,T cells,RPL13,-0.404698734243303,4.05425251132293e-158
+Yegnasubramanian S. (PBMC),Blood,T cells,RPL34,-0.307652122566713,1.89751328319782e-144
+Yegnasubramanian S. (PBMC),Blood,T cells,TMSB4X,-0.343001129901419,2.15891710457768e-135
+Yegnasubramanian S. (PBMC),Blood,T cells,CD69,0.640317247684757,9.71072218598629e-134
+Yegnasubramanian S. (PBMC),Blood,T cells,ACTG1,-0.308244250559085,1.24753834395576e-128
+Yegnasubramanian S. (PBMC),Blood,T cells,SOCS3,0.564712980471581,2.39042996283528e-127
+Yegnasubramanian S. (PBMC),Blood,T cells,CD8A,-0.416757811577595,2.02578460575521e-97
+Yegnasubramanian S. (PBMC),Blood,T cells,GIMAP7,-0.346627018881317,7.87218928636461e-85
+Yegnasubramanian S. (PBMC),Blood,T cells,CRIP2,-0.476530859932165,2.90119362374153e-76
+Yegnasubramanian S. (PBMC),Blood,T cells,TC2N,-0.31861667596306,6.03174452412608e-67
+Yegnasubramanian S. (PBMC),Blood,T cells,CD8B,-0.485682008624879,9.94045017392794e-64
+Yegnasubramanian S. (PBMC),Blood,T cells,RPLP1,-0.304509326395178,5.17565576182217e-55
+Yegnasubramanian S. (PBMC),Blood,T cells,CCL5,-0.357660621344932,2.35141663772645e-38
+Yegnasubramanian S. (PBMC),Blood,T cells,KLRB1,-0.498343481704091,1.80749622651723e-36

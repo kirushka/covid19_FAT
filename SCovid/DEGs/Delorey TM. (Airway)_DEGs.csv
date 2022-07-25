@@ -1,0 +1,555 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,EEF1A1,-0.95986821697421,0.0
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,TPT1,-0.836277422761924,0.0
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPS9,-1.04049771940204,2.85795656573375e-279
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPL28,-0.782747560924182,8.46019036655535e-241
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPS8,-1.09933600849603,8.05093647675659e-221
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPS23,-1.0409216247612,8.30286372853409e-221
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPL14,-0.792632975930166,3.24839369958152e-207
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,PLCXD2,1.55620231875869,7.80157611223839e-193
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPL36,-0.866429385458244,9.67387047593762e-193
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CCDC190,-0.9761520238652,5.03316531180213e-191
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPS2,-1.30562798891881,2.32366954900947e-188
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,EDN1,1.49346608120978,3.84494506801223e-172
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,LAMC2,1.44400998440466,1.26766576916153e-171
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,NPC2,-1.65517264743189,3.91481968684817e-169
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SCNN1B,1.64108119555107,8.10427257432687e-167
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SFTPC,-1.27211030473323,1.28939832278507e-161
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,MS4A15,2.0008000938105,1.33542742823261e-161
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SFTPA1,-1.23955143403036,3.76890594885877e-160
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPL35A,-1.22226101017879,8.09436652455161e-151
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SFTPA2,-1.1662213123387,4.74846805019312e-144
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SOX4,1.5694665843687,9.88845405537542e-142
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,IL32,1.43441041722167,2.08278106954427e-141
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,MYRF,1.46880202988912,2.1859911101244e-140
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,LAMB3,2.24030789238809,1.59171481791005e-136
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,FSTL3,1.71851612341871,1.67910076946792e-135
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SPOCK2,2.31598889780693,2.33386533564854e-133
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,NTM,2.67793810074742,1.09162174564021e-130
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,GAS6,1.51034445860055,1.74739227053152e-127
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SLPI,-1.30011832387121,4.88305891358069e-127
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,TACSTD2,2.17650196835636,1.91166320938703e-120
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,KRT19,2.12676816211566,2.09668016192889e-120
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SCD,-1.02561501792248,7.46067654758014e-119
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ACTB,1.46401232208259,2.06432455103388e-116
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SEMA3B,2.28842456707548,4.23500812795212e-115
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CEACAM6,2.72721667349006,7.38414250781889e-114
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,AGER,2.7666791959053,1.03943895820742e-112
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,WFS1,2.26248164783581,3.48574123911107e-112
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CTSH,-1.02848049519996,8.16712121362516e-111
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RTKN2,2.42786064564839,1.41114147872673e-110
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ANXA3,2.27220482780713,3.23871043946872e-108
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,TSPAN13,1.8567627976213,4.74006778054365e-108
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,LRRK2,-0.838208229417003,9.15005135191723e-106
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CAV1,2.32358619597536,8.87415807088368e-105
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ZNF385B,-0.793194225337178,2.04469904423523e-104
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,GJA1,1.84493006464362,2.29522802978492e-102
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,LAMP3,-1.0644618620619,2.40735583506087e-102
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ACTG1,1.38298951539164,3.02294442789077e-101
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ANKRD1,1.52268789422372,4.08889572735077e-101
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,LDHB,-1.02806241633348,2.34379131250983e-100
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ABCA7,2.06413190786738,1.2080047182894e-98
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,S100A10,1.63490016511416,1.42918976467849e-98
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,EMP2,1.5069603404112,1.23857730886818e-96
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,PGC,-1.15266271555274,1.39293968434265e-96
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CXCL17,-1.19853003805892,1.84284459246242e-95
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SCEL,2.45119689295847,1.87492389742929e-94
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,MGST1,-1.05172557086024,1.31174986951164e-93
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,FGGY,-1.22414174415105,2.03226895232848e-92
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ANXA2,1.38933600574509,5.2312051204857e-92
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CD55,1.68918258539805,1.30247163098701e-91
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,KRT7,2.15629359767148,2.02429137219512e-91
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,GPRC5A,1.9079098581645,1.65502904963115e-84
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ICAM1,1.57810409608861,3.93312304255207e-82
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,PIGR,-1.05183686464712,2.60106151240152e-81
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPS27,-1.39153173164508,1.71242541218381e-80
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CAV2,1.96740445970095,2.35958968189126e-77
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,FOS,-1.07302302619666,5.02744640627879e-74
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPLP0,-0.782023068789434,8.96239691136631e-72
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SDC1,1.58113315876891,2.82986954962716e-71
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RAB11FIP1,1.83291370241947,7.06241502281984e-71
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,HHIP,-0.874880720508179,2.13745772458633e-70
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,MYO1B,1.3405781443897,1.07308195084828e-66
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CCND1,1.52566610461565,6.27115920083389e-63
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,MFSD2A,-0.953672501256765,3.88343491560746e-61
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPS4X,-1.6013348824589,1.49986592120779e-58
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,IRX3,-0.82266148393103,9.74172725095206e-55
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SUSD2,1.35615585535918,1.55942555765313e-52
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,NECAB1,-0.827379648055851,2.36331985428911e-46
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,C11orf96,-0.807677263201339,4.31438426377103e-45
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CKS2,-0.790660108259824,4.6422938445763e-45
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SLC4A4,-0.819867528164053,3.1848164197652e-43
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,ANKRD29,1.47796618294808,1.89463337677925e-41
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,SLCO4C1,-0.859116891847811,6.92373530898768e-41
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,CD36,-0.804828358041695,1.21259274131192e-39
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,NNMT,-0.801694109299376,6.88889081178631e-39
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,RPL18,-0.778890648853085,1.34850638111152e-36
+Delorey TM. (Airway),Airway,Alveolar pneumocytes,AGR2,-0.805298043758192,5.12576878069246e-35
+Delorey TM. (Airway),Airway,Dendritic,EIF4EBP1,0.28054137833402,9.17341957018052e-165
+Delorey TM. (Airway),Airway,Dendritic,DYSF,-0.528649516877888,2.32422366874804e-156
+Delorey TM. (Airway),Airway,Dendritic,VAV3,-0.90422066525577,4.98520733026479e-153
+Delorey TM. (Airway),Airway,Dendritic,GRIK1,-0.530592594668601,2.0868701392334e-142
+Delorey TM. (Airway),Airway,Dendritic,ATP8B4,-0.79244191805154,4.08372191165184e-140
+Delorey TM. (Airway),Airway,Dendritic,KLHL6-AS1,-0.531080476201114,2.83850569901884e-110
+Delorey TM. (Airway),Airway,Dendritic,GPR183,-0.481726243440187,9.59364046529792e-106
+Delorey TM. (Airway),Airway,Dendritic,IL1R2,-0.485307840649915,1.02389267382733e-103
+Delorey TM. (Airway),Airway,Dendritic,MT-ND3,-0.396732023763818,2.51731167576468e-87
+Delorey TM. (Airway),Airway,Dendritic,CRACR2A,-0.477476727056664,1.85660826379595e-83
+Delorey TM. (Airway),Airway,Dendritic,CORO1A,-0.32113082444578,3.10784330941717e-79
+Delorey TM. (Airway),Airway,Dendritic,VAT1,0.281988129445996,1.08231613033343e-78
+Delorey TM. (Airway),Airway,Dendritic,F13A1,-0.517899251537448,9.05601651006292e-72
+Delorey TM. (Airway),Airway,Dendritic,AP1S2,-0.649794919450165,1.08144619553688e-60
+Delorey TM. (Airway),Airway,Dendritic,TMEM176B,-0.589355331217314,3.99912924536375e-60
+Delorey TM. (Airway),Airway,Dendritic,FCGR2B,-0.950428482827474,4.18752358131271e-60
+Delorey TM. (Airway),Airway,Dendritic,STAB1,-0.545406304843809,1.03177525270872e-56
+Delorey TM. (Airway),Airway,Dendritic,ALCAM,0.34725398256122,3.8904371314327e-55
+Delorey TM. (Airway),Airway,Dendritic,LPXN,0.429397526281124,3.40954039950356e-50
+Delorey TM. (Airway),Airway,Dendritic,SIGLEC10,-1.03206151374777,3.33420521564944e-47
+Delorey TM. (Airway),Airway,Dendritic,ISG15,0.357333636548729,1.89670907352008e-45
+Delorey TM. (Airway),Airway,Dendritic,ABHD5,0.335654149706616,4.01418948418354e-44
+Delorey TM. (Airway),Airway,Dendritic,TREM1,0.357194947333322,6.28366614664336e-44
+Delorey TM. (Airway),Airway,Dendritic,RGS2,-0.416125976406931,3.08356771780031e-39
+Delorey TM. (Airway),Airway,Dendritic,TNFRSF11A,-0.481846238555138,6.73365948677678e-38
+Delorey TM. (Airway),Airway,Dendritic,CD83,0.347580889412743,9.58102093989802e-36
+Delorey TM. (Airway),Airway,Dendritic,BASP1,-0.489386819104161,1.42581029690377e-35
+Delorey TM. (Airway),Airway,Dendritic,CBFA2T3,-0.443320477160051,4.74289442679095e-33
+Delorey TM. (Airway),Airway,Dendritic,FAM89A,0.298413789382617,1.09837499890353e-30
+Delorey TM. (Airway),Airway,Dendritic,ADTRP,0.345820849726561,1.67762994629872e-30
+Delorey TM. (Airway),Airway,Dendritic,SSBP2,0.284017315900306,2.13966265245703e-28
+Delorey TM. (Airway),Airway,Dendritic,MT-ND1,0.306909014323944,6.05309180073623e-27
+Delorey TM. (Airway),Airway,Dendritic,SPP1,-0.312844129418922,1.56711633122443e-26
+Delorey TM. (Airway),Airway,Dendritic,MT-CYB,0.348626159539006,6.30722649794078e-25
+Delorey TM. (Airway),Airway,Dendritic,FLVCR2,0.317383962190136,3.24157096304148e-24
+Delorey TM. (Airway),Airway,Dendritic,ARRDC4,0.368815539006546,4.6324300966271e-23
+Delorey TM. (Airway),Airway,Dendritic,TPGS1,-0.643134270612642,8.20390667663587e-22
+Delorey TM. (Airway),Airway,Dendritic,MARCKS,-0.362089794332443,4.80566373272897e-20
+Delorey TM. (Airway),Airway,Dendritic,SLC16A10,0.325147703771718,1.51929258693967e-19
+Delorey TM. (Airway),Airway,Dendritic,ITGAX,0.425624316131936,1.00809210357945e-18
+Delorey TM. (Airway),Airway,Dendritic,ST6GALNAC3,0.288175949585747,9.95961162128861e-18
+Delorey TM. (Airway),Airway,Dendritic,MEF2A,-0.337397098167951,1.76909781093774e-16
+Delorey TM. (Airway),Airway,Dendritic,SLA,-0.337385393794874,5.8553402954083e-15
+Delorey TM. (Airway),Airway,Dendritic,PRKCB,-0.537288889117412,1.27114358491063e-14
+Delorey TM. (Airway),Airway,Dendritic,NPL,0.407492194143641,1.67652853820315e-14
+Delorey TM. (Airway),Airway,Dendritic,PLIN2,0.314433088927962,1.9597328305796e-13
+Delorey TM. (Airway),Airway,Dendritic,INHBA,0.335178923757904,2.86208530309597e-13
+Delorey TM. (Airway),Airway,Dendritic,CACYBP,0.306220514615437,1.48560849063138e-12
+Delorey TM. (Airway),Airway,Dendritic,EML4,0.329662585254036,3.57989924339842e-12
+Delorey TM. (Airway),Airway,Dendritic,SAMD9L,0.330515553526549,3.65985545463061e-12
+Delorey TM. (Airway),Airway,Dendritic,TXN,0.3216799917369,1.31426570117128e-11
+Delorey TM. (Airway),Airway,Dendritic,CCL2,-0.441035042038234,3.95994136691315e-11
+Delorey TM. (Airway),Airway,Dendritic,PPARG,0.396290472111357,3.69657559689399e-09
+Delorey TM. (Airway),Airway,Dendritic,CALR,0.284809819666678,6.85628178395661e-07
+Delorey TM. (Airway),Airway,Dendritic,MYO1F,-0.466318279345651,7.27783724703339e-07
+Delorey TM. (Airway),Airway,Dendritic,MOB3B,0.295729241043413,3.24788149924536e-06
+Delorey TM. (Airway),Airway,Dendritic,MS4A6A,-0.65677210245831,5.79848854931951e-05
+Delorey TM. (Airway),Airway,Dendritic,VCAN,-0.59511415867767,9.551530521109e-05
+Delorey TM. (Airway),Airway,Dendritic,LGALS3,0.289532488761934,0.000123519979924584
+Delorey TM. (Airway),Airway,Dendritic,CYP27A1,0.317366114548003,0.000666604243819925
+Delorey TM. (Airway),Airway,Dendritic,MSR1,0.310676946123403,0.00245436276610945
+Delorey TM. (Airway),Airway,Dendritic,CR1,-0.332734622487727,0.00426673886688506
+Delorey TM. (Airway),Airway,Dendritic,MARCO,0.321567094663789,0.00580540648215287
+Delorey TM. (Airway),Airway,Dendritic,GCHFR,0.302580394649667,0.00962343692842814
+Delorey TM. (Airway),Airway,Endothelial cells,NPR3,-0.70880131472238,2.41147166966439e-95
+Delorey TM. (Airway),Airway,Endothelial cells,TMEM233,0.403158873461,1.14509380150021e-92
+Delorey TM. (Airway),Airway,Endothelial cells,IGFBP3,-0.593504331118313,6.50193133759704e-91
+Delorey TM. (Airway),Airway,Endothelial cells,BMX,-0.750945475653405,1.06845179738422e-88
+Delorey TM. (Airway),Airway,Endothelial cells,BMP6,-0.786312310518858,2.34934218956295e-86
+Delorey TM. (Airway),Airway,Endothelial cells,C1QTNF1,0.429682286796503,5.36525268759735e-77
+Delorey TM. (Airway),Airway,Endothelial cells,GIMAP8,-0.5370373812876,2.42979740555019e-72
+Delorey TM. (Airway),Airway,Endothelial cells,ADAM23,-1.03368319538135,6.13481992032701e-72
+Delorey TM. (Airway),Airway,Endothelial cells,PTPRR,0.634016813628793,1.95487596205078e-71
+Delorey TM. (Airway),Airway,Endothelial cells,APOLD1,-0.652149852593178,1.21136075116807e-63
+Delorey TM. (Airway),Airway,Endothelial cells,COLQ,-0.542917184952762,5.91338612508828e-61
+Delorey TM. (Airway),Airway,Endothelial cells,ANO2,-0.832689298710903,1.66260403088953e-56
+Delorey TM. (Airway),Airway,Endothelial cells,TMEM100,-0.945740383211395,3.62421285281924e-54
+Delorey TM. (Airway),Airway,Endothelial cells,RSPO3,0.341019169036175,1.47788930655695e-50
+Delorey TM. (Airway),Airway,Endothelial cells,LINC01197,-0.925342839010432,2.66895038275536e-50
+Delorey TM. (Airway),Airway,Endothelial cells,SELP,-0.916981921956916,5.75081844348855e-43
+Delorey TM. (Airway),Airway,Endothelial cells,SLC9A3R2,-0.528966220586436,1.99328060875651e-42
+Delorey TM. (Airway),Airway,Endothelial cells,C7,0.361036464904645,1.94891179682709e-41
+Delorey TM. (Airway),Airway,Endothelial cells,GAS6,0.387540714239853,8.8985255327481e-40
+Delorey TM. (Airway),Airway,Endothelial cells,PALMD,-0.695980520593236,1.30041283343227e-36
+Delorey TM. (Airway),Airway,Endothelial cells,DTL,-0.771098294963873,3.05350294272589e-31
+Delorey TM. (Airway),Airway,Endothelial cells,NPAS3,0.438860123116289,1.02221625323185e-29
+Delorey TM. (Airway),Airway,Endothelial cells,EFNB2,-0.602919853450121,2.89486635740003e-27
+Delorey TM. (Airway),Airway,Endothelial cells,COL18A1,0.456234286275336,7.83866535261062e-27
+Delorey TM. (Airway),Airway,Endothelial cells,F8,-0.801396043302653,2.9565998257034e-23
+Delorey TM. (Airway),Airway,Endothelial cells,MEOX2,0.420426579118499,8.0464775608624e-22
+Delorey TM. (Airway),Airway,Endothelial cells,NOS1,-1.02486724873534,2.625954616076e-21
+Delorey TM. (Airway),Airway,Endothelial cells,PCAT19,-0.904838155578245,1.19460797032964e-20
+Delorey TM. (Airway),Airway,Endothelial cells,LNX1,-1.05314750347361,1.47448930480422e-20
+Delorey TM. (Airway),Airway,Endothelial cells,TNXB,0.368824128807828,2.04207902316715e-19
+Delorey TM. (Airway),Airway,Endothelial cells,SUGCT,0.3623011979995,1.48486327493372e-18
+Delorey TM. (Airway),Airway,Endothelial cells,ADGRL4,-0.612547211962578,4.00595173980383e-18
+Delorey TM. (Airway),Airway,Endothelial cells,BCR,0.419616309037457,4.68909470385923e-18
+Delorey TM. (Airway),Airway,Endothelial cells,TINAGL1,0.423118288702949,1.12891281422142e-17
+Delorey TM. (Airway),Airway,Endothelial cells,PTGS1,0.53453720883405,2.4662442785243e-16
+Delorey TM. (Airway),Airway,Endothelial cells,IRAK2,0.613201653837228,4.04134985047426e-14
+Delorey TM. (Airway),Airway,Endothelial cells,GCH1,0.399959423053671,4.50931522245275e-14
+Delorey TM. (Airway),Airway,Endothelial cells,KLHL13,0.41477079892071,2.17227472298399e-13
+Delorey TM. (Airway),Airway,Endothelial cells,ATP1B3,0.34911714331328,1.59860357158983e-12
+Delorey TM. (Airway),Airway,Endothelial cells,SDCBP2-AS1,0.480628194486408,4.38302910746207e-12
+Delorey TM. (Airway),Airway,Endothelial cells,MAGI1,0.461142007364868,6.59938791807697e-12
+Delorey TM. (Airway),Airway,Endothelial cells,NFKBIZ,0.41362497087109,2.42169275213804e-11
+Delorey TM. (Airway),Airway,Endothelial cells,CDH13,0.454418804880368,1.15804129274034e-10
+Delorey TM. (Airway),Airway,Endothelial cells,CLDN5,-0.797170949252016,8.73301952540867e-09
+Delorey TM. (Airway),Airway,Endothelial cells,ABCB1,-0.592238655888668,1.39352501474335e-08
+Delorey TM. (Airway),Airway,Endothelial cells,ESR2,0.451412961227748,3.2219954040788e-08
+Delorey TM. (Airway),Airway,Endothelial cells,ITGAV,0.399124167907417,8.66352548806639e-08
+Delorey TM. (Airway),Airway,Endothelial cells,TEX10,0.348394732808416,1.31065255248192e-07
+Delorey TM. (Airway),Airway,Endothelial cells,SAMD5,0.4016877320052,2.31524754804225e-07
+Delorey TM. (Airway),Airway,Endothelial cells,BIRC3,0.390697510934878,3.34902198760638e-07
+Delorey TM. (Airway),Airway,Endothelial cells,VEGFC,-0.65474551064658,5.96810054607106e-07
+Delorey TM. (Airway),Airway,Endothelial cells,CNKSR3,0.417158218421403,1.42062238813381e-06
+Delorey TM. (Airway),Airway,Endothelial cells,ULK4,0.377394300196518,2.42771689715124e-06
+Delorey TM. (Airway),Airway,Endothelial cells,TSHZ2,0.483080698519365,7.54032817426267e-06
+Delorey TM. (Airway),Airway,Endothelial cells,SLCO2A1,-0.874245690896311,1.06797311751004e-05
+Delorey TM. (Airway),Airway,Endothelial cells,CP,0.463693739245282,1.61535477003369e-05
+Delorey TM. (Airway),Airway,Endothelial cells,MKL2,0.392245620811597,0.000168471600272373
+Delorey TM. (Airway),Airway,Endothelial cells,ST8SIA6,-0.525748240954105,0.000192921967393687
+Delorey TM. (Airway),Airway,Endothelial cells,LRIG1,0.394768278602361,0.000683510845551006
+Delorey TM. (Airway),Airway,Endothelial cells,PREX2,-0.939080443952247,0.000852594118771918
+Delorey TM. (Airway),Airway,Endothelial cells,RPS6KA5,0.417787246803913,0.00211822707693042
+Delorey TM. (Airway),Airway,Endothelial cells,PLCB4,-0.707322086314188,0.01324439463859
+Delorey TM. (Airway),Airway,Endothelial cells,SMAD1,-0.629944646170551,0.01331745748278
+Delorey TM. (Airway),Airway,Endothelial cells,GBP2,-0.589084504276344,0.0163445494864942
+Delorey TM. (Airway),Airway,Endothelial cells,ITGA5,-0.525811762599706,0.0179779055300482
+Delorey TM. (Airway),Airway,Endothelial cells,SHANK3,-0.813500146608602,0.0408260034060931
+Delorey TM. (Airway),Airway,Fibroblasts,CXCL1,0.520008681779256,6.43561999803278e-89
+Delorey TM. (Airway),Airway,Fibroblasts,TPM2,-0.894002447955662,1.71961765589468e-66
+Delorey TM. (Airway),Airway,Fibroblasts,MCM6,0.532768616851886,3.00915532920231e-51
+Delorey TM. (Airway),Airway,Fibroblasts,AGTR1,-1.39374988108832,2.57683330363005e-48
+Delorey TM. (Airway),Airway,Fibroblasts,AHR,0.475849161096402,1.06922127143053e-46
+Delorey TM. (Airway),Airway,Fibroblasts,STEAP2,-0.872315173937449,1.0893041821209e-45
+Delorey TM. (Airway),Airway,Fibroblasts,MXRA8,-1.15737497445521,1.14417392689347e-30
+Delorey TM. (Airway),Airway,Fibroblasts,NBL1,-1.02682752029499,2.54380658843195e-29
+Delorey TM. (Airway),Airway,Fibroblasts,IL2RA,0.622292396991438,4.87361458809615e-28
+Delorey TM. (Airway),Airway,Fibroblasts,ACTA2,-0.88638978591179,4.53416335031156e-26
+Delorey TM. (Airway),Airway,Fibroblasts,ABCA9,-0.879509128240801,6.70364845570067e-26
+Delorey TM. (Airway),Airway,Fibroblasts,MFAP5,0.95172387071038,6.01893025945322e-24
+Delorey TM. (Airway),Airway,Fibroblasts,WISP2,-1.15192768217183,8.33322237267217e-22
+Delorey TM. (Airway),Airway,Fibroblasts,NOX4,-1.34263190408588,1.32276798137103e-18
+Delorey TM. (Airway),Airway,Fibroblasts,ADAMTS5,0.506967870391465,1.67523266135354e-14
+Delorey TM. (Airway),Airway,Fibroblasts,TPM1,-0.928239997002028,2.54858885326775e-14
+Delorey TM. (Airway),Airway,Fibroblasts,NEXN,-0.877732367401995,7.83123446281747e-13
+Delorey TM. (Airway),Airway,Fibroblasts,RPSA,0.519638168983253,1.12742796178297e-12
+Delorey TM. (Airway),Airway,Fibroblasts,LTBP4,-0.942299308080704,5.95356083879766e-12
+Delorey TM. (Airway),Airway,Fibroblasts,SCARA5,0.82560836936723,1.42326244053868e-11
+Delorey TM. (Airway),Airway,Fibroblasts,EPHA3,-0.878854184191452,4.35575552059729e-11
+Delorey TM. (Airway),Airway,Fibroblasts,KLRD1,0.50249908576635,5.89087201751522e-11
+Delorey TM. (Airway),Airway,Fibroblasts,MFAP4,-1.25744525745264,1.91276667427709e-10
+Delorey TM. (Airway),Airway,Fibroblasts,RPS18,0.46638179264602,2.56977336905847e-10
+Delorey TM. (Airway),Airway,Fibroblasts,PDGFRA,-1.22591820955637,6.40888783639441e-10
+Delorey TM. (Airway),Airway,Fibroblasts,SEMA3D,-1.03115637228324,3.83155772193297e-09
+Delorey TM. (Airway),Airway,Fibroblasts,RPL23,0.475371619975146,1.27554445932028e-08
+Delorey TM. (Airway),Airway,Fibroblasts,KIF26B,0.500528627303161,1.78683019666051e-08
+Delorey TM. (Airway),Airway,Fibroblasts,EBF3,0.651709971370126,1.96467879895492e-08
+Delorey TM. (Airway),Airway,Fibroblasts,AEBP1,-1.35169409975798,2.03386557364429e-08
+Delorey TM. (Airway),Airway,Fibroblasts,CNN3,-1.12354594850404,4.93205089210478e-08
+Delorey TM. (Airway),Airway,Fibroblasts,MAMDC2,-1.1435918605254,6.05222327857169e-08
+Delorey TM. (Airway),Airway,Fibroblasts,TMTC1,0.708504587653963,1.13198411917857e-07
+Delorey TM. (Airway),Airway,Fibroblasts,RPL14,0.492127205440252,1.53840717790956e-07
+Delorey TM. (Airway),Airway,Fibroblasts,SNED1,0.681425650424763,3.75779867432349e-07
+Delorey TM. (Airway),Airway,Fibroblasts,MIR99AHG,0.600915410655719,4.72394619934943e-07
+Delorey TM. (Airway),Airway,Fibroblasts,GRM7,0.624547147848268,5.02273962655945e-07
+Delorey TM. (Airway),Airway,Fibroblasts,PRELP,-0.906695622760745,7.81167850214843e-07
+Delorey TM. (Airway),Airway,Fibroblasts,DOK6,0.525753260542676,9.65683527215209e-07
+Delorey TM. (Airway),Airway,Fibroblasts,FBLN5,-1.20166659350248,1.51815275574074e-06
+Delorey TM. (Airway),Airway,Fibroblasts,EFEMP1,-0.910554198273607,2.31396142780935e-06
+Delorey TM. (Airway),Airway,Fibroblasts,MSC-AS1,0.594813798221791,2.36973240849535e-06
+Delorey TM. (Airway),Airway,Fibroblasts,LTBP2,-1.49166010072756,4.85255415075744e-06
+Delorey TM. (Airway),Airway,Fibroblasts,SERPING1,-0.978156449435752,9.95981581759661e-06
+Delorey TM. (Airway),Airway,Fibroblasts,FMO2,-1.20208561845028,1.2890786258427e-05
+Delorey TM. (Airway),Airway,Fibroblasts,ELN,-0.944426191660653,1.9850972514375e-05
+Delorey TM. (Airway),Airway,Fibroblasts,SORCS2,0.513572174382098,2.42432531554329e-05
+Delorey TM. (Airway),Airway,Fibroblasts,DLC1,0.47526237525152,2.83872968166378e-05
+Delorey TM. (Airway),Airway,Fibroblasts,NLGN1,0.592524780371081,3.00983058543393e-05
+Delorey TM. (Airway),Airway,Fibroblasts,ABTB2,0.519166538570758,3.28551970360073e-05
+Delorey TM. (Airway),Airway,Fibroblasts,MMP2,-1.18718263233232,4.3950663430119e-05
+Delorey TM. (Airway),Airway,Fibroblasts,FHOD3,0.56972840623752,5.55807177558191e-05
+Delorey TM. (Airway),Airway,Fibroblasts,ABI3BP,-0.886251689801679,7.00030952186117e-05
+Delorey TM. (Airway),Airway,Fibroblasts,CPE,-1.28437286413456,7.06924535343245e-05
+Delorey TM. (Airway),Airway,Fibroblasts,KAZN,0.911610520488411,8.98061273897989e-05
+Delorey TM. (Airway),Airway,Fibroblasts,PLCB1,0.664617205139043,0.000100420651013121
+Delorey TM. (Airway),Airway,Fibroblasts,RPL35A,0.458661040036135,0.000120235243778073
+Delorey TM. (Airway),Airway,Fibroblasts,ADH1B,-1.29944769440884,0.000125270197885011
+Delorey TM. (Airway),Airway,Fibroblasts,GFPT2,0.454677122715683,0.00014464251735785
+Delorey TM. (Airway),Airway,Fibroblasts,RDH10,0.453418953597968,0.000155526393899182
+Delorey TM. (Airway),Airway,Fibroblasts,LAMA2,-0.965664933987832,0.000159763655077651
+Delorey TM. (Airway),Airway,Fibroblasts,C7,-1.1187263745241,0.0001696900935908
+Delorey TM. (Airway),Airway,Fibroblasts,RPS3,0.583706124361295,0.000171861359024266
+Delorey TM. (Airway),Airway,Fibroblasts,C1R,-1.63463733662894,0.000231712961477051
+Delorey TM. (Airway),Airway,Fibroblasts,OSMR,0.561520965048451,0.000406275437719477
+Delorey TM. (Airway),Airway,Fibroblasts,SLIT2,-1.13986295961015,0.000452074478994497
+Delorey TM. (Airway),Airway,Fibroblasts,NCAM2,0.576053694052741,0.000453468264053454
+Delorey TM. (Airway),Airway,Fibroblasts,RPS9,0.47482630744574,0.000706233207222797
+Delorey TM. (Airway),Airway,Fibroblasts,LUM,-1.03838755172298,0.000713182008811108
+Delorey TM. (Airway),Airway,Fibroblasts,SVEP1,-1.6873219301755,0.00104497196119823
+Delorey TM. (Airway),Airway,Fibroblasts,EFNA5,0.84218745617106,0.00231647651801
+Delorey TM. (Airway),Airway,Fibroblasts,SEMA3C,0.688393614012003,0.00236163543404773
+Delorey TM. (Airway),Airway,Fibroblasts,IL1R1,0.721973299156417,0.00252534380330921
+Delorey TM. (Airway),Airway,Fibroblasts,SPON1,-1.66160095376574,0.00369473643242717
+Delorey TM. (Airway),Airway,Fibroblasts,SEPT11,0.544812781590714,0.00383863677873669
+Delorey TM. (Airway),Airway,Fibroblasts,SDK1,0.60485722462507,0.00502112341054309
+Delorey TM. (Airway),Airway,Fibroblasts,EEF1A1,0.578519979876871,0.00556550533429197
+Delorey TM. (Airway),Airway,Fibroblasts,USP53,-1.01597051838896,0.00753637001725809
+Delorey TM. (Airway),Airway,Fibroblasts,FSTL1,-0.976011921596906,0.00796044735490799
+Delorey TM. (Airway),Airway,Fibroblasts,ENAH,0.512761901219912,0.0161389999944092
+Delorey TM. (Airway),Airway,Fibroblasts,DYNC2H1,0.642435337907311,0.0435399850990212
+Delorey TM. (Airway),Airway,Macrophages,DIRC3,-0.388414619117358,0.0
+Delorey TM. (Airway),Airway,Macrophages,FOLR2,0.686358603137124,8.19338707599679e-82
+Delorey TM. (Airway),Airway,Macrophages,MT-ND2,0.587280807862028,2.44778109845755e-80
+Delorey TM. (Airway),Airway,Macrophages,IGF1,-0.406782868642007,2.05967380042217e-74
+Delorey TM. (Airway),Airway,Macrophages,TMEM176A,0.626707366715009,2.875929452182e-68
+Delorey TM. (Airway),Airway,Macrophages,HSP90AB1,-0.454722811439685,9.32632470280815e-65
+Delorey TM. (Airway),Airway,Macrophages,IL17RB,0.824512030268988,4.14705494910463e-61
+Delorey TM. (Airway),Airway,Macrophages,MT-ATP6,0.853008053941518,1.29980496566457e-55
+Delorey TM. (Airway),Airway,Macrophages,MT-ND3,0.667830286239681,2.24766928556315e-55
+Delorey TM. (Airway),Airway,Macrophages,HMOX1,-0.511125508220334,3.53521004742788e-44
+Delorey TM. (Airway),Airway,Macrophages,HSPD1,-0.412663342949068,1.35860064723302e-43
+Delorey TM. (Airway),Airway,Macrophages,ITIH5,-0.497757505992747,3.35095555054519e-42
+Delorey TM. (Airway),Airway,Macrophages,TPRG1,0.570679436054826,2.04176877091029e-38
+Delorey TM. (Airway),Airway,Macrophages,SLC1A3,1.12992422167341,1.86324797306244e-37
+Delorey TM. (Airway),Airway,Macrophages,ARHGAP18,0.734245899181134,8.04883143734744e-36
+Delorey TM. (Airway),Airway,Macrophages,TMSB4X,0.586242318434037,1.03986122948581e-34
+Delorey TM. (Airway),Airway,Macrophages,NCEH1,0.763611903933625,3.24740887645642e-29
+Delorey TM. (Airway),Airway,Macrophages,MRC1,-0.418258628595631,4.11140490063164e-29
+Delorey TM. (Airway),Airway,Macrophages,SLCO2B1,0.622218085123278,6.41183008448826e-27
+Delorey TM. (Airway),Airway,Macrophages,MANF,0.551352223051046,2.3906449243028e-26
+Delorey TM. (Airway),Airway,Macrophages,NRP2,0.571487408148012,1.68969267386651e-25
+Delorey TM. (Airway),Airway,Macrophages,PPARG,0.659956158061527,2.59384865486928e-25
+Delorey TM. (Airway),Airway,Macrophages,PAG1,0.761568853082971,5.04202702573579e-25
+Delorey TM. (Airway),Airway,Macrophages,EML4,0.600354147864123,1.5408932054215e-23
+Delorey TM. (Airway),Airway,Macrophages,STAC,1.3312749870021,2.82396318912194e-23
+Delorey TM. (Airway),Airway,Macrophages,LCP2,-0.519194807186219,3.24083604504813e-23
+Delorey TM. (Airway),Airway,Macrophages,IER5,-0.563798061801322,7.80353990233363e-23
+Delorey TM. (Airway),Airway,Macrophages,CLEC2B,-0.486403449760074,2.66552641752153e-22
+Delorey TM. (Airway),Airway,Macrophages,FN1,0.582275173094246,1.40518929115337e-19
+Delorey TM. (Airway),Airway,Macrophages,CXCL3,-0.412302729876566,1.4132053857548e-17
+Delorey TM. (Airway),Airway,Macrophages,HS3ST2,0.642543783708402,3.20030999990339e-17
+Delorey TM. (Airway),Airway,Macrophages,RPLP2,-0.385292850050633,2.35276327435072e-16
+Delorey TM. (Airway),Airway,Macrophages,GPRIN3,0.584159729174499,5.71224895776524e-16
+Delorey TM. (Airway),Airway,Macrophages,IL7R,-0.551918657747698,4.84512925796716e-14
+Delorey TM. (Airway),Airway,Macrophages,RMDN3,0.618670802977739,1.11463374473544e-13
+Delorey TM. (Airway),Airway,Macrophages,ZNF331,0.550424135580123,1.64538139486704e-13
+Delorey TM. (Airway),Airway,Macrophages,IL1RAP,-0.571895650666082,1.68220624483248e-13
+Delorey TM. (Airway),Airway,Macrophages,LGALS3BP,-0.39859765075883,2.91912143546665e-13
+Delorey TM. (Airway),Airway,Macrophages,CCL18,0.992847007422564,5.13790497404305e-13
+Delorey TM. (Airway),Airway,Macrophages,PPARGC1B,0.771045987323338,5.50800597166319e-13
+Delorey TM. (Airway),Airway,Macrophages,STRADB,-0.399480834207667,1.34571051927318e-12
+Delorey TM. (Airway),Airway,Macrophages,FBP1,-0.560080130496815,2.22747111436388e-12
+Delorey TM. (Airway),Airway,Macrophages,HEXB,-0.406540967928594,1.16671473181823e-10
+Delorey TM. (Airway),Airway,Macrophages,NABP1,-0.445919476673647,2.43663754646164e-10
+Delorey TM. (Airway),Airway,Macrophages,DTNA,-0.42088173451908,2.43116928755941e-09
+Delorey TM. (Airway),Airway,Macrophages,TFRC,0.678283765348525,5.38440258032079e-09
+Delorey TM. (Airway),Airway,Macrophages,DUSP10,-0.525955440319261,2.02023667191945e-08
+Delorey TM. (Airway),Airway,Macrophages,LAT2,-0.498472108463002,2.05950682048378e-08
+Delorey TM. (Airway),Airway,Macrophages,SLC7A7,0.595726758084038,6.77088728651871e-08
+Delorey TM. (Airway),Airway,Macrophages,CD83,0.524620743376466,1.75327583501758e-07
+Delorey TM. (Airway),Airway,Macrophages,THEMIS2,-0.550109119068401,3.13628909589989e-07
+Delorey TM. (Airway),Airway,Macrophages,LAIR1,0.547894187064558,6.08988294211038e-07
+Delorey TM. (Airway),Airway,Macrophages,PLA2G4A,-0.421829614377426,7.84054450268457e-07
+Delorey TM. (Airway),Airway,Macrophages,GLDN,0.558994821390268,1.15817600885875e-06
+Delorey TM. (Airway),Airway,Macrophages,DHX35,0.590724358325815,1.42024388021459e-06
+Delorey TM. (Airway),Airway,Macrophages,POU2F2,-0.3809099563532,0.000140140429396617
+Delorey TM. (Airway),Airway,Macrophages,BCL2A1,-0.438623414036848,0.000226344749200706
+Delorey TM. (Airway),Airway,Macrophages,MYO15B,-0.53638600721794,0.00186260630738373
+Delorey TM. (Airway),Airway,Macrophages,MX1,-0.601485729040318,0.0318295104993603
+Delorey TM. (Airway),Airway,Macrophages,IKBIP,-0.634020286373177,0.0439502283694597
+Delorey TM. (Airway),Airway,Multiciliated cells,C6orf201,0.815296515174202,6.57540442591274e-39
+Delorey TM. (Airway),Airway,Multiciliated cells,RAB11FIP4,0.722649327591733,2.42526240416115e-25
+Delorey TM. (Airway),Airway,Multiciliated cells,TMEM45B,0.702705672081923,1.99074657584274e-19
+Delorey TM. (Airway),Airway,Multiciliated cells,LRGUK,-1.92767261313769,1.84533748483005e-18
+Delorey TM. (Airway),Airway,Multiciliated cells,ESR2,0.735790311863983,9.88706331530549e-17
+Delorey TM. (Airway),Airway,Multiciliated cells,PTPRU,0.775924831495621,2.91444650740701e-16
+Delorey TM. (Airway),Airway,Multiciliated cells,CCDC65,1.10535641095337,6.74655653720001e-14
+Delorey TM. (Airway),Airway,Multiciliated cells,CCDC190,-3.07479088067299,1.36698537184516e-13
+Delorey TM. (Airway),Airway,Multiciliated cells,ST8SIA4,0.772903045353825,2.83524636998451e-13
+Delorey TM. (Airway),Airway,Multiciliated cells,OMG,1.26922943516128,5.66076238328091e-11
+Delorey TM. (Airway),Airway,Multiciliated cells,EFCAB10,1.73740752248348,3.36434423464943e-10
+Delorey TM. (Airway),Airway,Multiciliated cells,CD24,1.12704635757051,2.90327745305882e-09
+Delorey TM. (Airway),Airway,Multiciliated cells,CLMN,0.721012468778528,4.16386863901911e-09
+Delorey TM. (Airway),Airway,Multiciliated cells,HMGB1,0.791811085838454,7.31085120100153e-09
+Delorey TM. (Airway),Airway,Multiciliated cells,RRAD,0.993797605829251,9.72977010232207e-09
+Delorey TM. (Airway),Airway,Multiciliated cells,ROPN1L,-1.94545687253561,1.38987595505891e-08
+Delorey TM. (Airway),Airway,Multiciliated cells,CCDC39,0.701109729644898,2.66850494732078e-08
+Delorey TM. (Airway),Airway,Multiciliated cells,NRG1,0.92924871999358,6.69957186001458e-08
+Delorey TM. (Airway),Airway,Multiciliated cells,SLC44A4,0.921205985137577,1.31510481708597e-07
+Delorey TM. (Airway),Airway,Multiciliated cells,UNC93B1,0.831871559969418,5.1969615281659e-07
+Delorey TM. (Airway),Airway,Multiciliated cells,VSTM2L,1.54447352777412,8.59360894604898e-07
+Delorey TM. (Airway),Airway,Multiciliated cells,FAM227A,-1.99806030036925,3.69435420481373e-05
+Delorey TM. (Airway),Airway,Multiciliated cells,RFX2,0.95559334210345,0.000104495543947981
+Delorey TM. (Airway),Airway,Multiciliated cells,DNAH6,1.57538971252975,0.000148534746813229
+Delorey TM. (Airway),Airway,Multiciliated cells,FAAH2,0.803114916922512,0.000198439317189699
+Delorey TM. (Airway),Airway,Multiciliated cells,LINC01170,-3.00590080452073,0.000225959694465067
+Delorey TM. (Airway),Airway,Multiciliated cells,ENKUR,-3.0413124368116,0.000890185410316881
+Delorey TM. (Airway),Airway,Multiciliated cells,PTPRT,-1.61115518561702,0.00157755564102541
+Delorey TM. (Airway),Airway,Multiciliated cells,FAM229B,1.45653612384986,0.00175470602168002
+Delorey TM. (Airway),Airway,Multiciliated cells,CFAP221,1.36004920509598,0.0026790680209603
+Delorey TM. (Airway),Airway,Multiciliated cells,EFCAB6,1.05557824997521,0.00272384622027383
+Delorey TM. (Airway),Airway,Multiciliated cells,CHST9,1.43730517190247,0.00499041912144321
+Delorey TM. (Airway),Airway,Multiciliated cells,TTC6,-1.9737605852798,0.00521311889694691
+Delorey TM. (Airway),Airway,Multiciliated cells,DRC3,-2.03142664880705,0.00602315574661532
+Delorey TM. (Airway),Airway,Multiciliated cells,IQCH,-2.68811564455673,0.00843214014323771
+Delorey TM. (Airway),Airway,Multiciliated cells,CFAP47,-2.27736508143538,0.00977844021169621
+Delorey TM. (Airway),Airway,Multiciliated cells,ADGRV1,0.954086437066712,0.0108807592083418
+Delorey TM. (Airway),Airway,Multiciliated cells,KIAA2012,-2.29435488795699,0.0152982326120626
+Delorey TM. (Airway),Airway,Multiciliated cells,DNAH5,1.19813647675695,0.0168582426034755
+Delorey TM. (Airway),Airway,Multiciliated cells,ZMYND10,-1.57232337855513,0.0224230730968061
+Delorey TM. (Airway),Airway,Multiciliated cells,TMEM232,0.689922089232607,0.0246083989317095
+Delorey TM. (Airway),Airway,Multiciliated cells,SPAG17,1.14329338509597,0.0251528817763158
+Delorey TM. (Airway),Airway,Multiciliated cells,DNAH3,-2.19994026616942,0.0281330287486421
+Delorey TM. (Airway),Airway,Multiciliated cells,C12orf75,-1.32009578475803,0.0377375368771642
+Delorey TM. (Airway),Airway,Natural killer T cells,CRACR2A,-2.36789892529749,8.04058228538831e-116
+Delorey TM. (Airway),Airway,Natural killer T cells,PATL2,-1.82647701553864,5.31002321745499e-105
+Delorey TM. (Airway),Airway,Natural killer T cells,GCC2-AS1,-1.25626821129706,5.34339915812992e-105
+Delorey TM. (Airway),Airway,Natural killer T cells,ZNF25,0.751381297027573,2.89250403541046e-86
+Delorey TM. (Airway),Airway,Natural killer T cells,CD27,-0.815908098975704,1.20277800038277e-46
+Delorey TM. (Airway),Airway,Natural killer T cells,GRAP2,-1.70370066497583,8.50963292986301e-41
+Delorey TM. (Airway),Airway,Natural killer T cells,STAT4,-0.673968024127567,5.79148841384983e-40
+Delorey TM. (Airway),Airway,Natural killer T cells,MYL12A,1.04215071830054,9.44465992659545e-33
+Delorey TM. (Airway),Airway,Natural killer T cells,CBFA2T3,-0.68153131627689,6.17552039013218e-32
+Delorey TM. (Airway),Airway,Natural killer T cells,SLAMF1,-2.98797482218015,8.64834013183538e-28
+Delorey TM. (Airway),Airway,Natural killer T cells,ST8SIA6-AS1,-1.08793636644025,4.55978747333259e-27
+Delorey TM. (Airway),Airway,Natural killer T cells,DENND2D,0.868178255538739,1.79598142993713e-26
+Delorey TM. (Airway),Airway,Natural killer T cells,PRF1,0.950776615859655,3.52001992575758e-25
+Delorey TM. (Airway),Airway,Natural killer T cells,KLRD1,0.993569229168798,4.02685292266288e-19
+Delorey TM. (Airway),Airway,Natural killer T cells,GPSM3,0.85098705091253,5.12672352172715e-17
+Delorey TM. (Airway),Airway,Natural killer T cells,CCDC62,-0.803158578959441,1.47005520474745e-15
+Delorey TM. (Airway),Airway,Natural killer T cells,IL32,1.50651098673278,7.57886540174227e-14
+Delorey TM. (Airway),Airway,Natural killer T cells,IL7R,0.862675488551136,9.35342726093096e-12
+Delorey TM. (Airway),Airway,Natural killer T cells,RPL36,0.774678810760499,2.05122314306511e-11
+Delorey TM. (Airway),Airway,Natural killer T cells,RPL38,0.861683641446866,4.86096550242967e-11
+Delorey TM. (Airway),Airway,Natural killer T cells,PTGS1,-0.71988989956293,5.33962988025958e-11
+Delorey TM. (Airway),Airway,Natural killer T cells,MYO1F,0.769130961562646,3.06465572854313e-10
+Delorey TM. (Airway),Airway,Natural killer T cells,PPIA,0.770473555846297,5.2471814127607e-10
+Delorey TM. (Airway),Airway,Natural killer T cells,TOMM7,0.796253399603728,1.27456119960146e-09
+Delorey TM. (Airway),Airway,Natural killer T cells,CORO1A,1.08583792507549,1.6791975832358e-09
+Delorey TM. (Airway),Airway,Natural killer T cells,COMMD6,0.748145573104805,2.31951276315044e-09
+Delorey TM. (Airway),Airway,Natural killer T cells,STK17A,1.36118657502675,3.20855889588127e-09
+Delorey TM. (Airway),Airway,Natural killer T cells,TSPAN5,1.4614745511948,2.23205219003563e-08
+Delorey TM. (Airway),Airway,Natural killer T cells,CARD11,-0.767134846606985,9.31914047892343e-08
+Delorey TM. (Airway),Airway,Natural killer T cells,MANF,-0.773478142297413,1.11382311019605e-07
+Delorey TM. (Airway),Airway,Natural killer T cells,UNC93B1,-0.637756349417947,1.3605447843357e-06
+Delorey TM. (Airway),Airway,Natural killer T cells,RPS27,0.952878336919509,1.13036418047244e-05
+Delorey TM. (Airway),Airway,Natural killer T cells,EAF2,-0.826572359091647,1.49383214015807e-05
+Delorey TM. (Airway),Airway,Natural killer T cells,NCALD,0.776582904716474,1.85367121746724e-05
+Delorey TM. (Airway),Airway,Natural killer T cells,NFATC2,-1.38591341796959,7.83030980934764e-05
+Delorey TM. (Airway),Airway,Natural killer T cells,HERPUD1,-0.839578830650003,9.15015263894408e-05
+Delorey TM. (Airway),Airway,Natural killer T cells,PDE3B,0.808624313259839,0.000139326193987078
+Delorey TM. (Airway),Airway,Natural killer T cells,ARAP2,0.889110915187629,0.000164293193712116
+Delorey TM. (Airway),Airway,Natural killer T cells,RUNX3,-1.69463945643863,0.00089050328685113
+Delorey TM. (Airway),Airway,Natural killer T cells,MT-CO2,0.753046894651619,0.000957475733780695
+Delorey TM. (Airway),Airway,Natural killer T cells,CPNE5,-0.961857893314234,0.00158166177477327
+Delorey TM. (Airway),Airway,Natural killer T cells,TOX,0.925519179595473,0.0018736930505087
+Delorey TM. (Airway),Airway,Natural killer T cells,LXN,-0.808648847627673,0.00206877641617233
+Delorey TM. (Airway),Airway,Natural killer T cells,CD96,0.912013907648811,0.010597788844882
+Delorey TM. (Airway),Airway,Natural killer T cells,DUSP5,-0.93294476786308,0.0185579224097173
+Delorey TM. (Airway),Airway,Natural killer T cells,PAG1,0.7734965487763,0.0387917018047223
+Delorey TM. (Airway),Airway,Secretory cells,DIRC3,-0.624353410461948,3.48996546939356e-35
+Delorey TM. (Airway),Airway,Secretory cells,RPS19,-0.797426124148698,2.0166951652119e-27
+Delorey TM. (Airway),Airway,Secretory cells,BMP6,-0.782737499834404,3.36481498033658e-21
+Delorey TM. (Airway),Airway,Secretory cells,GREB1L,-0.895719091886546,4.2417851176208e-21
+Delorey TM. (Airway),Airway,Secretory cells,SNTG2,-0.756684438504749,4.43538175434886e-20
+Delorey TM. (Airway),Airway,Secretory cells,WIPI1,0.563707684915438,2.61051113462264e-17
+Delorey TM. (Airway),Airway,Secretory cells,MYL12B,-0.647977038132186,1.16388710519335e-14
+Delorey TM. (Airway),Airway,Secretory cells,TACSTD2,-0.654963565062939,3.10108966727788e-10
+Delorey TM. (Airway),Airway,Secretory cells,TFPI,0.719199953440263,5.47075487557787e-09
+Delorey TM. (Airway),Airway,Secretory cells,AHR,-0.82656570278589,8.33724217470581e-09
+Delorey TM. (Airway),Airway,Secretory cells,LNX1,-0.780330530520339,1.57156629251191e-08
+Delorey TM. (Airway),Airway,Secretory cells,MYO5B,0.799337037850634,2.42263931176844e-08
+Delorey TM. (Airway),Airway,Secretory cells,SPIRE2,0.584327842816252,2.89892722286498e-08
+Delorey TM. (Airway),Airway,Secretory cells,MACROD2,0.921944646468739,3.15341733729232e-08
+Delorey TM. (Airway),Airway,Secretory cells,HOMER1,0.51940022459985,4.34702660218202e-08
+Delorey TM. (Airway),Airway,Secretory cells,MT-CYB,0.522835941625021,5.08030145023523e-08
+Delorey TM. (Airway),Airway,Secretory cells,CFAP44,0.856657848976848,5.61425913686857e-08
+Delorey TM. (Airway),Airway,Secretory cells,AQP4-AS1,1.18216200598766,6.09097750792727e-08
+Delorey TM. (Airway),Airway,Secretory cells,ARFGEF3,0.708154398406439,1.64875566123181e-07
+Delorey TM. (Airway),Airway,Secretory cells,PTPRT,0.730802436276501,1.66846711998671e-07
+Delorey TM. (Airway),Airway,Secretory cells,UST,0.606724231921496,4.48784599456199e-07
+Delorey TM. (Airway),Airway,Secretory cells,FOXP2,0.508867126137225,4.51947674672369e-07
+Delorey TM. (Airway),Airway,Secretory cells,BPIFB1,0.920769245442184,9.18442178371118e-07
+Delorey TM. (Airway),Airway,Secretory cells,KAZN,0.596664592494858,1.11009651454976e-06
+Delorey TM. (Airway),Airway,Secretory cells,PRSS12,-1.0070937662532,1.15525227784547e-06
+Delorey TM. (Airway),Airway,Secretory cells,PDE1C,0.732214528709641,1.18648391721799e-06
+Delorey TM. (Airway),Airway,Secretory cells,TOX3,1.30461884166259,2.62784012211248e-06
+Delorey TM. (Airway),Airway,Secretory cells,LINC00511,1.40701261728378,3.08598320868024e-06
+Delorey TM. (Airway),Airway,Secretory cells,LINC00578,0.600577604796659,3.08598320868027e-06
+Delorey TM. (Airway),Airway,Secretory cells,MIR99AHG,0.654278886015255,5.39025075402631e-06
+Delorey TM. (Airway),Airway,Secretory cells,BTBD11,-1.30929396169644,6.47151237717608e-06
+Delorey TM. (Airway),Airway,Secretory cells,MT-ND5,0.596896071593249,9.84281898940528e-06
+Delorey TM. (Airway),Airway,Secretory cells,FGFR2,0.653585662404175,1.26917165528975e-05
+Delorey TM. (Airway),Airway,Secretory cells,RPS18,-0.795467597747408,1.38779874049169e-05
+Delorey TM. (Airway),Airway,Secretory cells,RPLP2,-0.778186562165198,1.61628151164815e-05
+Delorey TM. (Airway),Airway,Secretory cells,KIAA1211L,0.909082980246628,2.53620215276788e-05
+Delorey TM. (Airway),Airway,Secretory cells,MICAL2,0.707399028233245,4.29643864687058e-05
+Delorey TM. (Airway),Airway,Secretory cells,ABCA13,-0.980178129850985,4.31151197162239e-05
+Delorey TM. (Airway),Airway,Secretory cells,PLEKHS1,1.31647109301021,5.08609230760357e-05
+Delorey TM. (Airway),Airway,Secretory cells,GPRC5A,-0.814158996719777,5.79332030146241e-05
+Delorey TM. (Airway),Airway,Secretory cells,CAPN13,-0.68997496037012,0.000115895280579519
+Delorey TM. (Airway),Airway,Secretory cells,RGS17,-1.13659371451306,0.00012220509178247
+Delorey TM. (Airway),Airway,Secretory cells,CLIC6,0.875057076739156,0.000190038567549278
+Delorey TM. (Airway),Airway,Secretory cells,PDE4D,0.799832629920096,0.000253014053691018
+Delorey TM. (Airway),Airway,Secretory cells,EYA1,0.586573247999812,0.000258250703661923
+Delorey TM. (Airway),Airway,Secretory cells,SCD5,0.78267396020512,0.000367640750088533
+Delorey TM. (Airway),Airway,Secretory cells,MYH14,0.581397779936698,0.000531719416505702
+Delorey TM. (Airway),Airway,Secretory cells,PTPRE,0.765668514800571,0.000532908787452643
+Delorey TM. (Airway),Airway,Secretory cells,RPL13A,-0.881640472713327,0.000854540564008174
+Delorey TM. (Airway),Airway,Secretory cells,NTN1,1.14563818586713,0.00107818624700881
+Delorey TM. (Airway),Airway,Secretory cells,SLC22A3,0.664933866974436,0.0016547598691041
+Delorey TM. (Airway),Airway,Secretory cells,DANT2,0.942921214156486,0.00196860897755482
+Delorey TM. (Airway),Airway,Secretory cells,NRXN3,-0.865006729672041,0.00207053506846149
+Delorey TM. (Airway),Airway,Secretory cells,STOX2,0.746037877303327,0.00207135415197292
+Delorey TM. (Airway),Airway,Secretory cells,NRG1,-0.622616090334947,0.00246298661541392
+Delorey TM. (Airway),Airway,Secretory cells,RANBP17,-1.04259647372903,0.00256422661892331
+Delorey TM. (Airway),Airway,Secretory cells,RIMS1,-1.17291689960174,0.00269197110770355
+Delorey TM. (Airway),Airway,Secretory cells,MUC16,-0.801196506707448,0.00404336510807638
+Delorey TM. (Airway),Airway,Secretory cells,VEGFA,-0.638772412739355,0.00422814777947246
+Delorey TM. (Airway),Airway,Secretory cells,CCSER1,-1.49802529706397,0.00453579692540865
+Delorey TM. (Airway),Airway,Secretory cells,COBL,-0.70624548154635,0.00705170372397232
+Delorey TM. (Airway),Airway,Secretory cells,CNTNAP3B,0.509821104815573,0.00954011154387916
+Delorey TM. (Airway),Airway,Secretory cells,RBM22,-0.773119588658739,0.0101973880778625
+Delorey TM. (Airway),Airway,Secretory cells,MET,0.81499660791538,0.0221586689340088
+Delorey TM. (Airway),Airway,Secretory cells,OCLN,-0.621193286743585,0.0277669816038709
+Delorey TM. (Airway),Airway,Secretory cells,RAD1,0.555204920166736,0.0297020136805893
+Delorey TM. (Airway),Airway,Secretory cells,FAT2,-0.976212630355134,0.0334375311390208
+Delorey TM. (Airway),Airway,Secretory cells,IQGAP2,-0.681847133363771,0.0367927189289599
+Delorey TM. (Airway),Airway,Smooth muscle cells,DNM3OS,-1.01935948327475,8.06455041806538e-155
+Delorey TM. (Airway),Airway,Smooth muscle cells,ITGA7,-1.84348261617027,1.76407725310047e-15
+Delorey TM. (Airway),Airway,Smooth muscle cells,DCTN1,0.665691804373347,1.95370654142577e-14
+Delorey TM. (Airway),Airway,Smooth muscle cells,DSN1,0.517001861791331,7.89486242805092e-13
+Delorey TM. (Airway),Airway,Smooth muscle cells,PROSER2,0.559688239271181,7.89486242805092e-13
+Delorey TM. (Airway),Airway,Smooth muscle cells,VEGFC,0.589853092513637,2.7007025893972e-11
+Delorey TM. (Airway),Airway,Smooth muscle cells,ART4,0.760740984117531,1.24813846783629e-10
+Delorey TM. (Airway),Airway,Smooth muscle cells,AGTR1,0.865480303087483,4.19714062929853e-10
+Delorey TM. (Airway),Airway,Smooth muscle cells,NAV3,0.544367520596999,5.76336711484643e-09
+Delorey TM. (Airway),Airway,Smooth muscle cells,PGF,0.555448717994821,4.47293758688342e-07
+Delorey TM. (Airway),Airway,Smooth muscle cells,NPR3,-1.47108053570962,2.00626169431177e-05
+Delorey TM. (Airway),Airway,Smooth muscle cells,C1R,-1.05842189725761,4.94779316180673e-05
+Delorey TM. (Airway),Airway,Smooth muscle cells,LMOD1,-1.05968799671034,5.9120065388481e-05
+Delorey TM. (Airway),Airway,Smooth muscle cells,DKK3,-1.22952742683874,7.57158389029064e-05
+Delorey TM. (Airway),Airway,Smooth muscle cells,CNTN1,0.596022023319664,9.99940636722505e-05
+Delorey TM. (Airway),Airway,Smooth muscle cells,NPAS3,0.542458690137368,0.000107468102947248
+Delorey TM. (Airway),Airway,Smooth muscle cells,RAMP1,-2.29108843999742,0.00017655253272435
+Delorey TM. (Airway),Airway,Smooth muscle cells,AEBP1,-1.4286210151359,0.000178715834318339
+Delorey TM. (Airway),Airway,Smooth muscle cells,ADAMTSL1,0.556770618088735,0.000186105113371244
+Delorey TM. (Airway),Airway,Smooth muscle cells,COL6A1,-1.07897861954294,0.00083098777112483
+Delorey TM. (Airway),Airway,Smooth muscle cells,TBX2,-1.0736784537209,0.000876956905260163
+Delorey TM. (Airway),Airway,Smooth muscle cells,PDGFD,0.671673169110755,0.00331199858937019
+Delorey TM. (Airway),Airway,Smooth muscle cells,NR4A3,0.581731236567883,0.00375830445932101
+Delorey TM. (Airway),Airway,Smooth muscle cells,ERG,0.71873703582828,0.00408359715653782
+Delorey TM. (Airway),Airway,Smooth muscle cells,CSGALNACT1,0.56706861950841,0.00684667047467576
+Delorey TM. (Airway),Airway,Smooth muscle cells,LINC01088,0.642493132068362,0.00777379551213893
+Delorey TM. (Airway),Airway,Smooth muscle cells,RRAD,0.683260971558753,0.0106935781527723
+Delorey TM. (Airway),Airway,Smooth muscle cells,NPNT,-1.38543980286942,0.0109838254510208
+Delorey TM. (Airway),Airway,Smooth muscle cells,C8orf34,0.833453165783753,0.0114887935616553
+Delorey TM. (Airway),Airway,Smooth muscle cells,LBH,-1.21936022011771,0.011798067280252
+Delorey TM. (Airway),Airway,Smooth muscle cells,SLC24A3,0.539377907726044,0.0119052164592213
+Delorey TM. (Airway),Airway,Smooth muscle cells,COX4I1,0.739635524163481,0.0122010566532821
+Delorey TM. (Airway),Airway,Smooth muscle cells,INPP4B,0.560998862871214,0.0141642560473282
+Delorey TM. (Airway),Airway,Smooth muscle cells,ERBB4,1.22505199724051,0.0192687321604784
+Delorey TM. (Airway),Airway,Smooth muscle cells,MICAL2,0.654482137152449,0.0219920732799582
+Delorey TM. (Airway),Airway,Smooth muscle cells,CDH11,-1.24359624381807,0.0221412589715308
+Delorey TM. (Airway),Airway,Smooth muscle cells,ANKS1B,1.35147778720464,0.0293803113205252
+Delorey TM. (Airway),Airway,Smooth muscle cells,PHLDB2,-1.05626133885842,0.0300956285280419
+Delorey TM. (Airway),Airway,Smooth muscle cells,CRIM1,-1.12938311678267,0.0329657410184524

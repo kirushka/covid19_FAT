@@ -1,0 +1,570 @@
+Dataset,Tissue,Cell Type,GENE,log2FC,P Value
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,PHGDH,-1.58783558778023,1.63989894512512e-22
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,C6orf48,-1.44536622737557,7.1803322137201e-21
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,SLC7A5,-1.1756700574412,1.43520592306652e-19
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,COPB1,-0.766668872587152,1.87316314900363e-19
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,NUPR1,-2.09884343296375,1.91668150845683e-19
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ASNS,-1.23450177890985,4.04035889917826e-19
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ATF4,-0.898087635929102,1.86684131653098e-15
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,PSAT1,-1.46931555879619,1.44562341876912e-14
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,G0S2,-1.89647378526897,4.74293432779681e-12
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,GARS,-0.782148456068561,5.99114318044732e-12
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,MTHFD2,-1.27197619315564,8.39533222332176e-12
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,LARS,-0.727462179828114,2.53833126201317e-11
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,SHMT2,-0.921398016250833,7.62226341391154e-11
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ZFAS1,-0.72040281053367,8.88233267447848e-11
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,IFIT1,0.708108436676188,2.11511002206105e-10
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,SLC7A11,-0.917296720001024,2.63304353283555e-10
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,PTMA,0.699198380682057,1.55829045494322e-09
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ATP5G1,0.680601861058753,3.22413539435068e-09
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,IFIT3,0.758848921012154,2.58879770007168e-08
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,BMP4,0.759235871784452,5.3730793530226e-08
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,STC2,-0.873258051955437,8.84118391542596e-08
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,IARS,-0.730350312705036,1.49632884329655e-07
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,NAP1L1,-0.854370333137074,2.37245136050339e-07
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,BNIP3,0.662563333325348,7.99417737842511e-07
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ODC1,0.955094474069848,1.32339175065676e-06
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,MX1,0.79287573633871,1.34835506347951e-06
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ADH1C,-0.78130371939591,1.9800207277178e-06
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,CCDC85B,0.631426236822962,5.22711379289821e-06
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,HNRNPM,0.592461240282188,1.62465621970418e-05
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,HIST1H4C,1.31752234834289,2.90770549082949e-05
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ZG16,1.02336779299195,3.97057164448806e-05
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,HSPE1,0.60813708520001,5.1543516824384e-05
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,EIF4EBP1,-0.703966755825648,9.54225708780131e-05
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,SPINK4,1.15907850681921,0.000112533802256285
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,LDHB,0.69876178179782,0.000147965608615354
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,NUSAP1,-1.38220711974677,0.000190913538812489
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,MT1E,0.915753286226052,0.000247837462253818
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,HIST1H1B,0.944110460504215,0.000472916233899381
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,FABP5,0.795297016587558,0.000581255553005501
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,FAM111B,0.895311498560681,0.000646542868858323
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,C2orf82,0.616117674938186,0.000885261246748876
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,ASCL2,1.15593052628812,0.00099596622192971
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,MKI67,-0.880503937127138,0.00124700623975642
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,PRSS1,-0.828708201172227,0.00131055370463223
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,HMGCS2,0.604424064191426,0.00136706647216276
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,REG4,0.993090986818586,0.00138343005471691
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,PRSS2,-1.03705690921184,0.0034536196653424
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,OLFM4,1.19658711016379,0.00387817856309761
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,NDC80,-0.782886223236177,0.00742905964654452
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,UBE2C,-1.20803373270658,0.0078025596062204
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,MCM5,0.58577231090187,0.00850403297215557
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,CLDN2,0.657311089604199,0.00884680159624888
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,FCGBP,0.941151234069032,0.0102147891180361
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,RETNLB,0.620021594106658,0.0106351475267723
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,CLDN10,0.606112609853975,0.0114036103136379
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,PHLDA1,0.587865572597593,0.0123415611949416
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,HIST1H1E,0.994251292690842,0.0126729109829428
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,BIRC5,-0.821885419585482,0.0159496752307892
+Triana S. (Intestine),Intestine,Cycling transient amplifying cells,NEK2,-0.748271886971783,0.0175897880889611
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ACTB,0.838050609747343,3.21937136261548e-70
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,TNFSF15,-1.38356165474471,2.0591813036898e-62
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,TMEM141,0.871395820738172,5.26793373304754e-62
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ERBB2IP,-0.853921810439139,9.17346558192831e-41
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,MT2A,1.31016468357708,8.68884966291787e-39
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ABCB1,-1.07660187186316,4.58987693413586e-37
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,MPC1,0.80329311364187,1.76843404073478e-35
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,DST,-0.788543496444024,2.83296460386153e-35
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,PDGFA,-0.646293256073715,2.51661524716014e-33
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,SLC38A2,-0.798712664788356,4.96673000594037e-31
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,HSD11B2,0.684412538260272,7.65329067569238e-31
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,NEAT1,-1.19071698032351,3.44605856235548e-30
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ACTG1,0.628332039861622,1.9142165457687e-29
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ATP1B3,-0.650738301755402,1.79540456875833e-25
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ALDOC,0.691529768607645,3.95885217117385e-25
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,CYP1A1,0.998156346634328,1.19549362923657e-24
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,DUOXA2,-1.93389317616842,5.02312968304887e-24
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,HSD17B2,-1.75572872340888,2.60502559404827e-22
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,AP000769.1,-0.91117160359946,2.69390899972265e-21
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,MVD,0.78273429548318,1.15893843008385e-19
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,NXPE2,-0.901603554504013,4.30646358728194e-19
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,G0S2,-0.621232400802864,4.35472203164006e-19
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,HMGCS1,0.820592520188279,9.54677676153982e-19
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,PHGR1,1.02469698961231,4.73923665573403e-18
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,NEURL1B,-0.642810719954733,1.82204815716839e-17
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,TFF1,1.3964859586839,3.38512200882711e-17
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,TM4SF20,-1.41258582507209,9.82474450455813e-17
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,QSOX1,-0.643415198917055,1.36177814756134e-16
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,SLC40A1,1.28821816843888,1.68489716798923e-16
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,MYO15B,-0.613791318364815,3.0077199923462e-16
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,CDHR5,-0.630298808684495,1.73197958961381e-15
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,DUOX2,-0.939391379880041,6.28174224493664e-15
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,SLC51B,0.633780086668181,4.95004655680099e-14
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,CA4,-1.64641158142483,7.74086677205692e-14
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ID1,1.23557689510393,1.47482827732216e-13
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ANKRD37,0.777176838386404,2.64406410980166e-13
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,TFF3,0.745598205235934,1.49137305490802e-12
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,DISP2,0.709695708159163,4.97253340212706e-12
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,CLIC3,0.834932520559468,6.22785755334578e-11
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,SLC26A3,-1.59234444985459,3.35776748260029e-10
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,COL5A3,-0.637147164607227,4.00980148942369e-10
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,TRPM6,-0.636925997292122,4.48554166275118e-10
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,SLC20A1,-0.686694882545635,6.31545309923492e-10
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,PRDX6,0.728167414358978,2.77830461227623e-09
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,INSIG1,0.934127582747513,3.55393282098231e-09
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,LGALS1,0.830272115896329,5.56834797318128e-07
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,CKB,0.882135491004454,5.59960331326687e-07
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,NDRG1,-0.638660541041512,1.62738010553751e-06
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,ADIRF,0.652344865030596,4.63479110338629e-06
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,SLC11A2,0.87004942919308,2.66443566512213e-05
+Triana S. (Intestine),Intestine,Enterocyte 1 cells,IGFBP3,-0.607206193144932,0.0104419114950505
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,COPB1,-2.99065764337905,1.06544900870825e-93
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,ABCB1,-3.46283709824251,1.15435709438495e-75
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CEACAM5,-2.59933851198885,4.68361860174506e-68
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MX2,3.78884416754388,1.74953847156228e-66
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CD63,-1.7258371327318,1.73328468361803e-64
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFIT3,4.17199862766101,1.4848608228709e-62
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CCPG1,-1.49716148377082,9.8354521690107e-62
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFIT1,4.05688750531884,4.77394108003071e-61
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,OCLN,-1.86027069992364,1.31030928111298e-60
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,LAMB3,-2.84531102423753,1.64878035261959e-60
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MX1,3.96338379407589,4.89106830023022e-57
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,HLA-B,-2.356331824477,9.80594978125986e-57
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,XAF1,2.96906282509645,2.69122445285887e-56
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,HLA-C,-1.98304488260357,9.62505993501932e-55
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,HLA-A,-1.57828918009,1.26459942912939e-51
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,PDGFA,-1.44035878361701,1.57789378076296e-51
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,OASL,2.08336484965137,1.71910950709011e-51
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CD55,-1.96712897636706,8.4710136064589e-51
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CLDN4,-1.62137433940156,1.13831413155885e-49
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,ITGA2,-1.85368058139529,1.90914584742776e-49
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,DDX58,2.34885899713024,7.29013169122761e-48
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CXCL10,2.59053730719037,6.20796886803568e-47
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,USP18,1.71913669738277,4.31711281308769e-46
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,LIPH,-1.29276806318102,1.81042171396713e-45
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,HERC5,2.52589757137503,4.12369805638546e-45
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,EPSTI1,2.35608443879805,9.28005177519337e-44
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,SLC7A11,-1.46721277160652,2.12333432287794e-43
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,OAS3,1.88353018294233,5.16055525409179e-43
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFIT2,3.35220227947458,9.22397546495574e-43
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TSPAN1,-1.82485350004532,2.1498741313247e-42
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,DST,-1.41608979894185,3.81715699742735e-40
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,AREG,-2.13261842559104,2.70896315238749e-39
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,PNPT1,1.33510725214182,1.66652859408862e-38
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,GPRC5A,-1.52256327399867,5.62672237284773e-38
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MUC4,-1.50788693373431,3.62620233147839e-37
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MAN1A1,-1.63113834365723,1.39006163360807e-36
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,OAS2,2.04950886170372,1.46835844726149e-36
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,B4GALT1,-1.40632992641578,2.04828171510573e-36
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,NCEH1,-1.57275362048931,2.16702209216201e-36
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TM4SF1,-2.04968144218899,8.5768533487503e-36
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,ITGAV,-1.33151480527942,2.19925033012951e-35
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,HELZ2,1.23191248523338,3.62936100486175e-35
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,STAT1,1.41789869153354,4.25130365214192e-35
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CPE,-1.97143051896037,4.76981737712956e-35
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,LAMA3,-2.9886258327663,8.24585684068363e-35
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,LAP3,1.17213466103892,6.75418825580919e-34
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,ADGRF1,-1.4280050329984,1.10368301415865e-33
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CMPK2,1.60209306846273,1.4296965642437e-32
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,GDF15,-2.72623657403614,1.51099907869704e-32
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFI44L,1.62846043878581,9.2782311868946e-32
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,ISG15,2.29084938682109,6.58953825639002e-31
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TXNRD1,-1.47260244157868,1.57446572509406e-30
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MT2A,1.67300419200354,3.71351027100844e-30
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFI44,1.55598412371671,1.06896927949338e-29
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,PRSS1,-2.0692790241648,1.85043454767094e-29
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,EREG,-1.94160138275109,1.16269296058935e-28
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,GALNT5,-1.27146446557566,1.22132820552142e-28
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,PARP9,1.23116491576971,1.31910222996701e-28
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CYP3A5,-1.28222726434144,9.03229537064817e-27
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,DDX60,1.27236114040494,1.03068790648702e-26
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MUC1,-1.32207314403373,1.12795768579104e-26
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,SORBS2,-1.40580831701861,1.16893242700084e-25
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFIH1,1.54448876429434,1.17327099331362e-25
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFITM3,1.71490156513422,1.2635942628333e-25
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,DDX60L,1.38198811699383,2.41358952991626e-25
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,LAMC2,-2.81009878009319,1.24655211240742e-24
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,SAMHD1,1.1298559790347,1.26231109272736e-24
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,HIST1H4C,1.00230870124427,3.34290014183952e-24
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IRF1,1.73423032105068,3.84762963033749e-24
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CTSE,-1.57294655749133,1.09670190084833e-23
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,NFKBIA,2.19067490890143,4.9208982903325e-23
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CXCL11,2.07698694431487,9.65950327119138e-22
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,S100P,-1.39357733707416,8.07956289401953e-21
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TACSTD2,-1.70416690543897,4.65777858650833e-19
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TRIM22,1.22274343804385,5.94993661148269e-19
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MUC13,-1.83774931436619,7.35652377242791e-18
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,UBE2L6,1.02641129226367,1.32989248273732e-17
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,PARP14,1.14626789739062,2.16923713984988e-16
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,RSAD2,2.12946889158064,4.45216964520998e-16
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TM4SF20,-2.1310849575281,4.97415656667429e-16
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TNFAIP3,1.34375893558009,1.01570088627081e-15
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,ITGB8,-1.42835923452233,6.62563483235537e-15
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,GBP4,1.11727091311007,1.5169170863707e-14
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,JUN,1.11878488688048,5.30940147597287e-14
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,BST2,1.28054477033356,5.17760202047176e-13
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,SAMD9L,1.03015713957771,4.97741944770092e-11
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,SAMD9,1.26579024921804,8.52865892393918e-10
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CXCL2,1.07126447970724,1.41310672638938e-07
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,TNFAIP2,1.48121227560718,3.0783361719044e-07
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,PI3,-1.27146079280844,1.3752184032062e-06
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,MMP7,-1.65173934183119,8.78801047066147e-06
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,IFI6,1.1582549909552,1.18241898711129e-05
+Triana S. (Intestine),Intestine,Enterocyte 2 cells,CLCA4,-1.37998683500213,0.000182506468266504
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,FASN,0.649935912571087,5.54250640994668e-05
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,FGF14,-1.45300530801981,0.000105946685708967
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,MVD,0.763390490999715,0.000152394091238761
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,NEURL1,-1.46323640060841,0.000166209645580109
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,FDPS,0.659784570708735,0.000268276433150059
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,MT-ATP8,0.651314037955109,0.000276762862893542
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,PDK1,0.615253221834815,0.0003304801717221
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,PEG10,-1.91228540718192,0.000467194781464325
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,NLRP1,-1.87402118573978,0.000502031602700835
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,FADS2,0.70108320533536,0.000731712620913158
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,GNAO1,-1.7579114161524,0.000889213119371729
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,WFDC3,0.965326698469606,0.00121906821584124
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,OR51E1,-1.62253117166949,0.00160462721902896
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,GRIA4,-1.39757672215941,0.00175193883494446
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,ASCL1,-1.73575464271903,0.0018931829221223
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,MDK,-1.88941898961676,0.00192486661987668
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CACNA1A,-2.34890765973488,0.00240956011365411
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,SCG3,-2.27426746053551,0.00268797567581669
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,FEV,-2.01087647592227,0.00273409930027213
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,HMGCS1,1.01637882471885,0.00336175326616538
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CNIH2,-1.58087649678877,0.00346582647326426
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,KIF5C,-2.04219108969109,0.00418590987267472
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,RETNLB,2.55884803831,0.00485066080221716
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,ZNF511,0.590456677312488,0.00537381746759108
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,RPS18,0.577887990219055,0.00563867781011157
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CTA-243E7.1,0.693926553712569,0.00571322058239903
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,KCTD12,-1.83440054467533,0.00750340561637934
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,KCNH6,-1.47323276314532,0.00763056400697711
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,FFAR2,-1.99265984284175,0.00777476665850479
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,MAP1B,-2.33641143548534,0.00812793789844124
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,UNC13A,-1.55979162120397,0.00957900940298175
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,PCSK1N,-2.29733026241948,0.0100425104452088
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,VIPR1-AS1,0.670027508943734,0.0108617247353583
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,NEUROD1,-1.65382967936332,0.0114348370019415
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CHGA,-1.98842213466184,0.0115713537996106
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CPE,-2.08385942245631,0.0119115568688098
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,SCG2,-2.25290614282747,0.0125510368559496
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CA9,0.659273481707132,0.0130880122779811
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,BNIP3,0.875536267987235,0.0146976246842955
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,TMOD2,-1.52791186214964,0.0155746237510444
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,KCNJ6,-1.82005978605934,0.0156981300756866
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,HMGCS2,1.09222226250087,0.0193902592204716
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,NBEA,-1.4058005300577,0.0215839663782872
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,ST6GALNAC1,0.854183860131938,0.0242648165257317
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,SCGN,-1.88536248180744,0.0349148816430021
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,TUBA1A,-1.77746341233596,0.0349329816974853
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,SLC18A1,-1.88040865951901,0.0362348959963301
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,SCG5,-1.78338351599078,0.0362362156296603
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,TTR,-1.42261056977655,0.0367727170885722
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,CXXC4,-1.53222706232647,0.0368572236653859
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,GALNT8,2.10878233727492,0.0387941174839421
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,LYPD8,-1.66637714412942,0.0391772410914467
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,PCSK1,-2.15326037194354,0.0412907056477134
+Triana S. (Intestine),Intestine,Inmature Enterocyte 1 cells,RPS2,0.579725973520625,0.0456632331784375
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,IL2RG,-2.28655468372249,0.00019198976009249
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL13,1.01304750309791,0.000437756202278977
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,ABCB1,-0.997316950198781,0.00104495836801171
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPLP1,1.04565174890543,0.00156644125226451
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPS27,1.07587547968473,0.00176256549425463
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL22,0.845364206715001,0.00233847534777405
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,SAA2,-2.04565961898982,0.00254455877414412
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,ASS1,-1.21995654708661,0.00266319502520148
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CSTB,1.1263186048906,0.00288381254468332
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,ACTG1,-2.29043523792849,0.00354012396766926
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL35A,0.811704641666126,0.00436002867668429
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL37A,0.937798952557405,0.00558623594043029
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL30,0.795284570078525,0.00606472324780566
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,ALDOB,-1.30592412437694,0.0069638894134069
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPS18,0.804786902341486,0.0122339015132222
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPS28,0.892300872604221,0.0135351391513362
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CD59,-1.48398463185009,0.0148054543014557
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CD55,-1.42076922520569,0.0170761498412842
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,MYL6,-1.74423161507073,0.0193713515782823
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL18A,0.902330316310916,0.0210749708156491
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CA1,-1.55179601244109,0.0217120879846235
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,TM4SF5,-1.22752590284929,0.0227385663840794
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPS19,1.32170172528682,0.030007051586115
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,PI3,-1.06719067344346,0.0313053571266768
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CTSE,-1.93867683592612,0.0319498515768176
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,NMB,0.990820369667017,0.0380144188461147
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,ANXA1,-1.48627961881552,0.0461613812368581
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CEACAM5,-1.53351716424744,0.0463156519297903
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,CXCL16,-0.983709993093314,0.0468549160299298
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPL41,0.951794852239746,0.0473541807838367
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPS12,0.84190532819903,0.0484770205821981
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,RPS27A,0.838354974257362,0.0486846809591111
+Triana S. (Intestine),Intestine,Inmature Enterocyte 2 cells,TM4SF20,-1.38233252895194,0.0496851735524493
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,MX2,2.53189576852724,4.97708337991886e-07
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IFIT2,1.92246680575066,1.02885806653429e-06
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,BST2,5.1835439365678,2.20118580243138e-06
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IFIT3,3.71867925421138,4.31469499462362e-06
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IFI44,2.17628035235282,2.29777386367417e-05
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IFIT1,3.19240435779385,2.67871243321507e-05
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,MX1,3.00465665931071,2.87990933462324e-05
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,OAS2,2.9959245129653,7.17948945537655e-05
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,OAS3,2.69751011261878,0.000100318566819368
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,TXNIP,1.95296053762613,0.000105677636141526
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,DDX58,2.24987585227709,0.000108308783612757
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,MAP4K4,-1.45558415713339,0.000306850243699932
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,ASCL2,2.84188249638329,0.000588005267835131
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,CALD1,-2.88045603281004,0.000845074521692668
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,SAMHD1,2.91050204130029,0.000892284047656946
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,GPATCH4,-1.16578926110394,0.000906335902504879
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IFI44L,1.85192203484072,0.000977660392015526
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,SMOC2,2.86721954316648,0.00129659364285771
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,ASB4,2.77403616118765,0.00144297342721801
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,PTRF,-1.71607182989172,0.00174130832030441
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,TGFBI,1.85511502063412,0.00177240654263036
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,DKC1,-2.17369425976055,0.00224870086385572
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,CLSPN,-1.51760778315162,0.00246535198950172
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,SLC24A5,-1.05809534129668,0.00258983647149852
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,CXCL1,-1.13022032947152,0.00305159403375323
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,FOXD1,-3.56664810759079,0.00328883841704862
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,SEMA3A,3.49904970611373,0.00364433995832601
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,EBNA1BP2,-1.00285318244574,0.00365626117599369
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,TNNT1,2.88948575983075,0.00564342190020482
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,GDF15,1.86213962615528,0.00564351609608986
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,ANGPT2,1.91953567525861,0.00579255827611887
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IGFBP2,2.17971568193694,0.00598309924022851
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,THBS2,2.12687418178399,0.00632940596131568
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,PROX1,2.94572849442801,0.00649230055549032
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,SOX4,3.57860297625629,0.00673148234384923
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,CRNDE,3.05301503241861,0.00757955343582921
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,FAM111B,-1.99654773882112,0.00917731002621537
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IL1RAPL1,-2.55646490070232,0.00981633246213662
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,NPM1,-1.14220521419893,0.00985047905351738
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,MRTO4,-0.991512643223779,0.0106967061431586
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,HIST1H1D,2.07572895598891,0.0112976052300986
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,CADM1,-1.21992197749415,0.0123356241608475
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,RORA,3.43057887063981,0.0176425215780971
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,S100A4,2.21222317220268,0.0178445535304427
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,HOXC8,-2.21566758415428,0.0179334709368306
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IFI16,2.17140962109176,0.0201680075390165
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,CDKN1C,1.89792418809217,0.0209132660490197
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,RDX,-1.75112972871892,0.0229433223510485
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,ASB2,-1.29826595353109,0.0281248960641954
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,TCEAL4,1.95817132068041,0.0295060946788318
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,IGFL4,2.64181473572756,0.0299756568804557
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,KRT81,-1.92749846430496,0.032656566823096
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,FGF20,2.78636015397047,0.0360010209308441
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,TOMM40,-1.09368997343601,0.037336506587546
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,TUBA1A,2.74968502144954,0.0376077560588267
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,PTMS,2.84776184798657,0.0397392938330688
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,RP11-356I2.4,-1.3699794380601,0.0424654251506106
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,NCL,-1.03817992948889,0.0441152805420071
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,KIZ,1.94742553001177,0.0460094020289276
+Triana S. (Intestine),Intestine,Secretory transient amplifying cells,RBMS1,-2.84216706753495,0.0469754929715761
+Triana S. (Intestine),Intestine,Stem cells,PHGDH,-1.42574221958926,8.22226517932285e-45
+Triana S. (Intestine),Intestine,Stem cells,PSAT1,-1.4994389064813,1.51001739842463e-41
+Triana S. (Intestine),Intestine,Stem cells,MTHFD2,-1.37782171516411,7.61879151238133e-41
+Triana S. (Intestine),Intestine,Stem cells,GARS,-1.09500920512397,2.01596341003664e-40
+Triana S. (Intestine),Intestine,Stem cells,COPB1,-1.01404670158387,8.21501325254736e-39
+Triana S. (Intestine),Intestine,Stem cells,ASNS,-1.0786220150179,1.84577067304295e-37
+Triana S. (Intestine),Intestine,Stem cells,CHAC1,-0.752349472094792,3.29444540756575e-34
+Triana S. (Intestine),Intestine,Stem cells,EEF1A1,-0.703344767079146,1.20841103468031e-32
+Triana S. (Intestine),Intestine,Stem cells,C6orf48,-1.07366469356403,1.87458053374171e-31
+Triana S. (Intestine),Intestine,Stem cells,EPRS,-0.836741792682921,1.40423814842638e-29
+Triana S. (Intestine),Intestine,Stem cells,G0S2,-1.99171873995752,5.15228903284519e-28
+Triana S. (Intestine),Intestine,Stem cells,NUPR1,-2.03162227942075,1.0894219982002e-27
+Triana S. (Intestine),Intestine,Stem cells,ATF4,-0.812792525614498,3.32909206771467e-27
+Triana S. (Intestine),Intestine,Stem cells,EIF4EBP1,-1.1802467629614,3.66220568464546e-27
+Triana S. (Intestine),Intestine,Stem cells,S100P,-0.996760550431749,6.3625382444726e-24
+Triana S. (Intestine),Intestine,Stem cells,SLC7A11,-0.67085046954284,1.07303503709206e-22
+Triana S. (Intestine),Intestine,Stem cells,SHMT2,-0.792097075880668,4.71408201330376e-22
+Triana S. (Intestine),Intestine,Stem cells,SLC1A5,-0.59536522842241,4.98453343536735e-22
+Triana S. (Intestine),Intestine,Stem cells,PHGR1,0.651023322333287,2.62017059698829e-21
+Triana S. (Intestine),Intestine,Stem cells,SLC7A5,-0.66588045717552,4.01643131021084e-21
+Triana S. (Intestine),Intestine,Stem cells,RSL24D1,-0.734553032615067,6.41044471353296e-21
+Triana S. (Intestine),Intestine,Stem cells,IARS,-0.721880026820483,1.34974324304578e-20
+Triana S. (Intestine),Intestine,Stem cells,FDFT1,0.721296088851426,4.8316681420713e-20
+Triana S. (Intestine),Intestine,Stem cells,AJUBA,-0.647161228579321,7.16175224815897e-19
+Triana S. (Intestine),Intestine,Stem cells,FDPS,0.563925144020866,1.05497493895244e-18
+Triana S. (Intestine),Intestine,Stem cells,CSTB,0.541276640251861,1.65738280519464e-18
+Triana S. (Intestine),Intestine,Stem cells,ZFAS1,-0.763229176843609,2.09343147408947e-18
+Triana S. (Intestine),Intestine,Stem cells,FXYD3,0.61730755489341,4.75726081044258e-18
+Triana S. (Intestine),Intestine,Stem cells,STC2,-0.609182434253528,8.08296523447855e-18
+Triana S. (Intestine),Intestine,Stem cells,ZG16,1.13739620847538,1.6889560760521e-17
+Triana S. (Intestine),Intestine,Stem cells,SLC3A2,-0.541117743107406,5.32999583160758e-17
+Triana S. (Intestine),Intestine,Stem cells,ADH1C,-1.38030513437711,1.30732194532213e-15
+Triana S. (Intestine),Intestine,Stem cells,SET,-0.549783248293075,3.08832307056347e-15
+Triana S. (Intestine),Intestine,Stem cells,IFIT1,0.605621139176531,3.70359333142363e-15
+Triana S. (Intestine),Intestine,Stem cells,CKB,0.802727288194742,5.97478701246249e-15
+Triana S. (Intestine),Intestine,Stem cells,MX1,0.678407020063512,2.51669483616799e-14
+Triana S. (Intestine),Intestine,Stem cells,STARD10,-0.585913312399989,1.86457120505745e-13
+Triana S. (Intestine),Intestine,Stem cells,INSIG1,0.752574981063902,2.25661334906205e-13
+Triana S. (Intestine),Intestine,Stem cells,CEMIP,0.487854482946085,3.29196698122291e-13
+Triana S. (Intestine),Intestine,Stem cells,XBP1,-0.482210017592415,3.32930085147521e-13
+Triana S. (Intestine),Intestine,Stem cells,CEBPB,-0.489768025467937,3.74675039999401e-13
+Triana S. (Intestine),Intestine,Stem cells,SCD,0.562705129585105,5.78237721900443e-13
+Triana S. (Intestine),Intestine,Stem cells,HIST1H4C,0.650850774447302,7.07867659375607e-13
+Triana S. (Intestine),Intestine,Stem cells,LGALS1,0.746689413074924,8.10704596285528e-13
+Triana S. (Intestine),Intestine,Stem cells,MVD,0.561143947920157,2.50713317762026e-12
+Triana S. (Intestine),Intestine,Stem cells,FASN,0.494638367321951,5.24031128416917e-12
+Triana S. (Intestine),Intestine,Stem cells,FABP1,0.600863409081454,5.25898775809323e-12
+Triana S. (Intestine),Intestine,Stem cells,MSMO1,0.424972020072059,6.41288123179757e-12
+Triana S. (Intestine),Intestine,Stem cells,TFF3,0.637592534921438,1.08017216393839e-11
+Triana S. (Intestine),Intestine,Stem cells,LDHA,0.525994606200502,1.17448912159277e-11
+Triana S. (Intestine),Intestine,Stem cells,ACSS2,0.47973865517204,1.38712561259611e-11
+Triana S. (Intestine),Intestine,Stem cells,MX2,0.459985190787004,2.6418234625426e-11
+Triana S. (Intestine),Intestine,Stem cells,ALDOC,0.556259322252528,5.85594847361666e-11
+Triana S. (Intestine),Intestine,Stem cells,ANKRD37,0.494677099623622,6.81807295527716e-11
+Triana S. (Intestine),Intestine,Stem cells,GNB2L1,-0.500269504449604,1.12188469953407e-10
+Triana S. (Intestine),Intestine,Stem cells,SRSF3,-0.52836623077395,1.61128863012332e-10
+Triana S. (Intestine),Intestine,Stem cells,EEF1B2,-0.512932737635542,1.77270006599969e-10
+Triana S. (Intestine),Intestine,Stem cells,TMEM141,0.453884185606457,2.31028219515618e-10
+Triana S. (Intestine),Intestine,Stem cells,RPL10,-0.489712501896322,2.68774176058235e-10
+Triana S. (Intestine),Intestine,Stem cells,HMGCS1,0.663997509425126,3.28279470690488e-10
+Triana S. (Intestine),Intestine,Stem cells,RPS8,-0.789806567400608,3.42093482375118e-10
+Triana S. (Intestine),Intestine,Stem cells,XPOT,-0.488641421298283,7.05880193707523e-10
+Triana S. (Intestine),Intestine,Stem cells,ALDOA,0.466261283133176,1.17518816784537e-09
+Triana S. (Intestine),Intestine,Stem cells,PPP1R1B,-0.613509666584985,1.28340101342035e-09
+Triana S. (Intestine),Intestine,Stem cells,H1FX,-0.511905284847142,1.47910659656919e-09
+Triana S. (Intestine),Intestine,Stem cells,ASPM,-0.540519126176743,1.59559380516568e-09
+Triana S. (Intestine),Intestine,Stem cells,CENPF,-0.909681912730751,2.36291362227518e-09
+Triana S. (Intestine),Intestine,Stem cells,C4orf3,0.508623793021333,2.81590200701639e-09
+Triana S. (Intestine),Intestine,Stem cells,TPX2,-0.515106475519392,3.50552277810702e-09
+Triana S. (Intestine),Intestine,Stem cells,IFIT3,0.510192919332999,4.75790368936515e-09
+Triana S. (Intestine),Intestine,Stem cells,CA2,-0.501617892986683,5.41275862892196e-09
+Triana S. (Intestine),Intestine,Stem cells,MKI67,-0.641304832066489,9.912376947713e-09
+Triana S. (Intestine),Intestine,Stem cells,ISG15,0.454474301687364,1.56582272732066e-08
+Triana S. (Intestine),Intestine,Stem cells,ACAT2,0.533556359230451,3.25141157768666e-08
+Triana S. (Intestine),Intestine,Stem cells,CCND2,0.726490902651678,3.50320025920212e-08
+Triana S. (Intestine),Intestine,Stem cells,RPL10A,-0.463558067738122,4.08935556934859e-08
+Triana S. (Intestine),Intestine,Stem cells,RNF43,0.461273691231976,4.34992822805612e-08
+Triana S. (Intestine),Intestine,Stem cells,LRRC75A,-0.69211235896762,4.82018268812856e-08
+Triana S. (Intestine),Intestine,Stem cells,RNF186,0.441802576230903,5.38643083051976e-08
+Triana S. (Intestine),Intestine,Stem cells,NOXO1,0.434582755886425,6.3990687924802e-08
+Triana S. (Intestine),Intestine,Stem cells,MMP7,0.721506622235232,7.55516144999194e-08
+Triana S. (Intestine),Intestine,Stem cells,XAF1,0.435032708635344,8.69445825370961e-08
+Triana S. (Intestine),Intestine,Stem cells,HILPDA,0.613232281726923,1.15282532735106e-07
+Triana S. (Intestine),Intestine,Stem cells,BMP4,0.487044078815321,1.47978200830536e-07
+Triana S. (Intestine),Intestine,Stem cells,SLC12A2,0.617392521312892,2.54822946162839e-07
+Triana S. (Intestine),Intestine,Stem cells,PRSS1,-0.83703749190946,3.03821553271833e-07
+Triana S. (Intestine),Intestine,Stem cells,FADS1,0.467294025129973,3.22911290030935e-07
+Triana S. (Intestine),Intestine,Stem cells,RPS18,-0.529583337684609,3.40683596187786e-07
+Triana S. (Intestine),Intestine,Stem cells,RPS2,-0.642029399995628,4.03784233283171e-07
+Triana S. (Intestine),Intestine,Stem cells,EGLN3,0.464705077034184,7.56825523861295e-07
+Triana S. (Intestine),Intestine,Stem cells,EPSTI1,0.421132797034686,8.04544150845968e-07
+Triana S. (Intestine),Intestine,Stem cells,CENPE,-0.504335428577438,8.80909544859495e-07
+Triana S. (Intestine),Intestine,Stem cells,H1F0,-0.498912628079709,9.18638081098286e-07
+Triana S. (Intestine),Intestine,Stem cells,H2AFZ,-0.499482861347705,9.64357117098987e-07
+Triana S. (Intestine),Intestine,Stem cells,CA9,0.807528472566177,9.77709884046997e-07
+Triana S. (Intestine),Intestine,Stem cells,MT-ND4L,0.442551779870376,1.27864986632208e-06
+Triana S. (Intestine),Intestine,Stem cells,HSPE1,0.418221334616187,1.48485714342525e-06
+Triana S. (Intestine),Intestine,Stem cells,MT2A,0.464625161181284,1.53890590458159e-06
+Triana S. (Intestine),Intestine,Stem cells,AP000769.1,-0.533984909656409,3.27100928916654e-06
+Triana S. (Intestine),Intestine,Stem cells,PTMA,0.47205365964717,3.74693195120113e-06
+Triana S. (Intestine),Intestine,Stem cells,EPB41L4A-AS1,-0.464238313163918,5.4783458281325e-06
+Triana S. (Intestine),Intestine,Stem cells,CLDN2,0.415413416373063,2.33097545941658e-05
+Triana S. (Intestine),Intestine,Stem cells,OLFM4,0.494843420406723,6.70292815442767e-05
+Triana S. (Intestine),Intestine,Stem cells,SPINK4,0.422094973323763,0.000131801573233242
+Triana S. (Intestine),Intestine,Stem cells,NAP1L1,-0.523129714615814,0.000185868423684881
+Triana S. (Intestine),Intestine,Stem cells,FCGBP,0.420073356847993,0.000248061086092937
+Triana S. (Intestine),Intestine,Stem cells,ASCL2,0.448890987864506,0.00164442118212037
+Triana S. (Intestine),Intestine,Stem cells,IFI6,0.54956936837082,0.00178384712689183
+Triana S. (Intestine),Intestine,Stem cells,PRSS2,-0.530846840118454,0.00512923385286942
+Triana S. (Intestine),Intestine,Stem cells,HMGCS2,0.581697659681014,0.00992925865148048
+Triana S. (Intestine),Intestine,Transient amplifying cells,COPB1,-0.900714844613374,8.09797377275624e-41
+Triana S. (Intestine),Intestine,Transient amplifying cells,MX1,0.783256621758866,1.19575368635525e-26
+Triana S. (Intestine),Intestine,Transient amplifying cells,CCPG1,-0.886045601237495,5.14521172137283e-26
+Triana S. (Intestine),Intestine,Transient amplifying cells,MT-CYB,-0.348726693364905,3.16621983938134e-25
+Triana S. (Intestine),Intestine,Transient amplifying cells,G0S2,-1.67134866389145,3.84364567848244e-24
+Triana S. (Intestine),Intestine,Transient amplifying cells,NUPR1,-1.33948315716948,7.1501575651814e-23
+Triana S. (Intestine),Intestine,Transient amplifying cells,GARS,-0.642818522908067,1.13464905473592e-22
+Triana S. (Intestine),Intestine,Transient amplifying cells,LAMB3,-1.09967545199772,4.68260458878997e-20
+Triana S. (Intestine),Intestine,Transient amplifying cells,ASNS,-0.570845743589245,2.34559364334326e-19
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC7A5,-0.799690738113904,3.6742674798322e-19
+Triana S. (Intestine),Intestine,Transient amplifying cells,CHAC1,-0.450322212804626,4.73782233009533e-19
+Triana S. (Intestine),Intestine,Transient amplifying cells,IFIT1,0.506789908189271,1.48241267552175e-18
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC1A5,-0.704255383767467,1.15684403456494e-17
+Triana S. (Intestine),Intestine,Transient amplifying cells,PSAT1,-0.576181503352602,3.72783929121973e-17
+Triana S. (Intestine),Intestine,Transient amplifying cells,AJUBA,-0.57201469438942,9.21845201473005e-17
+Triana S. (Intestine),Intestine,Transient amplifying cells,ZG16,0.760289718392136,1.82390738809049e-16
+Triana S. (Intestine),Intestine,Transient amplifying cells,MT-ND4L,0.95030218276043,2.28516612051563e-16
+Triana S. (Intestine),Intestine,Transient amplifying cells,HIST1H4C,0.516396324946095,8.36246954465446e-16
+Triana S. (Intestine),Intestine,Transient amplifying cells,MX2,0.555670859606076,8.91490941509079e-16
+Triana S. (Intestine),Intestine,Transient amplifying cells,IFIT3,0.479482549715054,1.02037166903769e-15
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC7A11,-0.642409456558685,1.44691157102187e-15
+Triana S. (Intestine),Intestine,Transient amplifying cells,RPS12,0.385986282510874,4.16795130509534e-15
+Triana S. (Intestine),Intestine,Transient amplifying cells,XAF1,0.813396132788216,4.22919934712187e-15
+Triana S. (Intestine),Intestine,Transient amplifying cells,PHGDH,-0.408656709569663,5.34973841465308e-15
+Triana S. (Intestine),Intestine,Transient amplifying cells,FDFT1,0.3375368292409,1.01065015460417e-14
+Triana S. (Intestine),Intestine,Transient amplifying cells,S100P,-0.686588826020292,1.23348034423578e-14
+Triana S. (Intestine),Intestine,Transient amplifying cells,MTHFD2,-0.432320074105392,2.25270812337659e-14
+Triana S. (Intestine),Intestine,Transient amplifying cells,MTRNR2L12,0.704825378808688,5.30956620385102e-14
+Triana S. (Intestine),Intestine,Transient amplifying cells,STC2,-0.692729991955851,1.07586697292565e-13
+Triana S. (Intestine),Intestine,Transient amplifying cells,MVD,0.409082800051982,1.44117116649809e-13
+Triana S. (Intestine),Intestine,Transient amplifying cells,CKB,0.45393351181045,7.64882193505181e-13
+Triana S. (Intestine),Intestine,Transient amplifying cells,EPRS,-0.374776548668967,1.00716509842749e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,HERPUD1,-0.44064148088367,1.09774110260229e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,CEMIP,0.584385395830124,1.14732029257163e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC3A2,-0.69945812365559,1.82543889851233e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,ATP5G1,0.331338659030417,4.57357467314005e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,PTMA,0.328147253083269,5.82574571055018e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,ISG15,0.363504353987465,5.88898718364601e-12
+Triana S. (Intestine),Intestine,Transient amplifying cells,PDGFA,-0.339401754119307,1.15786140054675e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,CD63,-0.360559617607622,1.44371003595031e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC38A2,-0.569275121421939,1.63682753147653e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,CYP2B6,-0.439244721815815,2.08226865514989e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,CEBPB,-0.421731263389588,2.22667379709661e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,C4BPB,-0.420769218935534,4.13655855091779e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,ABCB1,-0.502590408655934,4.94034320773159e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,HMGCS1,0.436103323076174,5.14920255749131e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC11A2,0.870165633261698,5.216827663143e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,EPSTI1,0.354463105145954,7.70501594897997e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,ATP1B3,-0.335798713381019,7.82154332334949e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,FDPS,0.433479820520896,9.30820832406154e-11
+Triana S. (Intestine),Intestine,Transient amplifying cells,MT-ATP8,0.63146424814778,1.45926895746785e-10
+Triana S. (Intestine),Intestine,Transient amplifying cells,ACSS2,0.464932062548352,2.4694895243015e-10
+Triana S. (Intestine),Intestine,Transient amplifying cells,IDI1,0.342475566101015,4.75235795702259e-10
+Triana S. (Intestine),Intestine,Transient amplifying cells,H1F0,-0.446349948550562,5.12303878279039e-10
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC7A1,-0.479883955266378,5.46745637588136e-10
+Triana S. (Intestine),Intestine,Transient amplifying cells,IFITM3,0.374495961218776,6.79764995426446e-10
+Triana S. (Intestine),Intestine,Transient amplifying cells,MALAT1,-0.358762965726598,1.01097013578718e-09
+Triana S. (Intestine),Intestine,Transient amplifying cells,IFIT2,0.362514076766163,1.67186077809885e-09
+Triana S. (Intestine),Intestine,Transient amplifying cells,RIOK3,-0.403319617921561,1.92354775860464e-09
+Triana S. (Intestine),Intestine,Transient amplifying cells,HBEGF,-0.374191111902714,3.15543967516173e-09
+Triana S. (Intestine),Intestine,Transient amplifying cells,CA4,-0.544872428982746,4.01974335996007e-09
+Triana S. (Intestine),Intestine,Transient amplifying cells,AP000769.1,-0.725406575141947,4.5680833530547e-09
+Triana S. (Intestine),Intestine,Transient amplifying cells,SCD,0.555004353624039,1.81198522781471e-08
+Triana S. (Intestine),Intestine,Transient amplifying cells,EREG,-0.581617158634001,2.39304056668492e-08
+Triana S. (Intestine),Intestine,Transient amplifying cells,OGT,-0.498143377083816,3.37499670033307e-08
+Triana S. (Intestine),Intestine,Transient amplifying cells,DDIT3,-0.378869953579254,4.6129733879848e-08
+Triana S. (Intestine),Intestine,Transient amplifying cells,OLFM4,0.912506319767415,6.61593759265389e-08
+Triana S. (Intestine),Intestine,Transient amplifying cells,OAS3,0.363358163678176,7.89434196217769e-08
+Triana S. (Intestine),Intestine,Transient amplifying cells,RNF43,0.449281816318132,1.35315212403797e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,IRF9,0.380864522566036,1.70596462835973e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,MIR194-2HG,-0.395673840014066,1.90100581921577e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,ERN2,-0.428743310271369,2.28226366214446e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,MT-ND6,0.719942917145713,2.61064335500686e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,PDK1,0.440089149641924,2.94027940003267e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,INSIG1,0.400084324239131,4.43304670378079e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,ABCC3,-0.454332920862462,5.59210069638633e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,IGSF9,-0.398656863416327,5.96273712872324e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,TNFSF15,-0.365635446497302,8.44188954650528e-07
+Triana S. (Intestine),Intestine,Transient amplifying cells,CEACAM5,-0.370634706419746,2.3425693873316e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,MLEC,0.424119960104856,2.7094088633686e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,CLDN2,0.396280680724248,3.29767259959629e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,GLYCTK,-0.357039275531121,3.55326955445786e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,LA16c-60D12.2,0.72240372809497,4.00608615270533e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,GDF15,-0.529670323099935,4.14800206760254e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,SAA1,-0.36698172886974,4.92423614190957e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,PARP14,0.354983624681394,5.7334431285449e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,FAM13A,0.423059865664413,6.81003749650025e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,HMGCS2,0.324898870849281,6.82139349916348e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,MT2A,0.325490322134627,9.40834370260772e-06
+Triana S. (Intestine),Intestine,Transient amplifying cells,MTRNR2L8,0.413119623460316,2.43380718279334e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,PIGR,-0.392452883910053,2.87223191504818e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,ANO1,-0.357450295846665,3.35221937498261e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,PLCG2,0.509036758781032,3.49333799812102e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,PI3,-0.481129932795957,5.08871321791726e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,ZNF292,0.321168739376041,6.40256340309484e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,PRSS1,-0.384719360565144,8.33586653732611e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC6A8,0.508573609892335,8.99004928231978e-05
+Triana S. (Intestine),Intestine,Transient amplifying cells,FABP5,0.326547898834434,0.000105419957529498
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC12A2,0.827584031786915,0.000119795931722749
+Triana S. (Intestine),Intestine,Transient amplifying cells,TSEN2,0.395186251141535,0.000204595616889002
+Triana S. (Intestine),Intestine,Transient amplifying cells,STC1,-0.376771462889721,0.000220863881535723
+Triana S. (Intestine),Intestine,Transient amplifying cells,PTPRB,0.331728170686749,0.000276850892187364
+Triana S. (Intestine),Intestine,Transient amplifying cells,FCGBP,0.407603125638514,0.00333744132058511
+Triana S. (Intestine),Intestine,Transient amplifying cells,NEAT1,0.386450561649788,0.00420808998682828
+Triana S. (Intestine),Intestine,Transient amplifying cells,MUC1,-0.357247590374812,0.00738838149615385
+Triana S. (Intestine),Intestine,Transient amplifying cells,LEFTY1,0.360478366519647,0.00839804442208415
+Triana S. (Intestine),Intestine,Transient amplifying cells,CD44,0.334845381954183,0.0142366143157835
+Triana S. (Intestine),Intestine,Transient amplifying cells,SLC26A3,-0.396506220076223,0.014479088025323
+Triana S. (Intestine),Intestine,Transient amplifying cells,KCNQ1OT1,0.443575849550637,0.0372617433070113
