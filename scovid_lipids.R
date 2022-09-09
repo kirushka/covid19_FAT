@@ -95,42 +95,6 @@ go_lipid_revigo <- go_lipid %>%
 
 write_tsv(go_lipid_revigo, "SCovid/go_lipid_revigo.tsv")
 
-# ### Filter GO BP categories with REVIGO ----------------------------------------
-# ### Filter within datasets
-# go_by_dataset <- go_by_celltype_res_flt %>% 
-#   group_by(Dataset, Tissue, UpDown) %>%
-#   nest() %>%
-#   ungroup()
-# 
-# go_by_dataset_revigo <- go_by_dataset %>%
-#   # Create column with dataframes for REVIGO use
-#   mutate(data4revigo = map(data, function(df) dplyr::select(df, ID, qvalue))) %>%
-#   # Run REVIGO
-#   mutate(revigo = map(data4revigo, revigo, cutoff = "small"))
-# 
-# saveRDS(go_by_dataset_revigo, "SCovid/go_by_dataset_revigo.rds")
-# go_by_dataset_revigo <- readRDS("SCovid/go_by_dataset_revigo.rds")
-# 
-# go_by_dataset_revigo_joined <- go_by_dataset_revigo %>%
-#   # Join GO enrichment results and REVIGO results
-#   mutate(data = map2(data, revigo, left_join, by = c("ID" = "TermID"))) %>% 
-#   dplyr::select(-c(data4revigo, revigo)) %>% 
-#   mutate(data = map(data, dplyr::select, c(ID, Description, qvalue, geneID, Count, CellType, Eliminated))) %>% 
-#   mutate(data = map(data, dplyr::mutate, 
-#                     Eliminated = if_else(str_detect(Eliminated, "True"), TRUE, FALSE))) %>% 
-#   unnest(cols = c(data)) %>% 
-#   # Filter out GO categories eliminated by REVIGO
-#   dplyr::filter(Eliminated == FALSE)
-# 
-# 
-# go_by_dataset_revigo_joined_lipid <- go_by_dataset_revigo_joined %>%
-#   # Keep only GO BP terms related to lipids metabolism
-#   dplyr::filter(str_detect(Description, paste(lipid_terms, collapse = "|"))) %>%
-#   # Remove some GO BP terms
-#   dplyr::filter(!str_detect(Description, paste(nonlipid_terms, collapse = "|")))
-# 
-# write_tsv(go_by_dataset_revigo_joined_lipid, "SCovid/go_by_dataset_revigo_joined_lipid.tsv")
-# 
 
 ## GO BP - Half-circles plot ---------------------------------------------------
 tissues <- c("Lung", "Airway", "Liver", "Blood", "Lymph node", "Brain", "Heart", "Intestine", "Pancreas", "Kidney")
