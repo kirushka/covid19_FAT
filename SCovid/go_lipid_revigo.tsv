@@ -1,0 +1,237 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count	CellType	Tissue	Dataset	UpDown
+GO:0032368	regulation of lipid transport	3/28	135/18866	0.0010297822196360742	0.014476361587576352	0.009161726427733899	ABCA1/NFKBIA/IL1B	3	Myeloid cells	Blood	Bharat A. (PBMC)	Downregulated
+GO:0033559	unsaturated fatty acid metabolic process	2/28	118/18866	0.013186083040301924	0.07472113722837757	0.04728913501601546	IL1B/CYP2S1	2	Myeloid cells	Blood	Bharat A. (PBMC)	Downregulated
+GO:0045444	fat cell differentiation	2/12	235/18866	0.009391701977392882	0.0793833220238998	0.04442111152188485	ZFP36L2/NR4A2	2	CD4+ T cells	Blood	Bost P. (Blood)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	1/7	196/18866	0.07050653919712291	0.098854529183595	0.04055178054744997	CCL5	1	Megakaryocyte progenitor cells	Blood	Bost P. (Blood)	Downregulated
+GO:1901570	fatty acid derivative biosynthetic process	1/8	103/18866	0.04285871695030763	0.08916471862496846	0.04677493436063918	TECR	1	Natural killer cells	Blood	Bost P. (Blood)	Downregulated
+GO:0006497	protein lipidation	1/9	93/18866	0.043509757937588045	0.07921507498951007	0.03347694379904107	ZDHHC19	1	Neutrophils	Blood	Bost P. (Blood)	Upregulated
+GO:0045444	fat cell differentiation	2/9	235/18866	0.005250356037579675	0.05839328761439099	0.028851678090891366	PTGS2/RGS2	2	Neutrophils	Blood	Bost P. (Blood)	Downregulated
+GO:0019216	regulation of lipid metabolic process	2/9	431/18866	0.016855197274525613	0.06313276378875805	0.031193417124413227	G0S2/PTGS2	2	Neutrophils	Blood	Bost P. (Blood)	Downregulated
+GO:0070542	response to fatty acid	1/9	90/18866	0.04213292621483711	0.09254715172017668	0.04572684188107549	PTGS2	1	Neutrophils	Blood	Bost P. (Blood)	Downregulated
+GO:1901570	fatty acid derivative biosynthetic process	1/9	103/18866	0.04808650102890166	0.0940396877013522	0.04646429252698391	PTGS2	1	Neutrophils	Blood	Bost P. (Blood)	Downregulated
+GO:0033559	unsaturated fatty acid metabolic process	1/9	118/18866	0.05491511990044029	0.09881619032932334	0.04882432604886009	PTGS2	1	Neutrophils	Blood	Bost P. (Blood)	Downregulated
+GO:0044241	lipid digestion	2/35	21/18866	6.867677257942095e-4	0.013277509365354715	0.011012380725893113	CLPS/CEL	2	Acinar cells	Pancreas	Chen S. (Pancreatic islets)	Downregulated
+GO:0016042	lipid catabolic process	4/35	343/18866	0.003603393967113729	0.05499917107699902	0.04561637238146742	CLPS/CEL/PLA2G1B/AADAC	4	Acinar cells	Pancreas	Chen S. (Pancreatic islets)	Downregulated
+GO:0045444	fat cell differentiation	4/19	235/18866	7.851608664743329e-5	0.006538081810319836	0.00418915996999898	MAFB/INS/TRIB3/DDIT3	4	Beta cells	Pancreas	Chen S. (Pancreatic islets)	Downregulated
+GO:0045599	negative regulation of fat cell differentiation	2/19	53/18866	0.0012842205974685054	0.020944470471440896	0.013419798013737876	TRIB3/DDIT3	2	Beta cells	Pancreas	Chen S. (Pancreatic islets)	Downregulated
+GO:0010876	lipid localization	5/20	440/18866	7.828524902232037e-5	0.010693499212909787	0.0075849004037994334	SPP1/SERPINA5/C3/CFTR/CRP	5	Duct cells	Pancreas	Chen S. (Pancreatic islets)	Upregulated
+GO:0044241	lipid digestion	2/22	21/18866	2.6896315611382694e-4	0.008051542221730044	0.004730829027740658	CLPS/AKR1C1	2	Mesenchyme cells	Pancreas	Chen S. (Pancreatic islets)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	2/22	196/18866	0.021641292475582347	0.08365522600308213	0.0491531386905587	CSF3/IER3	2	Mesenchyme cells	Pancreas	Chen S. (Pancreatic islets)	Downregulated
+GO:0032368	regulation of lipid transport	4/41	135/18866	2.0679728032341925e-4	0.004371598321255537	0.002619769707891542	EDN1/CAV1/ABCA7/ANXA2	4	Alveolar pneumocytes	Airway	Delorey TM. (Airway)	Upregulated
+GO:0010876	lipid localization	4/41	440/18866	0.014965611812071579	0.06853270094293736	0.04106962276413651	EDN1/CAV1/ABCA7/ANXA2	4	Alveolar pneumocytes	Airway	Delorey TM. (Airway)	Upregulated
+GO:0010878	cholesterol storage	2/29	20/18866	4.261036380083503e-4	0.05010365684618559	0.037827430892508805	PPARG/MSR1	2	Dendritic	Airway	Delorey TM. (Airway)	Upregulated
+GO:0010876	lipid localization	5/29	440/18866	5.044459467426852e-4	0.05010365684618559	0.037827430892508805	ABHD5/PLIN2/INHBA/PPARG/MSR1	5	Dendritic	Airway	Delorey TM. (Airway)	Upregulated
+GO:0140353	lipid export from cell	2/28	40/18866	0.0016000367502650762	0.0357448210009218	0.02250156945635939	TNFRSF11A/SPP1	2	Dendritic	Airway	Delorey TM. (Airway)	Downregulated
+GO:0010876	lipid localization	4/28	440/18866	0.003834375388375302	0.05153037411651553	0.03243866551367137	DYSF/ATP8B4/TNFRSF11A/SPP1	4	Dendritic	Airway	Delorey TM. (Airway)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	4/30	196/18866	2.5056564416716526e-4	0.019582668805679992	0.014039791559812014	NPR3/SELP/PREX2/PLCB4	4	Endothelial cells	Airway	Delorey TM. (Airway)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	2/22	196/18866	0.021641292475582347	0.07536102232247954	0.044538276963241134	CD28/IGF1R	2	Macrophages	Heart	Delorey TM. (Heart)	Downregulated
+GO:0044241	lipid digestion	1/13	21/18866	0.014378768621456595	0.05275155604681622	0.02757826464690093	AKR1C1	1	Glomerular endothelial cells	Kidney	Delorey TM. (Kidney)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	2/15	196/18866	0.01031562128410066	0.07425098236784955	0.044791513470437076	TYRO3/F2R	2	Glomerular endothelial cells	Kidney	Delorey TM. (Kidney)	Upregulated
+GO:0043550	regulation of lipid kinase activity	2/24	67/18866	0.003260434669433509	0.034522249441060686	0.021870820795993614	CD81/KLF4	2	Macrophages	Kidney	Delorey TM. (Kidney)	Upregulated
+GO:0032368	regulation of lipid transport	2/18	135/18866	0.00721425570775909	0.07159185053501388	0.03912914907784159	SPP1/CAV1	2	Cholangiocytes	Liver	Delorey TM. (Liver)	Downregulated
+GO:0034368	protein-lipid complex remodeling	5/21	31/18866	1.705254385595705e-10	3.255615465571805e-8	1.5136464747858988e-8	ALB/APOA1/APOC1/APOC3/APOE	5	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0033700	phospholipid efflux	4/21	12/18866	5.582044234695132e-10	7.498546088607127e-8	3.4863293816692396e-8	APOA1/APOC1/APOC3/APOE	4	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0071825	protein-lipid complex subunit organization	5/21	55/18866	3.4325302225846624e-9	3.4582741992540475e-7	1.6078694200528157e-7	ALB/APOA1/APOC1/APOC3/APOE	5	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0006641	triglyceride metabolic process	4/21	110/18866	6.065700334855608e-6	1.1640367785461e-4	5.41200330628721e-5	APOA1/APOC1/APOC3/APOE	4	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0070328	triglyceride homeostasis	3/21	39/18866	1.0586166876767762e-5	1.81541500056911e-4	8.44048243701976e-5	APOA1/APOC3/APOE	3	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0032368	regulation of lipid transport	4/21	135/18866	1.3654458242609208e-5	2.2010986687086043e-4	1.0233657124987111e-4	APOA1/APOC1/APOC3/APOE	4	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0006638	neutral lipid metabolic process	4/21	138/18866	1.4891595250486932e-5	2.2646463720551825e-4	1.052911203410794e-4	APOA1/APOC1/APOC3/APOE	4	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0010876	lipid localization	5/21	440/18866	1.007903228710507e-4	9.557294145184337e-4	4.4435114479373435e-4	APOA1/APOC1/APOC3/APOE/CRP	5	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0016042	lipid catabolic process	4/21	343/18866	5.030449378788986e-4	0.0030077384316683446	0.0013984000021861442	APOA1/APOC1/APOC3/APOE	4	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0019216	regulation of lipid metabolic process	4/21	431/18866	0.0011808673163757042	0.005524828316020685	0.0025686807894780774	APOA1/APOC1/APOC3/APOE	4	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0006695	cholesterol biosynthetic process	2/21	75/18866	0.003118277854930471	0.011476401603077441	0.005335769845495062	APOA1/APOE	2	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0061365	positive regulation of triglyceride lipase activity	1/21	12/18866	0.013279737885038667	0.03768827019486326	0.017522559996566957	APOA1	1	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0044241	lipid digestion	1/21	21/18866	0.02312914086264406	0.05453208192132353	0.02535382155412195	APOA1	1	Hepatocytes	Liver	Delorey TM. (Liver)	Upregulated
+GO:0006641	triglyceride metabolic process	5/40	110/18866	3.438912792451807e-6	5.066651473558036e-4	3.2218977985276615e-4	GPAM/CYP2E1/C3/PCK1/APOB	5	Kupffer cells	Liver	Delorey TM. (Liver)	Downregulated
+GO:0006638	neutral lipid metabolic process	5/40	138/18866	1.042909450880479e-5	6.135783936013485e-4	3.9017621122853016e-4	GPAM/CYP2E1/C3/PCK1/APOB	5	Kupffer cells	Liver	Delorey TM. (Liver)	Downregulated
+GO:0090181	regulation of cholesterol metabolic process	2/40	65/18866	0.00837974824502188	0.04676760680620907	0.02973965156232022	GPAM/APOB	2	Kupffer cells	Liver	Delorey TM. (Liver)	Downregulated
+GO:0006695	cholesterol biosynthetic process	2/40	75/18866	0.011031788637644042	0.057058188851111316	0.036283461376172624	GPAM/APOB	2	Kupffer cells	Liver	Delorey TM. (Liver)	Downregulated
+GO:0019216	regulation of lipid metabolic process	4/40	431/18866	0.012830999384074993	0.06334745150459402	0.040282821032815504	GPAM/C3/PCK1/APOB	4	Kupffer cells	Liver	Delorey TM. (Liver)	Downregulated
+GO:0010876	lipid localization	4/40	440/18866	0.013752535152976777	0.06516301891276244	0.04143734540971102	AQP9/C3/APOB/CRP	4	Kupffer cells	Liver	Delorey TM. (Liver)	Downregulated
+GO:0043550	regulation of lipid kinase activity	3/40	67/18866	3.8500989780045005e-4	0.010774067301351303	0.00699423753219833	PTK2/VAV3/LYN	3	B cells	Lymph node	Delorey TM. (LN)	Upregulated
+GO:0019216	regulation of lipid metabolic process	5/40	431/18866	0.002070750669163209	0.02644676470928008	0.017168535257958254	CD74/PTK2/VAV3/LYN/ZBTB20	5	B cells	Lymph node	Delorey TM. (LN)	Upregulated
+GO:0048017	inositol lipid-mediated signaling	3/40	196/18866	0.0082258152940457591	0.05849094071790734	0.0379707608482699	PTK2/LYN/PIK3AP1	3	B cells	Lymph node	Delorey TM. (LN)	Upregulated
+GO:0043550	regulation of lipid kinase activity	2/31	67/18866	0.005405945705222069	0.055578483118150855	0.03818728066672745	PTK2/LYN	2	Cytotoxic T cells	Lymph node	Delorey TM. (LN)	Downregulated
+GO:0010876	lipid localization	5/40	440/18866	0.0022655435296434203	0.06242381546856781	0.043522283595781495	SLCO3A1/LIMA1/APOE/ABCA10/CLU	5	Fibroblasts	Lymph node	Delorey TM. (LN)	Upregulated
+GO:0043550	regulation of lipid kinase activity	2/16	67/18866	0.0014437865745210515	0.06569591130268823	0.03932905640470236	CCL21/PIK3R3	2	Endothelial.Lymphatic cells	Lung	Delorey TM. (Lung)	Downregulated
+GO:0019216	regulation of lipid metabolic process	3/16	431/18866	0.00531346973520684	0.08119480083573093	0.048607513595847904	CCL21/PIK3R3/PROX1	3	Endothelial.Lymphatic cells	Lung	Delorey TM. (Lung)	Downregulated
+GO:0019216	regulation of lipid metabolic process	5/22	431/18866	1.1612300762235059e-4	0.00521870457785152	0.0031781033665064374	FGF2/RARRES2/DKK3/PDGFRA/FGFR4	5	Fibroblasts	Lung	Delorey TM. (Lung)	Downregulated
+GO:0043550	regulation of lipid kinase activity	2/22	67/18866	0.002741357816497005	0.03378060277102761	0.020571819268109956	FGF2/PDGFRA	2	Fibroblasts	Lung	Delorey TM. (Lung)	Downregulated
+GO:0010876	lipid localization	6/34	440/18866	1.2018141418021522e-4	0.014856882893080282	0.009959164515825049	APOA1/NPC2/C3/PLA2G1B/DBI/NFKBIA	6	Secretory cells	Airway	Delorey TM. (Trachea)	Upregulated
+GO:0032368	regulation of lipid transport	3/34	135/18866	0.0018230578255898405	0.03412074443840445	0.02287250358705888	APOA1/DBI/NFKBIA	3	Secretory cells	Airway	Delorey TM. (Trachea)	Upregulated
+GO:1901568	fatty acid derivative metabolic process	3/34	175/18866	0.003800642647780751	0.0511397515943783	0.03428102671954524	CYP1B1/TBXAS1/PLA2G1B	3	Secretory cells	Airway	Delorey TM. (Trachea)	Upregulated
+GO:0045599	negative regulation of fat cell differentiation	2/34	53/18866	0.004101165297589845	0.05308517698282182	0.035585123388826786	ID4/GATA3	2	Secretory cells	Airway	Delorey TM. (Trachea)	Upregulated
+GO:0019216	regulation of lipid metabolic process	4/34	431/18866	0.007245481907925412	0.07033410357315058	0.047147770740276505	LPCAT1/APOA1/NPC2/C3	4	Secretory cells	Airway	Delorey TM. (Trachea)	Upregulated
+GO:0006775	fat-soluble vitamin metabolic process	2/18	45/18866	8.307384582698841e-4	0.035721753705605014	0.024955786884058865	LGMN/PLTP	2	Monocytes	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0140353	lipid export from cell	1/7	40/18866	0.014749775768116646	0.05539876410544599	0.023717003721629753	TNFSF11	1	Myeloid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:1901571	fatty acid derivative transport	1/7	50/18866	0.018407943630787127	0.06055578697852041	0.02592479901540982	TNFSF11	1	Myeloid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0032368	regulation of lipid transport	1/7	135/18866	0.049035179081203695	0.083534930077622	0.03576249902914856	TNFSF11	1	Myeloid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0140353	lipid export from cell	1/14	40/18866	0.029287356205713544	0.08654873425814003	0.04686529975802167	SPP1	1	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Downregulated
+GO:0033700	phospholipid efflux	2/14	12/18866	3.360753131033434e-5	0.002514454388036833	0.0012864126817352856	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0034368	protein-lipid complex remodeling	2/14	31/18866	2.348801813672927e-4	0.005224497007169781	0.002672889688390244	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0071825	protein-lipid complex subunit organization	2/14	55/18866	7.425078619814655e-4	0.010303150939791249	0.005271165026432819	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0006641	triglyceride metabolic process	2/14	110/18866	0.0029284845131915547	0.024344876306632825	0.012455011220378755	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0032368	regulation of lipid transport	2/14	135/18866	0.004371843180020273	0.030783220372068272	0.015748913664804385	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0006638	neutral lipid metabolic process	2/14	138/18866	0.004563247734377071	0.030783220372068272	0.015748913664804385	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0016042	lipid catabolic process	2/14	343/18866	0.025963438414973308	0.07388769057096806	0.037801466046412	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0070328	triglyceride homeostasis	1/14	39/18866	0.0285649846002749	0.07583542685814917	0.03879794173212211	APOE	1	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0019216	regulation of lipid metabolic process	2/14	431/18866	0.03952511270209994	0.08560307303639014	0.04379513872808858	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0010876	lipid localization	2/14	440/18866	0.04103911145003927	0.08704945547263485	0.044535118231187484	APOE/APOC1	2	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	1/14	65/18866	0.04718535301749538	0.09357480851421372	0.04787353508433267	APOE	1	Naive B cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0043550	regulation of lipid kinase activity	1/9	67/18866	0.03151855281229299	0.0636725603183822	0.026488427236137577	CD81	1	Natural killer cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0048017	inositol lipid-mediated signaling	1/9	196/18866	0.08972694367334477	0.11892380629721093	0.04947350277728284	CCL5	1	Natural killer cells	Brain	Heming M. (Cerebrospinal fluid)	Upregulated
+GO:0010878	cholesterol storage	1/6	20/18866	0.006344653732546668	0.033911080294645984	0.01162994604332511	CD36	1	Plasmacytoid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Downregulated
+GO:0044241	lipid digestion	1/6	21/18866	0.0066610037313585835	0.034415185945352686	0.011802831173109068	CD36	1	Plasmacytoid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Downregulated
+GO:0019216	regulation of lipid metabolic process	2/6	431/18866	0.007349144748664568	0.03507568364899355	0.012029351607974019	NPC2/CD36	2	Plasmacytoid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Downregulated
+GO:0010876	lipid localization	2/6	440/18866	0.007649806321154807	0.03507568364899355	0.012029351607974019	NPC2/CD36	2	Plasmacytoid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Downregulated
+GO:0070542	response to fatty acid	1/6	90/18866	0.028287423967397807	0.05965375122376409	0.020458502117487853	CD36	1	Plasmacytoid dendritic cells	Brain	Heming M. (Cerebrospinal fluid)	Downregulated
+GO:0042362	fat-soluble vitamin biosynthetic process	1/12	15/18866	0.009502119760784078	0.07552546913312862	0.044665136443613	NFKB1	1	Memory B cells	Blood	Hoehn KB. (B cells)	Upregulated
+GO:0045444	fat cell differentiation	2/9	235/18866	0.005250356037579675	0.07924930464598469	0.04233738079623243	CEBPD/TGFB1	2	Natural killer T cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0045599	negative regulation of fat cell differentiation	1/9	53/18866	0.025006561132023597	0.07924930464598469	0.04233738079623243	TGFB1	1	Natural killer T cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0043550	regulation of lipid kinase activity	1/9	67/18866	0.03151855281229299	0.08061476007759552	0.043066848478335563	TGFB1	1	Natural killer T cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	2/14	196/18866	0.009001303745026341	0.05619991659715553	0.026251658396368345	TNF/CCL5	2	Natural killer T cells	Blood	Hoehn KB. (B cells)	Upregulated
+GO:0042362	fat-soluble vitamin biosynthetic process	1/14	15/18866	0.011077589339583804	0.05619991659715553	0.026251658396368345	TNF	1	Natural killer T cells	Blood	Hoehn KB. (B cells)	Upregulated
+GO:0006775	fat-soluble vitamin metabolic process	1/14	45/18866	0.032891738253316816	0.07889132269174257	0.03685108767307512	TNF	1	Natural killer T cells	Blood	Hoehn KB. (B cells)	Upregulated
+GO:0045599	negative regulation of fat cell differentiation	1/14	53/18866	0.038632909793137604	0.08374785143076138	0.039119630780758675	TNF	1	Natural killer T cells	Blood	Hoehn KB. (B cells)	Upregulated
+GO:0045599	negative regulation of fat cell differentiation	3/12	53/18866	4.524038163114658e-6	0.004790956414738422	0.0023620241356893373	TGFB1/RORA/GATA3	3	T.B cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0045444	fat cell differentiation	3/12	235/18866	3.863262853045237e-4	0.013637317871249685	0.006723432895124342	TGFB1/RORA/GATA3	3	T.B cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0070328	triglyceride homeostasis	1/12	39/18866	0.024533494849770743	0.07084946616797838	0.034930008666882645	RORA	1	T.B cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0019216	regulation of lipid metabolic process	2/12	431/18866	0.029537699090053778	0.07592335761254114	0.03743152465167776	TGFB1/RORA	2	T.B cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0043550	regulation of lipid kinase activity	1/12	67/18866	0.04180567090454079	0.08497544239521822	0.041894358558747825	TGFB1	1	T.B cells	Blood	Hoehn KB. (B cells)	Downregulated
+GO:0033700	phospholipid efflux	2/29	12/18866	1.4914847055715595e-4	0.004748694852900417	0.003322288512240893	APOC1/APOE	2	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0010876	lipid localization	5/29	440/18866	5.044459467426852e-4	0.011064181098556228	0.007740737802647989	APOC1/APOE/FABP4/RBP4/RETN	5	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0006641	triglyceride metabolic process	3/29	110/18866	6.310265132988446e-4	0.013251556779275737	0.00927107262539848	APOC1/APOE/FABP4	3	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0034368	protein-lipid complex remodeling	2/29	31/18866	0.0010319588779665535	0.018800159894615684	0.013152994071207692	APOC1/APOE	2	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0032368	regulation of lipid transport	3/29	135/18866	0.0011426224536394173	0.019785409855124645	0.013842296021929044	APOC1/APOE/RETN	3	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0006638	neutral lipid metabolic process	3/29	138/18866	0.0012173308245624164	0.020364500404120425	0.014247440159017756	APOC1/APOE/FABP4	3	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0071825	protein-lipid complex subunit organization	2/29	55/18866	0.003221201761842269	0.04675479616085764	0.03271065566205152	APOC1/APOE	2	Macrophage	Lung	Liao M. (BALF)	Downregulated
+GO:0019216	regulation of lipid metabolic process	4/24	431/18866	0.001986185918498907	0.030581421421593463	0.019062465471661336	CCR7/CD74/SCT/NR4A3	4	Myeloid dendritic cells	Lung	Liao M. (BALF)	Upregulated
+GO:0042362	fat-soluble vitamin biosynthetic process	1/19	15/18866	0.015006036765253472	0.05837149984017099	0.030895804886494516	IFNG	1	Natural killer & T cells	Lung	Liao M. (BALF)	Upregulated
+GO:0034368	protein-lipid complex remodeling	4/24	31/18866	6.192635512160173e-8	1.8031796870751853e-5	1.1295459959284186e-5	APOE/APOC1/PLTP/APOC2	4	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0016042	lipid catabolic process	7/24	343/18866	1.6384104638051393e-7	3.0504535671010412e-5	1.9108620384213955e-5	APOE/APOC1/LIPA/FUCA1/APOC2/FABP3/FABP4	7	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0006641	triglyceride metabolic process	5/24	110/18866	2.3925126016478755e-7	3.0504535671010412e-5	1.9108620384213955e-5	APOE/APOC1/APOC2/FABP3/FABP4	5	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0033700	phospholipid efflux	3/24	12/18866	3.9495646351898473e-7	4.47617325321516e-5	2.8039599222926755e-5	APOE/APOC1/APOC2	3	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0071825	protein-lipid complex subunit organization	4/24	55/18866	6.576941602791301e-7	5.391788710791669e-5	3.377518831218311e-5	APOE/APOC1/PLTP/APOC2	4	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0032368	regulation of lipid transport	5/24	135/18866	6.636150898117223e-7	5.391788710791669e-5	3.377518831218311e-5	APOE/APOC1/PLTP/APOC2/FABP3	5	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0006638	neutral lipid metabolic process	5/24	138/18866	7.400494308929742e-7	5.391788710791669e-5	3.377518831218311e-5	APOE/APOC1/APOC2/FABP3/FABP4	5	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0010876	lipid localization	6/24	440/18866	1.4652980484135593e-5	4.4458520350156824e-4	2.7849661354535806e-4	APOE/APOC1/PLTP/APOC2/FABP3/FABP4	6	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0019216	regulation of lipid metabolic process	5/24	431/18866	1.8050073320885883e-4	0.0030670176119157485	0.0019212380706221457	APOE/APOC1/APOC2/SCD/FABP3	5	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0070328	triglyceride homeostasis	2/24	39/18866	0.0011166969351095453	0.011166969351095454	0.006995201647177441	APOE/APOC2	2	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0090181	regulation of cholesterol metabolic process	2/24	65/18866	0.0030720138687074065	0.02270618946435909	0.014223588240315761	APOE/SCD	2	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0006695	cholesterol biosynthetic process	2/24	75/18866	0.004066850834997477	0.029212590504911453	0.018299321399877454	APOE/SCD	2	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0070542	response to fatty acid	2/24	90/18866	0.0058016922946656545	0.03893240881946689	0.024388000158324465	SCD/FABP3	2	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0061365	positive regulation of triglyceride lipase activity	1/24	12/18866	0.015163590234558488	0.07160584277430397	0.044855259611973695	APOC2	1	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0050872	white fat cell differentiation	1/24	14/18866	0.017669335035985556	0.07296648476398894	0.04570759159106428	FABP4	1	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0042362	fat-soluble vitamin biosynthetic process	1/24	15/18866	0.01891991513142066	0.07451300405157836	0.04667636063912081	PLTP	1	T cells	Lung	Liao M. (BALF)	Downregulated
+GO:0006695	cholesterol biosynthetic process	5/36	75/18866	2.9695736077417693e-7	2.8136709933353264e-5	1.988832850448106e-5	SCD/FDFT1/HMGCS1/MSMO1/FASN	5	Alveolar type II cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	4/36	65/18866	6.957136596039986e-6	2.9297275221101723e-4	2.0708669750785688e-4	SCD/FDFT1/HMGCS1/FASN	4	Alveolar type II cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0043550	regulation of lipid kinase activity	2/14	67/18866	0.0010999032535141287	0.05557746439815509	0.03071556454085895	CCL21/FLT1	2	Endothelial cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0019216	regulation of lipid metabolic process	3/14	431/18866	0.003572756785727034	0.06627161120042718	0.03662581539292037	CCL21/PROX1/FLT1	3	Endothelial cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0048017	inositol lipid-mediated signaling	2/14	196/18866	0.009001303745026341	0.07281743737787318	0.04024344618273488	RELN/FLT1	2	Endothelial cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0050872	white fat cell differentiation	1/9	14/18866	0.00666029922778022	0.06944340488103715	0.036713796321648375	PPARG	1	Macrophages	Lung	Melms JC. (Lung)	Downregulated
+GO:0010878	cholesterol storage	1/9	20/18866	0.009502621644529752	0.06944340488103715	0.036713796321648375	PPARG	1	Macrophages	Lung	Melms JC. (Lung)	Downregulated
+GO:0010876	lipid localization	2/9	440/18866	0.017528103766781752	0.06944340488103715	0.036713796321648375	INHBA/PPARG	2	Macrophages	Lung	Melms JC. (Lung)	Downregulated
+GO:0140353	lipid export from cell	1/9	40/18866	0.018924891870733096	0.06944340488103715	0.036713796321648375	INHBA	1	Macrophages	Lung	Melms JC. (Lung)	Downregulated
+GO:0016042	lipid catabolic process	3/11	343/18866	8.819536629291752e-4	0.018336431968806573	0.007966729537842488	PSAP/APOE/SPP1	3	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0010876	lipid localization	3/11	440/18866	0.001808226247278078	0.0261640380210371	0.01136763220271128	PSAP/APOE/SPP1	3	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0032368	regulation of lipid transport	2/11	135/18866	0.002679724843702108	0.02994592512837106	0.013010769306922076	APOE/SPP1	2	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0033700	phospholipid efflux	1/11	12/18866	0.006976347492235968	0.03915651071847744	0.017012542629363213	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0034368	protein-lipid complex remodeling	1/11	31/18866	0.017931787205419547	0.05519820986215897	0.023982267089528622	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0070328	triglyceride homeostasis	1/11	39/18866	0.022511641443050068	0.05850409142467082	0.025418591470273793	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0140353	lipid export from cell	1/11	40/18866	0.02308275590335318	0.05895995365027926	0.025616652416052103	SPP1	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0019216	regulation of lipid metabolic process	2/11	431/18866	0.024987072542482076	0.061120157151479726	0.026555207805128954	PSAP/APOE	2	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0071825	protein-lipid complex subunit organization	1/11	55/18866	0.03161315014653232	0.06634308974413121	0.028824443795578025	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	1/11	65/18866	0.03726240004114245	0.07321447392699197	0.03180989153309789	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0006695	cholesterol biosynthetic process	1/11	75/18866	0.04288167415476429	0.07855782109499852	0.03413144470040558	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0006497	protein lipidation	1/11	93/18866	0.05292128538155716	0.08777667742321354	0.038136811455511364	GLUL	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0006641	triglyceride metabolic process	1/11	110/18866	0.06231513662385668	0.09284955356954645	0.04034085160386512	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0006638	neutral lipid metabolic process	1/11	138/18866	0.07760286884349221	0.10908327790264472	0.04739400629468492	APOE	1	Macrophages	Lung	Melms JC. (Lung)	Upregulated
+GO:0043550	regulation of lipid kinase activity	1/6	67/18866	0.021122658626335	0.059030287053954064	0.023624026095243094	KIT	1	Mast cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0048017	inositol lipid-mediated signaling	1/6	196/18866	0.060745463419295875	0.08802467615851671	0.03522763229481583	KIT	1	Mast cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0016042	lipid catabolic process	1/6	343/18866	0.10425872952769988	0.12086289756359282	0.04836954703234419	GALC	1	Mast cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0048017	inositol lipid-mediated signaling	2/9	196/18866	0.003684629271875268	0.03766509922361385	0.017597157341314635	FYN/CCL5	2	T cells	Lung	Melms JC. (Lung)	Upregulated
+GO:0048017	inositol lipid-mediated signaling	3/36	196/18866	0.00612738660922429	0.05996534050643449	0.040373110320463416	CSF3/FGFR1/SOX9	3	Basal cells	Airway	Misharin A. (Bronchia)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	4/54	196/18866	0.002381744443486683	0.027593380747711574	0.019537030800872792	IER3/CSF3/SOX9/ADAP2	4	Deuterosomal cells	Airway	Misharin A. (Bronchia)	Downregulated
+GO:0006775	fat-soluble vitamin metabolic process	2/54	45/18866	0.007357946172859617	0.05682966556273688	0.040237292293173264	CYP27A1/LGMN	2	Deuterosomal cells	Airway	Misharin A. (Bronchia)	Downregulated
+GO:0070542	response to fatty acid	3/23	90/18866	1.7350817744913333e-4	0.022394743856263725	0.014061018347730669	SOX9/PTGS2/ACSL1	3	Ionocytes	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0033700	phospholipid efflux	2/23	12/18866	9.313957510190084e-5	0.0031977920784985957	0.0017572081780358622	APOC1/APOE	2	Macrophages	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0034368	protein-lipid complex remodeling	2/23	31/18866	6.470282650979469e-4	0.009734503898496076	0.005349175130732879	APOC1/APOE	2	Macrophages	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0071825	protein-lipid complex subunit organization	2/23	55/18866	0.0020299025168232644	0.018122207385320763	0.009958274409291468	APOC1/APOE	2	Macrophages	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0006641	triglyceride metabolic process	2/23	110/18866	0.007868303148283875	0.0435357765105459	0.023923200959766987	APOC1/APOE	2	Macrophages	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0032368	regulation of lipid transport	2/23	135/18866	0.011654473108864407	0.058536848887222444	0.03216639076464644	APOC1/APOE	2	Macrophages	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0006638	neutral lipid metabolic process	2/23	138/18866	0.012153281546413623	0.058536848887222444	0.03216639076464644	APOC1/APOE	2	Macrophages	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0006695	cholesterol biosynthetic process	3/38	75/18866	4.6059243772013137e-4	0.022786619710402065	0.016565325704680115	ACAT2/MSMO1/FDPS	3	Secretory cells	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0033559	unsaturated fatty acid metabolic process	3/38	118/18866	0.0017153319462455917	0.04680876984081721	0.03402885237491255	GSTP1/AKR1C2/ANXA1	3	Secretory cells	Airway	Misharin A. (Bronchia)	Upregulated
+GO:0043550	regulation of lipid kinase activity	2/11	67/18866	6.6936757548795e-4	0.010916351891560235	0.005085850062374223	LYN/FGF2	2	B cells	Blood	Scott MK. (PBMC)	Downregulated
+GO:0048017	inositol lipid-mediated signaling	2/11	196/18866	0.005552845284084557	0.04499904104070117	0.020964730521427007	CSF1R/LYN	2	B cells	Blood	Scott MK. (PBMC)	Downregulated
+GO:0019216	regulation of lipid metabolic process	2/11	431/18866	0.024987072542482076	0.07384572331751399	0.03440419292738369	LYN/FGF2	2	B cells	Blood	Scott MK. (PBMC)	Downregulated
+GO:0043550	regulation of lipid kinase activity	3/28	67/18866	1.3160875546908927e-4	0.0037010950013624372	0.002449713676895757	SOCS3/PIK3IP1/CCR7	3	CD4+ T cells	Blood	Scott MK. (PBMC)	Upregulated
+GO:0019216	regulation of lipid metabolic process	4/28	431/18866	0.003561610991772226	0.036375051531232105	0.02407624262577558	SOCS3/PDE3B/PIK3IP1/CCR7	4	CD4+ T cells	Blood	Scott MK. (PBMC)	Upregulated
+GO:0045444	fat cell differentiation	3/22	235/18866	0.002466755161566696	0.0317328256586728	0.02042005247456771	ENPP1/ID2/CCND1	3	Conventional dendritic cells 1	Blood	Scott MK. (PBMC)	Upregulated
+GO:0045444	fat cell differentiation	5/30	235/18866	3.175738847057404e-5	0.0030947067038129884	0.00194615448913023	KLF4/ZFP36/NR4A2/GATA2/PTGS2	5	Hematopoietic stem cells	Blood	Scott MK. (PBMC)	Downregulated
+GO:0010876	lipid localization	4/26	440/18866	0.002904278140515583	0.03164622044222053	0.019449294035187508	CLU/RETN/ACSL1/THBS1	4	Monocytes	Blood	Scott MK. (PBMC)	Upregulated
+GO:0042362	fat-soluble vitamin biosynthetic process	2/24	15/18866	1.6121369989882643e-4	0.002609583572781206	0.001572517942408202	CYP27A1/IL1B	2	Monocytes	Blood	Scott MK. (PBMC)	Downregulated
+GO:0006775	fat-soluble vitamin metabolic process	2/24	45/18866	0.0014850128281413753	0.014409265098059282	0.008682928625070049	CYP27A1/IL1B	2	Monocytes	Blood	Scott MK. (PBMC)	Downregulated
+GO:0032368	regulation of lipid transport	2/22	135/18866	0.01069073073953849	0.0798915418779025	0.04828317225893984	TSPO/NFKBIA	2	Plasmablasts	Blood	Scott MK. (PBMC)	Downregulated
+GO:0070341	fat cell proliferation	1/21	10/18866	0.011078174021986742	0.05294201058928401	0.03289695997664762	E2F1	1	Platelets	Blood	Scott MK. (PBMC)	Upregulated
+GO:0070344	regulation of fat cell proliferation	1/21	10/18866	0.011078174021986742	0.05294201058928401	0.03289695997664762	E2F1	1	Platelets	Blood	Scott MK. (PBMC)	Upregulated
+GO:0006695	cholesterol biosynthetic process	3/22	75/18866	8.801202121882075e-5	0.006149407714806068	0.003989983274922331	MVD/HMGCS1/INSIG1	3	Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0019216	regulation of lipid metabolic process	4/22	431/18866	0.001417477162765336	0.01936273804337449	0.012563323905772769	CYP1A1/MVD/HMGCS1/INSIG1	4	Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	2/22	65/18866	0.0025825725775454333	0.026725713188841375	0.01734071858288082	MVD/HMGCS1	2	Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0006695	cholesterol biosynthetic process	5/16	75/18866	3.6603756275149794e-9	3.9532056777161775e-7	1.9265134881657787e-7	FASN/MVD/FDPS/HMGCS1/HMGCS2	5	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	4/16	65/18866	2.263704433080585e-7	4.074667979545053e-6	1.985705643053145e-6	FASN/MVD/FDPS/HMGCS1	4	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0019216	regulation of lipid metabolic process	6/16	431/18866	9.055462846878336e-7	1.3971285535183717e-5	6.808618681863411e-6	FASN/MVD/FDPS/PDK1/HMGCS1/HMGCS2	6	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:1901570	fatty acid derivative biosynthetic process	2/16	103/18866	0.0033697581482345436	0.020994540043950287	0.010231257331359789	FASN/HMGCS2	2	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0008611	ether lipid biosynthetic process	1/16	11/18866	0.00929194568402636	0.040141205354993874	0.019561990913739707	FASN	1	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0097384	cellular lipid biosynthetic process	1/16	11/18866	0.00929194568402636	0.040141205354993874	0.019561990913739707	FASN	1	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:1901568	fatty acid derivative metabolic process	2/16	175/18866	0.009425896184501294	0.040184083733926575	0.019582886809905737	FASN/HMGCS2	2	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0006490	oligosaccharide-lipid intermediate biosynthetic process	1/16	21/18866	0.017668870160957417	0.05204285392863821	0.025362014585106344	MVD	1	Inmature Enterocyte 1 cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0006695	cholesterol biosynthetic process	10/47	75/18866	2.4334975093402076e-15	1.5988078636365164e-12	1.2615763403684762e-12	FDFT1/FDPS/INSIG1/SCD/MVD/FASN/MSMO1/HMGCS1/ACAT2/HMGCS2	10	Stem cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	6/47	65/18866	1.2696361719819455e-8	9.268344055468203e-7	7.313401341533429e-7	FDFT1/FDPS/SCD/MVD/FASN/HMGCS1	6	Stem cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0019216	regulation of lipid metabolic process	10/47	431/18866	8.487267427762383e-8	5.069213363672623e-6	3.999980103514808e-6	FDFT1/FDPS/INSIG1/SCD/MVD/FASN/FABP1/HMGCS1/FADS1/HMGCS2	10	Stem cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:1901570	fatty acid derivative biosynthetic process	4/47	103/18866	1.2477590148347314e-4	0.003998915476811797	0.003155436789761773	SCD/FASN/FADS1/HMGCS2	4	Stem cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:1901568	fatty acid derivative metabolic process	4/47	175/18866	9.348084257743663e-4	0.017060253770382183	0.013461788002744897	SCD/FASN/FADS1/HMGCS2	4	Stem cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0006695	cholesterol biosynthetic process	8/46	75/18866	9.821743846115592e-12	1.7188051730702287e-9	1.358502254083778e-9	FDFT1/MVD/HMGCS1/FDPS/IDI1/SCD/INSIG1/HMGCS2	8	Transient amplifying cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0090181	regulation of cholesterol metabolic process	6/46	65/18866	1.1105315154296834e-8	5.715971035299841e-7	4.5177659791783413e-7	FDFT1/MVD/HMGCS1/FDPS/IDI1/SCD	6	Transient amplifying cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0019216	regulation of lipid metabolic process	10/46	431/18866	6.81921061133614e-8	2.486170535382968e-6	1.9650093735297567e-6	FDFT1/MVD/HMGCS1/FDPS/IDI1/SCD/PDK1/INSIG1/HMGCS2/FABP5	10	Transient amplifying cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:1901570	fatty acid derivative biosynthetic process	3/46	103/18866	0.002023100441770124	0.0218544800808501	0.017273255233826793	SCD/HMGCS2/FABP5	3	Transient amplifying cells	Intestine	Triana S. (Intestine)	Upregulated
+GO:0043550	regulation of lipid kinase activity	2/40	67/18866	0.008883800928429893	0.056634230918740563	0.03547071151097234	PDGFB/FGF2	2	Endothelial.Lymphatic cells	Lung	Xu G. (Lung)	Downregulated
+GO:0070542	response to fatty acid	6/30	90/18866	5.389995614787562e-9	5.476235544624163e-6	3.6935654160281084e-6	AKR1C2/LPL/FABP3/SCD/AKR1C3/PPARG	6	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0050872	white fat cell differentiation	3/30	14/18866	1.3052019916103685e-6	4.641647617184273e-4	3.1306595511675946e-4	FABP4/FFAR4/PPARG	3	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0045444	fat cell differentiation	6/30	235/18866	1.6200607634249152e-6	4.641647617184273e-4	3.1306595511675946e-4	FABP4/RETN/LPL/FABP3/FFAR4/PPARG	6	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0010876	lipid localization	7/30	440/18866	4.578554368184973e-6	7.412786447576059e-4	4.999714025457951e-4	FABP4/RETN/LPL/RBP4/FABP3/NMB/PPARG	7	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0016042	lipid catabolic process	5/30	343/18866	1.8916482553913322e-4	0.00697927894220708	0.004707325519453801	FABP4/LPL/FABP3/ADTRP/AKR1C3	5	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0010878	cholesterol storage	2/30	20/18866	4.562495070273149e-4	0.01145314958254557	0.007724824262574768	LPL/PPARG	2	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0006641	triglyceride metabolic process	3/30	110/18866	6.981767890845565e-4	0.01338391731528131	0.009027072287865865	FABP4/LPL/FABP3	3	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0033559	unsaturated fatty acid metabolic process	3/30	118/18866	8.561093036456934e-4	0.015259772850947798	0.01029228359507565	AKR1C2/SCD/AKR1C3	3	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0032368	regulation of lipid transport	3/30	135/18866	0.0012629719249005556	0.02004967930779632	0.01352293952483983	RETN/FABP3/PPARG	3	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0006638	neutral lipid metabolic process	3/30	138/18866	0.0013453906867599628	0.020710862693153368	0.013968888948656074	FABP4/LPL/FABP3	3	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:1901568	fatty acid derivative metabolic process	3/30	175/18866	0.002649516778760839	0.029581418101329804	0.019951826755041136	AKR1C2/SCD/AKR1C3	3	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0019216	regulation of lipid metabolic process	4/30	431/18866	0.004599143333146358	0.04401436217271181	0.029686437810231444	FABP3/SCD/AKR1C3/PPARG	4	Macrophages	Lung	Xu G. (Lung)	Downregulated
+GO:0045444	fat cell differentiation	3/14	235/18866	6.275212759318227e-4	0.04785800674044173	0.027852926497295163	ADRB2/GATA2/DDIT3	3	Mast cells	Lung	Xu G. (Lung)	Upregulated
+GO:0045599	negative regulation of fat cell differentiation	2/14	53/18866	6.895916583777533e-4	0.04785800674044173	0.027852926497295163	GATA2/DDIT3	2	Mast cells	Lung	Xu G. (Lung)	Upregulated
+GO:0019216	regulation of lipid metabolic process	3/12	431/18866	0.0022339398046235886	0.04740893675554065	0.027440170321845387	ABHD5/G0S2/HCAR2	3	Monocytes	Lung	Xu G. (Lung)	Upregulated
+GO:0061365	positive regulation of triglyceride lipase activity	1/12	12/18866	0.0076083434524635285	0.07396556723487134	0.0428110795511476	ABHD5	1	Monocytes	Lung	Xu G. (Lung)	Upregulated
+GO:0016042	lipid catabolic process	2/12	343/18866	0.019285396190508036	0.07623108210998504	0.044122353717880085	ABHD5/HCAR2	2	Monocytes	Lung	Xu G. (Lung)	Upregulated
+GO:0032368	regulation of lipid transport	2/11	135/18866	0.002679724843702108	0.04601283634064107	0.024217282284547927	ANXA2/THBS1	2	Monocytes	Lung	Xu G. (Lung)	Downregulated
+GO:0010876	lipid localization	2/11	440/18866	0.025968344238135453	0.07562991271980882	0.03980521722095202	ANXA2/THBS1	2	Monocytes	Lung	Xu G. (Lung)	Downregulated
+GO:0070328	triglyceride homeostasis	2/21	39/18866	8.529941600818913e-4	0.026903896886907218	0.01599212379783688	XBP1/APOE	2	Plasma cells	Lung	Xu G. (Lung)	Upregulated
+GO:0097035	regulation of membrane lipid distribution	1/6	53/18866	0.016739983247899937	0.042493803629284455	0.010843713844793483	SLC4A1	1	Erythrocytes	Blood	Yao C. (Buffy coat)	Downregulated
+GO:0010876	lipid localization	1/6	440/18866	0.13204107507915086	0.13818968127671086	0.0352637145203728	SLC4A1	1	Erythrocytes	Blood	Yao C. (Buffy coat)	Downregulated
+GO:0032368	regulation of lipid transport	4/34	135/18866	9.844341909195655e-5	0.0028838457499285866	0.0017561977884884771	THBS1/IL1B/ABCA1/APOC1	4	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0010876	lipid localization	6/34	440/18866	1.2018141418021522e-4	0.0032384598928204425	0.001972149898107667	THBS1/ACSL1/IL1B/ABCA1/APOC1/FABP4	6	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0033700	phospholipid efflux	2/34	12/18866	2.0572552744410854e-4	0.004565291484017056	0.0027801607656146557	ABCA1/APOC1	2	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:1901568	fatty acid derivative metabolic process	4/34	175/18866	2.669328047454864e-4	0.005517830169327931	0.0033602355954262383	ACSL1/CYP1B1/IL1B/CYP4F22	4	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0006641	triglyceride metabolic process	3/34	110/18866	0.0010117584903616475	0.011835221410509505	0.007207386063530953	ACSL1/APOC1/FABP4	3	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0033559	unsaturated fatty acid metabolic process	3/34	118/18866	0.0012390664222390647	0.01363412958597594	0.008302881049532277	ACSL1/CYP1B1/IL1B	3	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0006638	neutral lipid metabolic process	3/34	138/18866	0.0019411136204878486	0.018307127833226022	0.011148632833459815	ACSL1/APOC1/FABP4	3	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0016042	lipid catabolic process	4/34	343/18866	0.003237294642879116	0.026420154372914204	0.016089285178441003	CYP1B1/IL1B/APOC1/FABP4	4	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0071825	protein-lipid complex subunit organization	2/34	55/18866	0.004409678135461866	0.03138775616232055	0.019114443953615733	ABCA1/APOC1	2	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0019216	regulation of lipid metabolic process	4/34	431/18866	0.007245481907925412	0.04491088716263078	0.027349729338339557	ACSL1/IL1B/ABCA1/APOC1	4	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:1901570	fatty acid derivative biosynthetic process	2/34	103/18866	0.014780436328528634	0.0724145403238627	0.04409884113057244	ACSL1/IL1B	2	CD1C CD141 dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0033559	unsaturated fatty acid metabolic process	3/30	118/18866	8.561093036456934e-4	0.010612837584873818	0.0058716615342934006	CYP1B1/IL1B/PTGS2	3	Conventional dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0032368	regulation of lipid transport	3/30	135/18866	0.0012629719249005556	0.012672971712187082	0.007011451926268406	THBS1/IL1B/NFKBIA	3	Conventional dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:1901568	fatty acid derivative metabolic process	3/30	175/18866	0.002649516778760839	0.02064650043023739	0.011422888687826685	CYP1B1/IL1B/PTGS2	3	Conventional dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:1901570	fatty acid derivative biosynthetic process	2/30	103/18866	0.01162383631893474	0.05695291039210499	0.031509783367645663	IL1B/PTGS2	2	Conventional dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0042362	fat-soluble vitamin biosynthetic process	1/30	15/18866	0.023597408661284458	0.078273440719823	0.04330558602785249	IL1B	1	Conventional dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
+GO:0010876	lipid localization	3/30	440/18866	0.03210601406256469	0.08520889601749507	0.047142697994231146	THBS1/IL1B/NFKBIA	3	Conventional dendritic cells	Blood	Yegnasubramanian S. (PBMC)	Upregulated
